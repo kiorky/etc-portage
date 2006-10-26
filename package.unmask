@@ -793,3 +793,4 @@ net-im/bitlbee
 dev-libs/openssl
 net-www/apache
 net-www/apache
+app-text/htmltidy

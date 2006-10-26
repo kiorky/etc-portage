@@ -58,7 +58,6 @@ dev-cpp/libxmlpp ~x86
 dev-db/edb -*
 dev-db/glom ~x86
 dev-db/libiodbc ~x86
-dev-db/mysql ~x86
 dev-dotnet/art-sharp ~x86
 dev-dotnet/gconf-sharp ~x86
 dev-dotnet/gecko-sharp ~x86
@@ -1130,3 +1129,4 @@ app-forensics/rkhunter ~x86
 net-im/bitlbee ~x86
 dev-libs/openssl ~x86
 net-www/apache ~x86
+app-text/htmltidy ~x86
