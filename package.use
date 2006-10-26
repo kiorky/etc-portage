@@ -1,0 +1,171 @@
+app-admin/eselect bash-completion 
+app-arch/tar  nls bzip2
+app-doc/doxygen qt unicode doc tetex
+app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-with-x -minimal mzscheme vim-pager
+app-editors/vim-core nls acl bash-completion 
+app-emulation/qemu-softmmu alsa sdl -kqemu
+app-emulation/wine glut lcms nas
+app-emulation/xen-tools sdl -custom-cflags -debug -doc -hardened screen vnc
+app-misc/beagle python -chm -debug -evo gtk ole pdf
+app-misc/evidence X gnome kde mpeg nls oggvorbis perl truetype xine
+app-misc/screen pam  multiuser nethack
+app-office/gnucash hbci nls ofx postgres quotes chipcard
+app-office/gnucash nls hbci ofx  postgres  quotes
+app-office/openoffice-bin gnome java
+app-office/openoffice eds gnome gtk java pam xml firefox cairo   mono ldap kde 
+app-ofice/koffice javascript
+app-ofice/openoffice-bin -kde
+app-text/acroread nsplugin
+app-text/djvu  nls -debug jpeg -kde nsplugin qt3 threads tiff xml
+app-text/djvu  nls -debug jpeg -kde nsplugin qt3 threads tiff -xml
+app-text/evince nautilus  app-text/evince0  app-text/evince1  app-text/evince2  app-text/evince3  app-text/evince4  app-text/evince5  app-text/evince6  app-text/evince7  app-text/evince8  app-text/evince9  nautilus0  nautilus1  nautilus2  nautilus3 
+app-text/evince nautilus dbus -debug djvu -doc -dvi t1lib tiff
+app-text/ggv debug
+app-text/poppler-bindings cairo gtk qt3 qt4
+dev-db/mysql utf8 big-tables  
+dev-dotnet/libgdiplus exif gif jpeg tiff png
+dev-dotnet/libgdiplus exif gif jpeg tiff png png%
+dev-games/crystalspace  3ds mng  openal
+dev-games/ode  double-precision
+dev-java/ant-tasks javamail -noantlr -nobcel -nobeanutils -nobsf -nobsh -nocommonslogging -nocommonsnet -nojdepend -nojsch -nojython -nolog4j -nooro -noregexp -norhino -noxalan -noxerces
+dev-java/sun-jdk browserplugin  nsplugin jce doc
+dev-lang/cm3 tcltk
+dev-lang/php adabas -apache apache2 bcmath  -birdstep bzip2 calendar -cdb cgi cli crypt ctype curl curlwrappers -db2  -dbase -dbmaker -debug -discard-path -doc -empress -empress-bcs -esoob exif -fdftk -filepro -firebird -flatfile -force-cgi-redirect -frontbase ftp gd  -gmp -hardenedphp -hyperwave-api iconv imap -informix -inifile -interbase iodbc ipv6 -java-external jpeg -berkdb -kerberos ldap -libedit -mcve -memlimit -mhash ming -msql -mssql mysql -mysqli ncurses nls -oci8 odbc -oracle7 -ovrimos -pcntl -pcre -pdo-external -pear -pfpro png posix postgres -qdbm -readline  -sapdb sasl session -sharedext -sharedmem simplexml -snmp soap sockets -solid spell -spl sqlite ssl -sybase -sybase-ct -sysvipc -threads tidy tiff tokenizer truetype -wddx xml2 xmlrpc xpm xsl -yaz zip zlib -gdbm -adabas recode readline pcntl pcre  pear  api -libedir -recode
+dev-lang/php apache2 cli
+dev-lang/swig perl php python -doc -guile java -lua mono -ocaml -pike ruby -tcl -tk
+dev-lang/swig php
+dev-libs/boehm-gc threads
+dev-libs/boehm-gc -threads
+dev-libs/boehm threads
+dev-libs/boost bcp bjam pyste  threads - threadsonly 
+dev-libs/gmime ipv6 -debug -doc mono
+dev-libs/pwlib alsa ipv6 oss sdl ssl xml -debug -ieee1394 ldap sasl
+devphp/php berkdb dba
+dev-python/gnome-python-extras firefox
+dev-python/gnome-python gtkhtml
+dev-python/pycairo numeric
+dev-python/pycairo svg numeric 
+dev-python/pygtk opengl
+dev-python/pygtk opengl
+dev-python/wxpython gtk2 unicode gtk jpeg opengl png tiff
+dev-util/anjuta doc glade inherit-graph subversion debug
+dev-util/cscope emacs
+dev-util/devhelp -firefox
+dev-util/glade  gnome gnomedb
+dev-util/glade gnome gnomedb
+dev-util/kdevelop arts fortran java perl php python ruby sql subversion  ada  haskell  pascal  perforce 
+dev-util/subversion apache2 berkdb nls perl python zlib bash-completion emacs java -minimal -nowebdav ruby
+games-emulation/advancemame alsa oss sdl truetype zlib expat -fbcon slang -static -svga
+games-emulation/advancemenu alsa ncurses oss sdl truetype zlib -debug expat -fbcon slang -static -svga
+games-util/xqf bzip2 geoip
+gnome-base/gnome-applets ipv6 acpi hal -apm
+gnome-base/gnome cdr perl python -accessibility admin cpp development -doc -dvdr extras firefox -games java mono office printer -scanner
+gnome-base/gnome hal -accessibility -cdr -dvdr
+gnome-base/gnome hal -accessibility cdr -dvdr mono
+gnome-base/gnome-session -esd ipv6 tcpd branding debug -doc
+gnome-base/gnome-vfs avahi  gnutls  ipv6 samba ssl -doc hal
+gnome-base/gnome-volume-manager gnome libnotify
+gnome-base/libglade X nls bonobo
+gnome-base/librsvg gnome zlib firefox
+gnome-base/nautilus X gnome beagle 
+gnome-extra/evolution-data-server gnome ipv6 ssl -debug -doc kerberos krb4 ldap nntp
+gnome-extra/nautilus-cd-burner cdr  
+gnome-extra/yelp firefox debug
+kde-base/arts -alsa -esd -mp3 -vorbis -artswrappersuid -jack -nas
+kde-base/kcontrol arts opengl ssl -debug -ieee1394 -kdeenablefinal -kdexdeltas logitech-mouse -xinerama
+kde-base/kdebase arts opengl pam ssl cups -debug -hal -ieee1394 java -kdeenablefinal -ldap -lm_sensors logitech-mouse -openexr samba xcomposite -xinerama xscreensaver -zeroconf
+kde-base/kdegraphics arts imlib opengl -debug gphoto2 -kdeenablefinal -openexr pdf -povray -scanner tetex -xinerama
+kde-base/kdelibs acl alsa arts cups jpeg2k spell ssl tiff debug -doc -kdeenablefinal -kerberos -openexr -xinerama -zeroconf
+kde-base/kdemultimedia alsa arts encode gstreamer mp3 vorbis -audiofile -debug flac -kdeenablefinal musicbrainz theora xine -xinerama
+kde-base/kdesdk arts berkdb subversion
+kde-base/kdesdk-meta subversion
+kde-base/konsole debug
+mail-client/mozilla-thunderbird mozcalendar
+mail-client/mutt berkdb crypt gdbm nls ssl buffysize cjk -debug gnutls gpgme -idn imap -mbox nntp pop sasl smime -vanilla
+media-gfx/imagemagick X jpeg mpeg perl png truetype xml2 zlib bzip2 -doc -fpx graphviz gs jbig -lcms -nocxx tiff wmf
+media-libs/imlib2 bzip2  gif  jpeg  mp3   nls  png  iff  zlib 
+media-libs/libsdl libcaca
+media-libs/win32codecs real
+media-libs/x264 mp4 threads
+media-libs/x264-svn mp4 threads
+media-libs/xine-lib X aac aalib alsa asf dvd dxr3 flac gnome imagemagick ipv6 mad mng nls opengl samba speex vidix vorbis win32codecs xv a52 -altivec -arts -debug -directfb -dts -esd -fbcon -libcaca -modplug -oss -sdl theora -v4l -vcd -xinerama xvmc
+media-sound/darkice alsa encode -jack vorbis
+media-sound/darkice alsa encode* -jack vorbis
+media-sound/mpd -aac alsa -ao audiofile -flac icecast ipv6 -mikmod mp3 musepack unicode vorbis -oss -pulseaudio
+media-sound/mpd aac alsa audiofile  flac ipv6  mad  ikmod  ogg unicode
+media-sound/mpd aac alsa audiofile flac ipv6 mikmod mp3 -oss unicode vorbis ao icecast musepack -pulseaudio
+media-sound/mpd-svn aac alsa ao audiofile icecast ipv6 mad mikmod mp3 musepack oss unicode vorbis -flac
+media-sound/mpd-svn aac alsa ao audiofile icecast ipv6 mikmod mp3 musepack oss unicode vorbis flac pulseaudio
+media-sound/mpd-svn aac alsa ao audiofile icecast ipv6 mikmod mp3 musepack oss unicode vorbis flac -pulseaudio
+media-sound/ogmtools dvd
+media-video/avidemux lsa nls xvid a52 aac -altivec -arts encode mad oss sdl tr  
+media-video/avidemux lsa nls xvid a52 aac -altivec -arts encode mad oss sdl tr vorbis xv truetype 
+media-video/avidemux xvid
+media-video/avifile   X  a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
+media-video/dvdrip cdr  fping  gnome  mplayer  ogg  rar subtitles xvid 
+media-video/ffmpeg dts encode imlib mmx network ogg oss sdl theora threads truetype -v4l vorbis xvid zlib a52 aac amr x264
+media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
+media-video/gxine nsplugin lirc
+media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype - vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  
+media-video/nvidia-glx x86 ~x86 dlloader
+media-video/totem gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
+media-video/transcode a52 X dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid  
+media-video/vlc X alsa arts esd mp3 mpeg ncurses nls ogg opengl oss png sdl truetype vorbis xml xv  a52 aalib avahi-bidi cdda cddb -corba -daap debug -directfb dts -dvb dvd -fbcon ffmpeg flac ggi gnutls hal httpd -libcaca -lirc -liv matroska mod rtsp samba screen shout -skins speex stream svg svga theora upnp -v4l -vcd vlm win32codecs wxwindows -xinerama xosd  bidi  daap avahi  seamonkey 
+media-video/xine-ui X aalib curl libcaca -lirc ncurses nls readline
+net-dns/avahi gdbm gtk python qt bookmarks dbus -doc howl-compat mdnsresponder-compat mono
+net-libs/aqbanking dtaus geldkarte hbci kde ofx qt chipcard
+net-libs/gecko-sdk crypt -debug gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint 
+net-misc/d4x -esd -gnome -kde -nls -oss
+net-news/liferea dbus firefox gtkhtml
+net-print/foomatic-db cups  ppds 
+net-print/foomatic-filters cups  
+net-print/foomatic-filtersdb cups  
+net-print/hpijs cups ppds foomaticdb 
+net-www/mplayerplug-in gecko-sdk gtk
+nome-extra/evolution-data-server gnome ipv6 ssl -debug -doc kerberos krb4 ldap nntp
+sys-apps/dbus X gtk python qt mono
+sys-apps/hal -acpi -debug -doc -pam_console -pcmcia
+sys-apps/hal crypt -acpi -debug dmi -doc -pcmcia
+sys-devel/gcc gcj 
+sys-libs/glibc glibc-compat20  linuxthreads-tls  nls nptl nptlonly  userlocales pic profile
+sys-libs/pam berjdb pam_console pam_timestamp pwdb pam_chroot nis
+www-client/epiphany dbus firefox python -debug -doc
+www-client/seamonkey crypt gnome ipv6 -debug java -ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming -postgres -xinerama xprint
+www-client/w3m X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
+www-client/w3m- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
+www-client/w3- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
+www-misc/htdig vhosts
+x11-base/xorg-x11 -3dfx -input_devices_acecad -input_devices_aiptek -input_devices_calcomp -input_devices_citron -input_devices_digitaledge -input_devices_dmc -input_devices_dynapro -input_devices_elo2300 -input_devices_elographics input_devices_evdev -input_devices_fpit -input_devices_hyperpen -input_devices_jamstudio -input_devices_joystick-input    input_devices_keyboard -input_devices_magellan -input_devices_magictouch -input_devices_microtouch  input_devices_mouse -input_devices_mutouch -input_devices_palmax -input_devices_penmount -input_devices_spaceorb -input_devices_summa -input_devices_synaptics -input_devices_tek4957 -input_devices_ur98 -input_devices_vmmouse -input_devices_void -input_devices_wacom video_cards_apm -video_cards_ark -video_cards_ati -video_cards_chips -video_cards_cirrus -video_cards_cyrix -video_cards_dummy -video_cards_fbdev -video_cards_fglrx -video_cards_glint -video_cards_i128 -video_cards_i740 -video_cards_i810 -video_cards_imstt -video_cards_mga -video_cards_neomagic -video_cards_newport -video_cards_nsc -video_cards_nv video_cards_nvidia -video_cards_rendition -video_cards_s3 -video_cards_s3virge -video_cards_savage -video_cards_siliconmotion -video_cards_sis -video_cards_sisusb video_cards_vesa -video_cards_vga -video_cards_via -video_cards_vmware -video_cards_voodoo
+x11-libs/cairo X glitz png pdf svg
+x11-libs/ecore X nls opengl ssl curl dbus threads
+x11-libs/evas X jpeg nls opengl png  cairo
+x11-libs/gtk+ X jpeg -debug -doc tiff -xinerama
+x11-libs/qt cups gif jpeg mysql opengl png zlib -accessibility -debug -doc -examples -firebird -mng -nas -nis -odbc -postgres sqlite -xinerama
+x11-libs/wxGTK X gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
+x11-terms/mrxvt menubar
+x11-wm/compiz -kde svg gnome
+media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama unicode -xmms -xvmc -amr -enca -iconv speex
+media-video/vlc dvb dvbpsi v4l mpc X a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musipac -oss -qt -qt4 -qt_embedded quicktime real -skins2 -svga -tarkin tremor -twolame v4l -vcd -vlm x264
+net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
+dev-scheme/drscheme perl cairo jpeg opengl png
+dev-scheme/mzscheme cairo jpeg opengl perl
+media-video/ffmpeg a52 aac dts encode imlib mmx network ogg oss sdl theora threads truetype vorbis xvid zlib opts pp 
+media-video/ffmpeg a52 aac dts encode imlib mmx network ogg oss sdl theora threads truetype vorbis xvid zlib opts pp gpl
+media-video/ffmpeg x264 xvid faac faad a52 aac dts encode imlib mmx network ogg oss sdl theora threads truetype vorbis xvid zlib opts pp gpl mp3
+games-fps/enemy-territory-truecombat  opengl
+games-fps/tremulous dedicated openal  opengl  vorbis
+games-fps/tremulous-bin dedicated sdl
+media-libs/libsdl X alsa libcaca aalib opengl xv
+games-fps/americas-army opengl
+sys-libs/glibc nls nptl nptlonly profile
+sys-boot/grub netboot
+net-irc/irssi ipv6 perl ssl socks5
+net-im/bitlbee ipv6 ssl -debug gnutls jabber msn nss oscar -xinetd yahoo
+net-im/bitlbee ipv6 ssl -debug gnutls jabber msn nss oscar -xinetd yahoo
+net-www/apache ssl  ldap mpm-prefork apache2 
+net-www/apache ssl  ldap mpm-worker apache2 
+net-www/apache ssl  ldap mpm-threadpool apache2 
+dev-libs/apr-util berkdb gdbm  ldap  
+net-www/apache ssl  ldap mpm-threadpool apache2 
+net-www/apache ssl  ldap mpm-threadpool -mpm-prefork -mpm-worker  apache2 
+net-www/apache ssl  ldap -mpm-threadpool -mpm-prefork mpm-worker  apache2 
