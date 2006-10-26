@@ -169,3 +169,4 @@ dev-libs/apr-util berkdb gdbm  ldap
 net-www/apache ssl  ldap mpm-threadpool apache2 
 net-www/apache ssl  ldap mpm-threadpool -mpm-prefork -mpm-worker  apache2 
 net-www/apache ssl  ldap -mpm-threadpool -mpm-prefork mpm-worker  apache2 
+dev-db/mysql big-tables perl ssl innodb srvdir 
