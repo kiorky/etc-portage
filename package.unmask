@@ -794,3 +794,9 @@ dev-libs/openssl
 net-www/apache
 net-www/apache
 app-text/htmltidy
+media-libs/faad2
+games-strategy/wormux
+games-strategy/wormux
+games-strategy/wormux
+media-video/mplayer
+dev-libs/atk

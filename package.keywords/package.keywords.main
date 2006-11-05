@@ -795,7 +795,6 @@ profiles/arch.list
 profiles/categories
 sys-apps/acl ~x86
 sys-apps/attr ~x86
-sys-apps/baselayout ~x86
 sys-apps/dbus ~x86
 sys-apps/dmidecode ~x86
 sys-apps/eject ~x86
@@ -1130,3 +1129,8 @@ net-im/bitlbee ~x86
 dev-libs/openssl ~x86
 net-www/apache ~x86
 app-text/htmltidy ~x86
+media-libs/faad2 ~x86
+games-strategy/wormux ~x86
+games-strategy/wormux ~x86
+media-video/mplayer ~x86
+dev-libs/atk ~x86
