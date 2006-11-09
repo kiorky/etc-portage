@@ -172,3 +172,4 @@ dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers
 sys-libs/glibc nls nptl nptlonly profile
 sys-libs/glibc nls nptl nptlonly profile -glibc-compat20
 net-im/bitlbee gnutls ipv6 jabber msn  oscar ssl yahoo -debug -xinetd
+net-mail/mailman apache2 postfix

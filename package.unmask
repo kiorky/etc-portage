@@ -800,3 +800,6 @@ games-strategy/wormux
 games-strategy/wormux
 media-video/mplayer
 dev-libs/atk
+app-text/highlight
+dev-util/source-highlight
+net-mail/mailman

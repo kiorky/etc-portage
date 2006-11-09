@@ -1134,3 +1134,6 @@ games-strategy/wormux ~x86
 games-strategy/wormux ~x86
 media-video/mplayer ~x86
 dev-libs/atk ~x86
+app-text/highlight ~x86
+dev-util/source-highlight ~x86
+net-mail/mailman ~x86
