@@ -800,7 +800,13 @@ games-strategy/wormux
 games-strategy/wormux
 media-video/mplayer
 dev-libs/atk
+<<<<<<< .mine
+dev-util/source-highlight
+app-text/highlight
+app-text/enscript
+=======
 app-text/highlight
 dev-util/source-highlight
 net-mail/mailman
 mail-mta/postfix
+>>>>>>> .r63
