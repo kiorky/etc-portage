@@ -1139,3 +1139,4 @@ dev-util/source-highlight ~x86
 net-mail/mailman ~x86
 mail-mta/postfix ~x86
 net-p2p/amule ~x86
+gnome-extra/gsynaptics ~x86
