@@ -806,3 +806,4 @@ net-mail/mailman
 mail-mta/postfix
 net-p2p/amule
 gnome-extra/gsynaptics
+sys-kernel/vanilla-sources
