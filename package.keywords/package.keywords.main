@@ -1143,3 +1143,4 @@ gnome-extra/gsynaptics ~x86
 sys-kernel/vanilla-sources ~x86
 net-misc/libupnp ~x86
 net-misc/upnp ~x86
+net-misc/upnp ~x86
