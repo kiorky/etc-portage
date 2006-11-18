@@ -810,3 +810,5 @@ sys-kernel/vanilla-sources
 net-misc/libupnp
 net-misc/upnp
 net-misc/upnp
+net-misc/libupnp
+net-misc/libupnp
