@@ -180,3 +180,6 @@ mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap dovecot-sasl
 #
 net-p2p/amule nls unicode amuled  gtk
 media-video/totem a52 dbus dvd flac gnome hal mad mpeg ogg theora vorbis xine xv firefox nsplugin 
+sys-devel/distcc ipv6
+sys-devel/distcc -gnome  ipv6
+sys-devel/distcc -gnome  ipv6
