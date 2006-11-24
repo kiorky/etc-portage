@@ -179,7 +179,13 @@ mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap
 mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap dovecot-sasl
 #
 net-p2p/amule nls unicode amuled  gtk
+<<<<<<< .mine
+media-video/totem a52 dbus dvd flac gnome hal mad mpeg ogg theora vorbis xine xv firefox nsplugin a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib -altivec avisynth -doc -ieee1394 swscaler -v4l
+media-video/ffmpeg a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib -altivec avisynth -doc -ieee1394 swscaler -v4l
+media-video/ffmpeg a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib -altivec -avisynth -doc -ieee1394 swscaler -v4l
+=======
 media-video/totem a52 dbus dvd flac gnome hal mad mpeg ogg theora vorbis xine xv firefox nsplugin 
 sys-devel/distcc ipv6
 sys-devel/distcc -gnome  ipv6
 sys-devel/distcc -gnome  ipv6
+>>>>>>> .r148
