@@ -178,3 +178,4 @@ net-mail/mailman apache2 postfix
 mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap 
 mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap dovecot-sasl
 #
+dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl authdaemond -java -kerberos -ldap -ntlm_unsupported_patch postgres -sample -srp -urandom
