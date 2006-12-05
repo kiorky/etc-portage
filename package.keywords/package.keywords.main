@@ -1151,3 +1151,4 @@ net-nntp/hellanzb ~x86
 net-mail/dovecot ~x86
 dev-db/unixODBC ~x86
 dev-db/phpmyadmin ~x86
+net-mail/mailman ~x86
