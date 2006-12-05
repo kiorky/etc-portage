@@ -817,3 +817,4 @@ net-mail/dovecot
 dev-db/unixODBC
 dev-db/phpmyadmin
 net-mail/mailman
+www-apps/viewcvs
