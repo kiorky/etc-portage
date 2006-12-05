@@ -1149,3 +1149,5 @@ net-misc/libupnp ~x86
 net-www/netscape-flash ~x86
 net-nntp/hellanzb ~x86
 net-mail/dovecot ~x86
+dev-db/unixODBC ~x86
+dev-db/phpmyadmin ~x86

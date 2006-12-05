@@ -814,3 +814,5 @@ net-misc/libupnp
 net-misc/libupnp
 net-www/netscape-flash
 net-mail/dovecot
+dev-db/unixODBC
+dev-db/phpmyadmin
