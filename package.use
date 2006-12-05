@@ -186,3 +186,6 @@ www-apps/viewcvs cvsgraph enscript vhosts
 www-apps/viewcvs cvsgraph enscript vhosts  apache2 cvsgraph enscript mysql vhosts 
 media-libs/gd jpeg png  truetype xpm
 dev-util/cvsgraph nls zlib gif jpeg png truetype
+www-apps/viewvc enscript highlight vhosts
+www-apps/viewvc enscript highlight svn
+www-apps/viewvc enscript highlight mysql vhosts apache2 

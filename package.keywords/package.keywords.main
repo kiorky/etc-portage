@@ -1153,3 +1153,5 @@ dev-db/unixODBC ~x86
 dev-db/phpmyadmin ~x86
 net-mail/mailman ~x86
 www-apps/viewcvs ~x86
+app-text/highlight ~x86
+www-apps/viewvc ~x86

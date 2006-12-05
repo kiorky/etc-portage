@@ -818,3 +818,5 @@ dev-db/unixODBC
 dev-db/phpmyadmin
 net-mail/mailman
 www-apps/viewcvs
+app-text/highlight
+www-apps/viewvc
