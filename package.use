@@ -191,3 +191,5 @@ www-apps/viewvc enscript highlight svn
 www-apps/viewvc enscript highlight mysql vhosts apache2 
 net-ftp/pure-ftpd mysql pam ssl vchroot 
 net-ftp/pure-ftpd mysql pam ssl vchroot caps
+net-ftp/pure-ftpd mysql pam ssl vchroot 
+net-ftp/pure-ftpd mysql pam ssl vchroot  -caps
