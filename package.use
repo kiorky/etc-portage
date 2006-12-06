@@ -202,3 +202,4 @@ net-analyzer/nessus-core tcpd -X  prelude
 net-analyzer/snort flexresp mysql prelude -dynamicplugin -flexresp2 -inline -linux-smp-stats -odbc -perfprofiling -postgres -react -selinux -sguil -snortsam timestats
 net-analyzer/nessus-core -X tcpd -debug prelude
 app-admin/prelude-manager dbx -debug -doc xml
+app-admin/prelude-manager dbx -debug -doc xml
