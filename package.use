@@ -200,3 +200,4 @@ net-analyzer/nagios-plugins ipv6 mysql ssl -ldap nagios-dns nagios-game nagios-n
 net-analyzer/nagios-core mysql perl apache2 
 net-analyzer/nessus-core tcpd -X  prelude
 net-analyzer/snort flexresp mysql prelude -dynamicplugin -flexresp2 -inline -linux-smp-stats -odbc -perfprofiling -postgres -react -selinux -sguil -snortsam timestats
+net-analyzer/nessus-core -X tcpd -debug prelude
