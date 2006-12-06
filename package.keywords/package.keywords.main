@@ -1155,3 +1155,13 @@ net-mail/mailman ~x86
 www-apps/viewcvs ~x86
 app-text/highlight ~x86
 www-apps/viewvc ~x86
+net-analyzer/snort ~x86
+net-analyzer/nagios-core ~x86
+net-analyzer/nagios-plugins ~x86
+net-analyzer/nessus-core ~x86
+net-analyzer/libraries ~x86
+net-analyzer/nessus-libraries ~x86
+net-analyzer/nessus-plugins ~x86
+net-analyzer/nessus ~x86
+net-analyzer/libnasl- ~x86
+net-analyzer/libnasl ~x86

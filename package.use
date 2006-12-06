@@ -193,3 +193,9 @@ net-ftp/pure-ftpd mysql pam ssl vchroot
 net-ftp/pure-ftpd mysql pam ssl vchroot caps
 net-ftp/pure-ftpd mysql pam ssl vchroot 
 net-ftp/pure-ftpd mysql pam ssl vchroot  -caps
+net-analyzer/snor mysql ssl prelude  flexresp 
+net-analyzer/snort mysql ssl prelude  flexresp 
+net-analyzer/nagios-plugins ipv6 mysql ssl -ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh -postgres -radius -samba snmp -ups
+net-analyzer/nagios-core mysql perl apache2 
+net-analyzer/nessus-core tcpd -X  prelude
+net-analyzer/snort flexresp mysql prelude -dynamicplugin -flexresp2 -inline -linux-smp-stats -odbc -perfprofiling -postgres -react (-selinux) -sguil -snortsam timestats
