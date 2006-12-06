@@ -832,3 +832,8 @@ net-analyzer/libnasl-
 net-analyzer/libnasl
 net-analyzer/prelude-nagios
 games-simulation/dangerdeep
+net-im/twinkle
+dev-cpp/commoncpp2
+net-libs/ccrtp
+net-libs/libzrtpcpp
+dev-libs/ilbc-rfc3951

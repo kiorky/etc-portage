@@ -206,3 +206,8 @@ app-admin/prelude-manager dbx -debug -doc xml
 media-libs/sdl-image gif jpeg png tiff
 media-libs/sdl-mixer mikmod mp3 timidity vorbis
 media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd flac -gtk -jack -motif -nas oss -portaudio -slang speex -tcltk vorbis
+media-libs/smpeg X -debug -gtk -mmx opengl
+dev-cpp/commoncpp2- ipv6 gnutls
+net-im/twinkle ilbc -speex -zrtp
+net-im/twinkle ilbc speex zrtp
+media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis

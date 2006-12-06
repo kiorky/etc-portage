@@ -1167,3 +1167,8 @@ net-analyzer/libnasl- ~x86
 net-analyzer/libnasl ~x86
 net-analyzer/prelude-nagios ~x86
 games-simulation/dangerdeep ~x86
+net-im/twinkle ~x86
+dev-cpp/commoncpp2 ~x86
+net-libs/ccrtp ~x86
+net-libs/libzrtpcpp ~x86
+dev-libs/ilbc-rfc3951 ~x86
