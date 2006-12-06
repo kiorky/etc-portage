@@ -1166,3 +1166,4 @@ net-analyzer/nessus ~x86
 net-analyzer/libnasl- ~x86
 net-analyzer/libnasl ~x86
 net-analyzer/prelude-nagios ~x86
+games-simulation/dangerdeep ~x86
