@@ -837,3 +837,5 @@ dev-cpp/commoncpp2
 net-libs/ccrtp
 net-libs/libzrtpcpp
 dev-libs/ilbc-rfc3951
+media-sound/timidity++
+app-admin/eselect-timidity

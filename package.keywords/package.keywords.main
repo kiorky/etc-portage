@@ -1172,3 +1172,5 @@ dev-cpp/commoncpp2 ~x86
 net-libs/ccrtp ~x86
 net-libs/libzrtpcpp ~x86
 dev-libs/ilbc-rfc3951 ~x86
+media-sound/timidity++ ~x86
+app-admin/eselect-timidity ~x86

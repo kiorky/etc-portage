@@ -211,3 +211,4 @@ dev-cpp/commoncpp2- ipv6 gnutls
 net-im/twinkle ilbc -speex -zrtp
 net-im/twinkle ilbc speex zrtp
 media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
+media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
