@@ -830,3 +830,4 @@ net-analyzer/nessus-plugins
 net-analyzer/nessus
 net-analyzer/libnasl-
 net-analyzer/libnasl
+net-analyzer/prelude-nagios

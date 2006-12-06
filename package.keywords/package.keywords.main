@@ -1165,3 +1165,4 @@ net-analyzer/nessus-plugins ~x86
 net-analyzer/nessus ~x86
 net-analyzer/libnasl- ~x86
 net-analyzer/libnasl ~x86
+net-analyzer/prelude-nagios ~x86
