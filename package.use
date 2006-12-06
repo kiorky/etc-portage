@@ -212,3 +212,4 @@ net-im/twinkle ilbc -speex -zrtp
 net-im/twinkle ilbc speex zrtp
 media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
 media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
+app-crypt/pinentr ncurses  qt3
