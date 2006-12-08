@@ -214,3 +214,4 @@ media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd flac -gtk -jack -moti
 media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
 app-crypt/pinentr ncurses  qt3
 app-crypt/pinentry ncurses  qt3
+net-analyzer/snort flexresp mysql prelude timestats dynamicplugin flexresp2 -inline linux-smp-stats -odbc perfprofiling -postgres -react -selinux sguil snortsam
