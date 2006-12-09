@@ -1175,3 +1175,4 @@ dev-libs/ilbc-rfc3951 ~x86
 media-sound/timidity++ ~x86
 app-admin/eselect-timidity ~x86
 media-sound/grip ~x86
+dev-cpp/gnome-vfsmm ~x86
