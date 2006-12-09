@@ -216,3 +216,4 @@ app-crypt/pinentr ncurses  qt3
 app-crypt/pinentry ncurses  qt3
 net-analyzer/snort flexresp mysql prelude timestats dynamicplugin flexresp2 -inline linux-smp-stats -odbc perfprofiling -postgres -react -selinux sguil snortsam
 net-analyzer/snort flexresp mysql prelude timestats dynamicplugin flexresp2 -inline linux-smp-stats -odbc perfprofiling -postgres -react -selinux sguil snortsam react 
+media-sound/grip nls -vorbis
