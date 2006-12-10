@@ -841,3 +841,17 @@ media-sound/timidity++
 app-admin/eselect-timidity
 dev-cpp/gnome-vfsmm
 games-server/pvpgn
+net-libs/libnetfilter_conntrack
+net-libs/libnfnetlink
+net-libs/libnetdude
+net-libs/libpcapnav
+net-libs/libnetfilter_log
+net-libs/libnetfilter_queue
+dev-libs/libdnet
+dev-libs/libprelude
+dev-libs/libprelude
+dev-libs/libpreludedb
+app-admin/prelude-lml
+dev-libs/libprelude
+dev-libs/libpreludedb
+app-admin/prelude-manager

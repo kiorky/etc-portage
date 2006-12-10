@@ -1177,3 +1177,14 @@ app-admin/eselect-timidity ~x86
 media-sound/grip ~x86
 dev-cpp/gnome-vfsmm ~x86
 games-server/pvpgn ~x86
+net-libs/libnet x86
+
+
+dev-libs/libdnet ~x86
+dev-libs/libprelude ~x86
+dev-libs/libprelude ~x86
+dev-libs/libpreludedb ~x86
+app-admin/prelude-lml ~x86
+dev-libs/libprelude ~x86
+dev-libs/libpreludedb ~x86
+app-admin/prelude-manager ~x86

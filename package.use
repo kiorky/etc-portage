@@ -216,3 +216,4 @@ net-analyzer/snort -flexresp mysql prelude timestats dynamicplugin flexresp2 -in
 media-sound/grip nls -vorbis
 media-sound/grip nls vorbis
 app-cdr/k3b alsa -arts css -debug -dvdr encode ffmpeg flac -hal kde mp3 musepack musicbrainz sndfile -vcd vorbis -xinerama
+net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling prelude -react sguil snortsam timestats -flexresp* -inline -odbc -postgres -selinux
