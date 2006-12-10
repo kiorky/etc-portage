@@ -840,3 +840,4 @@ dev-libs/ilbc-rfc3951
 media-sound/timidity++
 app-admin/eselect-timidity
 dev-cpp/gnome-vfsmm
+games-server/pvpgn

@@ -1176,3 +1176,4 @@ media-sound/timidity++ ~x86
 app-admin/eselect-timidity ~x86
 media-sound/grip ~x86
 dev-cpp/gnome-vfsmm ~x86
+games-server/pvpgn ~x86
