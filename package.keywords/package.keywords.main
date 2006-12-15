@@ -1188,3 +1188,5 @@ app-admin/prelude-lml ~x86
 dev-libs/libprelude ~x86
 dev-libs/libpreludedb ~x86
 app-admin/prelude-manager ~x86
+games-strategy/bos ~x86
+games-engines/stratagus ~x86

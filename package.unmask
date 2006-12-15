@@ -855,3 +855,5 @@ app-admin/prelude-lml
 dev-libs/libprelude
 dev-libs/libpreludedb
 app-admin/prelude-manager
+games-strategy/bos
+games-engines/stratagus
