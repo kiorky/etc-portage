@@ -220,3 +220,4 @@ net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling p
 games-engines/stratagus lac mikmod mp3  ogg opengl vorbis
 games-engines/stratagus flac mikmod mp3  ogg opengl vorbis
 net-misc/openvpn pam ssl examples iproute2 -minimal -passwordsave  -static threads
+games-fps/warsow dedicated irc -openal sdl
