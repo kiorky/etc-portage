@@ -1190,3 +1190,4 @@ dev-libs/libpreludedb ~x86
 app-admin/prelude-manager ~x86
 games-strategy/bos ~x86
 games-engines/stratagus ~x86
+games-fps/warsow ~x86

@@ -857,3 +857,4 @@ dev-libs/libpreludedb
 app-admin/prelude-manager
 games-strategy/bos
 games-engines/stratagus
+games-fps/warsow
