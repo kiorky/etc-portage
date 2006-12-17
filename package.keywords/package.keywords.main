@@ -1191,3 +1191,5 @@ app-admin/prelude-manager ~x86
 games-strategy/bos ~x86
 games-engines/stratagus ~x86
 games-fps/warsow ~x86
+x11-misc/imwheel ~x86
+dev-java/sun-jdk ~x86

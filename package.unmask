@@ -858,3 +858,5 @@ app-admin/prelude-manager
 games-strategy/bos
 games-engines/stratagus
 games-fps/warsow
+x11-misc/imwheel
+dev-java/sun-jdk
