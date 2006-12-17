@@ -1193,3 +1193,4 @@ games-engines/stratagus ~x86
 games-fps/warsow ~x86
 x11-misc/imwheel ~x86
 dev-java/sun-jdk ~x86
+dev-java/sun-jce-bin ~x86

@@ -860,3 +860,4 @@ games-engines/stratagus
 games-fps/warsow
 x11-misc/imwheel
 dev-java/sun-jdk
+dev-java/sun-jce-bin
