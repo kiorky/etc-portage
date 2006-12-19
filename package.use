@@ -224,3 +224,5 @@ games-fps/warsow dedicated irc -openal sdl
 games-fps/warsow dedicated irc openal sdl
 media-libs/sdl-sound flac mikmod physfs -speex vorbis
 kde-base/arts alsa -artswrappersuid -debug -esd -jack -kdeenablefinal mp3 nas vorbis -xinerama -kdehiddenvisibility
+dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2 X tcltk 
+sys-devel/gcc fortran gcj nls  objc objc++  objc-gc  

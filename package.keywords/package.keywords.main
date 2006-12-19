@@ -36,7 +36,6 @@ app-office/openoffice-bin ~x86
 app-office/openoffice ~x86
 app-portage/gentoolkit ~x86
 app-text/acroread ~x86
-app-text/aspell ~x86
 app-text/evince ~x86
 app-text/evince- ~x86
 app-text/ggv ~x86

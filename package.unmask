@@ -861,3 +861,6 @@ games-fps/warsow
 x11-misc/imwheel
 dev-java/sun-jdk
 dev-java/sun-jce-bin
+app-text/aspell
+app-dicts/aspell-fr
+app-dicts/aspell-en
