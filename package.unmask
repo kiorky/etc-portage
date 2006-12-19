@@ -861,13 +861,10 @@ games-fps/warsow
 x11-misc/imwheel
 dev-java/sun-jdk
 dev-java/sun-jce-bin
-<<<<<<< .mine
 net-proxy/squid
-=======
 app-text/aspell
 app-dicts/aspell-fr
 app-dicts/aspell-en
->>>>>>> .r256
 dev-libs/boost
 dev-util/boost-build
 dev-util/boost-build
