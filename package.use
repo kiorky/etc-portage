@@ -227,3 +227,4 @@ kde-base/arts alsa -artswrappersuid -debug -esd -jack -kdeenablefinal mp3 nas vo
 dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2 X tcltk 
 sys-devel/gcc fortran gcj nls  objc objc++  objc-gc  
 sys-devel/distcc -gnome ipv6 -gnome -gtk
+app-portage/herdstat bash-completion 
