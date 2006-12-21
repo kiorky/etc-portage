@@ -309,7 +309,6 @@ kde-base/arts ~x86
 =kde-base/kdeadmin-kfile-plugins-3.5* ~*
 =kde-base/kdeadmin-meta-3.5* ~*
 =kde-base/kdeartwork-3.5* ~*
-=kde-base/kdeartwork-emoticons-3.5* ~*
 =kde-base/kdeartwork-icewm-themes-3.5* ~*
 =kde-base/kdeartwork-iconthemes-3.5* ~*
 =kde-base/kdeartwork-kscreensaver-3.5* ~*
