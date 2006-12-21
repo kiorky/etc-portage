@@ -869,3 +869,4 @@ dev-libs/boost
 dev-util/boost-build
 dev-util/boost-build
 dev-python/PyQt4
+dev-python/sip

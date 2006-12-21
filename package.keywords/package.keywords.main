@@ -1197,3 +1197,4 @@ dev-libs/boost ~x86
 dev-util/boost-build ~x86
 dev-util/boost-build ~x86
 dev-python/PyQt4 ~x86
+dev-python/sip ~x86
