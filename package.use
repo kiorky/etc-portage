@@ -228,3 +228,5 @@ dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2 X tcltk
 sys-devel/gcc fortran gcj nls  objc objc++  objc-gc  
 sys-devel/distcc -gnome ipv6 -gnome -gtk
 app-portage/herdstat bash-completion 
+dev-python/PyQt doc examples
+media-video/ffmpeg a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib swscaler
