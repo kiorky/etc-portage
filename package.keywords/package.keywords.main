@@ -1206,3 +1206,4 @@ mail-client/claws-mail ~x86
 net-libs/libetpan ~x86
 x11-plugins/enigmail ~x86
 mail-client/mozilla-thunderbird ~x86
+app-admin/webapp-config ~x86

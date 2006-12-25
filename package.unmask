@@ -878,3 +878,4 @@ mail-client/claws-mail
 net-libs/libetpan
 x11-plugins/enigmail
 mail-client/mozilla-thunderbird
+app-admin/webapp-config
