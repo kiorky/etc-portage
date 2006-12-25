@@ -47,8 +47,6 @@ kde-base/secpolicy
 
 # kdeartwork-meta
 kde-base/kdeartwork-meta
-kde-base/kdeartwork-emoticons)
-kde-base/kdeartwork-iconthemes
 kde-base/kdeartwork-icewm-themes
 kde-base/kdeartwork-kscreensaver
 kde-base/kdeartwork-kwin-styles
