@@ -230,3 +230,4 @@ sys-devel/distcc -gnome ipv6 -gnome -gtk
 app-portage/herdstat bash-completion 
 dev-python/PyQt doc examples
 media-video/ffmpeg a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib swscaler
+mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
