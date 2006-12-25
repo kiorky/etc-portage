@@ -874,3 +874,4 @@ dev-db/mysql-gui-tools
 dev-db/mysql-gui-tools
 dev-dotnet/pe-format
 app-text/aspell
+mail-client/claws-mail

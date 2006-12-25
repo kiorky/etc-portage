@@ -1202,3 +1202,4 @@ dev-db/mysql-gui-tools ~x86
 dev-db/mysql-gui-tools ~x86
 dev-dotnet/pe-format ~x86
 app-text/aspell ~x86
+mail-client/claws-mail ~x86
