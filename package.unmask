@@ -885,3 +885,4 @@ www-servers/jboss
 dev-util/eclipse-sdk
 net-wireless/rt2400*
 net-wireless/rt2400
+net-wireless/rt2x00
