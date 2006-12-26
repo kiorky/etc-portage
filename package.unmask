@@ -875,6 +875,7 @@ dev-db/mysql-gui-tools
 dev-dotnet/pe-format
 www-servers/jboss
 app-text/aspell
+app-dicts/aspell-en
 mail-client/claws-mail
 net-libs/libetpan
 x11-plugins/enigmail

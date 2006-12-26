@@ -1203,6 +1203,7 @@ dev-db/mysql-gui-tools ~x86
 dev-dotnet/pe-format ~x86
 www-servers/jboss ~x86
 app-text/aspell ~x86
+app-dicts/aspell-en ~x86
 mail-client/claws-mail ~x86
 net-libs/libetpan ~x86
 x11-plugins/enigmail ~x86
