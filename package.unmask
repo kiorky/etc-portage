@@ -883,3 +883,5 @@ mail-client/mozilla-thunderbird
 app-admin/webapp-config
 www-servers/jboss
 dev-util/eclipse-sdk
+net-wireless/rt2400*
+net-wireless/rt2400

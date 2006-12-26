@@ -1211,3 +1211,5 @@ mail-client/mozilla-thunderbird ~x86
 app-admin/webapp-config ~x86
 www-servers/jboss ~x86
 dev-util/eclipse-sdk ~x86
+net-wireless/rt2400* ~x86
+net-wireless/rt2400 ~x86
