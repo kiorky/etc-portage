@@ -1216,3 +1216,4 @@ net-wireless/rt2400 ~x86
 net-wireless/rt2x00 ~x86
 net-dialup/eagle-usb ~x86
 app-dicts/aspell-en ~x86
+app-text/aspell ~x86
