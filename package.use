@@ -232,3 +232,21 @@ dev-python/PyQt doc examples
 media-video/ffmpeg a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib swscaler
 mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
 net-libs/libetpan berkdb ipv6 ssl -debug gnutls sasl
+dev-java/bsf jikes  jython  rhino 
+dev-java/jakarta-regexp jikes
+dev-java/xalan jikes
+dev-java/jython jikes
+dev-java/jdepend jikes
+dev-java/jzlib jikes
+dev-java/jsch jikes
+dev-java/log4j javamail jikes jms  jmx  
+dev-java/avalon-logkit javamail jikes  jms    
+dev-java/commons-logging avalon jikes 
+dev-java/bsh -gnome kde
+dev-java/commons-beanutils jikes 
+dev-java/commons-net  jikes 
+dev-util/eclipse-sdk -gnome branding cairo opengl
+dev-java/sun-jmx jikes
+dev-java/avalon-framework jikes 
+dev-java/rhino jikes 
+dev-util/eclipse-sdk branding cairo opengl  seamonkey 
