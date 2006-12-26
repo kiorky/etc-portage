@@ -881,3 +881,4 @@ x11-plugins/enigmail
 mail-client/mozilla-thunderbird
 app-admin/webapp-config
 www-servers/jboss
+dev-util/eclipse-sdk

@@ -1209,3 +1209,4 @@ x11-plugins/enigmail ~x86
 mail-client/mozilla-thunderbird ~x86
 app-admin/webapp-config ~x86
 www-servers/jboss ~x86
+dev-util/eclipse-sdk ~x86
