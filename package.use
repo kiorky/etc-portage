@@ -277,3 +277,12 @@ dev-java/castor -doc jikes -postgres -source
 dev-java/commons -doc jikes junit -source
 dev-java/exolabcore -doc jikes -source
 dev-java/openjms -doc jikes
+dev-java/commons -doc jikes -source
+dev-java/concurrent -doc jikes -source
+dev-java/commons -doc jikes junit
+dev-java/commons -doc jikes -source
+dev-java/xml -doc jikes -source
+dev-java/relaxng -doc jikes -source
+dev-java/commons -doc jikes junit -source
+dev-java/commons-cli jikes junit
+dev-java/commons-lang- jikes 

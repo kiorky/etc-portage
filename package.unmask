@@ -887,3 +887,4 @@ net-wireless/rt2400*
 net-wireless/rt2400
 net-wireless/rt2x00
 net-dialup/eagle-usb
+app-dicts/aspell-en
