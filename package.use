@@ -250,3 +250,30 @@ dev-java/sun-jmx jikes
 dev-java/avalon-framework jikes 
 dev-java/rhino jikes 
 dev-util/eclipse-sdk branding cairo opengl  seamonkey 
+dev-java/commons -doc jikes junit
+dev-java/commons -doc jikes -source
+dev-java/junitperf -doc jikes junit -source
+dev-java/trove -doc jikes -source
+dev-java/qdox -doc jikes -source
+dev-java/javassist -doc jikes -source
+dev-java/xpp2 -doc jikes -source
+dev-java/xpp3 -doc jikes junit -source
+dev-java/relaxng -doc jikes -source
+dev-java/xsdlib -doc jikes -source
+dev-java/msv -doc jikes -source
+dev-java/xmldb -doc jikes -source
+dev-db/hsqldb -doc jikes -source
+dev-java/jsr173 -doc jikes -source
+dev-java/concurrent -doc jikes -source
+dev-java/aspectwerkz jikes -source
+dev-java/cglib -doc jikes -source
+dev-java/xerces -doc jikes -source
+dev-java/xml -doc jikes -source
+dev-java/xerces -doc -examples jikes -source
+dev-java/jdbm -doc jikes -source
+dev-java/commons -doc jikes -source
+dev-java/exolabtools -doc jikes -source
+dev-java/castor -doc jikes -postgres -source
+dev-java/commons -doc jikes junit -source
+dev-java/exolabcore -doc jikes -source
+dev-java/openjms -doc jikes
