@@ -292,3 +292,4 @@ dev-java/commons -doc jikes junit -source
 dev-java/commons-cli jikes junit
 dev-java/commons-lang- jikes 
 net-misc/icecast yp
+net-misc/icecast yp  theora
