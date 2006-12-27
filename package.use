@@ -289,3 +289,6 @@ dev-java/commons -doc jikes -source
 dev-java/xml -doc jikes -source
 dev-java/relaxng -doc jikes -source
 dev-java/commons -doc jikes junit -source
+dev-java/commons-cli jikes junit
+dev-java/commons-lang- jikes 
+net-misc/icecast yp

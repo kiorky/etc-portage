@@ -1219,3 +1219,4 @@ app-dicts/aspell-en ~x86
 app-text/aspell ~x86
 app-dicts/aspell-en ~x86
 app-dicts/aspell-fr ~x86
+net-misc/icecast ~x86
