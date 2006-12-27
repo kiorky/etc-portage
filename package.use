@@ -250,6 +250,11 @@ dev-java/sun-jmx jikes
 dev-java/avalon-framework jikes 
 dev-java/rhino jikes 
 dev-util/eclipse-sdk branding cairo opengl  seamonkey 
+dev-java/commons-cli jikes junit 
+dev-java/commons-lang jikes junit 
+dev-java/swt cairo -gnome opengl seamonkey
+www-apache/mod_jk apache2 java
+net-www/apache ldap -mpm-worker ssl -debug -doc -mpm-event -mpm-peruser mpm-prefork -no-suexec -selinux srvdir -static-modules -apache2 -mpm-itk -mpm-leader -mpm-threadpool threads
 dev-java/commons -doc jikes junit
 dev-java/commons -doc jikes -source
 dev-java/junitperf -doc jikes junit -source
@@ -284,5 +289,3 @@ dev-java/commons -doc jikes -source
 dev-java/xml -doc jikes -source
 dev-java/relaxng -doc jikes -source
 dev-java/commons -doc jikes junit -source
-dev-java/commons-cli jikes junit
-dev-java/commons-lang- jikes 
