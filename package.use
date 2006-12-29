@@ -295,3 +295,4 @@ net-misc/icecast yp
 net-misc/icecast yp  theora
 net-www/mod_security -apache2
 net-www/mod_security apache2
+media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
