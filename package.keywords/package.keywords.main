@@ -1216,3 +1216,4 @@ net-dialup/eagle-usb ~x86
 net-misc/icecast ~x86
 net-www/mod_security* ~x86
 net-www/mod_security ~x86
+net-analyzer/prewikka ~x86

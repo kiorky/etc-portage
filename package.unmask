@@ -894,3 +894,4 @@ app-dicts/aspell-fr
 net-misc/icecast
 net-www/mod_security*
 net-www/mod_security
+net-analyzer/prewikka
