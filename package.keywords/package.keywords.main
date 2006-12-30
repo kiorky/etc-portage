@@ -1218,3 +1218,4 @@ net-www/mod_security* ~x86
 net-www/mod_security ~x86
 net-analyzer/prewikka ~x86
 media-sound/amarok ~x86
+net-misc/streamtuner ~x86
