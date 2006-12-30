@@ -897,3 +897,4 @@ net-www/mod_security
 net-analyzer/prewikka
 media-sound/amarok
 net-misc/streamtuner
+media-plugins/streamtuner-python
