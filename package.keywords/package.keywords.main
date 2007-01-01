@@ -1220,3 +1220,4 @@ net-analyzer/prewikka ~x86
 media-sound/amarok ~x86
 net-misc/streamtuner ~x86
 media-plugins/streamtuner-python ~x86
+www-apache/mod_jk ~x86
