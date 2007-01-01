@@ -297,3 +297,4 @@ net-www/mod_security -apache2
 net-www/mod_security apache2
 media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
 media-sound/streamripper vorbis
+www-apache/mod_jk apache2 java
