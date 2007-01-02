@@ -101,7 +101,6 @@ media-video/avidemux lsa nls xvid a52 aac -altivec -arts encode mad oss sdl tr v
 media-video/avidemux xvid
 media-video/avifile   X  a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid 
-media-video/ffmpeg dts encode imlib mmx network ogg oss sdl theora threads truetype -v4l vorbis xvid zlib a52 aac amr x264
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
 media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype - vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  
@@ -147,9 +146,6 @@ media-video/vlc dvb dvbpsi v4l mpc X a52 aac aalib alsa bidi cdda -corba daap ff
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 dev-scheme/drscheme perl cairo jpeg opengl png
 dev-scheme/mzscheme cairo jpeg opengl perl
-media-video/ffmpeg a52 aac dts encode imlib mmx network ogg oss sdl theora threads truetype vorbis xvid zlib opts pp 
-media-video/ffmpeg a52 aac dts encode imlib mmx network ogg oss sdl theora threads truetype vorbis xvid zlib opts pp gpl
-media-video/ffmpeg x264 xvid faac faad a52 aac dts encode imlib mmx network ogg oss sdl theora threads truetype vorbis xvid zlib opts pp gpl mp3
 games-fps/enemy-territory-truecombat  opengl
 games-fps/tremulous dedicated openal  opengl  vorbis
 games-fps/tremulous-bin dedicated sdl
@@ -229,7 +225,6 @@ sys-devel/gcc fortran gcj nls  objc objc++  objc-gc
 sys-devel/distcc -gnome ipv6 -gnome -gtk
 app-portage/herdstat bash-completion 
 dev-python/PyQt doc examples
-media-video/ffmpeg a52 aac dts encode faac faad gpl mmx mp3 network ogg opts oss pp threads vorbis x264 xvid zlib swscaler
 mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
 net-libs/libetpan berkdb ipv6 ssl -debug gnutls sasl
 dev-java/bsf jikes  jython  rhino 
@@ -298,3 +293,4 @@ net-www/mod_security apache2
 media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
 media-sound/streamripper vorbis
 www-apache/mod_jk apache2 java
+media-video/ffmpeg network zlib a52 aac altivec -amr avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opt* -oss pp swscaler threads -v4l vorbis x264 xvid dts encode
