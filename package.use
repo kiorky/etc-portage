@@ -294,4 +294,4 @@ media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
 dev-java/sun-jdk doc nsplugin 
 media-sound/streamripper vorbis
 www-apache/mod_jk apache2 java
-media-video/ffmpeg network zlib a52 aac altivec -amr avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler threads -v4l vorbis x264 xvid dts encode
+media-video/ffmpeg network zlib a52 aac altivec -amr avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode
