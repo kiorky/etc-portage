@@ -298,3 +298,4 @@ media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode fa
 net-p2p/amule nls unicode amuled remote
 dev-java/xalan jikes
 dev-perl/glib-perl xml
+dev-java/avalon-logkit javamail jms jikes
