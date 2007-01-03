@@ -1222,3 +1222,4 @@ net-misc/streamtuner ~x86
 media-plugins/streamtuner-python ~x86
 www-apache/mod_jk ~x86
 dev-java/xml-xmlbeans3 ~x86
+dev-java/xml-xmlbeans ~x86

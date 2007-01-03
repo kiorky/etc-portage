@@ -900,3 +900,4 @@ net-misc/streamtuner
 media-plugins/streamtuner-python
 www-apache/mod_jk
 dev-java/xml-xmlbeans3
+dev-java/xml-xmlbeans
