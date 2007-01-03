@@ -288,6 +288,7 @@ dev-java/commons-cli jikes junit
 dev-java/commons-lang- jikes 
 net-misc/icecast yp
 net-misc/icecast yp  theora
+media-video/ffmpeg  a52 aac -amr faac faad gpl mmx mp3 network ogg opts oss pp swscaler threads vorbis x264 xvid  zlib -avisynth-altivec -doc -dtsencode -ieee1394 -v4l -dts encode
 net-www/mod_security -apache2
 net-www/mod_security apache2
 media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
