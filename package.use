@@ -297,3 +297,4 @@ www-apache/mod_jk apache2 java
 media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode
 net-p2p/amule nls unicode amuled remote
 dev-java/xalan jikes
+dev-perl/glib-perl xml
