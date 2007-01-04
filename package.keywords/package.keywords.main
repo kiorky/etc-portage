@@ -1228,3 +1228,4 @@ media-plugins/gst-plugins-mad ~x86
 media-plugins/gst-plugins-ogg ~x86
 =media-plugins/gst-plugins-vorbis ~x86
 media-plugins/gst-plugins-flac ~x86
+=media-libs/gst-plugins ~x86
