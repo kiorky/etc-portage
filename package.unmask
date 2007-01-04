@@ -901,6 +901,7 @@ media-plugins/streamtuner-python
 www-apache/mod_jk
 dev-java/xml-xmlbeans3
 dev-java/xml-xmlbeans
+dev-java/maven-bin
 media-plugins/gst-plugins-alsa
 media-plugins/gst-plugins-mad
 media-plugins/gst-plugins-ogg

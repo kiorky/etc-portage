@@ -1223,6 +1223,7 @@ media-plugins/streamtuner-python ~x86
 www-apache/mod_jk ~x86
 dev-java/xml-xmlbeans3 ~x86
 dev-java/xml-xmlbeans ~x86
+dev-java/maven-bin ~x86
 media-plugins/gst-plugins-alsa ~x86
 media-plugins/gst-plugins-mad ~x86
 media-plugins/gst-plugins-ogg ~x86
