@@ -904,3 +904,4 @@ dev-java/xml-xmlbeans
 media-plugins/gst-plugins-alsa
 media-plugins/gst-plugins-mad
 media-plugins/gst-plugins-ogg
+=media-plugins/gst-plugins-vorbis
