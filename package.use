@@ -300,3 +300,4 @@ net-p2p/amule nls unicode amuled remote
 dev-java/xalan jikes
 dev-perl/glib-perl xml
 dev-java/avalon-logkit javamail jms jikes
+net-print/cups X nls pam ppds ssl -dbus jpeg php png samba -slp tiff
