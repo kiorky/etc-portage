@@ -908,3 +908,4 @@ media-plugins/gst-plugins-ogg
 media-plugins/gst-plugins-vorbis
 media-plugins/gst-plugins-flac
 media-libs/gst-plugins
+dev-util/argouml
