@@ -46,9 +46,12 @@
 <x11-base/xorg-x11-7.0
 =x11-base/xorg-x11-6.9.0-r1
 =x11-base/xorg-x11-6.9.0-r1
->app-editors/vim-core-6.5
 =app-editors/vim-core-6.4
 =app-editors/vim-core-6.4
 
 =media-video/mplayer-1.0_pre20060810
 =media-video/mplayer-1.0_pre*
+
+<=xfce-extra/exo-0.3.1
+
+
