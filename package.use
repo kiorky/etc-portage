@@ -86,7 +86,7 @@ media-libs/libsdl libcaca
 media-libs/win32codecs real
 media-libs/x264 mp4 threads
 media-libs/x264-svn mp4 threads
-media-libs/xine-lib X aac aalib alsa asf dvd dxr3 flac -gnome imagemagick ipv6 mad mng nls opengl samba speex vidix vorbis win32codecs xv a52 -altivec -arts -debug -directfb -dts -esd -fbcon -libcaca -modplug -oss -sdl theora -v4l -vcd -xinerama xvmc
+media-libs/xine-lib X aac aalib alsa asf dvd dxr3 flac gnome imagemagick ipv6 mad mng nls opengl samba speex vidix vorbis win32codecs xv a52 -altivec -arts -debug -directfb -dts -esd -fbcon libcaca -modplug -oss sdl theora -v4l -vcd -xinerama xvmc
 media-sound/darkice alsa encode -jack vorbis
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/mpd -aac alsa -ao audiofile -flac icecast ipv6 -mikmod mp3 musepack unicode vorbis -oss -pulseaudio

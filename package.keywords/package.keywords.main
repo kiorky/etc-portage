@@ -1242,3 +1242,6 @@ xfce-base/xfce-mcs-plugins ~x86
 xfce-extra/xfce4-dev-tools ~x86
 xfce-base/libxfcegui4 ~x86
 media-libs/x264-svn -*
+media-libs/xine-lib -*
+media-libs/libcaca ~x86
+media-libs/libcaca ~x86
