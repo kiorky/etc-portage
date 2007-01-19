@@ -1250,3 +1250,4 @@ media-libs/xine-lib -*
 dev-java/xdoclet ~x86
 games-rpg/secondlife ~x86
 games-rpg/secondlife-bin ~x86
+dev-java/junit ~x86
