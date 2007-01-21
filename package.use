@@ -301,4 +301,4 @@ dev-java/xalan jikes
 dev-perl/glib-perl xml
 dev-java/avalon-logkit javamail jms jikes
 net-print/cups X nls pam ppds ssl -dbus jpeg php png samba -slp tiff
-www-servers/jboss ejb3 doc srvdir
+www-servers/jboss-bin ejb3 doc srvdir
