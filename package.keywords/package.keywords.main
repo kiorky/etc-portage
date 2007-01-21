@@ -1251,3 +1251,5 @@ dev-java/xdoclet ~x86
 games-rpg/secondlife ~x86
 games-rpg/secondlife-bin ~x86
 dev-java/junit ~x86
+www-servers/jboss-bin ~x86
+www-servers/jboss-bin ~x86
