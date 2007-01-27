@@ -1254,3 +1254,4 @@ dev-java/junit ~x86
 www-servers/jboss-bin ~x86
 www-servers/jboss-bin ~x86
 www-servers/jboss-bin ~x86
+dev-java/sun-jaxb-bin ~x86
