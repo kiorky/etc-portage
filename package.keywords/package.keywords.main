@@ -1255,3 +1255,4 @@ www-servers/jboss-bin ~x86
 www-servers/jboss-bin ~x86
 www-servers/jboss-bin ~x86
 dev-java/sun-jaxb-bin ~x86
+app-portage/overlay-utils ~x86
