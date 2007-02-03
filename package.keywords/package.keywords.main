@@ -1270,3 +1270,4 @@ dev-java/maven-core ~x86
 dev-java/juddi ~x86
 dev-java/log4j ~x86
 nwww-servers/geronimo ~x86
+dev-java/scout ~x86
