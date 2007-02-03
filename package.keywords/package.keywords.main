@@ -1257,4 +1257,5 @@ www-servers/jboss-bin ~x86
 dev-java/sun-jaxb-bin ~x86
 app-portage/overlay-utils ~x86
 dev-java/maven ~x86
-dev-java/maven-license-plugin-1 ~x86
+dev-java/maven-license-plugin ~x86
+dev-java/maven-ant-plugin ~x86

@@ -939,4 +939,5 @@ www-servers/jboss-bin
 dev-java/sun-jaxp-bin
 app-portage/overlay-utils
 dev-java/maven
-dev-java/maven-license-plugin-1
+dev-java/maven-license-plugin
+dev-java/maven-ant-plugin
