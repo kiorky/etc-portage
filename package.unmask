@@ -943,3 +943,4 @@ dev-java/maven-license-plugin
 dev-java/maven-ant-plugin
 dev-java/commons-jelly-tags-xml
 dev-java/commons-jelly-tags-junit
+dev-java/commons-jelly
