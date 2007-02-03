@@ -938,3 +938,4 @@ www-servers/jboss-bin
 www-servers/jboss-bin
 dev-java/sun-jaxp-bin
 app-portage/overlay-utils
+dev-java/maven
