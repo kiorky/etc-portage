@@ -947,3 +947,4 @@ dev-java/commons-jelly
 dev-java/forehead
 dev-java/jakarta-jstl
 dev-java/maven-jar-plugin
+dev-java/commons-jelly-tags-velocity
