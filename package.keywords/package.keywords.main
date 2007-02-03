@@ -1267,3 +1267,4 @@ dev-java/jakarta-jstl ~x86
 dev-java/maven-jar-plugin ~x86
 dev-java/commons-jelly-tags-velocity ~x86
 dev-java/maven-core ~x86
+dev-java/juddi ~x86
