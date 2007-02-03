@@ -1263,3 +1263,4 @@ dev-java/commons-jelly-tags-xml ~x86
 dev-java/commons-jelly-tags-junit ~x86
 dev-java/commons-jelly ~x86
 dev-java/forehead ~x86
+dev-java/jakarta-jstl ~x86
