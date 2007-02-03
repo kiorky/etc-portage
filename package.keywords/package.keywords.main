@@ -1259,3 +1259,4 @@ app-portage/overlay-utils ~x86
 dev-java/maven ~x86
 dev-java/maven-license-plugin ~x86
 dev-java/maven-ant-plugin ~x86
+dev-java/commons-jelly-tags-xml ~x86
