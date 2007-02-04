@@ -1273,3 +1273,4 @@ nwww-servers/geronimo ~x86
 dev-java/scout ~x86
 dev-java/apache-addressing ~x86
 www-servers/axis ~x86
+dev-java/commons-httpclien ~x86
