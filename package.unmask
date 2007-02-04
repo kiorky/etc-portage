@@ -961,3 +961,4 @@ dev-java/castor
 dev-java/wsdl4j
 dev-java/joesnmp
 snmptrapappender
+dev-java/snmptrapappender
