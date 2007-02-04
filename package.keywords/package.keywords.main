@@ -1280,3 +1280,4 @@ dev-java/wsdl4j ~x86
 dev-java/joesnmp ~x86
 dev-java/snmptrapappender ~x86
 dev-java/myfaces ~x86
+dev-java/commons-lang ~x86

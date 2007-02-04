@@ -962,3 +962,4 @@ dev-java/wsdl4j
 dev-java/joesnmp
 dev-java/snmptrapappender
 dev-java/myfaces
+dev-java/commons-lang
