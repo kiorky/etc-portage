@@ -303,3 +303,5 @@ net-print/cups X nls pam ppds ssl -dbus jpeg php png samba -slp tiff
 www-servers/jboss-bin ejb3 doc srvdir
 net-misc/neon nls ssl zlib expat socks5
 dev-java/jdbc-mysql c3p0 log4j
+dev-java/scout- doc examples  source
+dev-java/scout doc examples  source
