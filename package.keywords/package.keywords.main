@@ -1281,3 +1281,4 @@ dev-java/joesnmp ~x86
 dev-java/snmptrapappender ~x86
 dev-java/myfaces ~x86
 dev-java/commons-lang ~x86
+ev-java/jsfapi ~x86
