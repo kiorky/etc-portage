@@ -957,3 +957,4 @@ dev-java/apache-addressing
 www-servers/axis
 dev-java/commons-httpclien
 dev-java/commons-httpclient
+dev-java/castor

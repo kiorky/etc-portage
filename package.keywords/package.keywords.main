@@ -1275,3 +1275,4 @@ dev-java/apache-addressing ~x86
 www-servers/axis ~x86
 dev-java/commons-httpclien ~x86
 dev-java/commons-httpclient ~x86
+dev-java/castor ~x86
