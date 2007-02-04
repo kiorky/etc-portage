@@ -1279,3 +1279,4 @@ dev-java/castor ~x86
 dev-java/wsdl4j ~x86
 dev-java/joesnmp ~x86
 dev-java/snmptrapappender ~x86
+dev-java/myfaces ~x86
