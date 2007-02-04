@@ -1278,5 +1278,4 @@ dev-java/commons-httpclient ~x86
 dev-java/castor ~x86
 dev-java/wsdl4j ~x86
 dev-java/joesnmp ~x86
-snmptrapappender ~x86
 dev-java/snmptrapappender ~x86
