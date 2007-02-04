@@ -959,3 +959,4 @@ dev-java/commons-httpclien
 dev-java/commons-httpclient
 dev-java/castor
 dev-java/wsdl4j
+dev-java/joesnmp

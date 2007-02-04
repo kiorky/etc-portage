@@ -1277,3 +1277,4 @@ dev-java/commons-httpclien ~x86
 dev-java/commons-httpclient ~x86
 dev-java/castor ~x86
 dev-java/wsdl4j ~x86
+dev-java/joesnmp ~x86
