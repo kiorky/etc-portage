@@ -306,3 +306,6 @@ dev-java/jdbc-mysql c3p0 log4j
 dev-java/scout- doc examples  source
 dev-java/scout doc examples  source
 dev-java/snmptrapappender  doc source
+net-analyzer/rrdtool perl python  rrdcgi tcl 
+net-analyzer/cacti apache2  snmp  vhosts
+net-analyzer/net-snmp ipv6 perl ssl tcpd  diskio lm_sensors 
