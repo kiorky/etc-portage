@@ -1299,3 +1299,4 @@ dev-java/ant-apache-regexp ~x86
 dev-java/ant-apache-resolver ~x86
 dev-java/ant-antlr ~x86
 dev-java/ant-apache-log4j ~x86
+dev-java/ant-trax ~x86
