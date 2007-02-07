@@ -976,3 +976,4 @@ dev-java/jsch
 dev-java/ant-apache-bcel
 dev-java/ant-junit
 dev-java/ant-javamail
+dev-java/ant-apache-oro

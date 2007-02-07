@@ -1294,3 +1294,4 @@ dev-java/jsch ~x86
 dev-java/ant-apache-bcel ~x86
 dev-java/ant-junit ~x86
 dev-java/ant-javamail ~x86
+dev-java/ant-apache-oro ~x86
