@@ -991,3 +991,4 @@ dev-java/ant-jdepend
 dev-java/jdepend
 sys-apps/paludis
 dev-java/jakarta-slide-webdavclient
+dev-java/commons-transaction
