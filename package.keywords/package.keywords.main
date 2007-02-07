@@ -1284,3 +1284,4 @@ dev-java/commons-lang ~x86
 ev-java/jsfapi ~x86
 dev-java/jsfapi ~x86
 app-admin/webapp-config ~x86
+dev-java/ant-commons-net ~x86

@@ -966,3 +966,4 @@ dev-java/commons-lang
 ev-java/jsfapi
 dev-java/jsfapi
 app-admin/webapp-config
+dev-java/ant-commons-net
