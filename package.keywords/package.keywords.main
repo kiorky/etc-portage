@@ -1312,3 +1312,4 @@ dev-java/jakarta-slide-webdavclient ~x86
 dev-java/commons-transaction ~x86
 dev-java/xml-im-exporter ~x86
 dev-java/tomcat-jasper ~x86
+dev-java/tomcat-servlet-api ~x86
