@@ -309,3 +309,4 @@ dev-java/snmptrapappender  doc source
 net-analyzer/rrdtool perl python  rrdcgi tcl 
 net-analyzer/cacti apache2  snmp  vhosts
 net-analyzer/net-snmp ipv6 perl ssl tcpd  diskio lm_sensors 
+dev-java/commons-logging avalon-framework avalon-logkit log4j servletapi 

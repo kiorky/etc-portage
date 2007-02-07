@@ -989,3 +989,4 @@ dev-java/ant-commons-logging
 dev-java/commons-logging
 dev-java/ant-jdepend
 dev-java/jdepend
+sys-apps/paludis
