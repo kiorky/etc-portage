@@ -987,4 +987,5 @@ dev-java/ant-apache-bsf
 dev-java/bsf
 dev-java/ant-commons-logging
 dev-java/commons-logging
-ev-java/ant-jdepend
+dev-java/ant-jdepend
+dev-java/jdepend

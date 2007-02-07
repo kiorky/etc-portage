@@ -1305,4 +1305,5 @@ dev-java/ant-apache-bsf ~x86
 dev-java/bsf ~x86
 dev-java/ant-commons-logging ~x86
 dev-java/commons-logging ~x86
-ev-java/ant-jdepend ~x86
+dev-java/ant-jdepend ~x86
+dev-java/jdepend ~x86
