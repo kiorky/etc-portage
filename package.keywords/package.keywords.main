@@ -1310,3 +1310,4 @@ dev-java/jdepend ~x86
 sys-apps/paludis ~x86
 dev-java/jakarta-slide-webdavclient ~x86
 dev-java/commons-transaction ~x86
+dev-java/xml-im-exporter ~x86
