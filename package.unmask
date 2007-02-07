@@ -984,3 +984,4 @@ dev-java/ant-apache-log4j
 dev-java/ant-trax
 dev-java/jakarta-regexp
 dev-java/ant-apache-bsf
+dev-java/bsf
