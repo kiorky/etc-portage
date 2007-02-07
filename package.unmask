@@ -978,3 +978,4 @@ dev-java/ant-junit
 dev-java/ant-javamail
 dev-java/ant-apache-oro
 dev-java/ant-apache-regexp
+dev-java/ant-apache-resolver

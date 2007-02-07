@@ -1296,3 +1296,4 @@ dev-java/ant-junit ~x86
 dev-java/ant-javamail ~x86
 dev-java/ant-apache-oro ~x86
 dev-java/ant-apache-regexp ~x86
+dev-java/ant-apache-resolver ~x86
