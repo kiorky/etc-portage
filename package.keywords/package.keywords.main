@@ -1304,3 +1304,4 @@ dev-java/jakarta-regexp ~x86
 dev-java/ant-apache-bsf ~x86
 dev-java/bsf ~x86
 dev-java/ant-commons-logging ~x86
+dev-java/commons-logging ~x86

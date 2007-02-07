@@ -986,3 +986,4 @@ dev-java/jakarta-regexp
 dev-java/ant-apache-bsf
 dev-java/bsf
 dev-java/ant-commons-logging
+dev-java/commons-logging
