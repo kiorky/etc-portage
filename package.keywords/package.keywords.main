@@ -1308,3 +1308,4 @@ dev-java/commons-logging ~x86
 dev-java/ant-jdepend ~x86
 dev-java/jdepend ~x86
 sys-apps/paludis ~x86
+dev-java/jakarta-slide-webdavclient ~x86
