@@ -1292,3 +1292,4 @@ dev-java/ant-apache-resolver ~x86
 dev-java/ant-jsch ~x86
 dev-java/jsch ~x86
 dev-java/ant-apache-bcel ~x86
+dev-java/ant-junit ~x86
