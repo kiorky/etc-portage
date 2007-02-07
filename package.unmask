@@ -975,3 +975,4 @@ dev-java/ant-jsch
 dev-java/jsch
 dev-java/ant-apache-bcel
 dev-java/ant-junit
+dev-java/ant-javamail
