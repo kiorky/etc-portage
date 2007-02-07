@@ -1289,3 +1289,4 @@ dev-java/ant-nodeps ~x86
 dev-java/ant-swing ~x86
 dev-java/ant-jmf ~x86
 dev-java/ant-apache-resolver ~x86
+~dev-java/ant-jsch ~x86
