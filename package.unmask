@@ -980,3 +980,4 @@ dev-java/ant-apache-oro
 dev-java/ant-apache-regexp
 dev-java/ant-apache-resolver
 dev-java/ant-antlr
+dev-java/ant-apache-log4j
