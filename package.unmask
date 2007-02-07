@@ -971,6 +971,6 @@ dev-java/ant-nodeps
 dev-java/ant-swing
 dev-java/ant-jmf
 dev-java/ant-apache-resolver
-~dev-java/ant-jsch
 dev-java/ant-jsch
 dev-java/jsch
+dev-java/ant-apache-bcel
