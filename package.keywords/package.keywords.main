@@ -1301,3 +1301,4 @@ dev-java/ant-antlr ~x86
 dev-java/ant-apache-log4j ~x86
 dev-java/ant-trax ~x86
 dev-java/jakarta-regexp ~x86
+dev-java/ant-apache-bsf ~x86
