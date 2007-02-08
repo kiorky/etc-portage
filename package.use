@@ -313,3 +313,4 @@ dev-java/commons-logging avalon-framework avalon-logkit log4j servletapi
 sys-apps/paludis ash-completion qa  cran glsa qa ruby  contrarius pink
 www-servers/tomcat java5
 www-servers/tomcat -java5
+mail-client/squirrelmail crypt mysql nls ssl - filter  ldap  vhosts spell postgres 
