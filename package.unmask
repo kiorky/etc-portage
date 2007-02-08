@@ -996,3 +996,4 @@ dev-java/xml-im-exporter
 dev-java/tomcat-jasper
 dev-java/tomcat-servlet-api
 media-sound/kradio
+mail-client/squirrelmail
