@@ -1315,5 +1315,4 @@ dev-java/tomcat-jasper ~x86
 dev-java/tomcat-servlet-api ~x86
 media-sound/kradio ~x86
 mail-client/squirrelmail ~x86
-https://overlays.gentoo.org/svn/proj/java/scripts/assert_built_jar_equal ~x86
 dev-java/japitools ~x86
