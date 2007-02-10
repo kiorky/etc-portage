@@ -933,6 +933,7 @@ dev-java/xdoclet
 games-rpg/secondlife
 games-rpg/secondlife-bin
 dev-java/junit
+dev-libs/g-wrap
 www-servers/jboss-bin
 www-servers/jboss-bin
 www-servers/jboss-bin
