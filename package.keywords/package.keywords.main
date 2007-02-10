@@ -1312,3 +1312,4 @@ dev-java/tomcat-servlet-api ~x86
 media-sound/kradio ~x86
 mail-client/squirrelmail ~x86
 dev-java/japitools ~x86  
+net-libs/aqbanking ~x86

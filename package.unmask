@@ -999,3 +999,4 @@ dev-java/tomcat-servlet-api
 media-sound/kradio
 mail-client/squirrelmail
 dev-java/japitools
+net-libs/aqbanking
