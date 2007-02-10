@@ -997,3 +997,5 @@ dev-java/tomcat-jasper
 dev-java/tomcat-servlet-api
 media-sound/kradio
 mail-client/squirrelmail
+https://overlays.gentoo.org/svn/proj/java/scripts/assert_built_jar_equal
+dev-java/japitools
