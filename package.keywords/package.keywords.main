@@ -1175,9 +1175,6 @@ app-admin/eselect-timidity ~x86
 media-sound/grip ~x86
 dev-cpp/gnome-vfsmm ~x86
 games-server/pvpgn ~x86
-net-libs/libnet x86
-
-
 dev-libs/libdnet ~x86
 dev-libs/libprelude ~x86
 dev-libs/libprelude ~x86
@@ -1245,12 +1242,11 @@ media-libs/x264-svn -*
 media-libs/libcaca ~x86
 media-libs/libcaca ~x86
 media-libs/xine-lib -*
-
-
 dev-java/xdoclet ~x86
 games-rpg/secondlife ~x86
 games-rpg/secondlife-bin ~x86
 dev-java/junit ~x86
+dev-libs/g-wrap ~x86
 www-servers/jboss-bin ~x86
 www-servers/jboss-bin ~x86
 www-servers/jboss-bin ~x86
@@ -1315,4 +1311,4 @@ dev-java/tomcat-jasper ~x86
 dev-java/tomcat-servlet-api ~x86
 media-sound/kradio ~x86
 mail-client/squirrelmail ~x86
-dev-java/japitools ~x86
+dev-java/japitools ~x86  
