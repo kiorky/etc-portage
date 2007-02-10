@@ -1314,3 +1314,4 @@ mail-client/squirrelmail ~x86
 dev-java/japitools ~x86  
 net-libs/aqbanking ~x86
 dev-libs/libofx ~x86
+dev-java/asm ~x86
