@@ -1316,3 +1316,4 @@ net-libs/aqbanking ~x86
 dev-libs/libofx ~x86
 dev-java/asm ~x86
 dev-java/aspectwerkz ~x86
+dev-java/ant-owanttask ~x86
