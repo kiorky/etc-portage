@@ -1004,3 +1004,4 @@ dev-libs/libofx
 dev-java/asm
 dev-java/aspectwerkz
 dev-java/ant-owanttask
+dev-scheme/guile
