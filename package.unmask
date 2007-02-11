@@ -1015,3 +1015,4 @@ dev-java/ehcache
 dev-java/oscache
 dev-java/sun-jacc-api
 dev-java/javassist
+dev-java/hibernate-annotations
