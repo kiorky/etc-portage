@@ -1012,3 +1012,4 @@ dev-java/gjt-jpl-pattern
 dev-java/gjt-jpl-util
 dev-java/hibernate
 dev-java/ehcache
+dev-java/oscache
