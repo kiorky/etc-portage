@@ -1327,3 +1327,4 @@ dev-java/hibernate ~x86
 dev-java/ehcache ~x86
 dev-java/oscache ~x86
 dev-java/sun-jacc-api ~x86
+dev-java/javassist ~x86
