@@ -1319,3 +1319,4 @@ dev-java/aspectwerkz ~x86
 dev-java/ant-owanttask ~x86
 dev-scheme/guile ~x86
 dev-scheme/slib ~x86
+dev-java/xml-security ~x86
