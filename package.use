@@ -31,14 +31,12 @@ dev-java/ant-tasks javamail -noantlr -nobcel -nobeanutils -nobsf -nobsh -nocommo
 dev-java/sun-jdk browserplugin  nsplugin jce doc
 dev-lang/cm3 tcltk
 dev-lang/swig perl php python -doc -guile java -lua mono -ocaml -pike ruby -tcl -tk
-dev-lang/swig php
 dev-libs/boehm-gc threads
 dev-libs/boehm-gc -threads
 dev-libs/boehm threads
 dev-libs/boost bcp bjam pyste  threads - threadsonly 
 dev-libs/gmime ipv6 -debug -doc mono
 dev-libs/pwlib alsa ipv6 oss sdl ssl xml -debug -ieee1394 ldap sasl
-devphp/php berkdb dba
 dev-python/gnome-python-extras firefox
 dev-python/gnome-python gtkhtml
 dev-python/pycairo numeric
@@ -164,7 +162,7 @@ net-www/apache ssl  ldap mpm-threadpool apache2
 net-www/apache ssl  ldap mpm-threadpool -mpm-prefork -mpm-worker  apache2 
 net-www/apache ssl  ldap -mpm-threadpool -mpm-prefork mpm-worker  apache2 
 dev-db/mysql big-tables perl ssl innodb srvdir 
-dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers exif ftp gd iconv imap iodbc ipv6 ldap ming mysql ncurses nls odbc pcntl pcre posix postgres readline reflection sasl session simplexml soap sockets spell sqlite ssl tidy tokenizer truetype unicode xmlrpc xpm xsl zip zlib berkdb  -sysvipc threads xml xmlreader xmlwriter yaz
+dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers exif ftp gd iconv imap iodbc ipv6 ldap ming mysql ncurses nls odbc pcntl pcre posix postgres readline reflection sasl session simplexml soap sockets spell sqlite ssl tidy tokenizer truetype unicode xmlrpc xpm xsl zip zlib berkdb  -sysvipc -threads xml xmlreader xmlwriter yaz
 sys-libs/glibc nls nptl nptlonly profile
 sys-libs/glibc nls nptl nptlonly profile -glibc-compat20
 net-im/bitlbee gnutls ipv6 jabber msn  oscar ssl yahoo -debug -xinetd
@@ -316,3 +314,4 @@ www-servers/tomcat -java5
 media-sound/kradio encode ogg vorbis
 mail-client/squirrelmail crypt mysql nls ssl - filter  ldap  vhosts spell postgres 
 dev-scheme/guile threads    discouraged deprecated etworking  regex
+dev-java/xerces doc examples source
