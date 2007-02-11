@@ -315,3 +315,4 @@ www-servers/tomcat java5
 www-servers/tomcat -java5
 media-sound/kradio encode ogg vorbis
 mail-client/squirrelmail crypt mysql nls ssl - filter  ldap  vhosts spell postgres 
+dev-scheme/guile threads    discouraged deprecated etworking  regex
