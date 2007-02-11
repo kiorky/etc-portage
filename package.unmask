@@ -1008,3 +1008,4 @@ dev-scheme/guile
 dev-scheme/slib
 dev-java/xml-security
 dev-java/cglib
+dev-java/gjt-jpl-pattern
