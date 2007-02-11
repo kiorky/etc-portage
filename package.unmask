@@ -1010,3 +1010,4 @@ dev-java/xml-security
 dev-java/cglib
 dev-java/gjt-jpl-pattern
 dev-java/gjt-jpl-util
+dev-java/hibernate

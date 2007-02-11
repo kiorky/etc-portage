@@ -1323,3 +1323,4 @@ dev-java/xml-security ~x86
 dev-java/cglib ~x86
 dev-java/gjt-jpl-pattern ~x86
 dev-java/gjt-jpl-util ~x86
+dev-java/hibernate ~x86
