@@ -1017,3 +1017,4 @@ dev-java/sun-jacc-api
 dev-java/javassist
 dev-java/hibernate-annotations
 dev-java/hibernate-entitymanager
+dev-java/hibernate-annotations-bin
