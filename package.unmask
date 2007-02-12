@@ -1019,3 +1019,4 @@ dev-java/hibernate-annotations
 dev-java/hibernate-entitymanager
 dev-java/hibernate-annotations-bin
 dev-java/hibernate-entitymanager-bin
+dev-db/hsqldb
