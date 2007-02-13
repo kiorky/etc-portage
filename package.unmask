@@ -1025,3 +1025,4 @@ dev-java/java-service-wrapper
 dev-java/gnu-classpath-inetlib
 dev-java/picocontainer
 dev-java/jboss-jacorb
+dev-java/jboss-wdsl4j
