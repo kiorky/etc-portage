@@ -1339,3 +1339,5 @@ dev-java/gnu-classpath-inetlib ~x86
 dev-java/picocontainer ~x86
 dev-java/jboss-jacorb ~x86
 dev-java/jboss-wdsl4j ~x86
+dev-java/jboss-wssl4j ~x86
+dev-java/jboss-wsdl4j ~x86
