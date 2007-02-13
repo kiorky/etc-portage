@@ -1333,3 +1333,4 @@ dev-java/hibernate-entitymanager ~x86
 dev-java/hibernate-annotations-bin ~x86
 dev-java/hibernate-entitymanager-bin ~x86
 dev-db/hsqldb ~x86
+dev-java/jacorb ~x86
