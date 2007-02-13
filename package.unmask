@@ -1023,3 +1023,4 @@ dev-db/hsqldb
 dev-java/jacorb
 dev-java/java-service-wrapper
 dev-java/gnu-classpath-inetlib
+dev-java/picocontainer
