@@ -1021,3 +1021,4 @@ dev-java/hibernate-annotations-bin
 dev-java/hibernate-entitymanager-bin
 dev-db/hsqldb
 dev-java/jacorb
+dev-java/java-service-wrapper
