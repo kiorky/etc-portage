@@ -1337,3 +1337,4 @@ dev-java/jacorb ~x86
 dev-java/java-service-wrapper ~x86
 dev-java/gnu-classpath-inetlib ~x86
 dev-java/picocontainer ~x86
+dev-java/jboss-jacorb ~x86
