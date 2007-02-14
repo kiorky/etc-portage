@@ -315,3 +315,4 @@ media-sound/kradio encode ogg vorbis
 mail-client/squirrelmail crypt mysql nls ssl - filter  ldap  vhosts spell postgres 
 dev-scheme/guile threads    discouraged deprecated etworking  regex
 dev-java/xerces doc examples source
+dev-java/quartz jikes dbcp -jboss jmx jta -oracle -servlet-2.3 servlet-2.4 struts
