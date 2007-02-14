@@ -1345,3 +1345,4 @@ dev-java/quartz ~x86
 dev-java/struts ~x86
 dev-java/struts-legacy ~x86
 dev-java/qdox ~x86
+dev-java/geronimo-specs ~x86

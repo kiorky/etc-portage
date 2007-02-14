@@ -1032,3 +1032,4 @@ dev-java/quartz
 dev-java/struts
 dev-java/struts-legacy
 dev-java/qdox
+dev-java/geronimo-specs

@@ -316,3 +316,4 @@ mail-client/squirrelmail crypt mysql nls ssl - filter  ldap  vhosts spell postgr
 dev-scheme/guile threads    discouraged deprecated etworking  regex
 dev-java/xerces doc examples source
 dev-java/quartz jikes dbcp -jboss jmx jta -oracle -servlet-2.3 servlet-2.4 struts
+dev-java/geronimo-specs  activation  commonj corba corba-2.3 corba-3.0 ejb j2ee j2ee-connector j2ee-deployment j2ee-jacc j2ee-management javamail jaxr jaxrpc jms jsp jta qname saaj servlet   servlet jta
