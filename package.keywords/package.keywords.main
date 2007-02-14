@@ -1344,3 +1344,4 @@ dev-java/jboss-wsdl4j ~x86
 dev-java/quartz ~x86
 dev-java/struts ~x86
 dev-java/struts-legacy ~x86
+dev-java/qdox ~x86
