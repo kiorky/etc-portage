@@ -1028,3 +1028,4 @@ dev-java/jboss-jacorb
 dev-java/jboss-wdsl4j
 dev-java/jboss-wssl4j
 dev-java/jboss-wsdl4j
+dev-java/quartz
