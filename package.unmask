@@ -1034,3 +1034,4 @@ dev-java/struts-legacy
 dev-java/qdox
 dev-java/geronimo-specs
 dev-java/sun-j2me-bin
+dev-java/kxml
