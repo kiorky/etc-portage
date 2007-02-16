@@ -1038,3 +1038,4 @@ dev-java/kxml
 dev-java/monolog
 dev-java/p6spy
 jboss-module-common
+dev-java/jboss-module-common
