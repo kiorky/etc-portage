@@ -1348,3 +1348,4 @@ dev-java/qdox ~x86
 dev-java/geronimo-specs ~x86
 dev-java/sun-j2me-bin ~x86
 dev-java/kxml ~x86
+dev-java/monolog ~x86
