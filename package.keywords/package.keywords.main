@@ -1349,3 +1349,4 @@ dev-java/geronimo-specs ~x86
 dev-java/sun-j2me-bin ~x86
 dev-java/kxml ~x86
 dev-java/monolog ~x86
+dev-java/p6spy ~x86
