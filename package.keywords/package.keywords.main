@@ -1352,3 +1352,4 @@ dev-java/monolog ~x86
 dev-java/p6spy ~x86
 dev-java/jboss-module-common ~x86
 dev-java/buildmagic-tasks ~x86
+dev-java/jboss-module-system ~x86
