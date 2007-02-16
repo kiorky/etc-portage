@@ -1354,3 +1354,4 @@ dev-java/jboss-module-common ~x86
 dev-java/buildmagic-tasks ~x86
 dev-java/jboss-module-system ~x86
 dev-java/jboss-module-jmx ~x86
+media-video/dirac -*
