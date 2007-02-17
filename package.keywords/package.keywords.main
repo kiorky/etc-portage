@@ -1356,3 +1356,4 @@ dev-java/jboss-module-system ~x86
 dev-java/jboss-module-jmx ~x86
 media-video/dirac x86
 
+dev-java/eclipse-core ~x86

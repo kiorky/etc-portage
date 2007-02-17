@@ -1041,3 +1041,4 @@ dev-java/jboss-module-common
 dev-java/buildmagic-tasks
 dev-java/jboss-module-system
 dev-java/jboss-module-jmx
+dev-java/eclipse-core
