@@ -1042,3 +1042,4 @@ dev-java/buildmagic-tasks
 dev-java/jboss-module-system
 dev-java/jboss-module-jmx
 dev-java/eclipse-core
+dev-java/eclipse-osgi
