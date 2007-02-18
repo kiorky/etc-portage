@@ -1045,3 +1045,4 @@ dev-java/eclipse-core
 dev-java/eclipse-osgi
 dev-java/eclipse-jface
 dev-java/findbugs
+dev-java/jrefactory

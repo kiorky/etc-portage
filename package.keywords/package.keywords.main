@@ -1360,3 +1360,4 @@ dev-java/eclipse-core ~x86
 dev-java/eclipse-osgi ~x86
 dev-java/eclipse-jface ~x86
 dev-java/findbugs ~x86
+dev-java/jrefactory ~x86
