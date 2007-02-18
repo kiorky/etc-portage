@@ -1046,3 +1046,4 @@ dev-java/eclipse-osgi
 dev-java/eclipse-jface
 dev-java/findbugs
 dev-java/jrefactory
+dev-java/ant-pretty
