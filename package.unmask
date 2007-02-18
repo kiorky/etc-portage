@@ -1043,4 +1043,5 @@ dev-java/jboss-module-system
 dev-java/jboss-module-jmx
 dev-java/eclipse-core
 dev-java/eclipse-osgi
-eclipse-jface
+dev-java/eclipse-jface
+dev-java/findbugs

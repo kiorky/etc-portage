@@ -1358,4 +1358,5 @@ media-video/dirac x86
 
 dev-java/eclipse-core ~x86
 dev-java/eclipse-osgi ~x86
-eclipse-jface ~x86
+dev-java/eclipse-jface ~x86
+dev-java/findbugs ~x86
