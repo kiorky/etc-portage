@@ -105,7 +105,6 @@ media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 X dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid  
-media-video/vlc X alsa arts esd mp3 mpeg ncurses nls ogg opengl oss png sdl truetype vorbis xml xv  a52 aalib avahi-bidi cdda cddb -corba -daap debug -directfb dts -dvb dvd -fbcon ffmpeg flac ggi gnutls hal httpd -libcaca -lirc -liv matroska mod rtsp samba screen shout skins skins2 speex stream svg svga theora upnp -v4l -vcd vlm win32codecs wxwindows -xinerama xosd  bidi  daap avahi  seamonkey skins2 
 media-video/xine-ui X aalib curl libcaca -lirc ncurses nls readline
 net-dns/avahi gdbm gtk python qt bookmarks dbus -doc howl-compat mdnsresponder-compat mono
 net-libs/aqbanking dtaus geldkarte hbci kde ofx qt chipcard
@@ -140,7 +139,7 @@ x11-libs/wxGTK X -gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
 x11-terms/mrxvt menubar
 x11-wm/compiz -kde svg -gnome
 media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama unicode -xmms -xvmc -amr -enca -iconv speex
-media-video/vlc dvb dvbpsi v4l mpc X a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musipac -oss -qt -qt4 -qt_embedded quicktime real -svga -tarkin tremor -twolame v4l -vcd vlm x264 skins2
+media-video/vlc dvb dvbpsi v4l mpc X a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musepac -oss qt -qt4 -qt_embedded quicktime real -svga -tarkin tremor -twolame v4l -vcd vlm x264 skins2 shout httpd musepack avahi cddb libcaca libnotify live       seamonkey sdl-image    upnp rtsp svga vcd truetype win32codecs xml         
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 dev-scheme/drscheme perl cairo jpeg opengl png
 dev-scheme/mzscheme cairo jpeg opengl perl
@@ -286,13 +285,12 @@ dev-java/commons-cli jikes junit
 dev-java/commons-lang- jikes 
 net-misc/icecast yp
 net-misc/icecast yp  theora
-media-video/ffmpeg  a52 aac -amr faac faad gpl mmx mp3 network ogg opts oss pp swscaler threads vorbis x264 xvid  zlib -avisynth-altivec -doc -dtsencode -ieee1394 -v4l -dts encode
 net-www/mod_security apache2
 media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
 dev-java/sun-jdk doc nsplugin 
 media-sound/streamripper vorbis
 www-apache/mod_jk apache2 java
-media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora
+media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l 
 net-p2p/amule nls unicode amuled remote
 dev-java/xalan jikes
 dev-perl/glib-perl xml
@@ -317,3 +315,4 @@ dev-scheme/guile threads    discouraged deprecated etworking  regex
 dev-java/xerces doc examples source
 dev-java/quartz jikes dbcp -jboss jmx jta -oracle -servlet-2.3 servlet-2.4 struts
 dev-java/geronimo-specs  activation  commonj corba corba-2.3 corba-3.0 ejb j2ee j2ee-connector j2ee-deployment j2ee-jacc j2ee-management javamail jaxr jaxrpc jms jsp jta qname saaj servlet   servlet jta
+dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
