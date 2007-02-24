@@ -1362,3 +1362,6 @@ dev-java/eclipse-jface ~x86
 dev-java/findbugs ~x86
 dev-java/jrefactory ~x86
 dev-java/ant-pretty ~x86
+media-tv/xdtv -*
+dev-java/jboss-module-common ~x86
+dev-java/jboss-module-common ~x86

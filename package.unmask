@@ -1047,3 +1047,5 @@ dev-java/eclipse-jface
 dev-java/findbugs
 dev-java/jrefactory
 dev-java/ant-pretty
+dev-java/jboss-module-common
+dev-java/jboss-module-common
