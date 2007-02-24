@@ -1370,3 +1370,4 @@ dev-java/opensaml ~x86
 dev-java/axion ~x86
 dev-java/xmlunit ~x86
 dev-java/stax ~x86
+dev-java/axiom ~x86
