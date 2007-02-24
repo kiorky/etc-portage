@@ -1368,3 +1368,4 @@ dev-java/jboss-module-common ~x86
 dev-db/db-je ~x86
 dev-java/opensaml ~x86
 dev-java/axion ~x86
+dev-java/xmlunit ~x86
