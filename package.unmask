@@ -1049,3 +1049,4 @@ dev-java/jrefactory
 dev-java/ant-pretty
 dev-java/jboss-module-common
 dev-java/jboss-module-common
+dev-db/db-je

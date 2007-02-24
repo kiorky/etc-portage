@@ -1365,3 +1365,4 @@ dev-java/ant-pretty ~x86
 media-tv/xdtv -*
 dev-java/jboss-module-common ~x86
 dev-java/jboss-module-common ~x86
+dev-db/db-je ~x86
