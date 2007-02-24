@@ -1053,3 +1053,4 @@ dev-db/db-je
 dev-java/opensaml
 dev-java/axion
 dev-java/xmlunit
+dev-java/stax
