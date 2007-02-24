@@ -1055,3 +1055,4 @@ dev-java/axion
 dev-java/xmlunit
 dev-java/stax
 dev-java/axiom
+dev-java/jaxen

@@ -1371,3 +1371,4 @@ dev-java/axion ~x86
 dev-java/xmlunit ~x86
 dev-java/stax ~x86
 dev-java/axiom ~x86
+dev-java/jaxen ~x86
