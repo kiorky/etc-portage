@@ -1373,3 +1373,4 @@ dev-java/stax ~x86
 dev-java/axiom ~x86
 dev-java/jaxen ~x86
 dev-java/neethi ~x86
+dev-java/ws-policy ~x86

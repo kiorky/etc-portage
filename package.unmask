@@ -1057,3 +1057,4 @@ dev-java/stax
 dev-java/axiom
 dev-java/jaxen
 dev-java/neethi
+dev-java/ws-policy
