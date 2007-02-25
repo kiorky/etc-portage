@@ -1058,3 +1058,4 @@ dev-java/axiom
 dev-java/jaxen
 dev-java/neethi
 dev-java/ws-policy
+dev-java/wss4j

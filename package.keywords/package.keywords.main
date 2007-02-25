@@ -1374,3 +1374,4 @@ dev-java/axiom ~x86
 dev-java/jaxen ~x86
 dev-java/neethi ~x86
 dev-java/ws-policy ~x86
+dev-java/wss4j ~x86
