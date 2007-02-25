@@ -1376,3 +1376,4 @@ dev-java/neethi ~x86
 dev-java/ws-policy ~x86
 dev-java/wss4j ~x86
 dev-java/jboss-commons-logging ~x86
+dev-java/jboss-velocity ~x86
