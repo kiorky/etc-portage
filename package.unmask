@@ -1059,3 +1059,4 @@ dev-java/jaxen
 dev-java/neethi
 dev-java/ws-policy
 dev-java/wss4j
+dev-java/jboss-commons-logging
