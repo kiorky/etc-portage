@@ -1067,3 +1067,4 @@ dev-java/commons-jelly-tags-define
 dev-java/commons-jelly-tags-xml
 dev-java/commons-jelly-tags-util
 dev-java/commons-jelly-tags-log
+dev-java/commons-jelly-tags-dynabean

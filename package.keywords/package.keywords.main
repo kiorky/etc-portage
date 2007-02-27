@@ -1383,3 +1383,4 @@ dev-java/commons-jelly-tags-define ~x86
 dev-java/commons-jelly-tags-xml ~x86
 dev-java/commons-jelly-tags-util ~x86
 dev-java/commons-jelly-tags-log ~x86
+dev-java/commons-jelly-tags-dynabean ~x86
