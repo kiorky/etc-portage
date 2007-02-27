@@ -1061,3 +1061,4 @@ dev-java/ws-policy
 dev-java/wss4j
 dev-java/jboss-commons-logging
 dev-java/jboss-velocity
+dev-java/commons-betwixt

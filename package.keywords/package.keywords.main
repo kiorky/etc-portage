@@ -1377,3 +1377,4 @@ dev-java/ws-policy ~x86
 dev-java/wss4j ~x86
 dev-java/jboss-commons-logging ~x86
 dev-java/jboss-velocity ~x86
+dev-java/commons-betwixt ~x86
