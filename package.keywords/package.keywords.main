@@ -1386,3 +1386,4 @@ dev-java/commons-jelly-tags-log ~x86
 dev-java/commons-jelly-tags-dynabean ~x86
 dev-java/commons-jelly-tags-ant ~x86
 dev-java/commons-grant ~x86
+dev-java/commons-graph ~x86
