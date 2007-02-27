@@ -1378,3 +1378,4 @@ dev-java/wss4j ~x86
 dev-java/jboss-commons-logging ~x86
 dev-java/jboss-velocity ~x86
 dev-java/commons-betwixt ~x86
+dev-java/commons-jelly-tags-define- ~x86
