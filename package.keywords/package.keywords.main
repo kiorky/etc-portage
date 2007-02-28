@@ -1388,3 +1388,4 @@ dev-java/commons-jelly-tags-ant ~x86
 dev-java/commons-grant ~x86
 dev-java/commons-graph ~x86
 dev-java/werkz ~x86
+dev-java/classworlds ~x86
