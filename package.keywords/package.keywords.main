@@ -1392,3 +1392,4 @@ dev-java/classworlds ~x86
 dev-java/classworlds ~x86
 dev-java/plexus-utils ~x86
 net-fs/nfs-utils ~x86
+net-wireless/aircrack-ng ~x86

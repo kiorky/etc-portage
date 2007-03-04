@@ -1076,3 +1076,4 @@ dev-java/classworlds
 dev-java/classworlds
 dev-java/plexus-utils
 net-fs/nfs-utils
+net-wireless/aircrack-ng
