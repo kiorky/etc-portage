@@ -1391,3 +1391,4 @@ dev-java/werkz ~x86
 dev-java/classworlds ~x86
 dev-java/classworlds ~x86
 dev-java/plexus-utils ~x86
+net-fs/nfs-utils ~x86
