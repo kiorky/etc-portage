@@ -1079,3 +1079,4 @@ net-fs/nfs-utils
 net-wireless/aircrack-ng
 net-wireless/ndiswrapper
 dev-db/qt-unixODBC
+net-wireless/madwifi-old
