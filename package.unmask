@@ -1078,3 +1078,4 @@ dev-java/plexus-utils
 net-fs/nfs-utils
 net-wireless/aircrack-ng
 net-wireless/ndiswrapper
+dev-db/qt-unixODBC
