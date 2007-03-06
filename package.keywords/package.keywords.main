@@ -1396,3 +1396,4 @@ net-wireless/aircrack-ng ~x86
 net-wireless/ndiswrapper ~x86
 dev-db/qt-unixODBC ~x86
 net-wireless/madwifi-old ~x86
+net-wireless/madwifi-old-tools ~x86
