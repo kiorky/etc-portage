@@ -1404,3 +1404,4 @@ dev-java/xml-commons-resolver ~x86
 dev-java/tomcat-jasper ~x86
 dev-java/tomcat-jasper ~x86
 sys-apps/pcmcia-cs-modules ~x86
+sys-apps/pcmcia-cs ~x86

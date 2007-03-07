@@ -1088,3 +1088,4 @@ dev-java/xml-commons-resolver
 dev-java/tomcat-jasper
 dev-java/tomcat-jasper
 sys-apps/pcmcia-cs-modules
+sys-apps/pcmcia-cs
