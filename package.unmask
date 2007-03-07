@@ -1089,3 +1089,4 @@ dev-java/tomcat-jasper
 dev-java/tomcat-jasper
 sys-apps/pcmcia-cs-modules
 sys-apps/pcmcia-cs
+sys-apps/pcmcia-cs-cis
