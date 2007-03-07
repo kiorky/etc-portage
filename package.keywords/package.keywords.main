@@ -1406,3 +1406,4 @@ dev-java/tomcat-jasper ~x86
 sys-apps/pcmcia-cs-modules ~x86
 sys-apps/pcmcia-cs ~x86
 sys-apps/pcmcia-cs-cis ~x86
+sys-apps/pcmciautils ~x86
