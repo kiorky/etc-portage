@@ -1403,3 +1403,4 @@ dev-java/xalan-serializer ~x86
 dev-java/xml-commons-resolver ~x86
 dev-java/tomcat-jasper ~x86
 dev-java/tomcat-jasper ~x86
+sys-apps/pcmcia-cs-modules ~x86
