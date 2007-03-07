@@ -1081,3 +1081,4 @@ net-wireless/ndiswrapper
 dev-db/qt-unixODBC
 net-wireless/madwifi-old
 net-wireless/madwifi-old-tools
+dev-java/xerces
