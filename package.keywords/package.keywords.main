@@ -1400,5 +1400,5 @@ net-wireless/madwifi-old-tools ~x86
 dev-java/xerces ~x86
 dev-java/xalan-serializer ~x86
 dev-java/xml-commons-resolver ~x86
-ndev-java/tomcat-jasper ~x86
+dev-java/tomcat-jasper ~x86
 dev-java/tomcat-jasper ~x86
