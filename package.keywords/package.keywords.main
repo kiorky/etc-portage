@@ -1407,3 +1407,4 @@ sys-apps/pcmcia-cs-modules ~x86
 sys-apps/pcmcia-cs ~x86
 sys-apps/pcmcia-cs-cis ~x86
 sys-apps/pcmciautils ~x86
+net-analyzer/macchanger ~x86

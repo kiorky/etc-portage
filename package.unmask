@@ -1091,3 +1091,4 @@ sys-apps/pcmcia-cs-modules
 sys-apps/pcmcia-cs
 sys-apps/pcmcia-cs-cis
 sys-apps/pcmciautils
+net-analyzer/macchanger
