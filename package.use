@@ -319,4 +319,5 @@ dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
 net-www/mplayerplug-in gtk divx gmedia quicktime realmedia wmp
 media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc -xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
 dev-java/jboss-commons-logging avalon-logkit log4j servletapi avalon-framework doc source
+net-wireless/ndiswrapper usb
 net-wireless/madwifi-ng amrr injection  -onoe
