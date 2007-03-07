@@ -1397,6 +1397,7 @@ net-wireless/ndiswrapper ~x86
 dev-db/qt-unixODBC ~x86
 net-wireless/madwifi-old ~x86
 net-wireless/madwifi-old-tools ~x86
+sys-apps/pcmcia-cs-modules ~x86
 dev-java/xerces ~x86
 dev-java/xalan-serializer ~x86
 dev-java/xml-commons-resolver ~x86

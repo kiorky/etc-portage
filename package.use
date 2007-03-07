@@ -117,7 +117,7 @@ net-print/foomatic-filtersdb cups
 net-print/hpijs cups ppds foomaticdb 
 net-www/mplayerplug-in gecko-sdk gtk
 nome-extra/evolution-data-server -gnome ipv6 ssl -debug -doc kerberos krb4 ldap nntp
-sys-apps/dbus X gtk python qt mono
+ys-apps/dbus X gtk python qt mono
 sys-apps/hal -acpi -debug -doc -pam_console -pcmcia
 sys-apps/hal crypt -acpi -debug dmi -doc -pcmcia
 sys-devel/gcc gcj 
@@ -321,3 +321,4 @@ media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc -xinerama neXt Xaw3d mmx zvbi a
 dev-java/jboss-commons-logging avalon-logkit log4j servletapi avalon-framework doc source
 net-wireless/ndiswrapper usb
 net-wireless/madwifi-ng amrr injection  -onoe
+net-wireless/madwifi-old amrr
