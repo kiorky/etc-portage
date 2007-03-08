@@ -1093,3 +1093,4 @@ sys-apps/pcmcia-cs-cis
 sys-apps/pcmciautils
 net-analyzer/macchanger
 sys-devel/qconf-cvs
+sys-libs/libstdc++-v3

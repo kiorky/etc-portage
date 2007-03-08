@@ -1409,3 +1409,4 @@ sys-apps/pcmcia-cs-cis ~x86
 sys-apps/pcmciautils ~x86
 net-analyzer/macchanger ~x86
 sys-devel/qconf-cvs ~x86
+sys-libs/libstdc++-v3 ~x86
