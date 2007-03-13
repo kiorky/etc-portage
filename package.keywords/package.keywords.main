@@ -1410,3 +1410,5 @@ sys-apps/pcmciautils ~x86
 net-analyzer/macchanger ~x86
 sys-devel/qconf-cvs ~x86
 sys-libs/libstdc++-v3 ~x86
+dev-lang/yasm ~x86
+dev-lang/yasm ~x86

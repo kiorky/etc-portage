@@ -1094,3 +1094,5 @@ sys-apps/pcmciautils
 net-analyzer/macchanger
 sys-devel/qconf-cvs
 sys-libs/libstdc++-v3
+ndev-lang/yasm
+dev-lang/yasm
