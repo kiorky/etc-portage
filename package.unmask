@@ -1097,3 +1097,4 @@ sys-libs/libstdc++-v3
 ndev-lang/yasm
 dev-lang/yasm
 media-sound/gpodder
+sys-kernel/gentoo-sources

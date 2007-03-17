@@ -1413,3 +1413,4 @@ sys-libs/libstdc++-v3 ~x86
 dev-lang/yasm ~x86
 dev-lang/yasm ~x86
 media-sound/gpodder ~x86
+sys-kernel/gentoo-sources ~x86
