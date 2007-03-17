@@ -1096,3 +1096,4 @@ sys-devel/qconf-cvs
 sys-libs/libstdc++-v3
 ndev-lang/yasm
 dev-lang/yasm
+media-sound/gpodder
