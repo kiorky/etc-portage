@@ -1104,3 +1104,4 @@ dev-python/formencode
 dev-python/simplejson
 dev-python/turbogears
 dev-python/ruledispatch
+dev-python/pyprotocols
