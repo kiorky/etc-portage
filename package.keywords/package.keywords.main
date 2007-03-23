@@ -1433,3 +1433,4 @@ dev-python/pastescript ~x86
 dev-python/pastedeploy ~x86
 dev-python/paste ~x86
 dev-python/turbojson ~x86
+dev-python/configobj ~x86

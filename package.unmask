@@ -1117,3 +1117,4 @@ dev-python/pastescript
 dev-python/pastedeploy
 dev-python/paste
 dev-python/turbojson
+dev-python/configobj
