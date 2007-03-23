@@ -1099,3 +1099,4 @@ dev-lang/yasm
 media-sound/gpodder
 sys-kernel/gentoo-sources
 games-server/tetrix
+dev-python/turbogears
