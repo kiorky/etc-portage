@@ -1116,3 +1116,4 @@ dev-python/cheetah
 dev-python/pastescript
 dev-python/pastedeploy
 dev-python/paste
+dev-python/turbojson
