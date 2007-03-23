@@ -1425,3 +1425,4 @@ dev-python/turbokid ~x86
 dev-python/kid ~x86
 dev-python/sqlobject ~x86
 dev-python/genshi ~x86
+dev-python/cherrypy ~x86
