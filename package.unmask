@@ -1101,3 +1101,4 @@ sys-kernel/gentoo-sources
 games-server/tetrix
 dev-python/turbogears
 dev-python/formencode
+dev-python/simplejson
