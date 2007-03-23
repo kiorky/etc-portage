@@ -1429,3 +1429,4 @@ dev-python/cherrypy ~x86
 dev-python/celementtree ~x86
 dev-python/turbocheetah ~x86
 dev-python/cheetah ~x86
+dev-python/pastescript ~x86
