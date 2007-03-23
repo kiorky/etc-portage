@@ -1421,3 +1421,4 @@ dev-python/simplejson ~x86
 dev-python/turbogears ~x86
 dev-python/ruledispatch ~x86
 dev-python/pyprotocols ~x86
+dev-python/turbokid ~x86
