@@ -1112,3 +1112,4 @@ dev-python/genshi
 dev-python/cherrypy
 dev-python/celementtree
 dev-python/turbocheetah
+dev-python/cheetah
