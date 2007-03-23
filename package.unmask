@@ -1111,3 +1111,4 @@ dev-python/sqlobject
 dev-python/genshi
 dev-python/cherrypy
 dev-python/celementtree
+dev-python/turbocheetah

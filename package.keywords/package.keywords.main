@@ -1427,3 +1427,4 @@ dev-python/sqlobject ~x86
 dev-python/genshi ~x86
 dev-python/cherrypy ~x86
 dev-python/celementtree ~x86
+dev-python/turbocheetah ~x86
