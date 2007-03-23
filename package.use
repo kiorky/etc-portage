@@ -322,3 +322,4 @@ dev-java/jboss-commons-logging avalon-logkit log4j servletapi avalon-framework d
 net-wireless/ndiswrapper usb
 net-wireless/madwifi-ng amrr injection  -onoe
 net-wireless/madwifi-old amrr
+dev-python/sqlobject mysql -doc -firebird postgres sqlite
