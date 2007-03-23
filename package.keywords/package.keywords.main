@@ -1416,3 +1416,4 @@ media-sound/gpodder ~x86
 sys-kernel/gentoo-sources ~x86
 games-server/tetrix ~x86
 dev-python/turbogears ~x86
+dev-python/formencode ~x86

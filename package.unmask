@@ -1100,3 +1100,4 @@ media-sound/gpodder
 sys-kernel/gentoo-sources
 games-server/tetrix
 dev-python/turbogears
+dev-python/formencode
