@@ -1115,3 +1115,4 @@ dev-python/turbocheetah
 dev-python/cheetah
 dev-python/pastescript
 dev-python/pastedeploy
+dev-python/paste
