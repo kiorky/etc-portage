@@ -1118,3 +1118,4 @@ dev-python/pastedeploy
 dev-python/paste
 dev-python/turbojson
 dev-python/configobj
+dev-python/ipython
