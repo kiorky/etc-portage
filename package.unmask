@@ -1119,3 +1119,4 @@ dev-python/paste
 dev-python/turbojson
 dev-python/configobj
 dev-python/ipython
+dev-python/winpdb
