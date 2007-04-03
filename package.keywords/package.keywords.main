@@ -1439,3 +1439,4 @@ dev-python/winpdb ~x86
 media-fonts/sgi-fonts ~x86
 games-action/bomberclone ~x86
 app-misc/hal-info ~x86
+sys-auth/consolekit ~x86

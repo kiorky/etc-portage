@@ -1123,3 +1123,4 @@ dev-python/winpdb
 media-fonts/sgi-fonts
 games-action/bomberclone
 app-misc/hal-info
+sys-auth/consolekit
