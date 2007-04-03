@@ -1122,3 +1122,4 @@ dev-python/ipython
 dev-python/winpdb
 media-fonts/sgi-fonts
 games-action/bomberclone
+app-misc/hal-info
