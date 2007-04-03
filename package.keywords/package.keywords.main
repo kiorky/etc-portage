@@ -1442,3 +1442,4 @@ app-misc/hal-info ~x86
 sys-auth/consolekit ~x86
 sys-libs/pam ~x86
 virtual/c++-tr1-memory ~x86
+virtual/c++-tr1-type-traits ~x86

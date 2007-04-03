@@ -1126,3 +1126,4 @@ app-misc/hal-info
 sys-auth/consolekit
 sys-libs/pam
 virtual/c++-tr1-memory
+virtual/c++-tr1-type-traits
