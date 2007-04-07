@@ -1127,5 +1127,4 @@ sys-auth/consolekit
 sys-libs/pam
 virtual/c++-tr1-memory
 virtual/c++-tr1-type-traits
-v
 virtual/c++-tr1-functional
