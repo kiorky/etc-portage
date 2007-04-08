@@ -1140,3 +1140,4 @@ dev-java/jsr250
 dev-java/sun-saaj-bin
 dev-java/sun-fastinfoset-bin
 dev-java/sun-sjsxp-bin
+dev-java/xsdlib
