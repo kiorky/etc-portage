@@ -1444,3 +1444,4 @@ sys-libs/pam ~x86
 virtual/c++-tr1-memory ~x86
 virtual/c++-tr1-type-traits ~x86
 virtual/c++-tr1-functional ~x86
+dev-java/skinlf ~x86

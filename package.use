@@ -323,3 +323,6 @@ net-wireless/ndiswrapper usb
 net-wireless/madwifi-ng amrr injection  -onoe
 net-wireless/madwifi-old amrr
 dev-python/sqlobject mysql -doc -firebird postgres sqlite
+app-emulation/wine X  alsa cups lcms nas ncurses  jpeg  -opengl  xml scanner
+media-libs/lcms  python zlib  jpeg tiff
+media-gfx/fontforge X unicode gif jpeg png  svg  tiff truetype
