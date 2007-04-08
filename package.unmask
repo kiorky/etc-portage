@@ -1139,3 +1139,4 @@ dev-java/sun-jaxws-bin
 dev-java/jsr250
 dev-java/sun-saaj-bin
 dev-java/sun-fastinfoset-bin
+dev-java/sun-sjsxp-bin

@@ -1455,3 +1455,4 @@ dev-java/sun-jaxws-bin ~x86
 dev-java/jsr250 ~x86
 dev-java/sun-saaj-bin ~x86
 dev-java/sun-fastinfoset-bin ~x86
+dev-java/sun-sjsxp-bin ~x86
