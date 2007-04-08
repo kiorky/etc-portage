@@ -1129,3 +1129,4 @@ virtual/c++-tr1-memory
 virtual/c++-tr1-type-traits
 virtual/c++-tr1-functional
 dev-java/skinlf
+dev-util/netbeans
