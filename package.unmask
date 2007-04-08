@@ -1136,3 +1136,4 @@ dev-java/jmi-interface
 dev-java/swing-layout
 dev-java/prefuse
 dev-java/sun-jaxws-bin
+dev-java/jsr250
