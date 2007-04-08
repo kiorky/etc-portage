@@ -1144,3 +1144,4 @@ dev-java/xsdlib
 dev-java/sun-jaxp-bin
 dev-java/sun-jwsdp-shared-bin
 dev-java/jsr181
+dev-java/sun-jaxrpc-bin
