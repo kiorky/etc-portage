@@ -1449,3 +1449,4 @@ dev-util/netbeans ~x86
 dev-java/glassfish-persistence ~x86
 dev-java/glassfish-persistence ~x86
 dev-java/jmi-interface ~x86
+dev-java/swing-layout ~x86
