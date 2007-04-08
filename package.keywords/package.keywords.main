@@ -1457,3 +1457,4 @@ dev-java/sun-saaj-bin ~x86
 dev-java/sun-fastinfoset-bin ~x86
 dev-java/sun-sjsxp-bin ~x86
 dev-java/xsdlib ~x86
+dev-java/sun-jaxp-bin ~x86

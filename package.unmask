@@ -1141,3 +1141,4 @@ dev-java/sun-saaj-bin
 dev-java/sun-fastinfoset-bin
 dev-java/sun-sjsxp-bin
 dev-java/xsdlib
+dev-java/sun-jaxp-bin
