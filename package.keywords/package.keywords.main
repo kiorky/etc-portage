@@ -1448,3 +1448,4 @@ dev-java/skinlf ~x86
 dev-util/netbeans ~x86
 dev-java/glassfish-persistence ~x86
 dev-java/glassfish-persistence ~x86
+dev-java/jmi-interface ~x86
