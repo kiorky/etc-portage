@@ -1142,3 +1142,4 @@ dev-java/sun-fastinfoset-bin
 dev-java/sun-sjsxp-bin
 dev-java/xsdlib
 dev-java/sun-jaxp-bin
+dev-java/sun-jwsdp-shared-bin
