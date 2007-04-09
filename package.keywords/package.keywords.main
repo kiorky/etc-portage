@@ -1461,3 +1461,4 @@ dev-java/sun-jaxp-bin ~x86
 dev-java/sun-jwsdp-shared-bin ~x86
 dev-java/jsr181 ~x86
 dev-java/sun-jaxrpc-bin ~x86
+jgoodies-forms/jgoodies-forms ~x86
