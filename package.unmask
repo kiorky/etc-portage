@@ -1149,3 +1149,4 @@ dev-java/jgoodies-forms
 dev-java/java-config
 dev-java/javahelp
 dev-java/jsr93
+sqlalchemy
