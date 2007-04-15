@@ -1,1 +1,1 @@
-net-mail/dovecot -debug -doc ipv6 -kerberos -ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail
+net-mail/dovecot -debug -doc ipv6 -kerberos -ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail suid
