@@ -1,3 +1,4 @@
 net-mail/dovecot -debug -doc ipv6 -kerberos -ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail suid
 mail-mta/postfix ipv6 mysql pam ssl sasl  
 dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond 
+dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond 
