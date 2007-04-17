@@ -1154,3 +1154,4 @@ dev-python/pysqlite
 net-mail/dovecot
 dev-java/plexus-classworlds
 dev-java/plexus-component-api
+dev-java/plexus-container-default
