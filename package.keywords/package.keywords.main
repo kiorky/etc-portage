@@ -1469,3 +1469,4 @@ dev-java/jsr93 ~x86
 dev-python/sqlalchemy ~x86
 dev-python/pysqlite ~x86
 net-mail/dovecot ~x86
+dev-java/plexus-classworlds ~x86
