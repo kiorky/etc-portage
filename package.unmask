@@ -1157,3 +1157,4 @@ dev-java/plexus-component-api
 dev-java/plexus-container-default
 dev-java/plexus-velocity
 dev-java/plexus-interactivity-api
+dev-java/wagon-provider-api
