@@ -1477,3 +1477,4 @@ dev-java/plexus-interactivity-api ~x86
 dev-java/wagon-provider-api ~x86
 dev-java/wagon-ssh-common ~x86
 dev-java/wagon-ssh-common-test ~x86
+dev-java/wagon-ssh-external ~x86
