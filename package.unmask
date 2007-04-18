@@ -1159,3 +1159,4 @@ dev-java/plexus-velocity
 dev-java/plexus-interactivity-api
 dev-java/wagon-provider-api
 dev-java/wagon-ssh-common
+dev-java/wagon-ssh-common-test
