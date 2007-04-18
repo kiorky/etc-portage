@@ -1475,3 +1475,4 @@ dev-java/plexus-container-default ~x86
 dev-java/plexus-velocity ~x86
 dev-java/plexus-interactivity-api ~x86
 dev-java/wagon-provider-api ~x86
+dev-java/wagon-ssh-common ~x86
