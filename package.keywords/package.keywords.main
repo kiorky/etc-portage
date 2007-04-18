@@ -1479,3 +1479,4 @@ dev-java/wagon-ssh-common ~x86
 dev-java/wagon-ssh-common-test ~x86
 dev-java/wagon-ssh-external ~x86
 ev-java/wagon-ssh ~x86
+dev-java/wagon-ssh ~x86
