@@ -1162,3 +1162,4 @@ dev-java/wagon-ssh-common
 dev-java/wagon-ssh-common-test
 dev-java/wagon-ssh-external
 dev-java/wagon-ssh
+dev-java/wagon-ssh
