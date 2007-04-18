@@ -1481,3 +1481,4 @@ dev-java/wagon-ssh-external ~x86
 dev-java/wagon-ssh ~x86
 dev-java/wagon-ssh ~x86
 dev-java/wagon-file ~x86
+dev-java/wagon-http-shared ~x86
