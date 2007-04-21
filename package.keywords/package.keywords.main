@@ -1488,3 +1488,4 @@ www-servers/jetty ~x86
 dev-java/tomcat-jasper ~x86
 dev-java/plexus-jetty-httpd ~x86
 dev-java/wagon-http-lightweight ~x86
+dev-java/wagon-http ~x86

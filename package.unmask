@@ -1171,3 +1171,4 @@ www-servers/jetty
 dev-java/tomcat-jasper
 dev-java/plexus-jetty-httpd
 dev-java/wagon-http-lightweight
+dev-java/wagon-http
