@@ -1168,3 +1168,4 @@ dev-java/wagon-http-shared
 dev-java/wagon-http-lightweight
 net-firewall/iptables
 www-servers/jetty
+dev-java/tomcat-jasper
