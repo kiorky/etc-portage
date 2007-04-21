@@ -336,3 +336,7 @@ dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond
 
 mail-filter/maildrop berkdb gdbm mysql authlib 
 mail-filter/maildrop berkdb gdbm mysql authlib 
+net-firewall/iptabled  ipv6  extensions imq l7filter 
+net-firewall/iptables  ipv6  extensions imq l7filter 
+net-firewall/iptables  ipv6  -extensions imq l7filter 
+net-firewall/iptables  ipv6  -extensions -imq -l7filter 
