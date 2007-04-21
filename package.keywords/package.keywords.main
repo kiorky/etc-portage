@@ -1486,3 +1486,4 @@ dev-java/wagon-http-lightweight ~x86
 net-firewall/iptables ~x86
 www-servers/jetty ~x86
 dev-java/tomcat-jasper ~x86
+dev-java/plexus-jetty-httpd ~x86
