@@ -1179,3 +1179,4 @@ dev-java/excalibur-thread
 dev-java/cornerstone-threads
 dev-java/cornerstone-sockets
 dev-java/cornerstone-connectio
+dev-java/cornerstone-connection
