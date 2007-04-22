@@ -1494,3 +1494,4 @@ dev-java/excalibur-instrument ~x86
 dev-java/excalibur-pool ~x86
 dev-java/excalibur-thread ~x86
 dev-java/cornerstone-threads ~x86
+dev-java/cornerstone-sockets ~x86

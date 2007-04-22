@@ -1177,3 +1177,4 @@ dev-java/excalibur-instrument
 dev-java/excalibur-pool
 dev-java/excalibur-thread
 dev-java/cornerstone-threads
+dev-java/cornerstone-sockets
