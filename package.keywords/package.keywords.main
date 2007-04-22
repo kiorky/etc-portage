@@ -1497,3 +1497,5 @@ dev-java/cornerstone-threads ~x86
 dev-java/cornerstone-sockets ~x86
 dev-java/cornerstone-connectio ~x86
 dev-java/cornerstone-connection ~x86
+dev-java/plexus-compiler ~x86
+dev-java/plexus-compiler ~x86
