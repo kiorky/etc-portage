@@ -1489,3 +1489,4 @@ dev-java/tomcat-jasper ~x86
 dev-java/plexus-jetty-httpd ~x86
 dev-java/wagon-http-lightweight ~x86
 dev-java/wagon-http ~x86
+dev-java/cornerstone-sockets-api ~x86
