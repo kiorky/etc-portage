@@ -1492,3 +1492,4 @@ dev-java/wagon-http ~x86
 dev-java/cornerstone-sockets-api ~x86
 dev-java/excalibur-instrument ~x86
 dev-java/excalibur-pool ~x86
+dev-java/excalibur-thread ~x86

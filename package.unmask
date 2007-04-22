@@ -1175,3 +1175,4 @@ dev-java/wagon-http
 dev-java/cornerstone-sockets-api
 dev-java/excalibur-instrument
 dev-java/excalibur-pool
+dev-java/excalibur-thread
