@@ -1500,3 +1500,4 @@ dev-java/cornerstone-connection ~x86
 dev-java/plexus-compiler ~x86
 dev-java/plexus-compiler ~x86
 dev-java/plexus-compiler-api ~x86
+dev-java/plexus-avalon-personality ~x86
