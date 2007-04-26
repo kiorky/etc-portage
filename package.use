@@ -336,7 +336,16 @@ dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond
 
 mail-filter/maildrop berkdb gdbm mysql authlib 
 mail-filter/maildrop berkdb gdbm mysql authlib 
-net-firewall/iptabled  ipv6  extensions imq l7filter 
-net-firewall/iptables  ipv6  extensions imq l7filter 
-net-firewall/iptables  ipv6  -extensions imq l7filter 
 net-firewall/iptables  ipv6  -extensions -imq -l7filter 
+dev-python/sqlobject mysql postgres sqlite doc -firebird
+dev-python/sqlalchemy mysql doc examples -firebird -mssql postgres sqlite -test
+dev-python/turbogears doc examples
+dev-python/pysqlite doc examples
+dev-python/ipython doc examples
+dev-python/pysqlite doc examples
+dev-python/mysql-python doc examples
+dev-python/pyxml doc examples
+dev-python/genshi examples
+dev-python/mysql-python doc  examples
+dev-python/cherrypy  doc  examples
+dev-python/celementtree  doc  examples
