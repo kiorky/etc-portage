@@ -1503,3 +1503,4 @@ dev-java/plexus-compiler-api ~x86
 dev-java/plexus-avalon-personality ~x86
 dev-java/plexus-ftpd ~x86
 dev-java/wagon-ftp ~x86
+dev-java/excalibur-i18n ~x86
