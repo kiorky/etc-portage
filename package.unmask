@@ -1187,3 +1187,4 @@ dev-java/plexus-avalon-personality
 dev-java/plexus-ftpd
 dev-java/wagon-ftp
 dev-java/excalibur-i18n
+dev-java/plexus-i18n
