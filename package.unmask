@@ -1189,3 +1189,4 @@ dev-java/wagon-ftp
 dev-java/excalibur-i18n
 dev-java/plexus-i18n
 dev-java/doxia
+dev-java/maven-reporting-api
