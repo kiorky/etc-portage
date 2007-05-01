@@ -1523,3 +1523,4 @@ dev-java/maven-artifact-manager ~x86
 dev-java/maven-artifact-test ~x86
 dev-java/maven-project ~x86
 dev-java/maven-error-diagnostics ~x86
+dev-java/maven-core ~x86
