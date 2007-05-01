@@ -1194,3 +1194,4 @@ dev-java/maven-model
 dev-java/maven-model
 dev-java/maven-settings
 dev-java/maven-repository-metadata
+dev-java/maven-profile
