@@ -1203,3 +1203,4 @@ dev-java/maven-plugin-descriptor
 dev-java/maven-plugin-parameter-documenter
 dev-java/maven-monitor
 dev-java/maven-artifact-manager
+dev-java/maven-artifact-test

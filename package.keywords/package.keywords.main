@@ -1520,3 +1520,4 @@ dev-java/maven-plugin-descriptor ~x86
 dev-java/maven-plugin-parameter-documenter ~x86
 dev-java/maven-monitor ~x86
 dev-java/maven-artifact-manager ~x86
+dev-java/maven-artifact-test ~x86
