@@ -1200,3 +1200,4 @@ dev-java/maven-plugin-api
 dev-java/maven-artifact-
 dev-java/maven-artifact
 dev-java/maven-plugin-descriptor
+dev-java/maven-plugin-parameter-documenter
