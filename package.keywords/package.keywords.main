@@ -1509,3 +1509,4 @@ dev-java/doxia ~x86
 dev-java/maven-reporting-api ~x86
 dev-java/maven-model ~x86
 dev-java/maven-model ~x86
+dev-java/maven-settings ~x86

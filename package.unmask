@@ -1192,3 +1192,4 @@ dev-java/doxia
 dev-java/maven-reporting-api
 dev-java/maven-model
 dev-java/maven-model
+dev-java/maven-settings
