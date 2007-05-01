@@ -1208,3 +1208,4 @@ dev-java/maven-project
 dev-java/maven-error-diagnostics
 dev-java/maven-core
 dev-java/maven-script
+dev-java/plexus-component-factories
