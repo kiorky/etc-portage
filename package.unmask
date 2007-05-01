@@ -1198,3 +1198,4 @@ dev-java/maven-profile
 dev-java/maven-plugin-registry
 dev-java/maven-plugin-api
 dev-java/maven-artifact-
+dev-java/maven-artifact
