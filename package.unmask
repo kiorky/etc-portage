@@ -1207,3 +1207,4 @@ dev-java/maven-artifact-test
 dev-java/maven-project
 dev-java/maven-error-diagnostics
 dev-java/maven-core
+dev-java/maven-script
