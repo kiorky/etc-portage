@@ -1512,3 +1512,4 @@ dev-java/maven-model ~x86
 dev-java/maven-settings ~x86
 dev-java/maven-repository-metadata ~x86
 dev-java/maven-profile ~x86
+dev-java/maven-plugin-registry ~x86
