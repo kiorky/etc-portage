@@ -1507,3 +1507,5 @@ dev-java/excalibur-i18n ~x86
 dev-java/plexus-i18n ~x86
 dev-java/doxia ~x86
 dev-java/maven-reporting-api ~x86
+dev-java/maven-model ~x86
+dev-java/maven-model ~x86
