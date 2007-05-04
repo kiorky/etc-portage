@@ -1526,3 +1526,4 @@ dev-java/maven-error-diagnostics ~x86
 dev-java/maven-core ~x86
 dev-java/maven-script ~x86
 dev-java/plexus-component-factories ~x86
+net-dns/avahi ~x86

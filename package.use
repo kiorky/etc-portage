@@ -349,3 +349,4 @@ dev-python/genshi examples
 dev-python/mysql-python doc  examples
 dev-python/cherrypy  doc  examples
 dev-python/celementtree  doc  examples
+net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat mono python -autoipd -doc qt3 qt4 -test
