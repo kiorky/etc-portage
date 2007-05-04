@@ -1,3 +1,4 @@
+
 # all -* marked are CVS ebuilds that will download the latest source from CVS.
 #anjuta
 app-accessibility/dasher ~x86
@@ -5,16 +6,23 @@ app-accessibility/gnome-mag
 app-accessibility/gnome-speech ~x86
 app-accessibility/gnopernicus ~x86
 app-accessibility/gok ~x86
+app-admin/eselect-esd ~x86
 app-admin/eselect-mysql ~x86
 app-admin/eselect-opengl ~x86
 app-admin/eselect-php ~x86
+app-admin/eselect-timidity ~x86
+app-admin/eselect-vi ~x86
 app-admin/eselect ~x86
 app-admin/gnome-system-tools ~x86
 app-admin/pessulus ~x86
 app-admin/php-toolkit ~x86  ~overlay maint
+app-admin/prelude-lml ~x86
+app-admin/prelude-manager ~x86
 app-admin/sabayon ~x86
 app-admin/system-tools-backends ~x86
+app-admin/webapp-config ~x86
 app-arch/file-roller ~x86
+app-arch/par2cmdline ~x86
 app-cdr/gnomebaker ~x86
 app-doc/chmlib ~x86
 app-doc/xorg-docs ~x86
@@ -23,18 +31,27 @@ app-editors/gedit-plugins ~x86
 app-editors/gedit ~x86
 app-editors/vim-core ~x86
 app-editors/vim ~x86
+app-emulation/qemu-softmmu ~x86
+app-emulation/qemu-user ~x86
 app-emulation/wine  ~x86
+app-emulation/xen-tools ~x86
+app-emulation/xen ~x86
+app-forensics/rkhunter ~x86
 app-i18n/koffice-i18n ~x86
 app-misc/beagle ~x86
 app-misc/evidence -*
 app-misc/examine -*
+app-misc/hal-info ~x86
 app-misc/ktoblzcheck ~x86
+app-misc/tomboy ~x86
 app-office/criawips ~x86
 app-office/gnucash ~x86
 app-office/koffice ~x86
 app-office/openoffice-bin ~x86
 app-office/openoffice ~x86
 app-portage/gentoolkit ~x86
+app-portage/overlay-utils ~x86
+app-portage/udept ~x86
 app-text/acroread ~x86
 app-text/evince ~x86
 app-text/evince- ~x86
@@ -42,21 +59,37 @@ app-text/ggv ~x86
 app-text/gnome-doc-utils ~x86
 app-text/gnome-doc ~x86
 app-text/gtranslator ~x86
+app-text/highlight ~x86
+app-text/htmltidy ~x86
 app-text/hunspell ~x86
 app-text/iso-codes ~x86
 app-text/poppler-bindings ~x86
 app-text/poppler ~x86
+# Compilers
+# Core Gentoo/Java Packages
 dev-cpp/bakery ~x86
+dev-cpp/cairomm ~x86
+dev-cpp/commoncpp2 ~x86
 dev-cpp/glibmm ~x86
+dev-cpp/gnome-vfsmm ~x86
 dev-cpp/gtkmm ~x86
+dev-cpp/libbonobomm ~x86
+dev-cpp/libbonobouimm ~x86
 dev-cpp/libgdamm ~x86
 dev-cpp/libglademm ~x86
 dev-cpp/libgnomemm ~x86
 dev-cpp/libgnomeuimm ~x86
 dev-cpp/libxmlpp ~x86
+dev-cpp/orbitcpp ~x86
+dev-db/db-je ~x86
 dev-db/edb -*
 dev-db/glom ~x86
+dev-db/hsqldb ~x86
 dev-db/libiodbc ~x86
+dev-db/mysql-gui-tools ~x86
+dev-db/phpmyadmin ~x86
+dev-db/qt-unixODBC ~x86
+dev-db/unixODBC ~x86
 dev-dotnet/art-sharp ~x86
 dev-dotnet/gconf-sharp ~x86
 dev-dotnet/gecko-sharp ~x86
@@ -68,38 +101,268 @@ dev-dotnet/gtk-sharp ~x86
 dev-dotnet/gtksourceview-sharp ~x86
 dev-dotnet/ikvm-bin ~x86
 dev-dotnet/libgdiplus ~x86
+dev-dotnet/pe-format ~x86
 dev-dotnet/vte-sharp ~x86
 dev-games/cel ~x86
 dev-games/crystalspace ~x86
+dev-java/ant
+dev-java/ant-antlr ~x86
+dev-java/ant-apache-bcel ~x86
+dev-java/ant-apache-bsf ~x86
+dev-java/ant-apache-log4j ~x86
+dev-java/ant-apache-oro ~x86
+dev-java/ant-apache-regexp ~x86
+dev-java/ant-apache-resolver ~x86
+dev-java/ant-commons-logging ~x86
+dev-java/ant-commons-net ~x86
+dev-java/ant-core
+dev-java/ant-javamail ~x86
+dev-java/ant-jdepend ~x86
+dev-java/ant-jmf ~x86
+dev-java/ant-jsch ~x86
+dev-java/ant-junit ~x86
+dev-java/ant-nodeps ~x86
+dev-java/ant-owanttask ~x86
+dev-java/ant-pretty ~x86
+dev-java/ant-swing ~x86
+dev-java/ant-tasks
+dev-java/ant-trax ~x86
+dev-java/apache-addressing ~x86
+dev-java/asm ~x86
+dev-java/aspectwerkz ~x86
+dev-java/axiom ~x86
+dev-java/axion ~x86
 dev-java/bcprov ~x86
+=dev-java/blackdown-jdk-1.4*
+=dev-java/blackdown-jre-1.4*
+dev-java/bsf ~x86
+dev-java/buildmagic-tasks ~x86
 dev-java/cairo-java ~x86
+dev-java/castor ~x86
+dev-java/cglib ~x86
+dev-java/classworlds ~x86
+dev-java/commons-betwixt ~x86
+dev-java/commons-grant ~x86
+dev-java/commons-graph ~x86
+dev-java/commons-httpclient ~x86
+dev-java/commons-httpclien ~x86
+dev-java/commons-jelly-tags-ant ~x86
+dev-java/commons-jelly-tags-define ~x86
+dev-java/commons-jelly-tags-define- ~x86
+dev-java/commons-jelly-tags-dynabean ~x86
+dev-java/commons-jelly-tags-junit ~x86
+dev-java/commons-jelly-tags-log ~x86
+dev-java/commons-jelly-tags-util ~x86
+dev-java/commons-jelly-tags-velocity ~x86
+dev-java/commons-jelly-tags-xml ~x86
+dev-java/commons-jelly ~x86
+dev-java/commons-lang ~x86
+dev-java/commons-logging ~x86
+dev-java/commons-transaction ~x86
+dev-java/cornerstone-connection ~x86
+dev-java/cornerstone-connectio ~x86
+dev-java/cornerstone-sockets-api ~x86
+dev-java/cornerstone-sockets ~x86
+dev-java/cornerstone-threads ~x86
+dev-java/doxia ~x86
+dev-java/eclipse-core ~x86
+dev-java/eclipse-ecj
+dev-java/eclipse-jface ~x86
+dev-java/eclipse-osgi ~x86
+dev-java/ehcache ~x86
+dev-java/excalibur-i18n ~x86
+dev-java/excalibur-instrument ~x86
+dev-java/excalibur-pool ~x86
+dev-java/excalibur-thread ~x86
+dev-java/findbugs ~x86
+dev-java/forehead ~x86
+dev-java/geronimo-specs ~x86
+dev-java/gjt-jpl-pattern ~x86
+dev-java/gjt-jpl-util ~x86
+dev-java/glassfish-persistence ~x86
 dev-java/glib-java ~x86
+dev-java/gnu-classpath-inetlib ~x86
+dev-java/hibernate-annotations-bin ~x86
+dev-java/hibernate-annotations ~x86
+dev-java/hibernate-entitymanager-bin ~x86
+dev-java/hibernate-entitymanager ~x86
+dev-java/hibernate ~x86
+=dev-java/ibm-jdk-bin-1.4*
+=dev-java/ibm-jdk-bin-1.5*
+=dev-java/ibm-jre-bin-1.4*
+dev-java/jacorb ~x86
+dev-java/jakarta-jstl ~x86
+dev-java/jakarta-regexp ~x86
+dev-java/jakarta-slide-webdavclient ~x86
+dev-java/japitools ~x86  
+dev-java/java-config
+dev-java/java-config-wrapper
 dev-java/java-config-wrapper ~x86
 dev-java/java-config ~x86
+dev-java/javahelp ~x86
+dev-java/java-sdk-docs
+dev-java/java-service-wrapper ~x86
+dev-java/javassist ~x86
+dev-java/javatoolkit
 dev-java/javatoolkit ~x86
+dev-java/jaxen ~x86
+dev-java/jboss-commons-logging ~x86
+dev-java/jboss-jacorb ~x86
+dev-java/jboss-module-common ~x86
+dev-java/jboss-module-jmx ~x86
+dev-java/jboss-module-system ~x86
+dev-java/jboss-velocity ~x86
+dev-java/jboss-wdsl4j ~x86
+dev-java/jboss-wsdl4j ~x86
+dev-java/jboss-wssl4j ~x86
+dev-java/jdepend ~x86
+dev-java/jgoodies-forms ~x86
+dev-java/jikes
+dev-java/jmi-interface ~x86
+dev-java/joesnmp ~x86
+dev-java/jrefactory ~x86
+=dev-java/jrockit-jdk-bin-1.4*
+=dev-java/jrockit-jdk-bin-1.5*
+dev-java/jsch ~x86
+dev-java/jsfapi ~x86
+dev-java/jsr181 ~x86
+dev-java/jsr250 ~x86
+dev-java/jsr93 ~x86
+dev-java/juddi ~x86
+dev-java/junit ~x86
+dev-java/kaffe
+dev-java/kxml ~x86
 dev-java/libgconf-java ~x86
 dev-java/libglade-java ~x86
 dev-java/libgnome-java ~x86
 dev-java/libgtk-java ~x86
+dev-java/log4j ~x86
+dev-java/lucene
+dev-java/maven-ant-plugin ~x86
+dev-java/maven-artifact-manager ~x86
+dev-java/maven-artifact-test ~x86
+dev-java/maven-artifact ~x86
+dev-java/maven-artifact- ~x86
+dev-java/maven-bin ~x86
+dev-java/maven-core ~x86
+dev-java/maven-error-diagnostics ~x86
+dev-java/maven-jar-plugin ~x86
+dev-java/maven-license-plugin ~x86
+dev-java/maven-model ~x86
+dev-java/maven-monitor ~x86
+dev-java/maven-plugin-api ~x86
+dev-java/maven-plugin-descriptor ~x86
+dev-java/maven-plugin-parameter-documenter ~x86
+dev-java/maven-plugin-registry ~x86
+dev-java/maven-profile ~x86
+dev-java/maven-project ~x86
+dev-java/maven-reporting-api ~x86
+dev-java/maven-repository-metadata ~x86
+dev-java/maven-script ~x86
+dev-java/maven-settings ~x86
+dev-java/maven ~x86
+dev-java/monolog ~x86
+dev-java/myfaces ~x86
+dev-java/neethi ~x86
+dev-java/opensaml ~x86
+dev-java/oscache ~x86
+dev-java/p6spy ~x86
+dev-java/picocontainer ~x86
+dev-java/plexus-avalon-personality ~x86
+dev-java/plexus-classworlds ~x86
+dev-java/plexus-compiler-api ~x86
+dev-java/plexus-compiler ~x86
+dev-java/plexus-component-api ~x86
+dev-java/plexus-component-factories ~x86
+dev-java/plexus-container-default ~x86
+dev-java/plexus-ftpd ~x86
+dev-java/plexus-i18n ~x86
+dev-java/plexus-interactivity-api ~x86
+dev-java/plexus-jetty-httpd ~x86
+dev-java/plexus-utils ~x86
+dev-java/plexus-velocity ~x86
+dev-java/prefuse ~x86
+dev-java/qdox ~x86
+dev-java/quartz ~x86
+dev-java/scout ~x86
+dev-java/skinlf ~x86
+dev-java/snmptrapappender ~x86
+dev-java/stax ~x86
+dev-java/struts-legacy ~x86
+dev-java/struts ~x86
+dev-java/sun-fastinfoset-bin ~x86
+dev-java/sun-j2me-bin ~x86
+dev-java/sun-jacc-api ~x86
+dev-java/sun-jaxb-bin ~x86
+dev-java/sun-jaxp-bin ~x86
+dev-java/sun-jaxrpc-bin ~x86
+dev-java/sun-jaxws-bin ~x86
+=dev-java/sun-jce-bin-1.5.0 ~x86
+dev-java/sun-jce-bin ~x86
+=dev-java/sun-jdk-1.4*
+=dev-java/sun-jdk-1.5*
+dev-java/sun-jdk ~x86 x86
+=dev-java/sun-jre-bin-1.4*
+=dev-java/sun-jre-bin-1.5*
+dev-java/sun-jwsdp-shared-bin ~x86
+dev-java/sun-saaj-bin ~x86
+dev-java/sun-sjsxp-bin ~x86
+dev-java/swing-layout ~x86
 dev-java/swt ~x86
+dev-java/tomcat-jasper ~x86
+dev-java/tomcat-servlet-api ~x86
+dev-java/wagon-file ~x86
+dev-java/wagon-ftp ~x86
+dev-java/wagon-http-lightweight ~x86
+dev-java/wagon-http-shared ~x86
+dev-java/wagon-http ~x86
+dev-java/wagon-provider-api ~x86
+dev-java/wagon-ssh-common-test ~x86
+dev-java/wagon-ssh-common ~x86
+dev-java/wagon-ssh-external ~x86
+dev-java/wagon-ssh ~x86
+dev-java/werkz ~x86
+dev-java/wsdl4j ~x86
+dev-java/ws-policy ~x86
+dev-java/wss4j ~x86
+dev-java/xalan-serializer ~x86
+dev-java/xdoclet ~x86
+dev-java/xerces ~x86
+dev-java/xml-commons-resolver ~x86
+dev-java/xml-im-exporter ~x86
+dev-java/xml-security ~x86
+dev-java/xmlunit ~x86
+dev-java/xml-xmlbeans3 ~x86
+dev-java/xml-xmlbeans ~x86
+dev-java/xsdlib ~x86
+dev-lang/cm3 ~x86
 dev-lang/mono ~x86
 dev-lang/php ~overlay  ~x86
 dev-lang/swig ~x86
+dev-lang/yasm ~x86
 dev-libs/apr-util ~x86
 dev-libs/apr ~x86
 dev-libs/atk ~x86
+dev-libs/boost ~x86
+dev-libs/dbus-glib ~x86
 dev-libs/eet -*
 dev-libs/embryo -*
 dev-libs/engrave -*
 dev-libs/gdl ~x86 # Needed by anjuta-2.0.1_alpha
 dev-libs/glib ~x86
 dev-libs/gmime ~x86
+dev-libs/g-wrap ~x86
+dev-libs/ilbc-rfc3951 ~x86
 dev-libs/libcroco ~x86
+dev-libs/libdnet ~x86
 dev-libs/libebml ~x86
 dev-libs/libIDL ~x86
 dev-libs/libnotify ~x86
+dev-libs/libofx ~x86
 dev-libs/liboil ~x86
 dev-libs/liboobs ~x86
+dev-libs/libpreludedb ~x86
+dev-libs/libprelude ~x86
 dev-libs/libsigc++ ~x86
 dev-libs/libxml2 ~x86
 dev-libs/libxslt ~x86
@@ -107,7 +370,9 @@ dev-libs/lzo ~x86
 dev-libs/nspr ~x86
 dev-libs/nss ~x86
 dev-libs/opal ~x86
+dev-libs/openssl ~x86
 dev-libs/pwlib ~x86
+dev-perl/Cairo ~x86
 dev-perl/DBD-mysql ~x86
 dev-perl/Event-RPC ~x86
 dev-perl/Finance-Quote ~x86
@@ -127,10 +392,22 @@ dev-php/PEAR-PEAR ~x86
 dev-php/PEAR ~x86
 dev-php/PEAR-XML_RPC ~x86
 dev-python/bonobo-python ~x86
+dev-python/celementtree ~x86
+dev-python/cheetah ~x86
+dev-python/cherrypy ~x86
+dev-python/configobj ~x86
+dev-python/dbus-python ~x86
+dev-python/formencode ~x86
+dev-python/genshi ~x86
 dev-python/gnome-python-desktop ~x86
 dev-python/gnome-python-extras ~x86
 dev-python/gnome-python ~x86
 dev-python/gst-python ~x86
+dev-python/ipython ~x86
+dev-python/kid ~x86
+dev-python/pastedeploy ~x86
+dev-python/pastescript ~x86
+dev-python/paste ~x86
 dev-python/pycairo ~x86
 dev-python/pycrypto ~x86
 dev-python/pygobject ~x86
@@ -138,18 +415,37 @@ dev-python/pygtk
 dev-python/pygtk ~x86
 dev-python/pyogg ~x86
 dev-python/pyorbit ~x86
+dev-python/pyprotocols ~x86
+dev-python/PyQt4 ~x86
 dev-python/pyrex ~x86
+dev-python/pysqlite ~x86
 dev-python/pyxml ~x86
+dev-python/ruledispatch ~x86
+dev-python/simplejson ~x86
+dev-python/sip ~x86
+dev-python/sqlalchemy ~x86
+dev-python/sqlobject ~x86
+dev-python/turbocheetah ~x86
+dev-python/turbogears ~x86
+dev-python/turbojson ~x86
+dev-python/turbokid ~x86
+dev-python/winpdb ~x86
+dev-scheme/guile ~x86
+dev-scheme/slib ~x86
 dev-util/anjuta-cvs -*
 dev-util/anjuta~x86
 dev-util/anjuta x86
+dev-util/argouml ~x86
+dev-util/boost-build ~x86
 dev-util/cogito ~x86 
 dev-util/devhelp ~x86
+dev-util/eclipse-sdk ~x86
 dev-util/e_utils -*
 dev-util/git ~x86
-dev-util/glade -* ~x86
 =dev-util/glade-3.0.0_pre05232005 ~x86 #needed by anjuta-2.0.1_alpha
+dev-util/glademm ~x86
 dev-util/glade ~x86
+dev-util/glade -* ~x86
 dev-util/gnome-build -* ~x86
 dev-util/gtk-doc
 dev-util/gtk-doc ~x86
@@ -161,16 +457,36 @@ dev-util/monodevelop ~x86
 dev-util/monodoc ~x86
 dev-util/monotone ~x86
 dev-util/mono-tools ~x86
+dev-util/netbeans ~x86
 dev-util/pkgconfig ~x86
 dev-util/pkgconfig- ~x86
+dev-util/source-highlight ~x86
+dev-util/subversion
 dev-util/subversion ~x86
+dev-util/wxglade ~x86
+# Documentation
 # E
+ev-java/jsfapi ~x86
+games-action/bomberclone ~x86
 games-arcade/tuxracer ~x86
+games-emulation/advancemenu ~x86
+games-engines/stratagus ~x86
+games-fps/americas-army ~x86
 games-fps/nexuiz ~x86
+games-fps/tremulous-bin ~x86
+games-fps/tremulous ~x86
+games-fps/warsow ~x86
 games-rpg/planeshift ~x86
+games-rpg/secondlife-bin ~x86
+games-rpg/secondlife ~x86
 games-server/monopd ~x86
+games-server/pvpgn ~x86
+games-server/tetrix ~x86
+games-simulation/dangerdeep ~x86
+games-strategy/bos ~x86
 games-strategy/lune ~x86
 games-strategy/warzone2100 ~x86
+games-strategy/wormux ~x86
 gnome-base/control-center ~x86
 gnome-base/eel ~x86
 gnome-base/gail ~x86
@@ -184,12 +500,14 @@ gnome-base/gnome-menus ~x86
 gnome-base/gnome-mount ~x86
 gnome-base/gnome-panel ~x86
 gnome-base/gnome-session ~x86
+gnome-base/gnome-vfs-monikers ~x86
 gnome-base/gnome-vfs ~x86
 gnome-base/gnome-volume-manager ~x86
 gnome-base/gnome ~x86
 gnome-base/libbonobo
 gnome-base/libbonoboui ~x86
 gnome-base/libbonobo ~x86
+gnome-base/libglade ~x86
 gnome-base/libgnome
 gnome-base/libgnomecanvas ~x86
 gnome-base/libgnomeprintui ~x86
@@ -222,6 +540,7 @@ gnome-extra/gnome-power-manager ~x86
 gnome-extra/gnome-screensaver ~x86
 gnome-extra/gnome-system-monitor ~x86
 gnome-extra/gnome-utils ~x86
+gnome-extra/gsynaptics ~x86
 gnome-extra/gtkhtml ~x86
 gnome-extra/gucharmap ~x86
 gnome-extra/hal-device-manager ~x86
@@ -234,10 +553,11 @@ gnome-extra/nautilus-actions ~x86
 gnome-extra/nautilus-cd-burner ~x86
 gnome-extra/yelp
 gnome-extra/yelp ~x86
-gnome-extra/yelp ~x86
-gnome-extra/zenity ~x86
 gnome-extra/zenity ~x86
 gnustep-libs/gdl2 ~x86
+# JDKs
+jgoodies-forms/jgoodies-forms ~x86
+# JREs
 =kde-base/akode-3.5* ~*
 =kde-base/akregator-3.5* ~*
 =kde-base/amor-3.5* ~*
@@ -330,6 +650,7 @@ kde-base/arts ~x86
 =kde-base/kdeedu-applnk-3.5* ~*
 =kde-base/kdeedu-meta-3.5* ~*
 =kde-base/kde-env-3.5* ~*
+kde-base/kde-env ~x86
 =kde-base/kdegames-3.5* ~*
 =kde-base/kdegames-meta-3.5* ~*
 =kde-base/kdegraphics-3.5* ~*
@@ -607,27 +928,26 @@ kde-base/quanta ~x86
 =kde-misc/tellico-3.5* ~*
 =kde-misc/yakuake-3.5* ~*
 # KDE STUFF
+mail-client/claws-mail ~x86
 mail-client/evolution ~x86
+mail-client/mozilla-thunderbird ~x86
+mail-client/mutt ~x86
+mail-client/squirrelmail ~x86
 mail-client/sylpheed-claws ~x86
 mail-client/sylpheed ~x86
+mail-mta/postfix ~x86
 media-fonts/encodings ~x86
 media-fonts/font-adobe-100dpi ~x86
 media-fonts/font-adobe-75dpi ~x86
 media-fonts/font-adobe-utopia-100dpi ~x86
-media-fonts/font-adobe-utopia-100dpi ~x86
-media-fonts/font-adobe-utopia-100dpi ~x86
-media-fonts/font-adobe-utopia-75dpi ~x86
 media-fonts/font-adobe-utopia-75dpi ~x86
 media-fonts/font-adobe-utopia-type1 ~x86
-media-fonts/font-alias ~x86
 media-fonts/font-alias ~x86
 media-fonts/font-arabic-misc ~x86
 media-fonts/font-bh-100dpi ~x86
 media-fonts/font-bh-75dpi ~x86
-media-fonts/font-bh-75dpi ~x86
 media-fonts/font-bh-lucidatypewriter-100dpi ~x86
 media-fonts/font-bh-lucidatypewriter-75dpi ~x86
-media-fonts/font-bh-ttf ~x86
 media-fonts/font-bh-ttf ~x86
 media-fonts/font-bh-type1 ~x86
 media-fonts/font-bitstream-100dpi ~x86
@@ -653,6 +973,7 @@ media-fonts/font-sun-misc ~x86
 media-fonts/font-util ~x86
 media-fonts/font-winitzki-cyrillic ~x86
 media-fonts/font-xfree86-type1 ~x86
+media-fonts/sgi-fonts ~x86
 media-gfx/elicit -*
 media-gfx/entice -*
 media-gfx/eog ~x86
@@ -668,6 +989,7 @@ media-libs/emotion -*
 media-libs/epeg -*
 media-libs/epsilon -*
 media-libs/etox -*
+media-libs/faad2 ~x86
 media-libs/ffmpeg ~x86
 media-libs/fontconfig ~x86
 media-libs/freetype ~x86
@@ -676,22 +998,27 @@ media-libs/gst-plugins-bad  ~x86
 media-libs/gst-plugins-base ~x86
 media-libs/gst-plugins-good  ~x86
 media-libs/gst-plugins-ugly  ~x86
+media-libs/gst-plugins ~x86
 media-libs/gst-plugins  ~x86
 media-libs/gstreamer ~x86
 media-libs/imlib2 -*
 media-libs/lcms ~x86
+media-libs/libcaca ~x86
+media-libs/libdvbpsi ~x86
 media-libs/libdvdread ~x86
 media-libs/libexif ~x86
+media-libs/libmad ~x86
 media-libs/libmatroska ~x86
+media-libs/libmng ~x86
 media-libs/libmpd ~x86
 media-libs/libopendaap ~x86
 media-libs/libwmf ~x86
 media-libs/mesa ~x86
 media-libs/taglib ~x86
 media-libs/win32codecs ~x86
-media-libs/win32codecs ~x86
-media-libs/win32codecs ~x86
+media-libs/x264-svn -*
 media-libs/x264-svn ~x86
+media-libs/xine-lib -*
 media-libs/xine-lib ~x86
 media-libs/xvid ~x86
 media-plugins/gst-plugins-a52dec  ~x86
@@ -711,6 +1038,7 @@ media-plugins/gst-plugins-faad  ~x86
 media-plugins/gst-plugins-ffmpeg ~x86
 media-plugins/gst-plugins-ffmpeg  ~x86
 media-plugins/gst-plugins-ffmpeg- ~x86
+media-plugins/gst-plugins-flac ~x86
 media-plugins/gst-plugins-flac  ~x86
 media-plugins/gst-plugins-gconf  ~x86
 media-plugins/gst-plugins-gnomevfs  ~x86
@@ -718,10 +1046,12 @@ media-plugins/gst-plugins-jpeg  ~x86
 media-plugins/gst-plugins-lame  ~x86
 media-plugins/gst-plugins-libpng  ~x86
 media-plugins/gst-plugins-libvisual  ~x86
+media-plugins/gst-plugins-mad ~x86
 media-plugins/gst-plugins-mad  ~x86
 media-plugins/gst-plugins-mikmod  ~x86
 media-plugins/gst-plugins-mpeg2dec  ~x86
 media-plugins/gst-plugins-musepack  ~x86
+media-plugins/gst-plugins-ogg ~x86
 media-plugins/gst-plugins-oss  ~x86
 media-plugins/gst-plugins-pango  ~x86
 media-plugins/gst-plugins-pitfdll  ~x86
@@ -733,26 +1063,45 @@ media-plugins/gst-plugins-swfdec  ~x86
 media-plugins/gst-plugins-theora  ~x86
 media-plugins/gst-plugins-v4l2  ~x86
 media-plugins/gst-plugins-v4l  ~x86
+media-plugins/gst-plugins-vorbis ~x86
 media-plugins/gst-plugins-vorbis  ~x86
 media-plugins/gst-plugins ~x86
 media-plugins/gst-plugins-xvideo  ~x86
 media-plugins/gst-plugins-x ~x86
+media-plugins/streamtuner-python ~x86
+media-sound/alsaplayer ~x86
+media-sound/amarok ~x86
 media-sound/gmpc ~x86
+media-sound/gpodder ~x86
+media-sound/grip ~x86
+media-sound/kradio ~x86
 media-sound/mpdscribble ~x86
 media-sound/mpd-svn ~x86 e
+media-sound/mpd ~x86
 media-sound/music-applet ~x86
+media-sound/pulseaudio ~x86
 media-sound/rhythmbox ~x86
 media-sound/sound-juicer ~x86
+media-sound/timidity++ ~x86
 media-sound/xmms2-git ~x86
 media-sound/xmms2 ~x86
+media-tv/xdtv -*
 media-video/avidemux ~x86
 media-video/avifile ~x86 -*
+media-video/dirac x86
+media-video/dirac ~x86 ~amd64
 media-video/dvdrip ~x86
 media-video/eclair -*
 media-video/ffmpeg ~x86
+media-video/ffmpeg -* ~x86
 media-video/freeplayer-linux ~x86
 media-video/mplayer ~x86
+media-video/mplayer  ~x86
+media-video/mplayer -* ~x86
+media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama unicode -xmms -xvmc -amr -enca -iconv speex
+media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama -xmms -xvmc -amr -enca -iconv speex
 media-video/nvidia-glx ~x86
+media-video/nvidia-glx x86 ~x86
 media-video/nvidia-kernel ~x86
 media-video/ogle ~x86
 media-video/subtitleripper ~x86
@@ -761,27 +1110,69 @@ media-video/transcode ~x86
 media-video/vlc  ~x86 -*
 media-video/xine-ui ~x86
 media-video/xvid4conf ~x86
+# Misc packages that have been updated to generation-2,
+napp-forensics/rkhunter ~x86
 net-analyzer/gnome-netstatus ~x86
 net-analyzer/gnome-nettool ~x86
+net-analyzer/iptraf ~x86
+net-analyzer/libnasl ~x86
+net-analyzer/libnasl- ~x86
+net-analyzer/libraries ~x86
+net-analyzer/macchanger ~x86
+net-analyzer/nagios-core ~x86
+net-analyzer/nagios-plugins ~x86
+net-analyzer/nessus-core ~x86
+net-analyzer/nessus-libraries ~x86
+net-analyzer/nessus-plugins ~x86
+net-analyzer/nessus ~x86
+net-analyzer/prelude-nagios ~x86
+net-analyzer/prewikka ~x86
+net-analyzer/snort ~x86
+net-dialup/eagle-usb ~x86
 net-dns/avahi ~x86
+net-firewall/iptables ~x86
+net-fs/nfs-utils ~x86
 net-im/amsn ~x86
-net-im/amsn ~x86
+net-im/bitlbee ~x86
 net-im/ekiga
 net-im/ekiga ~x86
+net-im/twinkle ~x86
 net-irc/irssi ~x86
 net-libs/aqbanking ~x86
+net-libs/ccrtp ~x86
+net-libs/libetpan ~x86
 net-libs/libsoup ~x86
+net-libs/libzrtpcpp ~x86
 net-libs/opal ~x86
+net-mail/dovecot ~x86
+net-mail/mailman ~x86
 net-misc/d4x ~x86
+net-misc/icecast ~x86
+net-misc/libupnp ~x86
 net-misc/neon ~x86
+net-misc/streamtuner ~x86
 net-misc/upnp ~x86
 net-misc/vino ~x86
 net-misc/vnc ~x86
 net-news/erss -*
+net-nntp/hellanzb ~x86
 net-nntp/nget ~x86
+net-p2p/amule ~x86
 net-p2p/azureus ~x86
 net-p2p/bittornado ~x86
+net-print/gnome-cups-manager ~x86
+net-proxy/squid ~x86
+net-wireless/aircrack-ng ~x86
+net-wireless/madwifi-old-tools ~x86
+net-wireless/madwifi-old ~x86
+net-wireless/ndiswrapper ~x86
+net-wireless/rt2400 ~x86
+net-wireless/rt2400* ~x86
+net-wireless/rt2x00 ~x86
+net-www/apache ~x86
 net-www/gentoo-webroot-default ~x86
+net-www/mod_security ~x86
+net-www/mod_security* ~x86
 net-www/mod_ssl ~x86
 net-www/mozplugger ~x86
 net-www/mplayerplug-in ~x86
@@ -789,29 +1180,57 @@ net-www/netscape-flash ~x86
 nmedia-sound/mpdscribble ~x86
 nnet-p2p/azureus ~x86
 nwww-client/seamonkey ~x86
+nwww-servers/geronimo ~x86
 profiles/arch.list
 profiles/categories
 sys-apps/acl ~x86
 sys-apps/attr ~x86
+sys-apps/dbus-core ~x86
 sys-apps/dbus ~x86
 sys-apps/dmidecode ~x86
 sys-apps/eject ~x86
 sys-apps/hal ~x86
 sys-apps/man ~x86
+sys-apps/paludis ~x86
+sys-apps/pcmcia-cs-cis ~x86
+sys-apps/pcmcia-cs-modules ~x86
+sys-apps/pcmcia-cs ~x86
+sys-apps/pcmciautils ~x86
 sys-apps/pmount ~x86
 sys-apps/portage ~x86
 sys-apps/shadow ~x86
+sys-auth/consolekit ~x86
+sys-devel/autoconf-wrapper ~x86
+sys-devel/autoconf ~x86
 sys-devel/autogen ~x86 # Needed by anjuta-2.0.1_alpha
+sys-devel/m4 ~x86
+sys-devel/qconf-cvs ~x86
 sys-fs/cryptsetup-luks ~x86
 sys-fs/udev ~x86
 sys-kernel/gentoo-sources ~x86
+sys-kernel/vanilla-sources ~x86
+sys-kernel/xen-sources ~x86
+sys-libs/db
 sys-libs/gwenhywfar ~x86
 sys-libs/libchipcard ~x86
 sys-libs/libstdc++-v3 ~x86
 sys-libs/ncurses ~x86
-virtual/xft ~x86
-www-apps/mgeups-psp ~x86
+sys-libs/pam ~x86
 sys-power/nut ~x86
+# These have optional Java support, but need ~arch to function properly
+virtual/c++-tr1-functional ~x86
+virtual/c++-tr1-memory ~x86
+virtual/c++-tr1-type-traits ~x86
+virtual/jdk
+virtual/jre
+# Virtuals
+virtual/xft ~x86
+# where the generation-1 won't build and/or run properly 
+# with generation-2
+www-apache/mod_jk ~x86
+www-apps/mgeups-psp ~x86
+www-apps/viewcvs ~x86
+www-apps/viewvc ~x86
 www-client/epiphany
 www-client/epiphany-extensions ~x86
 www-client/epiphany ~x86
@@ -819,6 +1238,10 @@ www-client/mozilla-bin ~x86
 www-client/mozilla-firefox-bin ~x86
 www-client/mozilla ~x86
 www-client/opera ~x86
+www-servers/axis ~x86
+www-servers/jboss-bin ~x86
+www-servers/jboss ~x86
+www-servers/jetty ~x86
 x11-apps/appres ~x86
 x11-apps/bdftopcf ~x86
 x11-apps/iceauth ~x86
@@ -832,7 +1255,6 @@ x11-apps/sessreg ~x86
 x11-apps/setxkbmap ~x86
 x11-apps/xauth ~x86
 x11-apps/xclock ~x86
-x11-apps/xdpyinfo ~x86
 x11-apps/xdpyinfo ~x86
 x11-apps/xdriinfo ~x86
 x11-apps/xev ~x86
@@ -854,10 +1276,9 @@ x11-base/xgl
 x11-base/xorg-server ~x86
 ##x11-base/xorg-x11 ~x86
 x11-base/xorg-x11 ~x86
-x11-base/xorg-x11 ~x86
+x11-drivers/nvidia-drivers ~x86
 x11-drivers/xf86-input-acecad ~x86
 x11-drivers/xf86-input-aiptek ~x86
-x11-drivers/xf86-input-calcomp ~x86
 x11-drivers/xf86-input-calcomp ~x86
 x11-drivers/xf86-input-citron ~x86
 x11-drivers/xf86-input-digitaledge ~x86
@@ -872,12 +1293,9 @@ x11-drivers/xf86-input-jamstudio ~x86
 x11-drivers/xf86-input-joystick ~x86
 x11-drivers/xf86-input-keyboard ~x86
 x11-drivers/xf86-input-magellan ~x86
-x11-drivers/xf86-input-magellan ~x86
 x11-drivers/xf86-input-magictouch ~x86
 x11-drivers/xf86-input-microtouch ~x86
 x11-drivers/xf86-input-mouse ~x86
-x11-drivers/xf86-input-mutouch ~x86
-x11-drivers/xf86-input-mutouch ~x86
 x11-drivers/xf86-input-mutouch ~x86
 x11-drivers/xf86-input-palmax ~x86
 x11-drivers/xf86-input-penmount ~x86
@@ -904,7 +1322,6 @@ x11-libs/gksu ~x86
 x11-libs/goffice ~x86
 x11-libs/gtk+
 x11-libs/gtksourceview ~x86
-x11-libs/gtk+ ~x86
 x11-libs/gtk+ ~x86
 x11-libs/libdmx ~x86
 x11-libs/libdrm ~x86
@@ -956,6 +1373,7 @@ x11-libs/qt ~x86
 x11-libs/vte ~x86
 x11-libs/wxGTK ~x86
 x11-libs/xtrans ~x86
+x11-misc/alacarte ~x86
 x11-misc/e17genmenu ~x86 -*
 x11-misc/engage -*
 x11-misc/entrance -*
@@ -963,6 +1381,7 @@ x11-misc/gccmakedep ~x86
 x11-misc/iconbar -*
 x11-misc/icon-naming-utils ~x86
 x11-misc/imake ~x86
+x11-misc/imwheel ~x86
 x11-misc/makedepend ~x86
 x11-misc/notification-daemon ~x86
 x11-misc/service-discovery-applet ~x86
@@ -978,6 +1397,7 @@ x11-misc/xorg-cf-files ~x86
 x11-plugins/compiz-plugin-opacity #optional in CB's overlay
 x11-plugins/desklet-starterbar ~x86
 x11-plugins/e_modules -* 
+x11-plugins/enigmail ~x86
 x11-plugins/gai-pager ~x86
 x11-proto/bigreqsproto ~x86
 x11-proto/compositeproto ~x86
@@ -1018,512 +1438,8 @@ x11-wm/compiz
 x11-wm/e -*
 x11-wm/metacity ~x86
 x11-wm/twm ~x86
-# Core Gentoo/Java Packages
-dev-java/ant-core
-dev-java/ant-tasks
-dev-java/ant
-dev-java/java-config
-dev-java/java-config-wrapper
-dev-java/javatoolkit
-# JDKs
-=dev-java/sun-jdk-1.4*
-=dev-java/sun-jdk-1.5*
-=dev-java/ibm-jdk-bin-1.4*
-=dev-java/ibm-jdk-bin-1.5*
-=dev-java/jrockit-jdk-bin-1.4*
-=dev-java/jrockit-jdk-bin-1.5*
-=dev-java/blackdown-jdk-1.4*
-dev-java/kaffe
-# JREs
-=dev-java/sun-jre-bin-1.4*
-=dev-java/sun-jre-bin-1.5*
-=dev-java/ibm-jre-bin-1.4*
-=dev-java/blackdown-jre-1.4*
-# Virtuals
-virtual/jdk
-virtual/jre
-# Compilers
-dev-java/eclipse-ecj
-dev-java/jikes
-# Documentation
-dev-java/java-sdk-docs
-# Misc packages that have been updated to generation-2,
-# where the generation-1 won't build and/or run properly 
-dev-java/lucene
-# These have optional Java support, but need ~arch to function properly
-# with generation-2
-dev-util/subversion
-sys-libs/db
-
-
-
-=dev-java/sun-jce-bin-1.5.0 ~x86
-dev-util/glade ~x86
-media-sound/pulseaudio ~x86
-app-admin/eselect-esd ~x86
-media-video/nvidia-glx x86 ~x86
-dev-python/gnome-python-desktop ~x86
-dev-cpp/libbonobouimm ~x86
-dev-cpp/libbonobomm ~x86
-dev-cpp/orbitcpp ~x86
-dev-cpp/libbonobouimm ~x86
-dev-cpp/libbonobomm ~x86
-dev-cpp/orbitcpp ~x86
-dev-libs/libIDL ~x86
-gnome-base/orbit ~x86
-mail-client/mutt ~x86
-media-libs/libmad ~x86
-app-emulation/qemu-softmmu ~x86
-app-emulation/qemu-user ~x86
-app-emulation/xen ~x86
-app-emulation/xen-tools ~x86
-dev-lang/cm3 ~x86
-games-emulation/advancemenu ~x86
-media-sound/alsaplayer ~x86
-sys-kernel/xen-sources ~x86
-x11-drivers/nvidia-drivers ~x86
-sys-apps/dbus-core ~x86
-dev-libs/dbus-glib ~x86
-dev-python/dbus-python ~x86
-dev-perl/Cairo ~x86
-dev-cpp/cairomm ~x86
-x11-misc/alacarte ~x86
-gnome-base/gnome-vfs-monikers ~x86
-gnome-base/libglade ~x86
-net-print/gnome-cups-manager ~x86
-app-misc/tomboy ~x86
-app-admin/eselect-vi ~x86
-kde-base/kde-env ~x86
-media-video/xvid4conf ~x86
-media-libs/xvid ~x86
-media-video/ffmpeg -* ~x86
-media-libs/xine-lib ~x86
-media-libs/x264-svn ~x86
-media-video/mplayer -* ~x86
-media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama -xmms -xvmc -amr -enca -iconv speex
-media-video/mplayer  ~x86
-media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama unicode -xmms -xvmc -amr -enca -iconv speex
-media-video/mplayer  ~x86
-media-video/dirac ~x86 ~amd64
-media-libs/libdvbpsi ~x86
-dev-util/wxglade ~x86
-dev-util/glademm ~x86
-dev-util/glademm ~x86
-net-analyzer/iptraf ~x86
-media-libs/fontconfig ~x86
-app-arch/par2cmdline ~x86
-media-sound/mpd ~x86
-app-portage/udept ~x86
-games-fps/tremulous ~x86
-games-fps/tremulous-bin ~x86
-games-fps/americas-army ~x86
-sys-devel/autoconf ~x86
-sys-devel/m4 ~x86
-sys-devel/autoconf-wrapper ~x86
-media-libs/libmng ~x86
-napp-forensics/rkhunter ~x86
-app-forensics/rkhunter ~x86
-net-im/bitlbee ~x86
-dev-libs/openssl ~x86
-net-www/apache ~x86
-app-text/htmltidy ~x86
-media-libs/faad2 ~x86
-games-strategy/wormux ~x86
-games-strategy/wormux ~x86
-media-video/mplayer ~x86
-dev-libs/atk ~x86
-app-text/highlight ~x86
-dev-util/source-highlight ~x86
-net-mail/mailman ~x86
-mail-mta/postfix ~x86
-net-p2p/amule ~x86
-gnome-extra/gsynaptics ~x86
-sys-kernel/vanilla-sources ~x86
-net-misc/libupnp ~x86
-net-misc/upnp ~x86
-net-misc/upnp ~x86
-net-misc/libupnp ~x86
-net-misc/libupnp ~x86
-net-www/netscape-flash ~x86
-net-nntp/hellanzb ~x86
-net-mail/dovecot ~x86
-dev-db/unixODBC ~x86
-dev-db/phpmyadmin ~x86
-net-mail/mailman ~x86
-www-apps/viewcvs ~x86
-app-text/highlight ~x86
-www-apps/viewvc ~x86
-net-analyzer/snort ~x86
-net-analyzer/nagios-core ~x86
-net-analyzer/nagios-plugins ~x86
-net-analyzer/nessus-core ~x86
-net-analyzer/libraries ~x86
-net-analyzer/nessus-libraries ~x86
-net-analyzer/nessus-plugins ~x86
-net-analyzer/nessus ~x86
-net-analyzer/libnasl- ~x86
-net-analyzer/libnasl ~x86
-net-analyzer/prelude-nagios ~x86
-games-simulation/dangerdeep ~x86
-net-im/twinkle ~x86
-dev-cpp/commoncpp2 ~x86
-net-libs/ccrtp ~x86
-net-libs/libzrtpcpp ~x86
-dev-libs/ilbc-rfc3951 ~x86
-media-sound/timidity++ ~x86
-app-admin/eselect-timidity ~x86
-media-sound/grip ~x86
-dev-cpp/gnome-vfsmm ~x86
-games-server/pvpgn ~x86
-dev-libs/libdnet ~x86
-dev-libs/libprelude ~x86
-dev-libs/libprelude ~x86
-dev-libs/libpreludedb ~x86
-app-admin/prelude-lml ~x86
-dev-libs/libprelude ~x86
-dev-libs/libpreludedb ~x86
-app-admin/prelude-manager ~x86
-games-strategy/bos ~x86
-games-engines/stratagus ~x86
-games-fps/warsow ~x86
-x11-misc/imwheel ~x86
-dev-java/sun-jdk ~x86 x86
-dev-java/sun-jce-bin ~x86
-net-proxy/squid ~x86
-dev-libs/boost ~x86
-dev-util/boost-build ~x86
-dev-util/boost-build ~x86
-dev-python/PyQt4 ~x86
-dev-python/sip ~x86
-dev-db/mysql-gui-tools ~x86
-dev-db/mysql-gui-tools ~x86
-dev-dotnet/pe-format ~x86
-www-servers/jboss ~x86
-mail-client/claws-mail ~x86
-net-libs/libetpan ~x86
-x11-plugins/enigmail ~x86
-mail-client/mozilla-thunderbird ~x86
-app-admin/webapp-config ~x86
-www-servers/jboss ~x86
-dev-util/eclipse-sdk ~x86
-net-wireless/rt2400* ~x86
-net-wireless/rt2400 ~x86
-net-wireless/rt2x00 ~x86
-net-dialup/eagle-usb ~x86
-net-misc/icecast ~x86
-net-www/mod_security* ~x86
-net-www/mod_security ~x86
-net-analyzer/prewikka ~x86
-media-sound/amarok ~x86
-net-misc/streamtuner ~x86
-media-plugins/streamtuner-python ~x86
-www-apache/mod_jk ~x86
-dev-java/xml-xmlbeans3 ~x86
-dev-java/xml-xmlbeans ~x86
-dev-java/maven-bin ~x86
-media-plugins/gst-plugins-alsa ~x86
-media-plugins/gst-plugins-mad ~x86
-media-plugins/gst-plugins-ogg ~x86
-media-plugins/gst-plugins-vorbis ~x86
-media-plugins/gst-plugins-flac ~x86
-media-libs/gst-plugins ~x86
-dev-util/argouml ~x86
-xfce-extra/exo ~x86
-xfce-base/xfce-mcs-plugin ~x86
-xfce-base/xfce-mcs-plugins ~x86
-xfce-base/xfce-mcs-plugins ~x86
-xfce-extra/xfce4-dev-tools ~x86
-xfce-base/xfce-mcs-plugins ~x86
-xfce-extra/xfce4-dev-tools ~x86
-xfce-base/xfce-mcs-plugins ~x86
-xfce-extra/xfce4-dev-tools ~x86
 xfce-base/libxfcegui4 ~x86
-media-libs/x264-svn -*
-media-libs/libcaca ~x86
-media-libs/libcaca ~x86
-media-libs/xine-lib -*
-dev-java/xdoclet ~x86
-games-rpg/secondlife ~x86
-games-rpg/secondlife-bin ~x86
-dev-java/junit ~x86
-dev-libs/g-wrap ~x86
-www-servers/jboss-bin ~x86
-www-servers/jboss-bin ~x86
-www-servers/jboss-bin ~x86
-dev-java/sun-jaxb-bin ~x86
-app-portage/overlay-utils ~x86
-dev-java/maven ~x86
-dev-java/maven-license-plugin ~x86
-dev-java/maven-ant-plugin ~x86
-dev-java/commons-jelly-tags-xml ~x86
-dev-java/commons-jelly-tags-junit ~x86
-dev-java/commons-jelly ~x86
-dev-java/forehead ~x86
-dev-java/jakarta-jstl ~x86
-dev-java/maven-jar-plugin ~x86
-dev-java/commons-jelly-tags-velocity ~x86
-dev-java/maven-core ~x86
-dev-java/juddi ~x86
-dev-java/log4j ~x86
-nwww-servers/geronimo ~x86
-dev-java/scout ~x86
-dev-java/apache-addressing ~x86
-www-servers/axis ~x86
-dev-java/commons-httpclien ~x86
-dev-java/commons-httpclient ~x86
-dev-java/castor ~x86
-dev-java/wsdl4j ~x86
-dev-java/joesnmp ~x86
-dev-java/snmptrapappender ~x86
-dev-java/myfaces ~x86
-dev-java/commons-lang ~x86
-ev-java/jsfapi ~x86
-dev-java/jsfapi ~x86
-app-admin/webapp-config ~x86
-dev-java/ant-commons-net ~x86
-dev-java/ant-nodeps ~x86
-dev-java/ant-swing ~x86
-dev-java/ant-jmf ~x86
-dev-java/ant-apache-resolver ~x86
-dev-java/ant-jsch ~x86
-dev-java/jsch ~x86
-dev-java/ant-apache-bcel ~x86
-dev-java/ant-junit ~x86
-dev-java/ant-javamail ~x86
-dev-java/ant-apache-oro ~x86
-dev-java/ant-apache-regexp ~x86
-dev-java/ant-apache-resolver ~x86
-dev-java/ant-antlr ~x86
-dev-java/ant-apache-log4j ~x86
-dev-java/ant-trax ~x86
-dev-java/jakarta-regexp ~x86
-dev-java/ant-apache-bsf ~x86
-dev-java/bsf ~x86
-dev-java/ant-commons-logging ~x86
-dev-java/commons-logging ~x86
-dev-java/ant-jdepend ~x86
-dev-java/jdepend ~x86
-sys-apps/paludis ~x86
-dev-java/jakarta-slide-webdavclient ~x86
-dev-java/commons-transaction ~x86
-dev-java/xml-im-exporter ~x86
-dev-java/tomcat-jasper ~x86
-dev-java/tomcat-servlet-api ~x86
-media-sound/kradio ~x86
-mail-client/squirrelmail ~x86
-dev-java/japitools ~x86  
-net-libs/aqbanking ~x86
-dev-libs/libofx ~x86
-dev-java/asm ~x86
-dev-java/aspectwerkz ~x86
-dev-java/ant-owanttask ~x86
-dev-scheme/guile ~x86
-dev-scheme/slib ~x86
-dev-java/xml-security ~x86
-dev-java/cglib ~x86
-dev-java/gjt-jpl-pattern ~x86
-dev-java/gjt-jpl-util ~x86
-dev-java/hibernate ~x86
-dev-java/ehcache ~x86
-dev-java/oscache ~x86
-dev-java/sun-jacc-api ~x86
-dev-java/javassist ~x86
-dev-java/hibernate-annotations ~x86
-dev-java/hibernate-entitymanager ~x86
-dev-java/hibernate-annotations-bin ~x86
-dev-java/hibernate-entitymanager-bin ~x86
-dev-db/hsqldb ~x86
-dev-java/jacorb ~x86
-dev-java/java-service-wrapper ~x86
-dev-java/gnu-classpath-inetlib ~x86
-dev-java/picocontainer ~x86
-dev-java/jboss-jacorb ~x86
-dev-java/jboss-wdsl4j ~x86
-dev-java/jboss-wssl4j ~x86
-dev-java/jboss-wsdl4j ~x86
-dev-java/quartz ~x86
-dev-java/struts ~x86
-dev-java/struts-legacy ~x86
-dev-java/qdox ~x86
-dev-java/geronimo-specs ~x86
-dev-java/sun-j2me-bin ~x86
-dev-java/kxml ~x86
-dev-java/monolog ~x86
-dev-java/p6spy ~x86
-dev-java/jboss-module-common ~x86
-dev-java/buildmagic-tasks ~x86
-dev-java/jboss-module-system ~x86
-dev-java/jboss-module-jmx ~x86
-media-video/dirac x86
-
-dev-java/eclipse-core ~x86
-dev-java/eclipse-osgi ~x86
-dev-java/eclipse-jface ~x86
-dev-java/findbugs ~x86
-dev-java/jrefactory ~x86
-dev-java/ant-pretty ~x86
-media-tv/xdtv -*
-dev-java/jboss-module-common ~x86
-dev-java/jboss-module-common ~x86
-dev-db/db-je ~x86
-dev-java/opensaml ~x86
-dev-java/axion ~x86
-dev-java/xmlunit ~x86
-dev-java/stax ~x86
-dev-java/axiom ~x86
-dev-java/jaxen ~x86
-dev-java/neethi ~x86
-dev-java/ws-policy ~x86
-dev-java/wss4j ~x86
-dev-java/jboss-commons-logging ~x86
-dev-java/jboss-velocity ~x86
-dev-java/commons-betwixt ~x86
-dev-java/commons-jelly-tags-define- ~x86
-dev-java/commons-jelly-tags-define ~x86
-dev-java/commons-jelly-tags-xml ~x86
-dev-java/commons-jelly-tags-util ~x86
-dev-java/commons-jelly-tags-log ~x86
-dev-java/commons-jelly-tags-dynabean ~x86
-dev-java/commons-jelly-tags-ant ~x86
-dev-java/commons-grant ~x86
-dev-java/commons-graph ~x86
-dev-java/werkz ~x86
-dev-java/classworlds ~x86
-dev-java/classworlds ~x86
-dev-java/plexus-utils ~x86
-net-fs/nfs-utils ~x86
-net-wireless/aircrack-ng ~x86
-net-wireless/ndiswrapper ~x86
-dev-db/qt-unixODBC ~x86
-net-wireless/madwifi-old ~x86
-net-wireless/madwifi-old-tools ~x86
-sys-apps/pcmcia-cs-modules ~x86
-dev-java/xerces ~x86
-dev-java/xalan-serializer ~x86
-dev-java/xml-commons-resolver ~x86
-dev-java/tomcat-jasper ~x86
-dev-java/tomcat-jasper ~x86
-sys-apps/pcmcia-cs-modules ~x86
-sys-apps/pcmcia-cs ~x86
-sys-apps/pcmcia-cs-cis ~x86
-sys-apps/pcmciautils ~x86
-net-analyzer/macchanger ~x86
-sys-devel/qconf-cvs ~x86
-sys-libs/libstdc++-v3 ~x86
-dev-lang/yasm ~x86
-dev-lang/yasm ~x86
-media-sound/gpodder ~x86
-sys-kernel/gentoo-sources ~x86
-games-server/tetrix ~x86
-dev-python/turbogears ~x86
-dev-python/formencode ~x86
-dev-python/simplejson ~x86
-dev-python/turbogears ~x86
-dev-python/ruledispatch ~x86
-dev-python/pyprotocols ~x86
-dev-python/turbokid ~x86
-dev-python/kid ~x86
-dev-python/sqlobject ~x86
-dev-python/genshi ~x86
-dev-python/cherrypy ~x86
-dev-python/celementtree ~x86
-dev-python/turbocheetah ~x86
-dev-python/cheetah ~x86
-dev-python/pastescript ~x86
-dev-python/pastedeploy ~x86
-dev-python/paste ~x86
-dev-python/turbojson ~x86
-dev-python/configobj ~x86
-dev-python/ipython ~x86
-dev-python/winpdb ~x86
-media-fonts/sgi-fonts ~x86
-games-action/bomberclone ~x86
-app-misc/hal-info ~x86
-sys-auth/consolekit ~x86
-sys-libs/pam ~x86
-virtual/c++-tr1-memory ~x86
-virtual/c++-tr1-type-traits ~x86
-virtual/c++-tr1-functional ~x86
-dev-java/skinlf ~x86
-dev-util/netbeans ~x86
-dev-java/glassfish-persistence ~x86
-dev-java/glassfish-persistence ~x86
-dev-java/jmi-interface ~x86
-dev-java/swing-layout ~x86
-dev-java/prefuse ~x86
-dev-java/sun-jaxws-bin ~x86
-dev-java/jsr250 ~x86
-dev-java/sun-saaj-bin ~x86
-dev-java/sun-fastinfoset-bin ~x86
-dev-java/sun-sjsxp-bin ~x86
-dev-java/xsdlib ~x86
-dev-java/sun-jaxp-bin ~x86
-dev-java/sun-jwsdp-shared-bin ~x86
-dev-java/jsr181 ~x86
-dev-java/sun-jaxrpc-bin ~x86
-jgoodies-forms/jgoodies-forms ~x86
-dev-java/jgoodies-forms ~x86
-dev-java/java-config ~x86
-dev-java/javahelp ~x86
-dev-java/jsr93 ~x86
-dev-python/sqlalchemy ~x86
-dev-python/pysqlite ~x86
-net-mail/dovecot ~x86
-dev-java/plexus-classworlds ~x86
-dev-java/plexus-component-api ~x86
-dev-java/plexus-container-default ~x86
-dev-java/plexus-velocity ~x86
-dev-java/plexus-interactivity-api ~x86
-dev-java/wagon-provider-api ~x86
-dev-java/wagon-ssh-common ~x86
-dev-java/wagon-ssh-common-test ~x86
-dev-java/wagon-ssh-external ~x86
-dev-java/wagon-ssh ~x86
-dev-java/wagon-ssh ~x86
-dev-java/wagon-file ~x86
-dev-java/wagon-http-shared ~x86
-dev-java/wagon-http-lightweight ~x86
-net-firewall/iptables ~x86
-www-servers/jetty ~x86
-dev-java/tomcat-jasper ~x86
-dev-java/plexus-jetty-httpd ~x86
-dev-java/wagon-http-lightweight ~x86
-dev-java/wagon-http ~x86
-dev-java/cornerstone-sockets-api ~x86
-dev-java/excalibur-instrument ~x86
-dev-java/excalibur-pool ~x86
-dev-java/excalibur-thread ~x86
-dev-java/cornerstone-threads ~x86
-dev-java/cornerstone-sockets ~x86
-dev-java/cornerstone-connectio ~x86
-dev-java/cornerstone-connection ~x86
-dev-java/plexus-compiler ~x86
-dev-java/plexus-compiler ~x86
-dev-java/plexus-compiler-api ~x86
-dev-java/plexus-avalon-personality ~x86
-dev-java/plexus-ftpd ~x86
-dev-java/wagon-ftp ~x86
-dev-java/excalibur-i18n ~x86
-dev-java/plexus-i18n ~x86
-dev-java/doxia ~x86
-dev-java/maven-reporting-api ~x86
-dev-java/maven-model ~x86
-dev-java/maven-model ~x86
-dev-java/maven-settings ~x86
-dev-java/maven-repository-metadata ~x86
-dev-java/maven-profile ~x86
-dev-java/maven-plugin-registry ~x86
-dev-java/maven-plugin-api ~x86
-dev-java/maven-artifact- ~x86
-dev-java/maven-artifact ~x86
-dev-java/maven-plugin-descriptor ~x86
-dev-java/maven-plugin-parameter-documenter ~x86
-dev-java/maven-monitor ~x86
-dev-java/maven-artifact-manager ~x86
-dev-java/maven-artifact-test ~x86
-dev-java/maven-project ~x86
-dev-java/maven-error-diagnostics ~x86
-dev-java/maven-core ~x86
-dev-java/maven-script ~x86
-dev-java/plexus-component-factories ~x86
-net-dns/avahi ~x86
+xfce-base/xfce-mcs-plugins ~x86
+xfce-base/xfce-mcs-plugin ~x86
+xfce-extra/exo ~x86
+xfce-extra/xfce4-dev-tools ~x86
