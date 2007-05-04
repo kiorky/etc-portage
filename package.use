@@ -351,3 +351,4 @@ dev-python/cherrypy  doc  examples
 dev-python/celementtree  doc  examples
 net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat mono python -autoipd -doc qt3 qt4 -test
  kde-base/kdelibs acl alsa arts cups debug jpeg2k spell tiff avahi branding -doc fam -kdeenablefinal -kdehiddenvisibility kerberos -legacyssl lua openexr utempter -xinerama ssl -zeroconf
+media-video/kmplayer mplayer
