@@ -194,7 +194,7 @@ dev-java/jacorb ~x86
 dev-java/jakarta-jstl ~x86
 dev-java/jakarta-regexp ~x86
 dev-java/jakarta-slide-webdavclient ~x86
-dev-java/japitools ~x86  
+dev-java/japitools ~x86
 dev-java/java-config
 dev-java/java-config-wrapper
 dev-java/java-config-wrapper ~x86
@@ -437,7 +437,7 @@ dev-util/anjuta~x86
 dev-util/anjuta x86
 dev-util/argouml ~x86
 dev-util/boost-build ~x86
-dev-util/cogito ~x86 
+dev-util/cogito ~x86
 dev-util/devhelp ~x86
 dev-util/eclipse-sdk ~x86
 dev-util/e_utils -*
@@ -1225,7 +1225,7 @@ virtual/jdk
 virtual/jre
 # Virtuals
 virtual/xft ~x86
-# where the generation-1 won't build and/or run properly 
+# where the generation-1 won't build and/or run properly
 # with generation-2
 www-apache/mod_jk ~x86
 www-apps/mgeups-psp ~x86
@@ -1396,7 +1396,7 @@ x11-misc/xorg-cf-files ~x86
 #x11mod
 x11-plugins/compiz-plugin-opacity #optional in CB's overlay
 x11-plugins/desklet-starterbar ~x86
-x11-plugins/e_modules -* 
+x11-plugins/e_modules -*
 x11-plugins/enigmail ~x86
 x11-plugins/gai-pager ~x86
 x11-proto/bigreqsproto ~x86
