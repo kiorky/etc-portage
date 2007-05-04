@@ -1444,3 +1444,4 @@ xfce-base/xfce-mcs-plugin ~x86
 xfce-extra/exo ~x86
 xfce-extra/xfce4-dev-tools ~x86
 net-misc/mDNSResponder ~x86
+media-video/kmplayer ~x86
