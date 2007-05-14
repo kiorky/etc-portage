@@ -353,3 +353,4 @@ net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat mono pyt
  kde-base/kdelibs acl alsa arts cups debug jpeg2k spell tiff avahi branding -doc fam -kdeenablefinal -kdehiddenvisibility kerberos -legacyssl lua openexr utempter -xinerama ssl -zeroconf
 media-video/kmplayer mplayer
 app-text/ghostscript-esp X cups -cjk djvu -emacs -gtk threads xml
+app-text/djvu jpeg nls nsplugin qt3 threads tiff -debug -kde xml
