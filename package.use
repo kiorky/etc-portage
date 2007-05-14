@@ -356,3 +356,4 @@ app-text/ghostscript-esp X cups -cjk djvu -emacs -gtk threads xml
 app-text/djvu jpeg nls nsplugin qt3 threads tiff -debug -kde xml
 media-gfx/gimp-print cups nls ppds readline foomaticdb  gimp
 media-gfx/gimp-print cups nls ppds readline foomaticdb  -gimp
+net-print/hplip X cups ppds oomaticdb  parport
