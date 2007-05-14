@@ -958,3 +958,4 @@ net-print/foomatic-filters
 net-print/foomatic-filters-ppds
 app-text/ghostscript-esp
 media-gfx/gimp-print
+net-print/hplip
