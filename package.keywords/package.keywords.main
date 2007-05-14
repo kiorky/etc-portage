@@ -1448,3 +1448,4 @@ media-video/kmplayer ~x86
 net-print/foomatic-filters ~x86
 net-print/foomatic-filters-ppds ~x86
 app-text/ghostscript-esp ~x86
+media-gfx/gimp-print ~x86
