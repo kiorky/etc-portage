@@ -961,3 +961,4 @@ media-gfx/gimp-print
 net-print/hplip
 net-print/hplip
 dev-java/xmlpull
+dev-java/xmlpull-api
