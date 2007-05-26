@@ -964,3 +964,4 @@ dev-java/xmlpull
 dev-java/xmlpull-api
 app-admin/apache-tools
 dev-java/avalon-logkit
+dev-java/burlap

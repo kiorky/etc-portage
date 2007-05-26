@@ -1455,3 +1455,4 @@ dev-java/xmlpull ~x86
 dev-java/xmlpull-api ~x86
 app-admin/apache-tools ~x86
 dev-java/avalon-logkit ~x86
+dev-java/burlap ~x86
