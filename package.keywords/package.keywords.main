@@ -1453,3 +1453,4 @@ net-print/hplip ~x86
 net-print/hplip ~x86
 dev-java/xmlpull ~x86
 dev-java/xmlpull-api ~x86
+app-admin/apache-tools ~x86
