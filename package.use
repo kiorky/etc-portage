@@ -5,7 +5,7 @@ dev-db/unixODBC -gnome
 app-admin/eselect bash-completion 
 app-arch/tar  nls bzip2
 app-doc/doxygen qt unicode doc tetex
-app-editors/vim acl bash-completion cscope gpm nls perl python ruby -vim-with-x -minimal mzscheme vim-pager
+app-editors/vim acl bash-completion cscope gpm nls perl python ruby -vim-with-x -minimal mzscheme vim-pager remote-editing
 app-editors/vim-core nls acl bash-completion 
 app-emulation/qemu-softmmu alsa sdl -kqemu
 app-emulation/wine glut lcms nas
