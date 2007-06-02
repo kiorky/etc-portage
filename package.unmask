@@ -973,3 +973,4 @@ app-text/aspell-en
 app-dicts/aspell-en
 app-dicts/aspell-*
 dev-db/sqlite
+dev-python/setuptools
