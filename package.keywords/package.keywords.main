@@ -1458,3 +1458,4 @@ dev-java/avalon-logkit ~x86
 dev-java/burlap ~x86
 dev-java/jdom ~x86
 dev-java/gentoo-void-jar ~x86
+app-text/aspell ~x86
