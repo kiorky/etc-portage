@@ -971,3 +971,4 @@ app-text/aspell
 app-text/aspell-*
 app-text/aspell-en
 app-dicts/aspell-en
+app-dicts/aspell-*
