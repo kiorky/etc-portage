@@ -977,3 +977,4 @@ dev-python/setuptools
 dev-python/decoratortools
 dev-java/maven-plugin-testing-harness
 dev-java/aspectj
+dev-java/plexus-compiler

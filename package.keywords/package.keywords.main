@@ -1468,3 +1468,4 @@ dev-python/setuptools ~x86
 dev-python/decoratortools ~x86
 dev-java/maven-plugin-testing-harness ~x86
 dev-java/aspectj ~x86
+dev-java/plexus-compiler ~x86
