@@ -968,3 +968,4 @@ dev-java/burlap
 dev-java/jdom
 dev-java/gentoo-void-jar
 app-text/aspell
+app-text/aspell-*
