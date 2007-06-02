@@ -979,3 +979,6 @@ dev-java/maven-plugin-testing-harness
 dev-java/aspectj
 dev-java/plexus-compiler
 dev-java/maven-compiler-plugin
+dev-java//maven-ant-plugin
+dev-java//maven-ant-plugin
+dev-java/maven-ant-plugin
