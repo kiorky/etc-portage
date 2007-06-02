@@ -970,3 +970,4 @@ dev-java/gentoo-void-jar
 app-text/aspell
 app-text/aspell-*
 app-text/aspell-en
+app-dicts/aspell-en

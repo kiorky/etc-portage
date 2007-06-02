@@ -1461,3 +1461,4 @@ dev-java/gentoo-void-jar ~x86
 app-text/aspell ~x86
 app-text/aspell-* ~x86
 app-text/aspell-en ~x86
+app-dicts/aspell-en ~x86
