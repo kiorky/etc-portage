@@ -1465,3 +1465,4 @@ app-dicts/aspell-en ~x86
 app-dicts/aspell-* ~x86
 dev-db/sqlite ~x86
 dev-python/setuptools ~x86
+dev-python/decoratortools ~x86
