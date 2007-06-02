@@ -975,3 +975,4 @@ app-dicts/aspell-*
 dev-db/sqlite
 dev-python/setuptools
 dev-python/decoratortools
+dev-java/maven-plugin-testing-harness
