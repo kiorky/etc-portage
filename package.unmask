@@ -991,3 +991,4 @@ dev-java/maven-testg-tools
 dev-java/maven-tes-tools
 dev-java/maven-test-tools
 dev-java/maven-common-artifact-filters
+dev-java/maven-repository-builder
