@@ -1,4 +1,3 @@
-
 # all -* marked are CVS ebuilds that will download the latest source from CVS.
 #anjuta
 app-accessibility/dasher ~x86
@@ -1472,6 +1471,8 @@ dev-java/plexus-compiler ~x86
 dev-java/maven-compiler-plugin ~x86
 dev-java/maven-ant-plugin ~x86
 dev-java/maven-ant-plugin ~x86
+nnet-ftp/vsftpd ~x86
+net-ftp/vsftpd ~x86
 dev-java/plexus-io ~x86
 dev-java/plexus-archiver ~x86
 dev-java/maven-archiver ~x86

@@ -981,6 +981,8 @@ dev-java/plexus-compiler
 dev-java/maven-compiler-plugin
 dev-java/maven-ant-plugin
 dev-java/maven-ant-plugin
+nnet-ftp/vsftpd
+net-ftp/vsftpd
 dev-java/plexus-io
 dev-java/plexus-archiver
 dev-java/maven-archiver
