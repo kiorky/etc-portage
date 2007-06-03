@@ -1476,4 +1476,5 @@ dev-java/plexus-io ~x86
 dev-java/plexus-archiver ~x86
 dev-java/maven-archiver ~x86
 dev-java/maven-jar-plugin ~x86
+dev-java/easymock ~x86
 app-pda/libopensync ~x86
