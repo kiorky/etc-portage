@@ -985,3 +985,4 @@ dev-java/plexus-io
 dev-java/plexus-archiver
 dev-java/maven-archiver
 dev-java/maven-jar-plugin
+app-pda/libopensync
