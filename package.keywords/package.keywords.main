@@ -1475,3 +1475,4 @@ dev-java/maven-ant-plugin ~x86
 dev-java/plexus-io ~x86
 dev-java/plexus-archiver ~x86
 dev-java/maven-archiver ~x86
+dev-java/maven-jar-plugin ~x86
