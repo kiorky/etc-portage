@@ -982,3 +982,4 @@ dev-java/maven-compiler-plugin
 dev-java/maven-ant-plugin
 dev-java/maven-ant-plugin
 dev-java/plexus-io
+dev-java/plexus-archiver
