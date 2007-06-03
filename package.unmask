@@ -987,3 +987,4 @@ dev-java/maven-archiver
 dev-java/maven-jar-plugin
 dev-java/easymock
 app-pda/libopensync
+dev-java/maven-testg-tools

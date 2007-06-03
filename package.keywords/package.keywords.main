@@ -1478,3 +1478,4 @@ dev-java/maven-archiver ~x86
 dev-java/maven-jar-plugin ~x86
 dev-java/easymock ~x86
 app-pda/libopensync ~x86
+dev-java/maven-testg-tools ~x86
