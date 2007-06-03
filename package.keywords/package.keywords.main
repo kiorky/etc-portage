@@ -1484,3 +1484,4 @@ dev-java/maven-test-tools ~x86
 dev-java/maven-common-artifact-filters ~x86
 dev-java/maven-repository-builder ~x86
 dev-java/maven-artifact ~x86
+dev-java/maven-repository-builder ~x86
