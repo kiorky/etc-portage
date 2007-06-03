@@ -1472,3 +1472,4 @@ dev-java/plexus-compiler ~x86
 dev-java/maven-compiler-plugin ~x86
 dev-java/maven-ant-plugin ~x86
 dev-java/maven-ant-plugin ~x86
+dev-java/plexus-io ~x86
