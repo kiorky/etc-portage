@@ -186,10 +186,7 @@ dev-util/cvsgraph nls zlib gif jpeg png truetype
 www-apps/viewvc enscript highlight vhosts
 www-apps/viewvc enscript highlight svn
 www-apps/viewvc enscript highlight mysql vhosts apache2 
-net-ftp/pure-ftpd mysql pam ssl vchroot 
-net-ftp/pure-ftpd mysql pam ssl vchroot caps
-net-ftp/pure-ftpd mysql pam ssl vchroot 
-net-ftp/pure-ftpd mysql pam ssl vchroot  -caps
+net-ftp/pure-ftpd mysql pam ssl vchroot  caps
 net-analyzer/nessus-core -X tcpd -debug prelude
 net-analyzer/snor mysql ssl prelude  flexresp 
 net-analyzer/nagios-plugins ipv6 mysql ssl -ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh -postgres -radius -samba snmp -ups
