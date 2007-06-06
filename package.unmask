@@ -997,3 +997,4 @@ dev-java/maven-repository-builder
 dev-java/maven-artifact
 dev-java/maven-repository-builder
 dev-python/PyQt
+dev-python/PyQt4
