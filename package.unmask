@@ -999,3 +999,5 @@ dev-java/maven-artifact
 dev-java/maven-repository-builder
 dev-python/PyQt
 dev-python/PyQt4
+media-video/x264-svn-encoder
+media-video/x264-svn-encoder

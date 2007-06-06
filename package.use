@@ -357,3 +357,5 @@ net-print/hplip X cups ppds oomaticdb  parport
 media-libs/flac ogg
 net-ftp/vsftpd  pam ssl tcpd caps logrotate
 sys-auth/pam_mysql openssl
+x11-libs/qt cups gif ipv6 mysql opengl sqlite doc examples  
+x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples  

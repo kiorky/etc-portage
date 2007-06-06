@@ -1016,7 +1016,6 @@ media-libs/mesa ~x86
 media-libs/taglib ~x86
 media-libs/win32codecs ~x86
 media-libs/x264-svn -*
-media-libs/x264-svn ~x86
 media-libs/xine-lib -*
 media-libs/xine-lib ~x86
 media-libs/xvid ~x86
@@ -1489,3 +1488,5 @@ dev-java/maven-artifact ~x86
 dev-java/maven-repository-builder ~x86
 dev-python/PyQt ~x86
 dev-python/PyQt4 ~x86
+media-video/x264-svn-encoder ~x86
+media-video/x264-svn-encoder ~x86
