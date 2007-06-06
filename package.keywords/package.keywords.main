@@ -989,7 +989,6 @@ media-libs/epeg -*
 media-libs/epsilon -*
 media-libs/etox -*
 media-libs/faad2 ~x86
-media-libs/ffmpeg ~x86
 media-libs/fontconfig ~x86
 media-libs/freetype ~x86
 media-libs/glitz ~x86
@@ -1091,13 +1090,7 @@ media-video/dirac ~x86 ~amd64
 media-video/dvdrip ~x86
 media-video/eclair -*
 media-video/ffmpeg ~x86
-media-video/ffmpeg -* ~x86
 media-video/freeplayer-linux ~x86
-media-video/mplayer ~x86
-media-video/mplayer  ~x86
-media-video/mplayer -* ~x86
-media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama unicode -xmms -xvmc -amr -enca -iconv speex
-media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama -xmms -xvmc -amr -enca -iconv speex
 media-video/nvidia-glx ~x86
 media-video/nvidia-glx x86 ~x86
 media-video/nvidia-kernel ~x86
@@ -1443,6 +1436,7 @@ xfce-extra/exo ~x86
 xfce-extra/xfce4-dev-tools ~x86
 net-misc/mDNSResponder ~x86
 media-video/kmplayer ~x86
+media-video/mplayer -* 
 net-print/foomatic-filters ~x86
 net-print/foomatic-filters-ppds ~x86
 app-text/ghostscript-esp ~x86
@@ -1488,7 +1482,6 @@ dev-java/maven-artifact ~x86
 dev-java/maven-repository-builder ~x86
 dev-python/PyQt ~x86
 dev-python/PyQt4 ~x86
-media-video/x264-svn-encoder ~x86
 media-video/x264-svn-encoder ~x86
 media-libs/x264-svn ~x86
 gnome-base/libgnomekbd ~x86
