@@ -989,6 +989,7 @@ dev-java/maven-archiver
 dev-java/maven-jar-plugin
 dev-java/easymock
 app-pda/libopensync
+x11-drivers/ati-drivers
 dev-java/maven-testg-tools
 dev-java/maven-tes-tools
 dev-java/maven-test-tools

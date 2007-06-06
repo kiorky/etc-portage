@@ -81,7 +81,7 @@ kde-base/kdesdk arts berkdb subversion
 kde-base/kdesdk-meta subversion
 kde-base/konsole debug
 mail-client/mozilla-thunderbird mozcalendar
-mail-client/mutt berkdb crypt gdbm nls ssl buffysize cjk -debug gnutls gpgme -idn imap -mbox nntp pop sasl smime -vanilla
+mail-client/mutt berkdb crypt gdbm nls ssl buffysize cjk -debug gnutls -gpgme -idn imap -mbox nntp pop sasl smime -vanilla
 media-gfx/imagemagick X jpeg mpeg perl png truetype xml2 zlib bzip2 -doc -fpx graphviz gs jbig -lcms -nocxx tiff wmf
 media-libs/imlib2 bzip2  gif  jpeg  mp3   nls  png  iff  zlib 
 media-libs/libsdl libcaca
