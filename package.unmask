@@ -1010,3 +1010,4 @@ dev-java/dvsl
 dev-java/commons-validator
 dev-java/commons-chai
 dev-java/commons-chain
+dev-java/velocity-tools

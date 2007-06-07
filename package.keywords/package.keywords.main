@@ -1492,3 +1492,4 @@ dev-java/dvsl ~x86
 dev-java/commons-validator ~x86
 dev-java/commons-chai ~x86
 dev-java/commons-chain ~x86
+dev-java/velocity-tools ~x86
