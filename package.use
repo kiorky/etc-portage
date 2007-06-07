@@ -105,7 +105,7 @@ media-video/avifile   X  a52  alsa  encode  dvd  esd mad   oss qt sblive sdl tru
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid 
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
-media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype - vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  
+media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 -vidix -xinerama xvmc zoran 
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 X dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid  
@@ -317,7 +317,6 @@ dev-java/xerces doc examples source
 dev-java/quartz jikes dbcp -jboss jmx jta -oracle -servlet-2.3 servlet-2.4 struts
 dev-java/geronimo-specs  activation  commonj corba corba-2.3 corba-3.0 ejb j2ee j2ee-connector j2ee-deployment j2ee-jacc j2ee-management javamail jaxr jaxrpc jms jsp jta qname saaj servlet   servlet jta
 dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
-net-www/mplayerplug-in gtk divx gmedia quicktime realmedia wmp
 media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc -xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
 dev-java/jboss-commons-logging avalon-logkit log4j servletapi avalon-framework doc source
 net-wireless/ndiswrapper usb

@@ -1003,3 +1003,4 @@ media-video/x264-svn-encoder
 media-video/x264-svn-encoder
 media-libs/x264-svn
 gnome-base/libgnomekbd
+dev-java/maven-plugin-tools
