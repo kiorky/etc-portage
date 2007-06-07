@@ -1436,7 +1436,7 @@ xfce-extra/exo ~x86
 xfce-extra/xfce4-dev-tools ~x86
 net-misc/mDNSResponder ~x86
 media-video/kmplayer ~x86
-media-video/mplayer -* 
+media-video/mplayer ~x86
 net-print/foomatic-filters ~x86
 net-print/foomatic-filters-ppds ~x86
 app-text/ghostscript-esp ~x86
