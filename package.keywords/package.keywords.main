@@ -1486,3 +1486,4 @@ media-video/x264-svn-encoder ~x86
 media-libs/x264-svn ~x86
 gnome-base/libgnomekbd ~x86
 dev-java/maven-plugin-tools ~x86
+dev-java/struts-sslext ~x86
