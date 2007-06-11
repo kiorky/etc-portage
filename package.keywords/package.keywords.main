@@ -1494,3 +1494,4 @@ dev-java/commons-chai ~x86
 dev-java/commons-chain ~x86
 dev-java/velocity-tools ~x86
 dev-java/maven-build-context ~x86
+dev-java/maven-lifecycle ~x86

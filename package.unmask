@@ -1012,3 +1012,4 @@ dev-java/commons-chai
 dev-java/commons-chain
 dev-java/velocity-tools
 dev-java/maven-build-context
+dev-java/maven-lifecycle
