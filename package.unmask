@@ -1016,3 +1016,4 @@ dev-java/maven-lifecycle
 dev-java/maven-reporting
 dev-java/itext
 dev-java/plexus-active-collections
+dev-java/maven-embeddet

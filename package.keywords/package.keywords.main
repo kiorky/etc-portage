@@ -1498,3 +1498,4 @@ dev-java/maven-lifecycle ~x86
 dev-java/maven-reporting ~x86
 dev-java/itext ~x86
 dev-java/plexus-active-collections ~x86
+dev-java/maven-embeddet ~x86
