@@ -1496,3 +1496,4 @@ dev-java/velocity-tools ~x86
 dev-java/maven-build-context ~x86
 dev-java/maven-lifecycle ~x86
 dev-java/maven-reporting ~x86
+dev-java/itext ~x86
