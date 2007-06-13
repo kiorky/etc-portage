@@ -1023,3 +1023,4 @@ dev-java/plexus-server
 sys-libs/readline
 dev-java/maven-invoker
 dev-java/maven-plugin-testing-tools
+dev-java/maven-shared-io
