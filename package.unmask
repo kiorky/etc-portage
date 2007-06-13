@@ -1021,3 +1021,4 @@ dev-java/maven-embedder
 dev-java/dnsjava
 dev-java/plexus-server
 sys-libs/readline
+dev-java/maven-invoker
