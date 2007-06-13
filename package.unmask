@@ -1022,3 +1022,4 @@ dev-java/dnsjava
 dev-java/plexus-server
 sys-libs/readline
 dev-java/maven-invoker
+dev-java/maven-plugin-testing-tools
