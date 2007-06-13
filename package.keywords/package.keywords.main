@@ -1501,3 +1501,4 @@ dev-java/plexus-active-collections ~x86
 dev-java/maven-embeddet ~x86
 dev-java/maven-embedder ~x86
 dev-java/dnsjava ~x86
+dev-java/plexus-server ~x86

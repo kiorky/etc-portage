@@ -1019,3 +1019,4 @@ dev-java/plexus-active-collections
 dev-java/maven-embeddet
 dev-java/maven-embedder
 dev-java/dnsjava
+dev-java/plexus-server
