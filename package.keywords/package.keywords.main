@@ -1507,3 +1507,4 @@ dev-java/maven-invoker ~x86
 dev-java/maven-plugin-testing-tools ~x86
 dev-java/maven-shared-io ~x86
 dev-java/file-management ~x86
+dev-java/maven-assembly-plugin ~x86
