@@ -1027,3 +1027,4 @@ dev-java/maven-shared-io
 dev-java/file-management
 dev-java/maven-assembly-plugin
 dev-java/maven-resources-plugin
+dev-java/maven-base-poms

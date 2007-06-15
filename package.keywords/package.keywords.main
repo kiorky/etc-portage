@@ -1509,3 +1509,4 @@ dev-java/maven-shared-io ~x86
 dev-java/file-management ~x86
 dev-java/maven-assembly-plugin ~x86
 dev-java/maven-resources-plugin ~x86
+dev-java/maven-base-poms ~x86
