@@ -1512,3 +1512,4 @@ dev-java/maven-resources-plugin ~x86
 dev-java/maven-base-poms ~x86
 dev-java/maven-shared-components ~x86
 dev-java/plexus-mail-sender ~x86
+dev-java/emma ~x86

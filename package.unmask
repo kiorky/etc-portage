@@ -1030,3 +1030,4 @@ dev-java/maven-resources-plugin
 dev-java/maven-base-poms
 dev-java/maven-shared-components
 dev-java/plexus-mail-sender
+dev-java/emma
