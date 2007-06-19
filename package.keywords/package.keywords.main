@@ -1514,3 +1514,4 @@ dev-java/maven-shared-components ~x86
 dev-java/plexus-mail-sender ~x86
 dev-java/emma ~x86
 net-zope/plone ~x86
+net-zope/zope ~x86
