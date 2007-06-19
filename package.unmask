@@ -1029,3 +1029,4 @@ dev-java/maven-assembly-plugin
 dev-java/maven-resources-plugin
 dev-java/maven-base-poms
 dev-java/maven-shared-components
+dev-java/plexus-mail-sender
