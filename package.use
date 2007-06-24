@@ -361,3 +361,7 @@ x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqli
 net-www/mplayerplug-in gtk divx gmedia  quicktime realmedia wmp
 media-gfx/xv jpeg png tiff
 sys-apps/acl nls nfs
+app-editors/vim-core acl bash-completion nls -livecd
+net-misc/rsync ipv6 acl
+sys-apps/coreutils nls acl  xattr
+app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal vim-with-x
