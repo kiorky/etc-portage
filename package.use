@@ -358,5 +358,6 @@ net-ftp/vsftpd  pam ssl tcpd caps logrotate
 sys-auth/pam_mysql openssl
 x11-libs/qt cups gif ipv6 mysql opengl sqlite doc examples  
 x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples  
+net-www/mplayerplug-in gtk divx gmedia  quicktime realmedia wmp
 media-gfx/xv jpeg png tiff
 sys-apps/acl nls nfs
