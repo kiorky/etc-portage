@@ -365,3 +365,4 @@ app-editors/vim-core acl bash-completion nls -livecd
 net-misc/rsync ipv6 acl
 sys-apps/coreutils nls acl  xattr
 app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal vim-with-x
+net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos -ldap -oav quotas -selinux -swat syslog -winbind
