@@ -367,3 +367,6 @@ sys-apps/coreutils nls acl  xattr
 app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal vim-with-x
 net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos -ldap -oav quotas -selinux -swat syslog -winbind
 media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -ipod mp4 mtp -noamazon -opengl -postgres visualization -xinerama aac
+app-text/enscript nls ruby
+kde-base/kdebase-kioslaves hal ldap openexr samba
+kde-base/konqueror java
