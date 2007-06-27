@@ -370,3 +370,6 @@ media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -
 app-text/enscript nls ruby
 kde-base/kdebase-kioslaves hal ldap openexr samba
 kde-base/konqueror java
+kde-base/kdepim-kioslaves sasl
+kde-base/kaddressbook gnokii
+kde-base/kdepim-kioslaves sasl
