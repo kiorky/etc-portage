@@ -105,7 +105,8 @@ media-video/avifile   X  a52  alsa  encode  dvd  esd mad   oss qt sblive sdl tru
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid 
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
-media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 -vidix -xinerama xvmc zoran 
+media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix -xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif
+
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 X dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid  
@@ -142,7 +143,6 @@ x11-libs/qt cups gif jpeg mysql opengl png zlib -accessibility -debug -doc -exam
 x11-libs/wxGTK X -gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
 x11-terms/mrxvt menubar
 x11-wm/compiz -kde svg -gnome
-media-video/mplayer X aac alsa bidi dts dvd dvdread encode esd gtk ipv6 lzo musepack nas nvidia openal opengl oss png real samba sdl svga tga theora truetype unicode vorbis win32codecs x264 xanim xv xvid -3dfx -3dnow -3dnowext -aalib -altivec -arts -bindist -bl -cdparanoia -cpudetection -custom-cflags -debug -dga -directfb -doc -dv -dvb -fbcon -ggi gif -i8x0 -jack -joystick jpeg -libcaca -lirc -live -livecd mad -matrox -mmx -mmxext -rtc -sse -sse2 -v4l -v4l2 -xinerama unicode -xmms -xvmc -amr -enca -iconv speex live
 media-video/vlc dvb dvbpsi v4l mpc X a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musepac -oss qt -qt4 -qt_embedded quicktime real -svga -tarkin tremor -twolame v4l -vcd vlm x264 skins2 shout httpd musepack avahi cddb libcaca libnotify live       seamonkey sdl-image    upnp rtsp svga vcd truetype win32codecs xml         
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 dev-scheme/drscheme perl cairo jpeg opengl png
