@@ -1416,3 +1416,4 @@ kde-misc/styleclock
 kde-misc/tellico
 kde-misc/tork
 kde-misc/yakuake
+dev-libs/libdaemon
