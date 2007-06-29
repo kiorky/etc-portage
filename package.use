@@ -105,7 +105,7 @@ media-video/avifile   X  a52  alsa  encode  dvd  esd mad   oss qt sblive sdl tru
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid 
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
-media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix -xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif
+media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  -opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix -xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif
 
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
@@ -373,3 +373,5 @@ kde-base/konqueror java
 kde-base/kdepim-kioslaves sasl
 kde-base/kaddressbook gnokii
 kde-base/kdepim-kioslaves sasl
+media-libs/akode alsa flac -jack mp3 oss speex vorbis
+kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis 
