@@ -1417,3 +1417,4 @@ kde-misc/tellico
 kde-misc/tork
 kde-misc/yakuake
 dev-libs/libdaemon
+sys-apps/ivman
