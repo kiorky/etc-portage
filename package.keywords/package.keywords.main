@@ -1900,3 +1900,4 @@ kde-misc/tork ~x86
 kde-misc/yakuake ~x86
 dev-libs/libdaemon ~x86
 sys-apps/ivman ~x86
+app-arch/unace ~x86

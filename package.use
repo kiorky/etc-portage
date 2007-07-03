@@ -377,3 +377,4 @@ media-libs/akode alsa flac -jack mp3 oss speex vorbis
 kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis 
 sys-apps/pmount hal 
 kde-base/kdelibs acl alsa arts avahi branding cups -debug fam jpeg2k kerberos lua openexr spell tiff utempter -doc -kdeenablefinal -kdehiddenvisibility -legacyssl
+kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis 
