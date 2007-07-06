@@ -693,7 +693,7 @@ net-mail/dovecot
 net-mail/mailman
 net-misc/d4x
 net-misc/icecast
-net-misc/libupnp
+net-libs/libupnp
 net-misc/neon
 net-misc/streamtuner
 net-misc/upnp
@@ -1419,3 +1419,4 @@ kde-misc/yakuake
 dev-libs/libdaemon
 sys-apps/ivman
 app-arch/unace
+app-editors/gvim

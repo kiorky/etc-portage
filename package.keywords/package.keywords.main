@@ -1139,7 +1139,7 @@ net-mail/dovecot ~x86
 net-mail/mailman ~x86
 net-misc/d4x ~x86
 net-misc/icecast ~x86
-net-misc/libupnp ~x86
+net-libs/libupnp ~x86
 net-misc/neon ~x86
 net-misc/streamtuner ~x86
 net-misc/upnp ~x86
@@ -1901,3 +1901,4 @@ kde-misc/yakuake ~x86
 dev-libs/libdaemon ~x86
 sys-apps/ivman ~x86
 app-arch/unace ~x86
+app-editors/gvim ~x86
