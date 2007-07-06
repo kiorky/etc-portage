@@ -1420,3 +1420,4 @@ dev-libs/libdaemon
 sys-apps/ivman
 app-arch/unace
 app-editors/gvim
+dev-java/ical4j

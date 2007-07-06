@@ -1902,3 +1902,4 @@ dev-libs/libdaemon ~x86
 sys-apps/ivman ~x86
 app-arch/unace ~x86
 app-editors/gvim ~x86
+dev-java/ical4j ~x86
