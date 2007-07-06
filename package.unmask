@@ -1422,3 +1422,4 @@ app-arch/unace
 app-editors/gvim
 dev-java/ical4j
 dev-java/jaxp
+dev-java/sun-httpserver-bin
