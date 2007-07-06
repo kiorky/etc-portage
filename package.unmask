@@ -1423,3 +1423,4 @@ app-editors/gvim
 dev-java/ical4j
 dev-java/jaxp
 dev-java/sun-httpserver-bin
+dev-java/jsr67
