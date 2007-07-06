@@ -1906,3 +1906,4 @@ dev-java/ical4j ~x86
 dev-java/jaxp ~x86
 dev-java/sun-httpserver-bin ~x86
 dev-java/jsr67 ~x86
+dev-java/jax-ws-api ~x86
