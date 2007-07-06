@@ -1425,4 +1425,5 @@ dev-java/jaxp
 dev-java/sun-httpserver-bin
 dev-java/jsr67
 dev-java/jax-ws-api
-dev-java/jaxb-2
+dev-java/jaxb
+dev-java/xsom

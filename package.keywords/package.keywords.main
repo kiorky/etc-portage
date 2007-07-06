@@ -1907,4 +1907,5 @@ dev-java/jaxp ~x86
 dev-java/sun-httpserver-bin ~x86
 dev-java/jsr67 ~x86
 dev-java/jax-ws-api ~x86
-dev-java/jaxb-2 ~x86
+dev-java/jaxb ~x86
+dev-java/xsom ~x86
