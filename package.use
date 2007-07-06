@@ -378,4 +378,4 @@ kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis
 sys-apps/pmount hal 
 kde-base/kdelibs acl alsa arts avahi branding cups -debug fam jpeg2k kerberos lua openexr spell tiff utempter -doc -kdeenablefinal -kdehiddenvisibility -legacyssl
 kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis 
-app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif netbeans nextaw ruby
+app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
