@@ -380,3 +380,7 @@ kde-base/kdelibs acl alsa arts avahi branding cups -debug fam jpeg2k kerberos lu
 kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis 
 app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
 media-gfx/graphviz X nls perl python  gtk  ruby tcl tk
+dev-lang/swig java mono perl php python ruby -doc guile lua ocaml pike tcl tk
+dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
+media-libs/pdflib perl python -doc java tcl
+gnome-extra/libgsf python bzip2 
