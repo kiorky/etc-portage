@@ -379,3 +379,4 @@ sys-apps/pmount hal
 kde-base/kdelibs acl alsa arts avahi branding cups -debug fam jpeg2k kerberos lua openexr spell tiff utempter -doc -kdeenablefinal -kdehiddenvisibility -legacyssl
 kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis 
 app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
+media-gfx/graphviz X nls perl python  gtk  ruby tcl tk
