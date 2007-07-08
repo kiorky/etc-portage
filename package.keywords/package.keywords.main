@@ -1911,3 +1911,4 @@ dev-java/jaxb ~x86
 dev-java/xsom ~x86
 media-sound/esound ~x86
 app-shells/rssh ~x86
+dev-perl/Test-Number-Delta ~x86
