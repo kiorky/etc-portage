@@ -1916,3 +1916,4 @@ app-crypt/heimdal ~x86
 app-crypt/mit-krb5 ~x86
 net-nds/openldap ~x86
 sys-auth/pam_ldap ~x86
+sys-auth/nss_ldap ~x86
