@@ -73,7 +73,7 @@ gnome-extra/nautilus-cd-burner cdr
 gnome-extra/yelp firefox debug
 kde-base/arts -alsa -esd -mp3 -vorbis -artswrappersuid -jack -nas
 kde-base/kcontrol arts opengl ssl -debug -ieee1394 -kdeenablefinal -kdexdeltas logitech-mouse -xinerama
-kde-base/kdebase arts opengl pam ssl cups -debug -hal -ieee1394 java -kdeenablefinal -ldap -lm_sensors logitech-mouse -openexr samba xcomposite -xinerama xscreensaver -zeroconf
+kde-base/kdebase arts opengl pam ssl cups -debug -hal -ieee1394 java -kdeenablefinal ldap -lm_sensors logitech-mouse -openexr samba xcomposite -xinerama xscreensaver -zeroconf
 kde-base/kdegraphics arts imlib opengl -debug gphoto2 -kdeenablefinal -openexr pdf -povray -scanner tetex -xinerama
 kde-base/kdelibs acl alsa arts cups jpeg2k spell ssl tiff debug -doc -kdeenablefinal -kerberos -openexr -xinerama -zeroconf
 kde-base/kdemultimedia alsa arts encode gstreamer mp3 vorbis -audiofile -debug flac -kdeenablefinal musicbrainz theora xine -xinerama
@@ -129,7 +129,7 @@ sys-devel/gcc gcj
 sys-libs/glibc glibc-compat20  linuxthreads-tls  nls nptl nptlonly  userlocales pic profile
 sys-libs/pam berjdb pam_console pam_timestamp pwdb pam_chroot nis
 www-client/epiphany dbus firefox python -debug -doc
-www-client/seamonkey crypt -gnome ipv6 -debug java -ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming -postgres -xinerama xprint
+www-client/seamonkey crypt -gnome ipv6 -debug java ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming -postgres -xinerama xprint
 www-client/w3m X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
 www-client/w3m- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
 www-client/w3- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
@@ -175,8 +175,8 @@ net-mail/mailman apache2 postfix
 mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap
 mail-mta/postfix ipv6 mysql pam ssl hardened postgres ldap dovecot-sasl
 #
-dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl authdaemond -java -kerberos -ldap -ntlm_unsupported_patch postgres -sample -srp -urandom
-dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl authdaemond -java -kerberos -ldap -ntlm_unsupported_patch postgres -sample -srp -urandom
+dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl authdaemond -java -kerberos ldap -ntlm_unsupported_patch postgres -sample -srp -urandom
+dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl authdaemond -java -kerberos ldap -ntlm_unsupported_patch postgres -sample -srp -urandom
 dev-db/phpmyadmin vhosts
 www-apps/viewcvs cvsgraph enscript vhosts
 www-apps/viewcvs cvsgraph enscript vhosts
@@ -189,7 +189,7 @@ www-apps/viewvc enscript highlight mysql vhosts apache2
 net-ftp/pure-ftpd mysql pam ssl vchroot  caps
 net-analyzer/nessus-core -X tcpd -debug prelude
 net-analyzer/snor mysql ssl prelude  flexresp
-net-analyzer/nagios-plugins ipv6 mysql ssl -ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh -postgres -radius -samba snmp -ups
+net-analyzer/nagios-plugins ipv6 mysql ssl ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh -postgres -radius -samba snmp -ups
 net-analyzer/nagios-core mysql perl apache2
 net-analyzer/nessus-core tcpd -X  prelude
 net-analyzer/nessus-core -X tcpd -debug prelude
@@ -326,7 +326,7 @@ dev-python/sqlobject mysql -doc -firebird postgres sqlite
 app-emulation/wine X  alsa cups lcms nas ncurses  jpeg  -opengl  xml scanner
 media-libs/lcms  python zlib  jpeg tiff
 media-gfx/fontforge X unicode gif jpeg png  svg  tiff truetype
-net-mail/dovecot -debug -doc ipv6 -kerberos -ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail suid
+net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail suid
 mail-mta/postfix ipv6 mysql pam ssl sasl
 dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond
 
@@ -365,7 +365,7 @@ app-editors/vim-core acl bash-completion nls -livecd
 net-misc/rsync ipv6 acl
 sys-apps/coreutils nls acl  xattr
 app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal vim-with-x
-net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos -ldap -oav quotas -selinux -swat syslog -winbind
+net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog -winbind
 media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -ipod mp4 mtp -noamazon -opengl -postgres visualization -xinerama aac
 app-text/enscript nls ruby
 kde-base/kdebase-kioslaves hal ldap openexr samba
@@ -384,7 +384,7 @@ dev-lang/swig java mono perl php python ruby -doc guile lua ocaml pike tcl tk
 dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
 media-libs/pdflib perl python -doc java tcl
 gnome-extra/libgsf python bzip2
-app-crypt/heimdal -X berkdb ipv6 ssl -ldap
+app-crypt/heimdal -X berkdb ipv6 ssl ldap
 sys-auth/nss_ldap kerberos -sasl
 sys-auth/pam_ldap -sasl ssl
 net-nds/openldap berkdb crypt gdbm ipv6 kerberos perl readline samba -sasl slp ssl tcpd -debug -minimal -odbc -overlays -selinux -smbkrb5passwd
