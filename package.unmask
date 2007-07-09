@@ -1434,3 +1434,4 @@ dev-perl/Test-Number-Delta
 app-crypt/heimdal
 app-crypt/mit-krb5
 net-nds/openldap
+sys-auth/pam_ldap
