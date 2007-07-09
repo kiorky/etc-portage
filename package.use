@@ -385,3 +385,4 @@ dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl
 media-libs/pdflib perl python -doc java tcl
 gnome-extra/libgsf python bzip2 
 app-crypt/heimdal -X berkdb ipv6 ssl ldap
+app-crypt/heimdal -X berkdb ipv6 ssl -ldap
