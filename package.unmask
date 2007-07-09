@@ -1437,3 +1437,4 @@ net-nds/openldap
 sys-auth/pam_ldap
 sys-auth/nss_ldap
 app-crypt/libgssapi
+media-player/mplayer
