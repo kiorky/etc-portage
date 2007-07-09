@@ -384,3 +384,4 @@ dev-lang/swig java mono perl php python ruby -doc guile lua ocaml pike tcl tk
 dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
 media-libs/pdflib perl python -doc java tcl
 gnome-extra/libgsf python bzip2 
+app-crypt/heimdal -X berkdb ipv6 ssl ldap
