@@ -1919,3 +1919,4 @@ sys-auth/pam_ldap ~x86
 sys-auth/nss_ldap ~x86
 app-crypt/libgssapi ~x86
 media-player/mplayer ~x86
+app-portage/layman ~x86
