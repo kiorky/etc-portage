@@ -1454,3 +1454,4 @@ net-analyzer/netcat6
 net-analyzer/gnu-netcat
 sys-apps/ethtool
 net-analyzer/tcpdump
+sys-apps/pciutils

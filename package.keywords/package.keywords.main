@@ -1936,3 +1936,4 @@ net-analyzer/netcat6 ~x86
 net-analyzer/gnu-netcat ~x86
 sys-apps/ethtool ~x86
 net-analyzer/tcpdump ~x86
+sys-apps/pciutils ~x86
