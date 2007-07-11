@@ -1428,7 +1428,6 @@ dev-java/jax-ws-api
 dev-java/jaxb
 dev-java/xsom
 media-sound/esound
-
 app-shells/rssh
 dev-perl/Test-Number-Delta
 app-crypt/heimdal
@@ -1439,3 +1438,4 @@ sys-auth/nss_ldap
 app-crypt/libgssapi
 media-player/mplayer
 app-portage/layman
+sys-apps/coldplug

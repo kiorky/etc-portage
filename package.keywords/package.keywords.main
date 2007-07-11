@@ -1920,3 +1920,4 @@ sys-auth/nss_ldap ~x86
 app-crypt/libgssapi ~x86
 media-player/mplayer ~x86
 app-portage/layman ~x86
+sys-apps/coldplug ~x86
