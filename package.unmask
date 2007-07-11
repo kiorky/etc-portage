@@ -1460,3 +1460,4 @@ sys-libs/libkudzu
 dev-util/catalyst
 sys-fs/dmraid
 sys-kernel/gentoo-sources
+app-emulation/kqem
