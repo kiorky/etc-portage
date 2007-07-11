@@ -1461,3 +1461,4 @@ dev-util/catalyst
 sys-fs/dmraid
 sys-kernel/gentoo-sources
 app-emulation/kqem
+app-emulation/kqemu

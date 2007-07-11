@@ -1943,3 +1943,4 @@ dev-util/catalyst ~x86
 sys-fs/dmraid ~x86
 sys-kernel/gentoo-sources ~x86
 app-emulation/kqem ~x86
+app-emulation/kqemu ~x86
