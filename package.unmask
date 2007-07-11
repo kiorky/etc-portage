@@ -1458,3 +1458,4 @@ sys-apps/pciutils
 sys-apps/hwdata-redhat
 sys-libs/libkudzu
 dev-util/catalyst
+sys-fs/dmraid
