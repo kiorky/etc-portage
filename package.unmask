@@ -1465,3 +1465,4 @@ app-emulation/kqemu
 app-emulation/qemu
 app-emulation/qemu-user
 app-emulation/qemu-softmmu
+sys-kernel/gentoo-sources

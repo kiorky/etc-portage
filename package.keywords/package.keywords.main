@@ -1947,3 +1947,4 @@ app-emulation/kqemu ~x86
 app-emulation/qemu ~x86
 app-emulation/qemu-user ~x86
 app-emulation/qemu-softmmu ~x86
+sys-kernel/gentoo-sources ~x86
