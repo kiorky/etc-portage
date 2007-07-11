@@ -389,3 +389,4 @@ sys-auth/nss_ldap kerberos -sasl
 sys-auth/pam_ldap -sasl ssl
 net-nds/openldap berkdb crypt gdbm ipv6 kerberos perl readline samba -sasl slp ssl tcpd -debug -minimal -odbc -overlays -selinux -smbkrb5passwd
 app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -selinux
+sys-kernel/gentoo-sources symlink
