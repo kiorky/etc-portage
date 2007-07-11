@@ -1941,3 +1941,4 @@ sys-apps/hwdata-redhat ~x86
 sys-libs/libkudzu ~x86
 dev-util/catalyst ~x86
 sys-fs/dmraid ~x86
+sys-kernel/gentoo-sources ~x86
