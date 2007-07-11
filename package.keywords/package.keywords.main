@@ -1938,3 +1938,4 @@ sys-apps/ethtool ~x86
 net-analyzer/tcpdump ~x86
 sys-apps/pciutils ~x86
 sys-apps/hwdata-redhat ~x86
+sys-libs/libkudzu ~x86

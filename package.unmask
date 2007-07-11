@@ -1456,3 +1456,4 @@ sys-apps/ethtool
 net-analyzer/tcpdump
 sys-apps/pciutils
 sys-apps/hwdata-redhat
+sys-libs/libkudzu
