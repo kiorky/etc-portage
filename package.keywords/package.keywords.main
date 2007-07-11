@@ -1944,3 +1944,6 @@ sys-fs/dmraid ~x86
 sys-kernel/gentoo-sources ~x86
 app-emulation/kqem ~x86
 app-emulation/kqemu ~x86
+app-emulation/qemu ~x86
+app-emulation/qemu-user ~x86
+app-emulation/qemu-softmmu ~x86

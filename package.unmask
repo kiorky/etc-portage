@@ -1462,3 +1462,6 @@ sys-fs/dmraid
 sys-kernel/gentoo-sources
 app-emulation/kqem
 app-emulation/kqemu
+app-emulation/qemu
+app-emulation/qemu-user
+app-emulation/qemu-softmmu
