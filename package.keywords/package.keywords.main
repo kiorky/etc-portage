@@ -1948,3 +1948,7 @@ app-emulation/qemu ~x86
 app-emulation/qemu-user ~x86
 app-emulation/qemu-softmmu ~x86
 sys-kernel/gentoo-sources ~x86
+app-emulation/virtualbox ~x86
+app-emulation/virtualbox-bin ~x86
+app-emulation/virtualbox-additions ~x86
+app-emulation/virtualbox-modules ~x86
