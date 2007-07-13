@@ -391,3 +391,4 @@ net-nds/openldap berkdb crypt gdbm ipv6 kerberos perl readline samba -sasl slp s
 app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -selinux
 sys-kernel/gentoo-sources symlink
 app-emulation/qemu-softmmu alsa sdl -kqemu
+app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool

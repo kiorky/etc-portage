@@ -1470,3 +1470,5 @@ app-emulation/virtualbox
 app-emulation/virtualbox-bin
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-modules
+sys-apps/lm_sensors
+kde-misc/ksensors

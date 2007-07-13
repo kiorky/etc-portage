@@ -1952,3 +1952,5 @@ app-emulation/virtualbox ~x86
 app-emulation/virtualbox-bin ~x86
 app-emulation/virtualbox-additions ~x86
 app-emulation/virtualbox-modules ~x86
+sys-apps/lm_sensors ~x86
+kde-misc/ksensors ~x86
