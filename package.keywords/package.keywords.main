@@ -1954,3 +1954,4 @@ app-emulation/virtualbox-additions ~x86
 app-emulation/virtualbox-modules ~x86
 sys-apps/lm_sensors ~x86
 kde-misc/ksensors ~x86
+x11-misc/read-edid ~x86
