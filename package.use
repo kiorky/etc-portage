@@ -32,7 +32,7 @@ dev-dotnet/libgdiplus exif gif jpeg tiff png png%
 dev-games/crystalspace  3ds mng  openal
 dev-games/ode  double-precision
 dev-java/ant-tasks javamail -noantlr -nobcel -nobeanutils -nobsf -nobsh -nocommonslogging -nocommonsnet -nojdepend -nojsch -nojython -nolog4j -nooro -noregexp -norhino -noxalan -noxerces
-dev-java/sun-jdk browserplugin  nsplugin jce doc
+dev-java/sun-jdk -browserplugin  -nsplugin -jce -doc
 dev-lang/cm3 tcltk
 dev-lang/swig perl php python -doc -guile java -lua mono -ocaml -pike ruby -tcl -tk
 dev-libs/boehm-gc threads
@@ -288,7 +288,7 @@ net-misc/icecast yp
 net-misc/icecast yp  theora
 net-www/mod_security apache2
 media-sound/amarok kde mysql aac ifp  musicbrainz  njb real
-dev-java/sun-jdk doc nsplugin
+dev-java/sun-jdk -doc -nsplugin
 media-sound/streamripper vorbis
 www-apache/mod_jk apache2 java
 media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l
