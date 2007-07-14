@@ -1473,3 +1473,4 @@ app-emulation/virtualbox-modules
 sys-apps/lm_sensors
 kde-misc/ksensors
 x11-misc/read-edid
+kde-base/kde-i18n

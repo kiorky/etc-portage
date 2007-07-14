@@ -1955,3 +1955,4 @@ app-emulation/virtualbox-modules ~x86
 sys-apps/lm_sensors ~x86
 kde-misc/ksensors ~x86
 x11-misc/read-edid ~x86
+kde-base/kde-i18n ~x86
