@@ -1015,7 +1015,6 @@ media-libs/mesa ~x86
 media-libs/taglib ~x86
 media-libs/win32codecs ~x86
 media-libs/x264-svn -*
-media-libs/xine-lib -*
 media-libs/xine-lib ~x86
 media-libs/xvid ~x86
 media-plugins/gst-plugins-a52dec  ~x86
@@ -1956,3 +1955,4 @@ sys-apps/lm_sensors ~x86
 kde-misc/ksensors ~x86
 x11-misc/read-edid ~x86
 kde-base/kde-i18n ~x86
+dev-libs/libatomic_ops ~x86
