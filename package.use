@@ -392,3 +392,5 @@ app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -seli
 sys-kernel/gentoo-sources symlink
 app-emulation/qemu-softmmu alsa sdl -kqemu
 app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
+sys-apps/lm_sensors sensord
+kde-misc/ksensors   hddtemp
