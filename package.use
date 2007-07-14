@@ -394,3 +394,4 @@ app-emulation/qemu-softmmu alsa sdl -kqemu
 app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
 sys-apps/lm_sensors sensord
 kde-misc/ksensors   hddtemp
+net-misc/tightvnc tcpd -java server 
