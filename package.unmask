@@ -1477,3 +1477,4 @@ kde-base/kde-i18n
 dev-libs/libatomic_ops
 dev-lang/ruby
 app-admin/eselect-news
+net-wireless/kismet
