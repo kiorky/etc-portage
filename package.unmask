@@ -1475,4 +1475,5 @@ kde-misc/ksensors
 x11-misc/read-edid
 kde-base/kde-i18n
 dev-libs/libatomic_ops
+dev-lang/ruby
 app-admin/eselect-news

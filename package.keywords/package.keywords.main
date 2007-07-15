@@ -1956,4 +1956,5 @@ kde-misc/ksensors ~x86
 x11-misc/read-edid ~x86
 kde-base/kde-i18n ~x86
 dev-libs/libatomic_ops ~x86
+dev-lang/ruby ~x86
 app-admin/eselect-news ~x86
