@@ -111,7 +111,6 @@ media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 X dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid
 media-video/xine-ui X aalib curl libcaca -lirc ncurses nls readline
-net-dns/avahi gdbm gtk python qt bookmarks dbus -doc howl-compat mdnsresponder-compat mono
 net-libs/aqbanking dtaus geldkarte hbci kde ofx qt chipcard
 net-libs/gecko-sdk crypt -debug -gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint
 net-misc/d4x -esd -gnome -kde -nls -oss
@@ -345,8 +344,8 @@ dev-python/genshi examples
 dev-python/mysql-python doc  examples
 dev-python/cherrypy  doc  examples
 dev-python/celementtree  doc  examples
-net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat -mono python -autoipd -doc qt3 qt4 -test
- kde-base/kdelibs acl alsa arts cups debug jpeg2k spell tiff avahi branding -doc fam -kdeenablefinal -kdehiddenvisibility kerberos -legacyssl lua openexr utempter -xinerama ssl -zeroconf
+net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat mono python -autoipd -doc qt3 qt4 -test
+kde-base/kdelibs acl alsa arts cups debug jpeg2k spell tiff avahi branding -doc fam -kdeenablefinal -kdehiddenvisibility kerberos -legacyssl lua openexr utempter -xinerama ssl -zeroconf
 media-video/kmplayer mplayer
 app-text/ghostscript-esp X cups -cjk djvu -emacs -gtk threads xml
 app-text/djvu jpeg nls nsplugin qt3 threads tiff -debug -kde xml
