@@ -1959,3 +1959,4 @@ dev-libs/libatomic_ops ~x86
 dev-lang/ruby ~x86
 app-admin/eselect-news ~x86
 net-wireless/kismet ~x86
+x11-wm/fluxbox ~x86
