@@ -394,3 +394,9 @@ app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
 sys-apps/lm_sensors sensord
 kde-misc/ksensors   hddtemp
 net-misc/tightvnc tcpd -java server 
+xfce-base/xfce-utils dbus
+xfce-base/xfce4-session dbus
+xfce-base/thunar dbus
+xfce-base/xfdesktop dbus
+xfce-extra/terminal dbus
+x11-wm/fluxbox kde nls imlib  truetype 
