@@ -1962,3 +1962,4 @@ net-wireless/kismet ~x86
 x11-wm/fluxbox ~x86
 media-libs/libgphoto2 ~x86
 media-gfx/gphoto2 ~x86
+dev-python/python-ldap ~x86
