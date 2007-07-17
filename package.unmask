@@ -1479,3 +1479,5 @@ dev-lang/ruby
 app-admin/eselect-news
 net-wireless/kismet
 x11-wm/fluxbox
+media-libs/libgphoto2
+media-gfx/gphoto2
