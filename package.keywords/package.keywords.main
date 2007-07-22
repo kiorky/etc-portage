@@ -1965,3 +1965,4 @@ media-gfx/gphoto2 ~x86
 dev-python/python-ldap ~x86
 sys-kernel/genkernel ~x86
 sys-kernel/genkernel ~x86
+sys-apps/busybox ~x86
