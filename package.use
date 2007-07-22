@@ -400,3 +400,4 @@ xfce-base/thunar dbus
 xfce-base/xfdesktop dbus
 xfce-extra/terminal dbus
 x11-wm/fluxbox kde nls imlib  truetype 
+sys-kernel/genkernel bash-completion
