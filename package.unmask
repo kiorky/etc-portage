@@ -1482,3 +1482,4 @@ x11-wm/fluxbox
 media-libs/libgphoto2
 media-gfx/gphoto2
 dev-python/python-ldap
+sys-kernel/genkernel
