@@ -2365,3 +2365,6 @@ kde-base/kde-i18n ~x86
 dev-libs/libatomic_ops ~x86
 dev-lang/ruby ~x86
 app-admin/eselect-news ~x86
+x11-terms/rxvt-unicode ~x86
+x11-terms/rxvt ~x86
+x11-terms/mrxvt ~x86

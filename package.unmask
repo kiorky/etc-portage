@@ -1902,3 +1902,6 @@ kde-base/kde-i18n
 dev-libs/libatomic_ops
 dev-lang/ruby
 app-admin/eselect-news
+x11-terms/rxvt-unicode
+x11-terms/rxvt
+x11-terms/mrxvt
