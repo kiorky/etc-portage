@@ -303,3 +303,4 @@ xfce-base/xfce4-session dbus
 xfce-base/xfdesktop dbus
 xfce-extra/terminal dbus
 ys-apps/dbus X gtk python qt mono
+x11-terms/rxvt-unicode perl iso14755 truetype
