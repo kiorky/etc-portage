@@ -305,3 +305,4 @@ xfce-extra/terminal dbus
 ys-apps/dbus X gtk python qt mono
 x11-terms/rxvt-unicode perl iso14755 truetype
 dev-php5/ZendFramework doc examples
+dev-php/smarty doc
