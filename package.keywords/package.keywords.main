@@ -2373,3 +2373,4 @@ dev-php/smarty ~x86
 dev-php/smarty-docs ~x86
 www-apps/trac-webadmin ~x86
 www-apps/trac ~x86
+dev-python/mod_python ~x86

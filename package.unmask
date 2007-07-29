@@ -1910,3 +1910,4 @@ dev-php/smarty
 dev-php/smarty-docs
 www-apps/trac-webadmin
 www-apps/trac
+dev-python/mod_python
