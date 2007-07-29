@@ -1908,3 +1908,5 @@ x11-terms/mrxvt
 dev-php5/ZendFramework
 dev-php/smarty
 dev-php/smarty-docs
+www-apps/trac-webadmin
+www-apps/trac

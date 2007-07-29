@@ -2371,3 +2371,5 @@ x11-terms/mrxvt ~x86
 dev-php5/ZendFramework ~x86
 dev-php/smarty ~x86
 dev-php/smarty-docs ~x86
+www-apps/trac-webadmin ~x86
+www-apps/trac ~x86
