@@ -1906,3 +1906,5 @@ x11-terms/rxvt-unicode
 x11-terms/rxvt
 x11-terms/mrxvt
 dev-php5/ZendFramework
+dev-php/smarty
+dev-php/smarty-docs
