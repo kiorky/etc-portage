@@ -2368,3 +2368,4 @@ app-admin/eselect-news ~x86
 x11-terms/rxvt-unicode ~x86
 x11-terms/rxvt ~x86
 x11-terms/mrxvt ~x86
+dev-php5/ZendFramework ~x86
