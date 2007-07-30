@@ -308,3 +308,4 @@ x11-terms/rxvt-unicode perl iso14755 truetype
 dev-php5/ZendFramework doc examples
 dev-php/smarty doc
 dev-php/smarty doc
+sys-apps/pciutils -zlib
