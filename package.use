@@ -1,4 +1,4 @@
-app-admin/eselect bash-completion
+app-admin/eselect bash-completion 
 app-admin/prelude-manager dbx -debug -doc xml
 app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -selinux
 app-arch/tar  nls bzip2
