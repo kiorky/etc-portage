@@ -45,7 +45,7 @@ dev-java/avalon-framework jikes
 dev-java/avalon-logkit javamail jms jikes
 dev-java/bsf jikes  jython  rhino
 dev-java/bsh -gnome kde
-dev-java/castor -doc jikes -postgres -source
+dev-java/castor -doc jikes postgres -source
 dev-java/cglib -doc jikes -source
 dev-java/commons -doc jikes junit -source
 dev-java/commons-beanutils jikes
@@ -194,7 +194,7 @@ media-libs/win32codecs real
 media-libs/x264 mp4 threads
 media-libs/x264-svn mp4 threads
 media-libs/xine-lib  X a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss pulseaudio real truetype -v4l -vcd wavpack -xcb xinerama
-media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -ipod mp4 mtp -noamazon -opengl -postgres visualization xinerama aac
+media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -ipod mp4 mtp -noamazon -opengl postgres visualization xinerama aac
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/grip nls vorbis
 media-sound/kradio encode ogg vorbis
@@ -219,12 +219,12 @@ media-video/vlc dvb dvbpsi v4l mpc X a52 aac aalib alsa bidi cdda -corba daap ff
 media-video/xine-ui X aalib curl libcaca -lirc ncurses nls readline
 net-analyzer/cacti apache2  snmp  vhosts
 net-analyzer/nagios-core mysql perl apache2
-net-analyzer/nagios-plugins ipv6 mysql ssl ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh -postgres -radius -samba snmp -ups
+net-analyzer/nagios-plugins ipv6 mysql ssl ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh postgres -radius -samba snmp -ups
 net-analyzer/nessus-core -X tcpd -debug prelude
 net-analyzer/net-snmp ipv6 perl ssl tcpd  diskio lm_sensors
 net-analyzer/rrdtool perl python  rrdcgi tcl
 net-analyzer/snor mysql ssl prelude  flexresp
-net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling prelude -react sguil snortsam timestats -flexresp* -inline -odbc -postgres -selinux
+net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling prelude -react sguil snortsam timestats -flexresp* -inline -odbc postgres -selinux
 net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat mono python -autoipd -doc qt3 qt4 -test
 net-firewall/iptables  ipv6  -extensions -imq -l7filter
 net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog -winbind
@@ -236,7 +236,7 @@ net-irc/irssi ipv6 perl ssl socks5
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 net-libs/gecko-sdk crypt -debug -gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint
 net-libs/libetpan berkdb ipv6 ssl -debug gnutls sasl
-net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail suid
+net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d postgres sieve ssl -vpopmail suid
 net-mail/mailman apache2 postfix
 net-misc/d4x -esd -gnome -kde -nls -oss
 net-misc/icecast yp  theora
@@ -281,7 +281,7 @@ www-apache/mod_jk apache2 java
 www-apps/viewcvs cvsgraph enscript vhosts  apache2 cvsgraph enscript mysql vhosts
 www-apps/viewvc enscript highlight mysql vhosts apache2
 www-client/epiphany dbus firefox python -debug -doc
-www-client/seamonkey crypt -gnome ipv6 -debug java ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming -postgres xinerama xprint
+www-client/seamonkey crypt -gnome ipv6 -debug java ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming postgres xinerama xprint
 www-client/w3- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
 www-client/w3m X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
 www-client/w3m- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
