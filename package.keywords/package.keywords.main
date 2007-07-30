@@ -2376,3 +2376,4 @@ www-apps/trac ~x86
 dev-python/mod_python ~x86
 x11-themes/qtcurve ~x86
 x11-themes/gtk-engines-qtcurve ~x86
+net-www/apache ~x86
