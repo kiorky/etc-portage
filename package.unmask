@@ -1468,8 +1468,6 @@ xfce-base/libxfcegui4
 xfce-base/xfce-mcs-plugins
 >=xfce-extra/exo-0.3.1
 xfce-extra/xfce4-dev-tools
-<<<<<<< .mine
-=======
 net-zope/zope
 dev-libs/libdaemon
 kde-base/akregator
