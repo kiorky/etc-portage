@@ -2381,3 +2381,8 @@ x11-themes/tangerine-icon-theme ~x86
 x11-themes/smooth-themes ~x86
 x11-themes/gnome-themes ~x86
 x11-themes/gnome-themes-extra ~x86
+gtk-engines-begtk ~x86
+gtk-engines-cleanice ~x86
+gtk-engines-experience ~x86
+gtk-engines-icegradient ~x86
+gtk-engines-industrial ~x86
