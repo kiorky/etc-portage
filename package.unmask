@@ -1911,3 +1911,5 @@ dev-php/smarty-docs
 www-apps/trac-webadmin
 www-apps/trac
 dev-python/mod_python
+x11-themes/qtcurve
+x11-themes/gtk-engines-qtcurve
