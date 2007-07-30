@@ -2,7 +2,7 @@ app-admin/eselect bash-completion
 app-admin/prelude-manager dbx -debug -doc xml
 app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -selinux
 app-arch/tar  nls bzip2
-app-cdr/k3b alsa -arts css -debug -dvdr encode ffmpeg flac -hal kde mp3 musepack musicbrainz sndfile -vcd vorbis -xinerama
+app-cdr/k3b alsa -arts css -debug -dvdr encode ffmpeg flac -hal kde mp3 musepack musicbrainz sndfile -vcd vorbis xinerama
 app-crypt/heimdal -X berkdb ipv6 ssl ldap
 app-crypt/pinentr ncurses  qt3
 app-crypt/pinentry ncurses  qt3
@@ -153,14 +153,14 @@ gnome-extra/evolution-data-server -gnome ipv6 ssl -debug -doc kerberos krb4 ldap
 gnome-extra/libgsf python bzip2
 gnome-extra/nautilus-cd-burner cdr
 gnome-extra/yelp firefox debug
-kde-base/arts alsa -artswrappersuid -debug -esd -jack -kdeenablefinal mp3 nas vorbis -xinerama -kdehiddenvisibility
+kde-base/arts alsa -artswrappersuid -debug -esd -jack -kdeenablefinal mp3 nas vorbis xinerama -kdehiddenvisibility
 kde-base/kaddressbook gnokii
-kde-base/kcontrol arts opengl ssl -debug -ieee1394 -kdeenablefinal -kdexdeltas logitech-mouse -xinerama
-kde-base/kdebase arts opengl pam ssl cups -debug -hal -ieee1394 java -kdeenablefinal ldap -lm_sensors logitech-mouse -openexr samba xcomposite -xinerama xscreensaver -zeroconf
+kde-base/kcontrol arts opengl ssl -debug -ieee1394 -kdeenablefinal -kdexdeltas logitech-mouse xinerama
+kde-base/kdebase arts opengl pam ssl cups -debug -hal -ieee1394 java -kdeenablefinal ldap -lm_sensors logitech-mouse -openexr samba xcomposite xinerama xscreensaver -zeroconf
 kde-base/kdebase-kioslaves hal ldap openexr samba
-kde-base/kdegraphics arts imlib opengl -debug gphoto2 -kdeenablefinal -openexr pdf -povray -scanner tetex -xinerama
+kde-base/kdegraphics arts imlib opengl -debug gphoto2 -kdeenablefinal -openexr pdf -povray -scanner tetex xinerama
 kde-base/kdelibs acl alsa arts avahi branding cups -debug fam jpeg2k kerberos lua openexr spell tiff utempter -doc -kdeenablefinal -kdehiddenvisibility -legacyssl
-kde-base/kdemultimedia alsa arts encode gstreamer mp3 vorbis -audiofile -debug flac -kdeenablefinal musicbrainz theora xine -xinerama
+kde-base/kdemultimedia alsa arts encode gstreamer mp3 vorbis -audiofile -debug flac -kdeenablefinal musicbrainz theora xine xinerama
 kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis
 kde-base/kdepim-kioslaves sasl
 kde-base/kdesdk arts berkdb subversion
@@ -193,8 +193,8 @@ media-libs/smpeg X -debug -gtk -mmx opengl
 media-libs/win32codecs real
 media-libs/x264 mp4 threads
 media-libs/x264-svn mp4 threads
-media-libs/xine-lib  X a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss pulseaudio real truetype -v4l -vcd wavpack -xcb -xinerama
-media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -ipod mp4 mtp -noamazon -opengl -postgres visualization -xinerama aac
+media-libs/xine-lib  X a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss pulseaudio real truetype -v4l -vcd wavpack -xcb xinerama
+media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug -ipod mp4 mtp -noamazon -opengl -postgres visualization xinerama aac
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/grip nls vorbis
 media-sound/kradio encode ogg vorbis
@@ -203,7 +203,7 @@ media-sound/mpd-svn aac alsa ao audiofile icecast ipv6 mikmod mp3 musepack oss u
 media-sound/ogmtools dvd
 media-sound/streamripper vorbis
 media-sound/timidity++ X alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
-media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc -xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
+media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
 media-video/avidemux xvid
 media-video/avifile   X  a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid
@@ -211,7 +211,7 @@ media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode fa
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
 media-video/kmplayer mplayer
-media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  -opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix -xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif
+media-video/mplayer X aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  -opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 X dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid
@@ -281,7 +281,7 @@ www-apache/mod_jk apache2 java
 www-apps/viewcvs cvsgraph enscript vhosts  apache2 cvsgraph enscript mysql vhosts
 www-apps/viewvc enscript highlight mysql vhosts apache2
 www-client/epiphany dbus firefox python -debug -doc
-www-client/seamonkey crypt -gnome ipv6 -debug java ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming -postgres -xinerama xprint
+www-client/seamonkey crypt -gnome ipv6 -debug java ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming -postgres xinerama xprint
 www-client/w3- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
 www-client/w3m X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
 www-client/w3m- X gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
@@ -292,7 +292,7 @@ x11-base/xorg-x11 -3dfx -input_devices_acecad -input_devices_aiptek -input_devic
 x11-libs/cairo X glitz png pdf svg
 x11-libs/ecore X nls opengl ssl curl dbus threads
 x11-libs/evas X jpeg nls opengl png  cairo
-x11-libs/gtk+ X jpeg -debug -doc tiff -xinerama
+x11-libs/gtk+ X jpeg -debug -doc tiff xinerama
 x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples
 x11-libs/wxGTK X -gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
 x11-terms/mrxvt menubar
