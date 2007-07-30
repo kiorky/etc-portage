@@ -2377,3 +2377,7 @@ dev-python/mod_python ~x86
 x11-themes/qtcurve ~x86
 x11-themes/gtk-engines-qtcurve ~x86
 net-www/apache ~x86
+x11-themes/tangerine-icon-theme ~x86
+x11-themes/smooth-themes ~x86
+x11-themes/gnome-themes ~x86
+x11-themes/gnome-themes-extra ~x86

@@ -1914,3 +1914,7 @@ dev-python/mod_python
 x11-themes/qtcurve
 x11-themes/gtk-engines-qtcurve
 net-www/apache
+x11-themes/tangerine-icon-theme
+x11-themes/smooth-themes
+x11-themes/gnome-themes
+x11-themes/gnome-themes-extra
