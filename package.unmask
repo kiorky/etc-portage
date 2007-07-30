@@ -1918,8 +1918,8 @@ x11-themes/tangerine-icon-theme
 x11-themes/smooth-themes
 x11-themes/gnome-themes
 x11-themes/gnome-themes-extra
-gtk-engines-begtk
-gtk-engines-cleanice
-gtk-engines-experience
-gtk-engines-icegradient
-gtk-engines-industrial
+x11-themes/gtk-engines-begtk
+x11-themes/gtk-engines-cleanice
+x11-themes/gtk-engines-experience
+x11-themes/gtk-engines-icegradient
+x11-themes/gtk-engines-industrial
