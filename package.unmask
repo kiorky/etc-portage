@@ -1938,3 +1938,4 @@ dev-db/phppgadmin
 dev-python/pypgsql
 x11-misc/alock
 x11-base/x11-drm
+www-servers/apache
