@@ -2388,3 +2388,4 @@ x11-themes/gtk-engines-icegradient ~x86
 x11-themes/gtk-engines-industrial ~x86
 dev-db/phppgadmin ~x86
 dev-python/pypgsql ~x86
+x11-misc/alock ~x86
