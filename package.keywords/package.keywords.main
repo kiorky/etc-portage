@@ -2389,3 +2389,4 @@ x11-themes/gtk-engines-industrial ~x86
 dev-db/phppgadmin ~x86
 dev-python/pypgsql ~x86
 x11-misc/alock ~x86
+x11-base/x11-drm ~x86
