@@ -1942,3 +1942,5 @@ sys-apps/915resolution
 sys-apps/915resolution
 www-servers/apache
 x11-themes/gtk-engines-rezlooks
+emerge
+eselect-fontconfig

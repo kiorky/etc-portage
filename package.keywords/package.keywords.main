@@ -2394,3 +2394,5 @@ sys-apps/915resolution ~x86
 sys-apps/915resolution ~x86
 www-servers/apache ~x86
 x11-themes/gtk-engines-rezlooks ~x86
+emerge ~x86
+eselect-fontconfig ~x86
