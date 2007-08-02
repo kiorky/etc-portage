@@ -1941,3 +1941,4 @@ x11-base/x11-drm
 sys-apps/915resolution
 sys-apps/915resolution
 www-servers/apache
+x11-themes/gtk-engines-rezlooks
