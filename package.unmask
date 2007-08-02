@@ -1946,3 +1946,4 @@ app-admin/eselect-fontconfig
 kde-base/kontact
 kde-base/kontact-specialdates
 kde-base/kaddressbook
+dev-db/phppgadmin

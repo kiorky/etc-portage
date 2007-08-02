@@ -2398,3 +2398,4 @@ app-admin/eselect-fontconfig
 kde-base/kontact ~x86
 kde-base/kontact-specialdates ~x86
 kde-base/kaddressbook ~x86
+dev-db/phppgadmin ~x86
