@@ -312,3 +312,4 @@ sys-apps/pciutils -zlib
 x11-themes/gtk-engines-qtcurve mozilla
 x11-themes/gtk-engines-qtcurve mozilla
 dev-db/phppgadmin vhosts
+dev-util/mercurial bash-completion zsh-completion emacs
