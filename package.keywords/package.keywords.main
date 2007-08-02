@@ -2395,3 +2395,5 @@ sys-apps/915resolution ~x86
 www-servers/apache ~x86
 x11-themes/gtk-engines-rezlooks ~x86
 app-admin/eselect-fontconfig
+kde-base/kontact ~x86
+kde-base/kontact-specialdates ~x86

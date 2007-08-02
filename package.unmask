@@ -1943,3 +1943,5 @@ sys-apps/915resolution
 www-servers/apache
 x11-themes/gtk-engines-rezlooks
 app-admin/eselect-fontconfig
+kde-base/kontact
+kde-base/kontact-specialdates
