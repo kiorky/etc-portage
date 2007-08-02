@@ -1947,3 +1947,4 @@ kde-base/kontact
 kde-base/kontact-specialdates
 kde-base/kaddressbook
 dev-db/phppgadmin
+net-dns/bind
