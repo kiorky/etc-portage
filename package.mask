@@ -41,3 +41,4 @@
 >x11-base/xorg-server-1.0.2-r3
 <www-servers/apache-2.1
 <www-servers/apache-2.2
+=net-misc/openssh-4.6_p1-r2
