@@ -1952,3 +1952,4 @@ dev-util/mercurial
 sys-power/powertop
 sys-power/hibernate-script
 sys-apps/suspend2-userui
+sys-power/acpid
