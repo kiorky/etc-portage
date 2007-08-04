@@ -1949,3 +1949,4 @@ kde-base/kaddressbook
 dev-db/phppgadmin
 net-dns/bind
 dev-util/mercurial
+sys-power/powertop-

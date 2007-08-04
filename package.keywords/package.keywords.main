@@ -2401,3 +2401,4 @@ kde-base/kaddressbook ~x86
 dev-db/phppgadmin ~x86
 net-dns/bind ~x86
 dev-util/mercurial ~x86
+sys-power/powertop- ~x86
