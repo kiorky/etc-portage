@@ -2407,3 +2407,4 @@ sys-apps/suspend2-userui ~x86
 sys-power/acpid ~x86
 net-misc/proxytunnel ~x86
 dev-util/hgsvn ~x86
+media-libs/foo ~x86
