@@ -1955,3 +1955,4 @@ sys-apps/suspend2-userui
 sys-power/acpid
 net-misc/proxytunnel
 dev-util/hgsvn
+kde-base/umbrello
