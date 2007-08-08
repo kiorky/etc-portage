@@ -2423,3 +2423,4 @@ dev-java/log4j ~x86
 sci-libs/jmol-acme ~x86
 app-portage/gentoolkit ~x86
 app-portage/gentoolkit-dev ~x86
+app-portage/gentoolkit-dev ~x86
