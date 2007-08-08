@@ -1977,3 +1977,4 @@ app-portage/gentoolkit-dev
 app-portage/gentoolkit-dev
 dev-util/netbeans
 dev-java/istack-commons-runtime
+dev-java/txw2-runtime
