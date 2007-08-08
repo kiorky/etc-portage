@@ -1988,3 +1988,4 @@ dev-java/sjsxp
 dev-java/jax-rpc
 dev-java/fastinfoset
 dev-java/jaxb-tools
+dev-java/istack-commons-tools
