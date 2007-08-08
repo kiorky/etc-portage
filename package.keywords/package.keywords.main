@@ -2434,3 +2434,4 @@ dev-java/rngom ~x86
 dev-java/codemodel ~x86
 dev-java/jsr101 ~x86
 dev-java/saaj ~x86
+dev-java/sjsxp ~x86
