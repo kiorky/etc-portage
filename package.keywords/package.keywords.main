@@ -2437,3 +2437,4 @@ dev-java/saaj ~x86
 dev-java/sjsxp ~x86
 dev-java/jax-rpc ~x86
 dev-java/fastinfoset ~x86
+dev-java/jaxb-tools ~x86
