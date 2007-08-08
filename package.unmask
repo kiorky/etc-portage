@@ -1994,3 +1994,4 @@ dev-java/jax-ws
 dev-java/jax-ws
 dev-java/jax-ws
 dev-java/stax-ex
+dev-java/xmlstreambuffer
