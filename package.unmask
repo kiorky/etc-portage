@@ -1971,3 +1971,4 @@ dev-java/gef
 dev-java/toolbar
 dev-java/log4j
 sci-libs/jmol-acme
+app-portage/gentoolkit
