@@ -315,3 +315,4 @@ dev-db/phppgadmin vhosts
 dev-util/mercurial bash-completion zsh-completion emacs
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
+dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
