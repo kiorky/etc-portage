@@ -2425,3 +2425,4 @@ app-portage/gentoolkit ~x86
 app-portage/gentoolkit-dev ~x86
 app-portage/gentoolkit-dev ~x86
 app-portage/gentoolkit-dev ~x86
+dev-util/netbeans ~x86
