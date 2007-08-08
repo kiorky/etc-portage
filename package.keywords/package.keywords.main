@@ -2430,3 +2430,4 @@ dev-java/istack-commons-runtime ~x86
 dev-java/txw2-runtime ~x86
 dev-java/txw2-runtim ~x86
 dev-java/relaxngcc ~x86
+dev-java/rngom ~x86
