@@ -1966,3 +1966,7 @@ sys-fs/quotatool
 sys-fs/quotatool
 dev-util/argouml
 dev-java/swidgets
+dev-java/swidgets
+dev-java/gef
+dev-java/toolbar
+dev-java/log4j
