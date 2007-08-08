@@ -1986,3 +1986,4 @@ dev-java/jsr101
 dev-java/saaj
 dev-java/sjsxp
 dev-java/jax-rpc
+dev-java/fastinfoset

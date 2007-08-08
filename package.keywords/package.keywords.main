@@ -2436,3 +2436,4 @@ dev-java/jsr101 ~x86
 dev-java/saaj ~x86
 dev-java/sjsxp ~x86
 dev-java/jax-rpc ~x86
+dev-java/fastinfoset ~x86
