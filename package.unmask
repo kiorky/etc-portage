@@ -1990,3 +1990,4 @@ dev-java/fastinfoset
 dev-java/jaxb-tools
 dev-java/istack-commons-tools
 dev-java/sun-dtdparser
+dev-java/jax-ws

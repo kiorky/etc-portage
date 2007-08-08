@@ -2440,3 +2440,4 @@ dev-java/fastinfoset ~x86
 dev-java/jaxb-tools ~x86
 dev-java/istack-commons-tools ~x86
 dev-java/sun-dtdparser ~x86
+dev-java/jax-ws ~x86
