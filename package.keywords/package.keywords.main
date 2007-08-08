@@ -2432,3 +2432,4 @@ dev-java/txw2-runtim ~x86
 dev-java/relaxngcc ~x86
 dev-java/rngom ~x86
 dev-java/codemodel ~x86
+dev-java/jsr101 ~x86
