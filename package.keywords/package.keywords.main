@@ -2446,3 +2446,4 @@ dev-java/jax-ws ~x86
 dev-java/stax-ex ~x86
 dev-java/xmlstreambuffer ~x86
 www-client/httrack ~x86
+www-client/httrack ~x86
