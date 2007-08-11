@@ -2447,3 +2447,4 @@ dev-java/stax-ex ~x86
 dev-java/xmlstreambuffer ~x86
 www-client/httrack ~x86
 www-client/httrack ~x86
+dev-php5/pecl-json ~x86
