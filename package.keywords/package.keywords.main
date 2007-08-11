@@ -2449,3 +2449,7 @@ www-client/httrack ~x86
 www-client/httrack ~x86
 dev-php5/pecl-json ~x86
 dev-php5/pecl-json ~x86
+app-admin/prelude-manager ~x86
+app-admin/prelude-lml ~x86
+dev-libs/libprelude ~x86
+dev-libs/libpreludedb ~x86

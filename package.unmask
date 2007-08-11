@@ -1999,3 +1999,7 @@ www-client/httrack
 www-client/httrack
 dev-php5/pecl-json
 dev-php5/pecl-json
+app-admin/prelude-manager
+app-admin/prelude-lml
+dev-libs/libprelude
+dev-libs/libpreludedb
