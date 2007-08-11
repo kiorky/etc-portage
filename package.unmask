@@ -2003,3 +2003,7 @@ app-admin/prelude-manager
 app-admin/prelude-lml
 dev-libs/libprelude
 dev-libs/libpreludedb
+app-admin/prelude-manager
+app-admin/prelude-lml
+dev-libs/libprelude
+dev-libs/libpreludedb
