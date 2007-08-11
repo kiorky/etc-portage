@@ -2007,3 +2007,4 @@ app-admin/prelude-manager
 app-admin/prelude-lml
 dev-libs/libprelude
 dev-libs/libpreludedb
+mail-filter/spamassassin
