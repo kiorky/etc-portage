@@ -2458,3 +2458,4 @@ app-admin/prelude-lml ~x86
 dev-libs/libprelude ~x86
 dev-libs/libpreludedb ~x86
 mail-filter/spamassassin ~x86
+mail-client/mailody ~x86
