@@ -1558,7 +1558,7 @@ media-video/ogle ~x86
 media-video/subtitleripper ~x86
 media-video/totem ~x86
 media-video/transcode ~x86
-media-video/vlc  ~x86 -*
+media-video/vlc  ~x86 
 media-video/x264-svn-encoder ~x86
 media-video/xine-ui ~x86
 media-video/xvid4conf ~x86
