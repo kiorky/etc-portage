@@ -2009,3 +2009,4 @@ dev-libs/libprelude
 dev-libs/libpreludedb
 mail-filter/spamassassin
 mail-client/mailody
+dev-lang/python
