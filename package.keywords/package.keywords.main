@@ -2467,3 +2467,4 @@ net-dns/avahi ~x86
 dev-php5/phpunit ~x86
 dev-php5/xdebug ~x86
 dev-php/xdebug-client ~x86
+dev-php/PEAR-Testing_Selenium ~x86
