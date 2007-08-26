@@ -2466,3 +2466,4 @@ net-dns/avahi ~x86
 net-dns/avahi ~x86
 dev-php5/phpunit ~x86
 dev-php5/xdebug ~x86
+dev-php/xdebug-client ~x86

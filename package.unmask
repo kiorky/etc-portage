@@ -2016,3 +2016,4 @@ net-dns/avahi
 net-dns/avahi
 dev-php5/phpunit
 dev-php5/xdebug
+dev-php/xdebug-client
