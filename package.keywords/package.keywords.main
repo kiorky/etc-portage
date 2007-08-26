@@ -2464,3 +2464,4 @@ net-dns/avahi ~x86
 net-dns/avahi ~x86
 net-dns/avahi ~x86
 net-dns/avahi ~x86
+dev-php5/phpunit ~x86
