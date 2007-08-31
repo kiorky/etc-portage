@@ -198,7 +198,7 @@ media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug i
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/grip nls vorbis
 media-sound/kradio encode ogg vorbis
-media-sound/mpd aac alsa audiofile flac ipv6 mikmod mp3 -oss unicode vorbis ao icecast musepack -pulseaudio
+media-sound/mpd aac alsa audiofile flac ipv6 mikmod mp3 -oss unicode vorbis ao icecast musepack -pulseaudio ogg libsamplerate
 media-sound/mpd-svn aac alsa ao audiofile icecast ipv6 mikmod mp3 musepack oss unicode vorbis flac -pulseaudio
 media-sound/ogmtools dvd
 media-sound/streamripper vorbis
