@@ -1,4 +1,5 @@
 app-admin/eselect bash-completion 
+games-fps/nexuiz  alsa dedicated maps opengl sdl
 app-admin/prelude-manager dbx -debug -doc xml
 app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -selinux
 app-arch/tar  nls bzip2

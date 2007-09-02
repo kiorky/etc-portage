@@ -2475,3 +2475,4 @@ dev-php/PEAR-Image_GraphViz ~x86
 games-fps/nexuiz ~x86
 games-fps/nexuiz ~x86
 dev-java/insanelib ~x86
+dev-libs/clearsilver ~x86
