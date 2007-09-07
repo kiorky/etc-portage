@@ -318,3 +318,5 @@ dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webd
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
 dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
 dev-php5/pecl-pdo mysql postgres sqlite
+www-client/mozilla-firefox ipv6 xinerama bindist -debug -filepicker -gnome java mozdevelop -moznopango -restrict-javascript xforms xprint
+
