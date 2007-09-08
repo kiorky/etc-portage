@@ -139,7 +139,7 @@ games-fps/americas-army opengl
 games-fps/enemy-territory-truecombat  opengl
 games-fps/tremulous dedicated openal  opengl  vorbis
 games-fps/tremulous-bin dedicated sdl
-games-fps/warsow dedicated irc openal sdl
+games-fps/warsow dedicated irc openal sdl opengl
 games-util/xqf bzip2 geoip
 gnome-base/gnome hal -accessibility cdr -dvdr mono
 gnome-base/gnome-applets ipv6 acpi hal -apm
