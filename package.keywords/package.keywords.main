@@ -2476,3 +2476,4 @@ games-fps/nexuiz ~x86
 games-fps/nexuiz ~x86
 dev-java/insanelib ~x86
 dev-libs/clearsilver ~x86
+x11-drivers/xf86-video-i810 ~x86
