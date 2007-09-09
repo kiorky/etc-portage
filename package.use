@@ -321,3 +321,6 @@ dev-php5/pecl-pdo mysql postgres sqlite
 www-client/mozilla-firefox ipv6 xinerama bindist -debug -filepicker -gnome java mozdevelop -moznopango -restrict-javascript xforms xprint
 games-fps/quake3 dedicated opengl teamarena
 games-fps/quake3-bin dedicated opengl teamarena
+games-fps/enemy-territory dedicated opengl
+games-fps/enemy-territory-truecombat  dedicated opengl
+games-fps/enemy-territory-etpro  dedicated opengl
