@@ -2479,3 +2479,4 @@ dev-libs/clearsilver ~x86
 x11-drivers/xf86-video-i810 ~x86
 games-fps/quake3 ~x86
 games-fps/quake3-bin ~x86
+games-fps/enemy-territory-etpro ~x86
