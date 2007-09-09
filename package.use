@@ -324,3 +324,4 @@ games-fps/quake3-bin dedicated opengl teamarena
 games-fps/enemy-territory dedicated opengl
 games-fps/enemy-territory-truecombat  dedicated opengl
 games-fps/enemy-territory-etpro  dedicated opengl
+games-emulation/xmame X alsa xinerama -arts dga -esd expat ggi -joystick -lirc -mmx net opengl sdl -svga xv
