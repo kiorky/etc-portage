@@ -2482,3 +2482,4 @@ games-fps/quake3-bin ~x86
 games-fps/enemy-territory-etpro ~x86
 games-fps/enemy-territory-truecombat ~x86
 app-office/openoffice-bin ~x86
+dev-db/mysql-super-smack ~x86
