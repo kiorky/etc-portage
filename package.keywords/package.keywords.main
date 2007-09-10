@@ -2485,3 +2485,4 @@ app-office/openoffice-bin ~x86
 dev-db/mysql-super-smack ~x86
 x11-libs/pixman ~x86
 x11-drivers/xf86-input-keyboard ~x86
+x11-misc/xkeyboard-config ~x86
