@@ -2034,3 +2034,4 @@ games-fps/enemy-territory-truecombat
 app-office/openoffice-bin
 dev-db/mysql-super-smack
 x11-libs/pixman
+x11-drivers/xf86-input-keyboard
