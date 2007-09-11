@@ -2455,15 +2455,9 @@ mail-filter/spamassassin ~x86
 mail-client/mailody ~x86
 dev-lang/python ~x86
 net-dns/avahi ~x86
-net-dns/avahi ~x86
-net-dns/avahi ~x86
-net-dns/avahi ~x86
 dev-php5/phpunit ~x86
 dev-php5/xdebug ~x86
 dev-php/xdebug-client ~x86
-dev-php/PEAR-Testing_Selenium ~x86
-dev-php/PEAR-Testing_Selenium ~x86
-dev-php/PEAR-Testing_Selenium ~x86
 dev-php/PEAR-Testing_Selenium ~x86
 dev-php/PEAR-Image_GraphViz ~x86
 games-fps/nexuiz ~x86
@@ -2477,4 +2471,3 @@ games-fps/enemy-territory-etpro ~x86
 games-fps/enemy-territory-truecombat ~x86
 app-office/openoffice-bin ~x86
 dev-db/mysql-super-smack ~x86
-x11-libs/pixman ~x86
