@@ -1,5 +1,4 @@
 # with generation-2
-##x11-base/xorg-x11 ~x86
 #anjuta
 #x11mod
 =dev-java/blackdown-jdk-1.4*
@@ -415,7 +414,6 @@ app-crypt/mit-krb5 ~x86
 app-dicts/aspell-* ~x86
 app-dicts/aspell-en ~x86
 app-doc/chmlib ~x86
-app-doc/xorg-docs ~x86
 app-editors/bluefish ~x86
 app-editors/gedit ~x86
 app-editors/gedit-plugins ~x86
@@ -1752,8 +1750,6 @@ x11-apps/xsetroot ~x86
 x11-apps/xvinfo ~x86
 x11-apps/xwininfo ~x86
 x11-base/xgl
-x11-base/xorg-server ~x86
-x11-base/xorg-x11 ~x86
 x11-drivers/ati-drivers ~x86
 x11-drivers/nvidia-drivers ~x86
 x11-drivers/xf86-input-acecad ~x86
@@ -1770,7 +1766,6 @@ x11-drivers/xf86-input-fpit ~x86
 x11-drivers/xf86-input-hyperpen ~x86
 x11-drivers/xf86-input-jamstudio ~x86
 x11-drivers/xf86-input-joystick ~x86
-x11-drivers/xf86-input-keyboard ~x86
 x11-drivers/xf86-input-magellan ~x86
 x11-drivers/xf86-input-magictouch ~x86
 x11-drivers/xf86-input-microtouch ~x86
@@ -1889,7 +1884,6 @@ x11-proto/kbproto ~x86
 x11-proto/printproto ~x86
 x11-proto/randrproto ~x86
 x11-proto/recordproto ~x86
-x11-proto/renderproto ~x86
 x11-proto/resourceproto ~x86
 x11-proto/scrnsaverproto ~x86
 x11-proto/trapproto ~x86
@@ -2484,5 +2478,3 @@ games-fps/enemy-territory-truecombat ~x86
 app-office/openoffice-bin ~x86
 dev-db/mysql-super-smack ~x86
 x11-libs/pixman ~x86
-x11-drivers/xf86-input-keyboard ~x86
-x11-misc/xkeyboard-config ~x86
