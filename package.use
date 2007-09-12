@@ -325,3 +325,7 @@ games-fps/enemy-territory dedicated opengl
 games-fps/enemy-territory-truecombat  dedicated opengl
 games-fps/enemy-territory-etpro  dedicated opengl
 games-emulation/xmame X alsa xinerama -arts dga -esd expat ggi -joystick -lirc -mmx net opengl sdl -svga xv
+
+media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truetype vorbis x264 xv
+
+
