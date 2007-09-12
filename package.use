@@ -329,3 +329,4 @@ games-emulation/xmame X alsa xinerama -arts dga -esd expat ggi -joystick -lirc -
 media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truetype vorbis x264 xv
 
 
+dev-lang/spidermonkey threadsafe
