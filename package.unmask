@@ -2037,3 +2037,4 @@ x11-libs/pixman
 x11-drivers/xf86-input-keyboard
 x11-misc/xkeyboard-config
 kde-misc/dolphin
+media-video/avidemux
