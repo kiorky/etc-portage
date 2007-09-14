@@ -330,3 +330,4 @@ media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truety
 
 
 dev-lang/spidermonkey threadsafe
+games-fps/quake3-urbanterror dedicated opengl
