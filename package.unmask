@@ -2045,3 +2045,4 @@ dev-java/jdom-jaxen
 net-wireless/iwlwifi
 net-wireless/iwl3945-ucode
 net-wireless/iwl4965-ucode
+sys-fs/device-mapper

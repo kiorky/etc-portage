@@ -1927,3 +1927,4 @@ dev-java/jdom-jaxen ~x86
 net-wireless/iwlwifi ~x86
 net-wireless/iwl3945-ucode ~x86
 net-wireless/iwl4965-ucode ~x86
+sys-fs/device-mapper ~x86
