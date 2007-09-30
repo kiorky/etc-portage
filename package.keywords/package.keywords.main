@@ -1924,3 +1924,4 @@ games-fps/quake3-urbanterror ~x86
 games-fps/quake3-urbanterror ~x86
 dev-util/subversion ~x86
 dev-java/jdom-jaxen ~x86
+net-wireless/iwlwifi ~x86

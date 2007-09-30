@@ -2042,3 +2042,4 @@ games-fps/quake3-urbanterror
 games-fps/quake3-urbanterror
 dev-util/subversion
 dev-java/jdom-jaxen
+net-wireless/iwlwifi
