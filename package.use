@@ -332,3 +332,4 @@ media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truety
 dev-lang/spidermonkey threadsafe
 games-fps/quake3-urbanterror dedicated opengl
 net-wireless/iwlwifi ipw3945 ipw4965
+app-antivirus/clamav bzip2 crypt logrotate  -milter  nls  mailwrapper 
