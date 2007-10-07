@@ -172,7 +172,7 @@ kde-misc/ksensors   hddtemp
 mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
 mail-client/mozilla-thunderbird mozcalendar
 mail-client/mutt berkdb crypt gdbm nls ssl buffysize cjk -debug gnutls -gpgme -idn imap -mbox nntp pop sasl smime -vanilla
-mail-client/squirrelmail crypt mysql nls ssl - filter  ldap  vhosts spell postgres
+mail-client/squirrelmail -crypt mysql nls ssl - filter  ldap  vhosts spell postgres
 mail-filter/maildrop berkdb gdbm mysql authlib
 mail-mta/postfix ipv6 mysql pam ssl sasl
 media-gfx/fontforge X unicode gif jpeg png  svg  tiff truetype
