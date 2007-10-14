@@ -335,3 +335,4 @@ net-wireless/iwlwifi ipw3945 ipw4965
 app-antivirus/clamav bzip2 crypt logrotate  -milter  nls  mailwrapper 
 www-client/links X gpm ssl unicode -directfb -fbcon javascript jpeg livecd png sdl  -svga tiff
 www-client/elinks X gpm ipv6 nls perl ssl unicode zlib bittorrent bzip2 -debug finger ftp gopher guile idn javascript lua nntp ruby
+app-crypt/gnupg ldap nls bzip2 doc openct -pcsc-lite
