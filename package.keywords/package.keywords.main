@@ -1931,3 +1931,4 @@ sys-fs/device-mapper ~x86
 net-irc/irssi-python ~x86
 net-irc/irssi-python ~x86
 app-crypt/gnupg ~x86
+app-crypt/gnupg ~x86

@@ -2049,3 +2049,4 @@ sys-fs/device-mapper
 net-irc/irssi-python
 net-irc/irssi-python
 app-crypt/gnupg
+app-crypt/gnupg
