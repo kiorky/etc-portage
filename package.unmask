@@ -2052,3 +2052,4 @@ app-crypt/gnupg
 app-crypt/gnupg
 dev-java/maven-plugins
 java-virtuals/javamail
+dev-java/maven-model-v3

@@ -1934,3 +1934,4 @@ app-crypt/gnupg ~x86
 app-crypt/gnupg ~x86
 dev-java/maven-plugins ~x86
 java-virtuals/javamail ~x86
+dev-java/maven-model-v3 ~x86
