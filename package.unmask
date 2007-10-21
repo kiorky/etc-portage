@@ -2051,3 +2051,4 @@ net-irc/irssi-python
 app-crypt/gnupg
 app-crypt/gnupg
 dev-java/maven-plugins
+java-virtuals/javamail
