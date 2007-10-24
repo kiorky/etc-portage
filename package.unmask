@@ -2055,3 +2055,4 @@ java-virtuals/javamail
 dev-java/maven-model-v3
 dev-java/plexus-digest
 dev-java/dom4j
+dev-java/hamcrest
