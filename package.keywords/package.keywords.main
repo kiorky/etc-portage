@@ -1938,3 +1938,4 @@ dev-java/maven-model-v3 ~x86
 dev-java/plexus-digest ~x86
 dev-java/dom4j ~x86
 dev-java/hamcrest ~x86
+dev-java/plexus-cli ~x86
