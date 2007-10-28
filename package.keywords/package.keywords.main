@@ -1939,3 +1939,4 @@ dev-java/plexus-digest ~x86
 dev-java/dom4j ~x86
 dev-java/hamcrest ~x86
 dev-java/plexus-cli ~x86
+dev-java/ganymed-ssh2 ~x86
