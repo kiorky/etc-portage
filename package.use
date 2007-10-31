@@ -338,3 +338,4 @@ www-client/elinks X gpm ipv6 nls perl ssl unicode zlib bittorrent bzip2 -debug f
 app-crypt/gnupg ldap nls bzip2 doc openct -pcsc-lite
 dev-java/xmlgraphics-commons jpeg
 dev-java/fop hyphenation% jai jimi 
+dev-java/fop hyphenation jai jimi 
