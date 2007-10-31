@@ -2058,3 +2058,4 @@ dev-java/dom4j
 dev-java/hamcrest
 dev-java/plexus-cli
 dev-java/ganymed-ssh2
+dev-java/commons-configuration

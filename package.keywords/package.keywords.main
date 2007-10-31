@@ -1940,3 +1940,4 @@ dev-java/dom4j ~x86
 dev-java/hamcrest ~x86
 dev-java/plexus-cli ~x86
 dev-java/ganymed-ssh2 ~x86
+dev-java/commons-configuration ~x86
