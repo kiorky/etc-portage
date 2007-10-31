@@ -1943,3 +1943,4 @@ dev-java/ganymed-ssh2 ~x86
 dev-java/commons-configuration ~x86
 dev-java/commons-configuration ~x86
 dev-java/commons-configuration ~x86
+dev-java/fop ~x86
