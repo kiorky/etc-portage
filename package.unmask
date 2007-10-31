@@ -43,7 +43,6 @@ app-emulation/kqemu
 app-emulation/qemu
 app-emulation/qemu-softmmu
 app-emulation/qemu-user
-app-emulation/virtualbox
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-bin
 app-emulation/virtualbox-modules
@@ -1902,7 +1901,6 @@ app-emulation/qemu
 app-emulation/qemu-user
 app-emulation/qemu-softmmu
 sys-kernel/gentoo-sources
-app-emulation/virtualbox
 app-emulation/virtualbox-bin
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-modules
