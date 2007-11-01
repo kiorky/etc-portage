@@ -1945,3 +1945,4 @@ dev-java/commons-configuration ~x86
 dev-java/commons-configuration ~x86
 dev-java/fop ~x86
 dev-java/plexus-resources ~x86
+dev-java/xstream ~x86
