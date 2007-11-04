@@ -2075,3 +2075,4 @@ x11-proto/renderproto
 x11-proto/inputproot
 x11-proto/inputproto
 x11-libs/libXtst
+x11-libs/libXaw
