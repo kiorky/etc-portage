@@ -1970,3 +1970,4 @@ x11-drivers/xf86-input-keyboard ~x86
 x11-libs/libXxf86dga ~x86
 x11-libs/libMS ~x86
 x11-libs/libSM ~x86
+x11-drivers/xf86-video-ati ~x86

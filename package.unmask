@@ -2086,3 +2086,4 @@ x11-drivers/xf86-input-keyboard
 x11-libs/libXxf86dga
 x11-libs/libMS
 x11-libs/libSM
+x11-drivers/xf86-video-ati
