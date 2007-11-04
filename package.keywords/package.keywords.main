@@ -1960,3 +1960,4 @@ x11-proto/inputproot ~x86
 x11-proto/inputproto ~x86
 x11-libs/libXtst ~x86
 x11-libs/libXaw ~x86
+x11-libs/libXpm ~x86

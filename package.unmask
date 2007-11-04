@@ -2076,3 +2076,4 @@ x11-proto/inputproot
 x11-proto/inputproto
 x11-libs/libXtst
 x11-libs/libXaw
+x11-libs/libXpm
