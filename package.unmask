@@ -2078,3 +2078,4 @@ x11-libs/libXtst
 x11-libs/libXaw
 x11-libs/libXpm
 x11-libs/libX11
+x11-proto/xf86dgaproto
