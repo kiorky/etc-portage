@@ -2063,3 +2063,4 @@ dev-java/fop
 dev-java/plexus-resources
 dev-java/xstream
 x11-drm/x11-drm
+x11-base/x11-drm
