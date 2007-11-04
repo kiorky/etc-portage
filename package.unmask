@@ -2072,3 +2072,4 @@ x11-libs/pixman
 x11-libs/libXrende
 x11-libs/libXrender
 x11-proto/renderproto
+x11-proto/inputproot

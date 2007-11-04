@@ -1956,3 +1956,4 @@ x11-libs/pixman ~x86
 x11-libs/libXrende ~x86
 x11-libs/libXrender ~x86
 x11-proto/renderproto ~x86
+x11-proto/inputproot ~x86
