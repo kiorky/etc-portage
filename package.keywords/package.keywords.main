@@ -1952,3 +1952,4 @@ x11-base/xorg-server3 ~x86
 x11-base/xorg-server ~x86
 x11-base/xorg-x11 ~x86
 x11-libs/libXcursor ~x86
+x11-libs/pixman ~x86
