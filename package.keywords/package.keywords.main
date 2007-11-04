@@ -1964,3 +1964,4 @@ x11-libs/libXpm ~x86
 x11-libs/libX11 ~x86
 x11-proto/xf86dgaproto ~x86
 x11-proto/libXfont ~x86
+x11-libs/libXfont ~x86
