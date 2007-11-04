@@ -2069,3 +2069,5 @@ x11-base/xorg-server
 x11-base/xorg-x11
 x11-libs/libXcursor
 x11-libs/pixman
+x11-libs/libXrende
+x11-libs/libXrender
