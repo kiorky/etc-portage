@@ -2065,3 +2065,4 @@ dev-java/xstream
 x11-drm/x11-drm
 x11-base/x11-drm
 x11-base/xorg-server3
+x11-base/xorg-server

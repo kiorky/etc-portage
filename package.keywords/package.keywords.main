@@ -1949,3 +1949,4 @@ dev-java/xstream ~x86
 x11-drm/x11-drm ~x86
 x11-base/x11-drm ~x86
 x11-base/xorg-server3 ~x86
+x11-base/xorg-server ~x86
