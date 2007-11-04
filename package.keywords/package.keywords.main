@@ -1958,3 +1958,4 @@ x11-libs/libXrender ~x86
 x11-proto/renderproto ~x86
 x11-proto/inputproot ~x86
 x11-proto/inputproto ~x86
+x11-libs/libXtst ~x86
