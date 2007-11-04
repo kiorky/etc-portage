@@ -2082,3 +2082,4 @@ x11-proto/xf86dgaproto
 x11-proto/libXfont
 x11-libs/libXfont
 x11-libs/libXi
+x11-drivers/xf86-input-keyboard
