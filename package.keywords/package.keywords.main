@@ -1967,3 +1967,4 @@ x11-proto/libXfont ~x86
 x11-libs/libXfont ~x86
 x11-libs/libXi ~x86
 x11-drivers/xf86-input-keyboard ~x86
+x11-libs/libXxf86dga ~x86
