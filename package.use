@@ -340,3 +340,4 @@ dev-java/xmlgraphics-commons jpeg
 dev-java/fop hyphenation% jai jimi 
 dev-java/fop hyphenation jai jimi 
 dev-java/fop hyphenation jai jimi 
+x11-base/xorg-server dri ipv6 nptl xorg -3dfx -debug -dmx hal kdrive -minimal sdl xprint
