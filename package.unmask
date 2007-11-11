@@ -2089,3 +2089,5 @@ x11-libs/libSM
 x11-drivers/xf86-video-ati
 media-fonts/farsi-font
 media-fonts/farsi-fonts
+sys-apps/baselayout
+sys-apps/baselayout

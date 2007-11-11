@@ -1973,3 +1973,5 @@ x11-libs/libSM ~x86
 x11-drivers/xf86-video-ati ~x86
 media-fonts/farsi-font ~x86
 media-fonts/farsi-fonts ~x86
+sys-apps/baselayout ~x86
+sys-apps/baselayout ~x86
