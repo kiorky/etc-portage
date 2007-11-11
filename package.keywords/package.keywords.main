@@ -1975,3 +1975,4 @@ media-fonts/farsi-font ~x86
 media-fonts/farsi-fonts ~x86
 sys-apps/baselayout ~x86
 sys-apps/baselayout ~x86
+sys-apps/makedev ~x86

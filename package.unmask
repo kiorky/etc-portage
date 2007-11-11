@@ -2091,3 +2091,4 @@ media-fonts/farsi-font
 media-fonts/farsi-fonts
 sys-apps/baselayout
 sys-apps/baselayout
+sys-apps/makedev
