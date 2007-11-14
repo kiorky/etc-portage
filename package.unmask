@@ -2097,3 +2097,4 @@ media-sound/alsa-driver
 media-libs/alsa-lib
 media-libs/alsa-lib
 media-libs/alsa-oss
+media-sound/pulseaudio
