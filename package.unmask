@@ -2094,3 +2094,4 @@ sys-apps/baselayout
 sys-apps/makedev
 media-sound/alsa-driver
 media-sound/alsa-driver
+media-libs/alsa-lib
