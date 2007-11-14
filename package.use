@@ -344,3 +344,5 @@ x11-base/xorg-server dri ipv6 nptl xorg -3dfx -debug -dmx hal kdrive -minimal sd
 x11-libs/libXaw xprint
 x11-drivers/nvidia-drivers acpi
 dev-java/sun-jdk X alsa -doc -examples -jce nsplugin
+x11-base/xorg-server dri hal ipv6 -kdrive sdl xorg xprint -3dfx -debug -dmx -minimal -nptl
+media-libs/mesa -debug -doc -motif -nptl -pic -xcb
