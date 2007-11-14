@@ -1977,3 +1977,4 @@ media-sound/alsa-driver ~x86
 media-sound/alsa-driver ~x86
 media-libs/alsa-lib ~x86
 media-libs/alsa-lib ~x86
+media-libs/alsa-oss ~x86
