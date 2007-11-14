@@ -2092,3 +2092,4 @@ media-fonts/farsi-fonts
 sys-apps/baselayout
 sys-apps/baselayout
 sys-apps/makedev
+media-sound/alsa-driver
