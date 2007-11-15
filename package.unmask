@@ -2099,3 +2099,4 @@ media-libs/alsa-lib
 media-libs/alsa-oss
 media-sound/pulseaudio
 dev-python/python-musicbrainz
+app-misc/i810switch
