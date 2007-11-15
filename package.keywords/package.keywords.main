@@ -1981,3 +1981,4 @@ media-libs/alsa-oss ~x86
 media-sound/pulseaudio ~x86
 dev-python/python-musicbrainz ~x86
 app-misc/i810switch ~x86
+x11-libs/libXrandr ~x86
