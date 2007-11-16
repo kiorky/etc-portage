@@ -1984,3 +1984,4 @@ app-misc/i810switch ~x86
 x11-libs/libXrandr ~x86
 net-wireless/ipw3945 ~x86
 net-wireless/ipw3945-ucode ~x86
+net-wireless/ipw3945d ~x86
