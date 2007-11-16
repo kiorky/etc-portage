@@ -2102,3 +2102,4 @@ dev-python/python-musicbrainz
 app-misc/i810switch
 x11-libs/libXrandr
 net-wireless/ipw3945
+net-wireless/ipw3945-ucode
