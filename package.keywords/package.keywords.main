@@ -1989,3 +1989,4 @@ games-fps/openarena ~x86
 games-fps/openarena ~x86
 games-fps/openarena ~x86
 games-action/bzflag ~x86
+media-libs/glew ~x86
