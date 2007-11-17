@@ -1985,3 +1985,4 @@ x11-libs/libXrandr ~x86
 net-wireless/ipw3945 ~x86
 net-wireless/ipw3945-ucode ~x86
 net-wireless/ipw3945d ~x86
+games-fps/openarena ~x86
