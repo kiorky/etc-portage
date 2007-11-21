@@ -1993,3 +1993,4 @@ media-libs/glew ~x86
 media-libs/glew ~x86
 xfce-base/libxfce4util ~x86
 xfce-base/libxfce4util ~x86
+xfce-base/xfce-mcs-manager ~x86
