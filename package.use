@@ -347,3 +347,6 @@ dev-java/sun-jdk X alsa -doc -examples -jce nsplugin
 x11-base/xorg-server dri hal ipv6 -kdrive sdl xorg xprint -3dfx -debug -dmx -minimal -nptl
 media-libs/mesa -debug -doc -motif -nptl -pic -xcb
 app-office/mozilla-sunbird ipv6 xinerama bindist -debug -gnome -moznopango xprint
+sys-block/gparted fat hfs jfs ntfs reiser4 reiserfs xfs
+sys-apps/qtparted kde gnome jfs ntfs reiserfs xfs
+sys-apps/parted nls readline -debug device-mapper 
