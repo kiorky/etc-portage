@@ -1978,3 +1978,7 @@ x11-wm/twm ~x86
 #xfce-base/xfce-mcs-plugin ~x86
 #xfce-extra/exo ~x86
 #xfce-extra/xfce4-dev-tools ~x86
+sys-block/gparted ~x86
+sys-apps/qtparted ~x86
+sys-apps/parted ~x86
+dev-python/pyparted ~x86
