@@ -2114,3 +2114,7 @@ xfce-base/libxfce4util
 xfce-base/libxfce4util
 xfce-base/xfce-mcs-manager
 xfce-base/libxfce4mcs
+sys-block/gparted
+sys-apps/qtparted
+sys-apps/parted
+dev-python/pyparted
