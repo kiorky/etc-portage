@@ -1983,3 +1983,4 @@ sys-apps/qtparted ~x86
 sys-apps/parted ~x86
 dev-python/pyparted ~x86
 sys-auth/policykit ~x86
+dev-util/gperf ~x86

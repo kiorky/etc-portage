@@ -2119,3 +2119,4 @@ sys-apps/qtparted
 sys-apps/parted
 dev-python/pyparted
 sys-auth/policykit
+dev-util/gperf
