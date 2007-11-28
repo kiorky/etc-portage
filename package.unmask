@@ -2122,3 +2122,4 @@ sys-auth/policykit
 dev-util/gperf
 sys-apps/util-linux
 sys-power/pm-utils
+gnome-extra/policykit-gnome

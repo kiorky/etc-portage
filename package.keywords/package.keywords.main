@@ -1986,3 +1986,4 @@ sys-auth/policykit ~x86
 dev-util/gperf ~x86
 sys-apps/util-linux ~x86
 sys-power/pm-utils ~x86
+gnome-extra/policykit-gnome ~x86
