@@ -2123,3 +2123,4 @@ dev-util/gperf
 sys-apps/util-linux
 sys-power/pm-utils
 gnome-extra/policykit-gnome
+app-admin/eselect-wxwidgets
