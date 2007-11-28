@@ -2118,3 +2118,4 @@ sys-block/gparted
 sys-apps/qtparted
 sys-apps/parted
 dev-python/pyparted
+sys-auth/policykit
