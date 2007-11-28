@@ -2121,3 +2121,4 @@ dev-python/pyparted
 sys-auth/policykit
 dev-util/gperf
 sys-apps/util-linux
+sys-power/pm-utils
