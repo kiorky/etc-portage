@@ -1988,3 +1988,4 @@ sys-apps/util-linux ~x86
 sys-power/pm-utils ~x86
 gnome-extra/policykit-gnome ~x86
 app-admin/eselect-wxwidgets ~x86
+dev-python/pygments ~x86

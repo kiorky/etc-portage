@@ -2124,3 +2124,4 @@ sys-apps/util-linux
 sys-power/pm-utils
 gnome-extra/policykit-gnome
 app-admin/eselect-wxwidgets
+dev-python/pygments
