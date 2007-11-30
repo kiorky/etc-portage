@@ -1989,3 +1989,4 @@ sys-power/pm-utils ~x86
 gnome-extra/policykit-gnome ~x86
 app-admin/eselect-wxwidgets ~x86
 dev-python/pygments ~x86
+dev-java/gnu-javamail ~x86

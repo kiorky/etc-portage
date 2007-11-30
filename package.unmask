@@ -2125,3 +2125,4 @@ sys-power/pm-utils
 gnome-extra/policykit-gnome
 app-admin/eselect-wxwidgets
 dev-python/pygments
+dev-java/gnu-javamail
