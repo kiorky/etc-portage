@@ -1991,3 +1991,4 @@ app-admin/eselect-wxwidgets ~x86
 dev-python/pygments ~x86
 dev-java/gnu-javamail ~x86
 dev-java/mx4j ~x86
+dev-java/fop ~x86
