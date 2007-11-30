@@ -55,7 +55,6 @@ app-emulation/xen-tools
 app-forensics/rkhunter
 app-i18n/koffice-i18n
 app-misc/beagle
-app-misc/hal-info
 app-misc/ktoblzcheck
 app-misc/livecd-tools
 app-misc/tomboy
@@ -597,7 +596,6 @@ gnome-extra/gnome-utils
 gnome-extra/gsynaptics
 gnome-extra/gtkhtml
 gnome-extra/gucharmap
-gnome-extra/hal-device-manager
 gnome-extra/libgail-gnome
 gnome-extra/libgda
 gnome-extra/libgsf
@@ -1219,7 +1217,6 @@ sys-apps/dbus-core
 sys-apps/dmidecode
 sys-apps/eject
 sys-apps/ethtool
-sys-apps/hal
 sys-apps/hwdata-gentoo
 sys-apps/hwdata-redhat
 sys-apps/hwsetup
