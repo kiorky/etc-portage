@@ -2126,3 +2126,4 @@ gnome-extra/policykit-gnome
 app-admin/eselect-wxwidgets
 dev-python/pygments
 dev-java/gnu-javamail
+dev-java/mx4j
