@@ -12,6 +12,7 @@ app-admin/eselect-opengl ~x86
 app-admin/eselect-php ~x86
 app-admin/eselect-timidity ~x86
 app-admin/eselect-vi ~x86
+app-admin/eselect-wxwidgets ~x86
 app-admin/eselect ~x86
 app-admin/gnome-system-tools ~x86
 app-admin/pessulus ~x86
@@ -227,6 +228,7 @@ dev-java/gjt-jpl-util ~x86
 dev-java/glassfish-persistence ~x86
 dev-java/glib-java ~x86
 dev-java/gnu-classpath-inetlib ~x86
+dev-java/gnu-javamail ~x86
 dev-java/hamcrest ~x86
 dev-java/hibernate-annotations-bin ~x86
 dev-java/hibernate-annotations ~x86
@@ -346,6 +348,7 @@ dev-java/maven-tes-tools ~x86
 dev-java/maven-test-tools ~x86
 dev-java/maven ~x86
 dev-java/monolog ~x86
+dev-java/mx4j ~x86
 dev-java/myfaces ~x86
 dev-java/neethi ~x86
 dev-java/opensaml ~x86
@@ -539,11 +542,13 @@ dev-python/pastescript ~x86
 dev-python/paste ~x86
 dev-python/pycairo ~x86
 dev-python/pycrypto ~x86
+dev-python/pygments ~x86
 dev-python/pygobject ~x86
 dev-python/pygtk
 dev-python/pygtk ~x86
 dev-python/pyogg ~x86
 dev-python/pyorbit ~x86
+dev-python/pyparted ~x86
 dev-python/pypgsql ~x86
 dev-python/pyprotocols ~x86
 dev-python/PyQt4 ~x86
@@ -581,6 +586,7 @@ dev-util/git ~x86
 dev-util/glademm ~x86
 dev-util/glade -* ~x86
 dev-util/gnome-build -* ~x86
+dev-util/gperf ~x86
 dev-util/gtk-doc
 dev-util/gtk-doc ~x86
 dev-util/hgsvn ~x86
@@ -693,6 +699,7 @@ gnome-extra/libgsf ~x86
 gnome-extra/libgtkhtml ~x86
 gnome-extra/nautilus-actions ~x86
 gnome-extra/nautilus-cd-burner ~x86
+gnome-extra/policykit-gnome ~x86
 gnome-extra/yelp
 gnome-extra/yelp ~x86
 gnome-extra/zenity ~x86
@@ -1749,11 +1756,15 @@ sys-apps/pcmcia-cs ~x86
 sys-apps/pcmciautils ~x86
 sys-apps/pmount ~x86
 sys-apps/portage ~x86
+sys-apps/qtparted ~x86
 sys-apps/shadow ~x86
 sys-apps/suspend2-userui ~x86
+sys-apps/util-linux ~x86
 sys-auth/consolekit ~x86
 sys-auth/nss_ldap ~x86
 sys-auth/pam_ldap ~x86
+sys-auth/policykit ~x86
+sys-block/gparted ~x86
 sys-devel/autoconf-wrapper ~x86
 sys-devel/autoconf ~x86
 sys-devel/autogen ~x86 # Needed by anjuta-2.0.1_alpha
@@ -1780,6 +1791,7 @@ sys-libs/readline ~x86
 sys-power/acpid ~x86
 sys-power/hibernate-script ~x86
 sys-power/nut ~x86
+sys-power/pm-utils ~x86
 sys-power/powertop ~x86
 virtual/c++-tr1-functional ~x86
 virtual/c++-tr1-memory ~x86
@@ -1977,17 +1989,3 @@ x11-wm/twm ~x86
 #xfce-base/xfce-mcs-plugin ~x86
 #xfce-extra/exo ~x86
 #xfce-extra/xfce4-dev-tools ~x86
-sys-block/gparted ~x86
-sys-apps/qtparted ~x86
-sys-apps/parted ~x86
-dev-python/pyparted ~x86
-sys-auth/policykit ~x86
-dev-util/gperf ~x86
-sys-apps/util-linux ~x86
-sys-power/pm-utils ~x86
-gnome-extra/policykit-gnome ~x86
-app-admin/eselect-wxwidgets ~x86
-dev-python/pygments ~x86
-dev-java/gnu-javamail ~x86
-dev-java/mx4j ~x86
-dev-java/fop ~x86
