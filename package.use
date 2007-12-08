@@ -350,3 +350,4 @@ app-office/mozilla-sunbird ipv6 xinerama bindist -debug -gnome -moznopango xprin
 sys-block/gparted fat hfs jfs ntfs reiser4 reiserfs xfs
 sys-apps/qtparted kde gnome jfs ntfs reiserfs xfs
 sys-apps/parted nls readline -debug device-mapper 
+app-misc/mc X gpm ncurses nls pam samba unicode 7zip slang
