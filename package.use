@@ -206,6 +206,7 @@ media-sound/streamripper vorbis
 media-sound/timidity++  alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
 media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
 media-video/avidemux xvid
+app-editors/emacs -alsa -xpm -X -Xaw3d -gif -gtk -gzip-el -hesiod -jpeg -motif -png -sound -source -spell -tiff -toolkit-scroll-bars
 media-video/avifile    a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid
 media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l
