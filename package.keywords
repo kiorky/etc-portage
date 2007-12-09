@@ -1992,3 +1992,4 @@ x11-wm/twm ~x86
 net-im/pidgin ~x86
 dev-db/postgis ~x86
 dev-db/postgis ~x86
+dev-db/postgis ~x86
