@@ -354,3 +354,4 @@ sys-apps/parted nls readline -debug device-mapper
 app-misc/mc X gpm ncurses nls pam samba unicode 7zip slang
 net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnutls -groupwise -gstreamer -meanwhile -networkmanager prediction qq silc -spell -tcl -tk zephyr
 net-libs/libgadu -ssl
+rs/emac

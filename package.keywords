@@ -1994,3 +1994,4 @@ dev-db/postgis ~x86
 dev-db/postgis ~x86
 dev-db/postgis ~x86
 media-sound/alsa-headers ~x86
+dev-db/postgis ~x86
