@@ -1595,3 +1595,5 @@ dev-db/postgis
 dev-python/egenix-mx-base
 dev-db/postgresql
 dev-db/libpq
+net-im/psi
+app-mobilephone/gnokii
