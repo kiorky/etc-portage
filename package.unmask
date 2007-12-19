@@ -1597,3 +1597,4 @@ dev-db/postgresql
 dev-db/libpq
 net-im/psi
 app-mobilephone/gnokii
+app-emulation/kvm
