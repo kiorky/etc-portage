@@ -1598,3 +1598,4 @@ dev-db/libpq
 net-im/psi
 app-mobilephone/gnokii
 app-emulation/kvm
+sys-kernel/vserver-sources
