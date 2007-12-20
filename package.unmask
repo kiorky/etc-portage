@@ -1601,3 +1601,4 @@ app-emulation/kvm
 sys-kernel/vserver-sources
 sys-kernel/vserver-sources
 sys-kernel/vserver-sources
+sys-cluster/util-vserver
