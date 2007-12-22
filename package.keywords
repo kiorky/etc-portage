@@ -1,4 +1,30 @@
 app-accessibility/dasher ~x86
+dev-python/compizconfig-python
+x11-wm/compiz
+x11-wm/compiz-fusion
+x11-plugins/compiz-fusion-plugins-main
+x11-plugins/compiz-fusion-plugins-extra
+x11-plugins/compiz-fusion-plugins-unsupported
+x11-wm/emerald
+x11-themes/emerald-themes
+x11-apps/ccsm
+x11-libs/libcompizconfig
+x11-libs/compizconfig-backend-gconf
+x11-libs/compizconfig-backend-kconfig
+x11-libs/compiz-bcop
+dev-python/compizconfig-python **
+x11-wm/compiz **
+x11-wm/compiz-fusion **
+x11-plugins/compiz-fusion-plugins-main **
+x11-plugins/compiz-fusion-plugins-extra **
+x11-plugins/compiz-fusion-plugins-unsupported **
+x11-wm/emerald **
+x11-themes/emerald-themes **
+x11-apps/ccsm **
+x11-libs/libcompizconfig **
+x11-libs/compizconfig-backend-gconf **
+x11-libs/compizconfig-backend-kconfig **
+x11-libs/compiz-bcop **
 app-accessibility/gnome-mag
 app-accessibility/gnome-speech ~x86
 app-accessibility/gnopernicus ~x86
@@ -2006,3 +2032,4 @@ sys-kernel/vserver-sources ~x86
 sys-kernel/vserver-sources ~x86
 sys-cluster/util-vserver ~x86
 media-sound/moodbar ~x86
+kde-base/kickoff ~x86
