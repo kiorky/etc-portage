@@ -2005,3 +2005,4 @@ sys-kernel/vserver-sources ~x86
 sys-kernel/vserver-sources ~x86
 sys-kernel/vserver-sources ~x86
 sys-cluster/util-vserver ~x86
+media-sound/moodbar ~x86

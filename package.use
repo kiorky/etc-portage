@@ -356,3 +356,4 @@ net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnu
 net-libs/libgadu -ssl
 rs/emacs
 net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
+app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
