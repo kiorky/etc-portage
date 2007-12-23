@@ -1606,3 +1606,4 @@ media-sound/moodbar
 kde-base/kickoff
 x11-apps/fusion-icon
 kde-misc/taskbar-compiz
+x11-libs/qt-xmlpatterns
