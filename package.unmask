@@ -1608,3 +1608,4 @@ x11-apps/fusion-icon
 kde-misc/taskbar-compiz
 x11-libs/qt-xmlpatterns
 x11-libs/qt-core
+x11-libs/qt-sql
