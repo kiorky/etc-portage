@@ -2038,3 +2038,4 @@ kde-misc/taskbar-compiz ~x86
 x11-libs/qt-xmlpatterns ~x86
 x11-libs/qt-core ~x86
 x11-libs/qt-sql ~x86
+x11-libs/qt-test ~x86
