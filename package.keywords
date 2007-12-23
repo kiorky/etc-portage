@@ -2033,4 +2033,4 @@ sys-kernel/vserver-sources ~x86
 sys-cluster/util-vserver ~x86
 media-sound/moodbar ~x86
 kde-base/kickoff *  ~x86 -* -**
-x11-apps/fusion-icon ~x86
+x11-apps/fusion-icon ~x86 -*
