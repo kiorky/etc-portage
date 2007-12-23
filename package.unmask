@@ -1605,3 +1605,4 @@ sys-cluster/util-vserver
 media-sound/moodbar
 kde-base/kickoff
 x11-apps/fusion-icon
+kde-misc/taskbar-compiz
