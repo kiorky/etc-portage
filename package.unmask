@@ -1604,3 +1604,4 @@ sys-kernel/vserver-sources
 sys-cluster/util-vserver
 media-sound/moodbar
 kde-base/kickoff
+x11-apps/fusion-icon
