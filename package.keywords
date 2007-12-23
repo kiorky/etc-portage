@@ -2048,3 +2048,6 @@ x11-libs/qt-gui ~x86
 x11-libs/qt-gui ~x86
 x11-libs/qt-script ~x86
 x11-libs/qt-qt3support ~x86
+x11-libs/qt-opengl ~x86
+dev-libs/libassuan ~x86
+media-libs/libafterimage ~x86
