@@ -1603,6 +1603,7 @@ sys-kernel/vserver-sources
 sys-kernel/vserver-sources
 sys-cluster/util-vserver
 media-sound/moodbar
+media-sound/moodbar
 kde-base/kickoff
 x11-apps/fusion-icon
 kde-misc/taskbar-compiz
