@@ -1621,3 +1621,4 @@ x11-libs/qt-qt3support
 x11-libs/qt-opengl
 dev-libs/libassuan
 media-libs/libafterimage
+x11-libs/qt-dbus

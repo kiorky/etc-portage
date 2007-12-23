@@ -361,3 +361,8 @@ app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
 app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
 media-sound/moodbar flac mp3 ogg vorbis
 x11-wm/compiz gtk svg dbus fuse -gnome kde -xcb
+x11-libs/qt-core ssl -debug glib qt3support
+media-libs/libafterimage nls -examples gif jpeg -mmx png tiff
+x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite
+x11-libs/qt-gui  cups xinerama -accessibility dbus -debug mng nas nis tiff
+x11-libs/vte python -debug -doc opengl
