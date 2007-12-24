@@ -2053,3 +2053,4 @@ dev-libs/libassuan ~x86
 media-libs/libafterimage ~x86
 x11-libs/qt-dbus ~x86
 dev-util/cmake ~x86
+x11-libs/qt-webkit ~x86
