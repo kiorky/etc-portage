@@ -367,3 +367,7 @@ x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite
 x11-libs/qt-gui  cups xinerama -accessibility dbus -debug mng nas nis tiff
 x11-libs/vte python -debug -doc opengl
 kde-base/kmix xinerama alsa
+dev-libs/nss utils
+dev-libs/xmlrpc-c curl libwww
+
+
