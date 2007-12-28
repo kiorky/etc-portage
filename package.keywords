@@ -2057,3 +2057,4 @@ dev-util/cmake ~x86
 x11-libs/qt-webkit ~x86
 dev-libs/yaz ~x86
 net-zope/i18ndude ~x86
+app-emulation/cedega ~x86
