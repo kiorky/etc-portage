@@ -13,7 +13,7 @@ app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -m
 app-editors/vim-core acl bash-completion nls -livecd
 app-emulation/qemu-softmmu alsa sdl -kqemu
 app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
-app-emulation/wine  alsa cups lcms nas ncurses  jpeg  -opengl  xml scanner
+app-emulation/wine  alsa cups lcms nas ncurses  jpeg  xml scanner X alsa cups jpeg lcms ldap nas ncurses scanner xml dbus -esd hal -jack opengl oss
 app-emulation/xen-tools sdl -custom-cflags -debug -doc -hardened screen vnc
 app-misc/beagle python -chm -debug -evo gtk ole pdf
 app-misc/evidence -gnome kde mpeg nls oggvorbis perl truetype xine
