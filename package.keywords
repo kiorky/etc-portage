@@ -2061,3 +2061,4 @@ app-emulation/cedega ~x86
 app-emulation/cedega ~x86
 games-server/halflife-steam ~x86
 sys-apps/openrc ~x86
+sys-apps/makedev ~x86
