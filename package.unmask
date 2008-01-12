@@ -1654,3 +1654,4 @@ games-server/halflife-steam
 sys-apps/openrc
 sys-apps/makedev
 sys-apps/baselayout
+java-virtuals/servlet-api
