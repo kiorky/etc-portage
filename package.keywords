@@ -2064,3 +2064,4 @@ sys-apps/openrc ~x86
 sys-apps/makedev ~x86
 sys-apps/baselayout ~x86
 java-virtuals/servlet-api ~x86
+dev-java/hamcrest-core ~x86
