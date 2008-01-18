@@ -373,3 +373,4 @@ dev-libs/nss utils
 dev-libs/xmlrpc-c curl libwww
 
 net-libs/xulrunner ipv6 xinerama   java xprint
+net-libs/xulrunner ipv6 xinerama   -java xprint

@@ -1657,3 +1657,4 @@ sys-apps/baselayout
 java-virtuals/servlet-api
 dev-java/hamcrest-core
 dev-libs/xmlrpc-c
+media-video/nvidia-settings
