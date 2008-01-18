@@ -371,6 +371,6 @@ x11-libs/vte python -debug -doc opengl
 kde-base/kmix xinerama alsa
 dev-libs/nss utils
 dev-libs/xmlrpc-c curl libwww
-
+net-analyzer/nmap -gtk ssl
 net-libs/xulrunner ipv6 xinerama   java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
