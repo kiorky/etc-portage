@@ -377,3 +377,4 @@ app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups doc examples gif glib mng mysql opengl postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib  dbus -debug firebird jpeg -nas nis -odbc -pch png
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility
 dev-lang/swig guile php pike python tcl tk
+dev-lang/swig guile php pike python tcl tk  -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
