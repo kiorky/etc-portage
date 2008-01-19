@@ -2073,3 +2073,21 @@ dev-libs/soprano ~x86
 dev-libs/rasqal ~x86
 dev-libs/rasqal ~x86
 dev-cpp/clucene ~x86
+=dev-libs/redland-1.0.6-r1
+=app-misc/strigi-0.5.7
+=media-libs/ilmbase-1.0.1
+=kde-base/systemsettings-4.0.0
+=kde-base/ksplash-4.0.0
+=kde-base/plasma-4.0.0
+=kde-base/libtaskmanager-4.0.0
+=kde-base/libkworkspace-4.0.0
+=kde-base/libplasma-4.0.0
+=kde-base/kde-menu-icons-4.0.0
+=kde-base/solid-4.0.0
+=kde-base/kstyles-4.0.0
+=kde-base/kstartupconfig-4.0.0
+=kde-base/knotify-4.0.0
+=kde-base/phonon-4.0.0
+=kde-base/kde-wallpapers-4.0.0
+=kde-base/krunner-4.0.0
+=kde-base/libkcompactdisc-4.0.0
