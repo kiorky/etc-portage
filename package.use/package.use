@@ -375,3 +375,4 @@ dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi -doc -emacs mozs
 dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups doc examples gif glib mng mysql opengl postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib  dbus -debug firebird jpeg -nas nis -odbc -pch png
+x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility
