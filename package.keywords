@@ -1990,3 +1990,4 @@ x11-wm/twm ~x86
 #xfce-extra/exo ~x86
 #xfce-extra/xfce4-dev-tools ~x86
 net-im/pidgin ~x86
+dev-libs/yaz ~x86
