@@ -2072,3 +2072,4 @@ kde-base/kdepimlibs ~x86
 dev-libs/soprano ~x86
 dev-libs/rasqal ~x86
 dev-libs/rasqal ~x86
+dev-cpp/clucene ~x86

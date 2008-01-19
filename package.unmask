@@ -1663,3 +1663,4 @@ kde-base/kdepimlibs
 dev-libs/soprano
 dev-libs/rasqal
 dev-libs/rasqal
+dev-cpp/clucene
