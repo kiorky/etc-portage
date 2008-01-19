@@ -1661,3 +1661,4 @@ media-video/nvidia-settings
 kde-base/qimageblitz
 kde-base/kdepimlibs
 dev-libs/soprano
+dev-libs/rasqal

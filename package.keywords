@@ -2070,3 +2070,4 @@ media-video/nvidia-settings ~x86
 kde-base/qimageblitz ~x86       -*
 kde-base/kdepimlibs ~x86
 dev-libs/soprano ~x86
+dev-libs/rasqal ~x86
