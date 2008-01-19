@@ -13,7 +13,7 @@ app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -m
 app-editors/vim-core acl bash-completion nls -livecd
 app-emulation/qemu-softmmu alsa sdl -kqemu
 app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
-app-emulation/wine  alsa cups lcms nas ncurses  jpeg  -opengl  xml scanner
+app-emulation/wine  alsa cups lcms nas ncurses  jpeg  xml scanner X alsa cups jpeg lcms ldap nas ncurses scanner xml dbus -esd hal -jack opengl oss
 app-emulation/xen-tools sdl -custom-cflags -debug -doc -hardened screen vnc
 app-misc/beagle python -chm -debug -evo gtk ole pdf
 app-misc/evidence -gnome kde mpeg nls oggvorbis perl truetype xine
@@ -95,7 +95,7 @@ dev-lang/cm3 tcltk
 dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers exif ftp gd iconv imap iodbc ipv6 ldap ming mysql ncurses nls odbc pcntl pcre posix postgres readline reflection sasl session simplexml soap sockets spell sqlite ssl tidy tokenizer truetype unicode xmlrpc xpm xsl zip zlib berkdb  -sysvipc -threads xml xmlreader xmlwriter yaz hash
 dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
 dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2  tcltk
-dev-lang/swig java mono perl php python ruby -doc guile lua ocaml pike tcl tk
+dev-lang/swig -java -mono -perl php python -ruby -doc guile -lua -ocaml pike -tcl -tk
 dev-libs/apr-util berkdb gdbm  ldap postgres
 dev-libs/boehm threads
 dev-libs/boehm-gc -threads
@@ -124,14 +124,14 @@ dev-scheme/drscheme perl cairo jpeg opengl png
 dev-scheme/guile threads    discouraged deprecated etworking  regex
 dev-scheme/mzscheme cairo jpeg opengl perl
 dev-util/anjuta doc glade inherit-graph subversion debug
-dev-util/cscope emacs
+dev-util/cscope -emacs
 dev-util/cvsgraph nls zlib gif jpeg png truetype
 dev-util/devhelp -firefox
 dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
 dev-util/glade -gnome -gnomedb
 dev-util/kdevelop arts fortran java perl php python ruby sql subversion  ada  haskell  pascal  perforce
 dev-util/source-highlight bash-completion
-dev-util/subversion apache2 berkdb nls perl python zlib bash-completion emacs java -minimal -nowebdav ruby
+dev-util/subversion apache2 berkdb nls perl python zlib bash-completion -emacs java -minimal -nowebdav ruby
 games-emulation/advancemame alsa oss sdl truetype zlib expat -fbcon slang -static -svga
 games-emulation/advancemenu alsa ncurses oss sdl truetype zlib -debug expat -fbcon slang -static -svga
 games-engines/stratagus flac mikmod mp3  ogg opengl vorbis
@@ -167,7 +167,7 @@ kde-base/kdepim-kioslaves sasl
 kde-base/kdesdk arts berkdb subversion
 kde-base/kdesdk-meta subversion
 kde-base/konqueror java
-kde-base/konsole debug
+kde-base/konsole -debug
 kde-misc/ksensors   hddtemp
 mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
 mail-client/mozilla-thunderbird mozcalendar
@@ -194,7 +194,7 @@ media-libs/smpeg  -debug -gtk -mmx opengl
 media-libs/win32codecs real
 media-libs/x264 mp4 threads
 media-libs/x264-svn mp4 threads
-media-libs/xine-lib   a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss pulseaudio real truetype -v4l -vcd wavpack -xcb xinerama
+media-libs/xine-lib   a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss -pulseaudio real truetype -v4l -vcd wavpack -xcb xinerama
 media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug ipod mp4 mtp noamazon -opengl postgres visualization xinerama aac
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/grip nls vorbis
@@ -206,6 +206,7 @@ media-sound/streamripper vorbis
 media-sound/timidity++  alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
 media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
 media-video/avidemux xvid
+app-editors/emacs -alsa -xpm -X -Xaw3d -gif -gtk -gzip-el -hesiod -jpeg -motif -png -sound -source -spell -tiff -toolkit-scroll-bars
 media-video/avifile    a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid
 media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l
@@ -273,7 +274,7 @@ sys-auth/pam_ldap -sasl ssl
 sys-auth/pam_mysql openssl
 sys-boot/grub netboot
 sys-devel/distcc -gnome ipv6 -gnome -gtk
-sys-devel/gcc fortran gcj nls  objc objc++  objc-gc
+sys-devel/gcc fortran gcj nls  objc objc++  objc-gc -gtk
 sys-kernel/genkernel bash-completion
 sys-kernel/gentoo-sources symlink
 sys-libs/glibc nls nptl nptlonly profile -glibc-compat20
@@ -313,7 +314,7 @@ sys-apps/pciutils -zlib
 x11-themes/gtk-engines-qtcurve mozilla
 x11-themes/gtk-engines-qtcurve mozilla
 dev-db/phppgadmin vhosts
-dev-util/mercurial bash-completion zsh-completion emacs
+dev-util/mercurial bash-completion zsh-completion -emacs
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
 dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
@@ -325,10 +326,7 @@ games-fps/enemy-territory dedicated opengl
 games-fps/enemy-territory-truecombat  dedicated opengl
 games-fps/enemy-territory-etpro  dedicated opengl
 games-emulation/xmame alsa xinerama -arts dga -esd expat ggi -joystick -lirc -mmx net opengl sdl -svga xv
-
 media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truetype vorbis x264 xv
-
-
 dev-lang/spidermonkey threadsafe
 games-fps/quake3-urbanterror dedicated opengl
 net-wireless/iwlwifi ipw3945 ipw4965
@@ -351,7 +349,28 @@ sys-block/gparted fat hfs jfs ntfs reiser4 reiserfs xfs
 sys-apps/qtparted kde gnome jfs ntfs reiserfs xfs
 sys-apps/parted nls readline -debug device-mapper 
 app-misc/mc X gpm ncurses nls pam samba unicode 7zip slang
-net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnutls -groupwise -gstreamer -meanwhile -networkmanager prediction qq silc -spell -tcl -tk -zephyr
+net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnutls -groupwise -gstreamer -meanwhile -networkmanager prediction qq silc -spell -tcl -tk zephyr
 net-libs/libgadu -ssl
-net-wireless/aircrack-ng wifi
-
+dev-db/libpq	  kerberos nls pam pg-intdatetime readline ssl -threads zlib
+dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml zlib -doc 
+dev-db/postgis geos proj
+net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
+media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp -sse svg tiff wmf
+app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
+app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
+media-sound/moodbar flac mp3 ogg vorbis
+x11-wm/compiz gtk svg dbus fuse -gnome kde -xcb
+x11-libs/qt-core ssl -debug glib qt3support
+media-libs/libafterimage nls -examples gif jpeg -mmx png tiff
+x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite
+x11-libs/qt-gui  cups xinerama -accessibility dbus -debug mng nas nis tiff
+x11-libs/vte python -debug -doc opengl
+kde-base/kmix xinerama alsa
+dev-libs/nss utils
+dev-libs/xmlrpc-c curl libwww
+net-analyzer/nmap -gtk ssl
+net-libs/xulrunner ipv6 xinerama   java xprint
+net-libs/xulrunner ipv6 xinerama   -java xprint
+dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi -doc -emacs mozsha1
+dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax
+app-text/ghostscript-gpl -X cups -gtk jpeg2k
