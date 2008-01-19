@@ -1,0 +1,377 @@
+app-admin/eselect bash-completion
+games-fps/nexuiz  alsa dedicated maps opengl sdl
+app-admin/prelude-manager dbx -debug -doc xml
+app-antivirus/clamav  crypt nls bzip2  curl logrotate  -mailwrapper milter -selinux
+app-arch/tar  nls bzip2
+app-cdr/k3b alsa -arts css -debug -dvdr encode ffmpeg flac -hal kde mp3 musepack musicbrainz sndfile -vcd vorbis xinerama
+app-crypt/heimdal  berkdb ipv6 ssl ldap
+app-crypt/pinentr ncurses  qt3
+app-crypt/pinentry ncurses  qt3
+app-doc/doxygen qt unicode doc tetex
+app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
+app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal -vim-with-x
+app-editors/vim-core acl bash-completion nls -livecd
+app-emulation/qemu-softmmu alsa sdl -kqemu
+app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
+app-emulation/wine  alsa cups lcms nas ncurses  jpeg  xml scanner X alsa cups jpeg lcms ldap nas ncurses scanner xml dbus -esd hal -jack opengl oss
+app-emulation/xen-tools sdl -custom-cflags -debug -doc -hardened screen vnc
+app-misc/beagle python -chm -debug -evo gtk ole pdf
+app-misc/evidence -gnome kde mpeg nls oggvorbis perl truetype xine
+app-misc/screen pam  multiuser nethack
+app-office/gnucash nls hbci ofx  postgres  quotes
+app-office/gnumeric -gnome
+app-office/openoffice eds -gnome gtk java pam xml firefox cairo   mono ldap kde
+app-office/openoffice-bin -gnome java
+app-ofice/koffice javascript
+app-ofice/openoffice-bin -kde
+app-portage/herdstat bash-completion
+app-text/acroread nsplugin
+app-text/djvu jpeg nls nsplugin qt3 threads tiff -debug -kde xml
+app-text/enscript nls ruby
+app-text/evince nautilus dbus -debug djvu -doc -dvi t1lib tiff
+app-text/ggv debug
+app-text/ghostscript-esp cups -cjk djvu -emacs -gtk threads xml
+app-text/poppler-bindings cairo gtk qt3 qt4
+dev-cpp/commoncpp2- ipv6 gnutls
+dev-db/hsqldb -doc jikes -source
+dev-db/mysql big-tables perl ssl innodb srvdir
+dev-db/phpmyadmin vhosts
+dev-db/unixODBC -gnome
+dev-dotnet/libgdiplus exif gif jpeg tiff png png%
+dev-games/crystalspace  3ds mng  openal
+dev-games/ode  double-precision
+dev-java/ant-tasks javamail -noantlr -nobcel -nobeanutils -nobsf -nobsh -nocommonslogging -nocommonsnet -nojdepend -nojsch -nojython -nolog4j -nooro -noregexp -norhino -noxalan -noxerces
+dev-java/aspectwerkz jikes -source
+dev-java/avalon-framework jikes
+dev-java/avalon-logkit javamail jms jikes
+dev-java/bsf jikes  jython  rhino
+dev-java/bsh -gnome kde
+dev-java/castor -doc jikes postgres -source
+dev-java/cglib -doc jikes -source
+dev-java/commons -doc jikes junit -source
+dev-java/commons-beanutils jikes
+dev-java/commons-cli jikes junit
+dev-java/commons-lang jikes junit
+dev-java/commons-lang- jikes
+dev-java/commons-logging avalon-framework avalon-logkit log4j servletapi
+dev-java/commons-net  jikes
+dev-java/concurrent -doc jikes -source
+dev-java/exolabcore -doc jikes -source
+dev-java/exolabtools -doc jikes -source
+dev-java/geronimo-specs  activation  commonj corba corba-2.3 corba-3.0 ejb j2ee j2ee-connector j2ee-deployment j2ee-jacc j2ee-management javamail jaxr jaxrpc jms jsp jta qname saaj servlet   servlet jta
+dev-java/jakarta-regexp jikes
+dev-java/javassist -doc jikes -source
+dev-java/jboss-commons-logging avalon-logkit log4j servletapi avalon-framework doc source
+dev-java/jdbc-mysql c3p0 log4j
+dev-java/jdbm -doc jikes -source
+dev-java/jdepend jikes
+dev-java/jsch jikes
+dev-java/jsr173 -doc jikes -source
+dev-java/junitperf -doc jikes junit -source
+dev-java/jython jikes
+dev-java/jzlib jikes
+dev-java/log4j javamail jikes jms  jmx
+dev-java/msv -doc jikes -source
+dev-java/openjms -doc jikes
+dev-java/qdox -doc jikes -source
+dev-java/quartz jikes dbcp -jboss jmx jta -oracle -servlet-2.3 servlet-2.4 struts
+dev-java/relaxng -doc jikes -source
+dev-java/rhino jikes
+dev-java/scout doc examples  source
+dev-java/scout- doc examples  source
+dev-java/snmptrapappender  doc source
+dev-java/sun-jdk -doc -nsplugin
+dev-java/sun-jmx jikes
+dev-java/swt cairo -gnome opengl seamonkey
+dev-java/trove -doc jikes -source
+dev-java/xalan jikes
+dev-java/xerces doc examples source
+dev-java/xml -doc jikes -source
+dev-java/xmldb -doc jikes -source
+dev-java/xpp2 -doc jikes -source
+dev-java/xpp3 -doc jikes junit -source
+dev-java/xsdlib -doc jikes -source
+dev-lang/cm3 tcltk
+dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers exif ftp gd iconv imap iodbc ipv6 ldap ming mysql ncurses nls odbc pcntl pcre posix postgres readline reflection sasl session simplexml soap sockets spell sqlite ssl tidy tokenizer truetype unicode xmlrpc xpm xsl zip zlib berkdb  -sysvipc -threads xml xmlreader xmlwriter yaz hash
+dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
+dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2  tcltk
+dev-lang/swig -java -mono -perl php python -ruby -doc guile -lua -ocaml pike -tcl -tk
+dev-libs/apr-util berkdb gdbm  ldap postgres
+dev-libs/boehm threads
+dev-libs/boehm-gc -threads
+dev-libs/boost bcp bjam pyste  threads - threadsonly
+dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond
+dev-libs/gmime ipv6 -debug -doc mono
+dev-libs/pwlib alsa ipv6 oss sdl ssl xml -debug -ieee1394 ldap sasl
+dev-perl/glib-perl xml
+dev-python/PyQt doc examples
+dev-python/celementtree  doc  examples
+dev-python/cherrypy  doc  examples
+dev-python/genshi examples
+dev-python/gnome-python gtkhtml
+dev-python/gnome-python-extras firefox
+dev-python/ipython doc examples
+dev-python/mysql-python doc  examples
+dev-python/pycairo svg numeric
+dev-python/pygtk opengl
+dev-python/pysqlite doc examples
+dev-python/pyxml doc examples
+dev-python/sqlalchemy mysql doc examples -firebird -mssql postgres sqlite -test
+dev-python/sqlobject mysql postgres sqlite doc -firebird
+dev-python/turbogears doc examples
+dev-python/wxpython gtk2 unicode gtk jpeg opengl png tiff
+dev-scheme/drscheme perl cairo jpeg opengl png
+dev-scheme/guile threads    discouraged deprecated etworking  regex
+dev-scheme/mzscheme cairo jpeg opengl perl
+dev-util/anjuta doc glade inherit-graph subversion debug
+dev-util/cscope -emacs
+dev-util/cvsgraph nls zlib gif jpeg png truetype
+dev-util/devhelp -firefox
+dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
+dev-util/glade -gnome -gnomedb
+dev-util/kdevelop arts fortran java perl php python ruby sql subversion  ada  haskell  pascal  perforce
+dev-util/source-highlight bash-completion
+dev-util/subversion apache2 berkdb nls perl python zlib bash-completion -emacs java -minimal -nowebdav ruby
+games-emulation/advancemame alsa oss sdl truetype zlib expat -fbcon slang -static -svga
+games-emulation/advancemenu alsa ncurses oss sdl truetype zlib -debug expat -fbcon slang -static -svga
+games-engines/stratagus flac mikmod mp3  ogg opengl vorbis
+games-fps/americas-army opengl
+games-fps/enemy-territory-truecombat  opengl
+games-fps/tremulous dedicated openal  opengl  vorbis
+games-fps/tremulous-bin dedicated sdl
+games-fps/warsow dedicated irc openal sdl opengl
+games-util/xqf bzip2 geoip
+gnome-base/gnome hal -accessibility cdr -dvdr mono
+gnome-base/gnome-applets ipv6 acpi hal -apm
+gnome-base/gnome-mount -gnome
+gnome-base/gnome-session -esd ipv6 tcpd branding debug -doc
+gnome-base/gnome-vfs avahi  gnutls  ipv6 samba ssl -doc hal
+gnome-base/gnome-volume-manager -gnome libnotify
+gnome-base/libglade  nls bonobo
+gnome-base/librsvg -gnome zlib firefox
+gnome-base/nautilus  -gnome beagle
+gnome-extra/evolution-data-server -gnome ipv6 ssl -debug -doc kerberos krb4 ldap nntp
+gnome-extra/libgsf python bzip2
+gnome-extra/nautilus-cd-burner cdr
+gnome-extra/yelp firefox debug
+kde-base/arts alsa -artswrappersuid -debug -esd -jack -kdeenablefinal mp3 nas vorbis xinerama -kdehiddenvisibility
+kde-base/kaddressbook gnokii
+kde-base/kcontrol arts opengl ssl -debug -ieee1394 -kdeenablefinal -kdexdeltas logitech-mouse xinerama
+kde-base/kdebase arts opengl pam ssl cups -debug -hal -ieee1394 java -kdeenablefinal ldap -lm_sensors logitech-mouse -openexr samba xcomposite xinerama xscreensaver -zeroconf
+kde-base/kdebase-kioslaves hal ldap openexr samba
+kde-base/kdegraphics arts imlib opengl -debug gphoto2 -kdeenablefinal -openexr pdf -povray -scanner tetex xinerama
+kde-base/kdelibs acl alsa arts avahi branding cups -debug fam jpeg2k kerberos lua openexr spell tiff utempter -doc -kdeenablefinal -kdehiddenvisibility -legacyssl
+kde-base/kdemultimedia alsa arts encode gstreamer mp3 vorbis -audiofile -debug flac -kdeenablefinal musicbrainz theora xine xinerama
+kde-base/kdemultimedia-kioslaves encode flac  mp3 vorbis
+kde-base/kdepim-kioslaves sasl
+kde-base/kdesdk arts berkdb subversion
+kde-base/kdesdk-meta subversion
+kde-base/konqueror java
+kde-base/konsole -debug
+kde-misc/ksensors   hddtemp
+mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
+mail-client/mozilla-thunderbird mozcalendar
+mail-client/mutt berkdb crypt gdbm nls ssl buffysize cjk -debug gnutls -gpgme -idn imap -mbox nntp pop sasl smime -vanilla
+mail-client/squirrelmail -crypt mysql nls ssl - filter  ldap  vhosts spell postgres
+mail-filter/maildrop berkdb gdbm mysql authlib
+mail-mta/postfix ipv6 mysql pam ssl sasl
+media-gfx/fontforge  unicode gif jpeg png  svg  tiff truetype
+media-gfx/gimp-print cups nls ppds readline foomaticdb  -gimp
+media-gfx/graphviz  nls perl python  gtk  ruby tcl tk
+media-gfx/imagemagick  jpeg mpeg perl png truetype xml2 zlib bzip2 -doc -fpx graphviz gs jbig -lcms -nocxx tiff wmf
+media-gfx/xv jpeg png tiff
+media-libs/akode alsa flac -jack mp3 oss speex vorbis
+media-libs/flac ogg
+media-libs/gd jpeg png  truetype xpm
+media-libs/imlib2 bzip2  gif  jpeg  mp3   nls  png  iff  zlib
+media-libs/lcms  python zlib  jpeg tiff
+media-libs/libsdl  alsa libcaca aalib opengl xv
+media-libs/pdflib perl python -doc java tcl
+media-libs/sdl-image gif jpeg png tiff
+media-libs/sdl-mixer mikmod mp3 timidity vorbis
+media-libs/sdl-sound flac mikmod physfs -speex vorbis
+media-libs/smpeg  -debug -gtk -mmx opengl
+media-libs/win32codecs real
+media-libs/x264 mp4 threads
+media-libs/x264-svn mp4 threads
+media-libs/xine-lib   a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss -pulseaudio real truetype -v4l -vcd wavpack -xcb xinerama
+media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap -debug ipod mp4 mtp noamazon -opengl postgres visualization xinerama aac
+media-sound/darkice alsa encode* -jack vorbis
+media-sound/grip nls vorbis
+media-sound/kradio encode ogg vorbis
+media-sound/mpd aac alsa audiofile flac ipv6 mikmod mp3 -oss unicode vorbis ao icecast musepack -pulseaudio ogg libsamplerate
+media-sound/mpd-svn aac alsa ao audiofile icecast ipv6 mikmod mp3 musepack oss unicode vorbis flac -pulseaudio
+media-sound/ogmtools dvd
+media-sound/streamripper vorbis
+media-sound/timidity++  alsa ncurses ao -arts -emacs -esd -flac -gtk -jack -motif -nas oss -portaudio -slang -speex -tcltk vorbis
+media-tv/xdtv alsa jpeg encode ffmpeg xvid -lirc xinerama neXt Xaw3d mmx zvbi aqua_theme x11 carbone_theme xv -debug x264 ogg png aac nls linguas_fr linguas_en
+media-video/avidemux xvid
+app-editors/emacs -alsa -xpm -X -Xaw3d -gif -gtk -gzip-el -hesiod -jpeg -motif -png -sound -source -spell -tiff -toolkit-scroll-bars
+media-video/avifile    a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
+media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid
+media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l
+media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
+media-video/gxine nsplugin lirc
+media-video/kmplayer mplayer
+media-video/mplayer aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  -opengl oss png real samba  sdl svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif
+media-video/nvidia-glx x86 ~x86 dlloader
+media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
+media-video/transcode a52 dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid
+media-video/vlc dvb dvbpsi v4l mpc a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musepac -oss qt -qt4 -qt_embedded quicktime real -svga -tarkin tremor -twolame v4l -vcd vlm x264 skins2 shout httpd musepack avahi cddb libcaca libnotify live       seamonkey sdl-image    upnp rtsp svga vcd truetype win32codecs xml
+media-video/xine-ui aalib curl libcaca -lirc ncurses nls readline
+net-analyzer/cacti apache2  snmp  vhosts
+net-analyzer/nagios-core mysql perl apache2
+net-analyzer/nagios-plugins ipv6 mysql ssl ldap nagios-dns nagios-game nagios-ntp nagios-ping nagios-ssh postgres -radius -samba snmp -ups
+net-analyzer/nessus-core  tcpd -debug prelude
+net-analyzer/net-snmp ipv6 perl ssl tcpd  diskio lm_sensors
+net-analyzer/rrdtool perl python  rrdcgi tcl
+net-analyzer/snor mysql ssl prelude  flexresp
+net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling prelude -react sguil snortsam timestats -flexresp* -inline -odbc postgres -selinux
+net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat mono python -autoipd -doc qt3 qt4 -test
+net-firewall/iptables  ipv6  -extensions -imq -l7filter
+net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog -winbind
+net-ftp/pure-ftpd mysql pam ssl vchroot  caps
+net-ftp/vsftpd  pam ssl tcpd caps logrotate
+net-im/bitlbee gnutls ipv6 jabber msn  -nss oscar ssl yahoo -debug -xinetd
+net-im/twinkle ilbc speex zrtp
+net-irc/irssi ipv6 perl ssl socks5
+net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
+net-libs/gecko-sdk crypt -debug -gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint
+net-libs/libetpan berkdb ipv6 ssl -debug gnutls sasl
+net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d postgres sieve ssl -vpopmail suid
+net-mail/mailman apache2 postfix
+net-misc/d4x -esd -gnome -kde -nls -oss
+net-misc/icecast yp  theora
+net-misc/neon nls ssl zlib expat socks5
+net-misc/openvpn pam ssl examples iproute2 -minimal -passwordsave  -static threads
+net-misc/rsync ipv6 acl
+net-misc/tightvnc tcpd -java server
+net-nds/openldap berkdb crypt gdbm ipv6 kerberos perl readline samba -sasl slp ssl tcpd -debug -minimal -odbc -overlays -selinux -smbkrb5passwd
+net-news/liferea dbus firefox gtkhtml
+net-p2p/amule nls unicode amuled remote
+net-print/cups nls pam ppds ssl -dbus jpeg php png samba -slp tiff
+net-print/foomatic-db cups  ppds
+net-print/foomatic-filters cups
+net-print/foomatic-filtersdb cups
+net-print/hpijs cups ppds foomaticdb
+net-print/hplip cups ppds oomaticdb  parport
+net-wireless/madwifi-ng amrr injection  -onoe
+net-wireless/madwifi-old amrr
+dev-python/mod_python debug
+net-wireless/ndiswrapper usb
+net-www/apache ldap -mpm-worker ssl debug -doc -mpm-event -mpm-peruser mpm-prefork -no-suexec -selinux srvdir -static-modules apache2 -mpm-itk -mpm-leader -mpm-threadpool threads
+net-www/mod_security apache2
+net-www/mplayerplug-in gtk divx gmedia  quicktime realmedia wmp
+nome-extra/evolution-data-server -gnome ipv6 ssl -debug -doc kerberos krb4 ldap nntp
+sys-apps/acl nls nfs
+sys-apps/coreutils nls acl  xattr
+sys-apps/hal crypt -acpi -debug dmi -doc -pcmcia
+sys-apps/lm_sensors sensord
+sys-apps/paludis ash-completion qa  cran glsa qa ruby  contrarius pink
+sys-apps/pmount hal
+sys-auth/nss_ldap kerberos -sasl
+sys-auth/pam_ldap -sasl ssl
+sys-auth/pam_mysql openssl
+sys-boot/grub netboot
+sys-devel/distcc -gnome ipv6 -gnome -gtk
+sys-devel/gcc fortran gcj nls  objc objc++  objc-gc -gtk
+sys-kernel/genkernel bash-completion
+sys-kernel/gentoo-sources symlink
+sys-libs/glibc nls nptl nptlonly profile -glibc-compat20
+sys-libs/pam berjdb pam_console pam_timestamp pwdb pam_chroot nis
+www-apache/mod_jk apache2 java
+www-apps/viewcvs cvsgraph enscript vhosts  apache2 cvsgraph enscript mysql vhosts
+www-apps/viewvc enscript highlight mysql vhosts apache2
+www-client/epiphany dbus firefox python -debug -doc
+www-client/seamonkey crypt -gnome ipv6 -debug java ldap -mozcalendar -mozdevelop moznocompose moznoirc moznomail moznoroaming postgres xinerama xprint
+www-client/w3- gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
+www-client/w3m gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
+www-client/w3m- gpm gtk imlib nls ssl unicode async -fbcon -lynxkeymap migemo xface
+www-misc/htdig vhosts
+www-servers/jboss-bin ejb3 doc srvdir
+www-servers/tomcat -java5
+x11-base/xorg-x11 -3dfx -input_devices_acecad -input_devices_aiptek -input_devices_calcomp -input_devices_citron -input_devices_digitaledge -input_devices_dmc -input_devices_dynapro -input_devices_elo2300 -input_devices_elographics input_devices_evdev -input_devices_fpit -input_devices_hyperpen -input_devices_jamstudio -input_devices_joystick-input    input_devices_keyboard -input_devices_magellan -input_devices_magictouch -input_devices_microtouch  input_devices_mouse -input_devices_mutouch -input_devices_palmax -input_devices_penmount -input_devices_spaceorb -input_devices_summa -input_devices_synaptics -input_devices_tek4957 -input_devices_ur98 -input_devices_vmmouse -input_devices_void -input_devices_wacom video_cards_apm -video_cards_ark -video_cards_ati -video_cards_chips -video_cards_cirrus -video_cards_cyrix -video_cards_dummy -video_cards_fbdev -video_cards_fglrx -video_cards_glint -video_cards_i128 -video_cards_i740 -video_cards_i810 -video_cards_imstt -video_cards_mga -video_cards_neomagic -video_cards_newport -video_cards_nsc -video_cards_nv video_cards_nvidia -video_cards_rendition -video_cards_s3 -video_cards_s3virge -video_cards_savage -video_cards_siliconmotion -video_cards_sis -video_cards_sisusb video_cards_vesa -video_cards_vga -video_cards_via -video_cards_vmware -video_cards_voodoo
+x11-libs/cairo glitz png pdf svg
+x11-libs/ecore nls opengl ssl curl dbus threads
+x11-libs/evas jpeg nls opengl png  cairo
+x11-libs/gtk+ jpeg -debug -doc tiff xinerama
+x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples
+x11-libs/wxGTK -gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
+x11-terms/mrxvt menubar
+x11-wm/compiz -kde svg -gnome
+x11-wm/fluxbox kde nls imlib  truetype
+xfce-base/thunar dbus
+xfce-base/xfce-utils dbus
+xfce-base/xfce4-session dbus
+xfce-base/xfdesktop dbus
+xfce-extra/terminal dbus
+ys-apps/dbus gtk python qt mono
+x11-terms/rxvt-unicode perl iso14755 truetype
+dev-php5/ZendFramework doc examples
+dev-php/smarty doc
+dev-php/smarty doc
+sys-apps/pciutils -zlib
+x11-themes/gtk-engines-qtcurve mozilla
+x11-themes/gtk-engines-qtcurve mozilla
+dev-db/phppgadmin vhosts
+dev-util/mercurial bash-completion zsh-completion -emacs
+dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
+dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
+dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
+dev-php5/pecl-pdo mysql postgres sqlite
+www-client/mozilla-firefox ipv6 xinerama bindist -debug -filepicker -gnome java mozdevelop -moznopango -restrict-javascript xforms xprint
+games-fps/quake3 dedicated opengl teamarena
+games-fps/quake3-bin dedicated opengl teamarena
+games-fps/enemy-territory dedicated opengl
+games-fps/enemy-territory-truecombat  dedicated opengl
+games-fps/enemy-territory-etpro  dedicated opengl
+games-emulation/xmame alsa xinerama -arts dga -esd expat ggi -joystick -lirc -mmx net opengl sdl -svga xv
+media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truetype vorbis x264 xv
+dev-lang/spidermonkey threadsafe
+games-fps/quake3-urbanterror dedicated opengl
+net-wireless/iwlwifi ipw3945 ipw4965
+app-antivirus/clamav bzip2 crypt logrotate  -milter  nls  mailwrapper
+www-client/links gpm ssl unicode -directfb -fbcon javascript jpeg livecd png sdl  -svga tiff
+www-client/elinks gpm ipv6 nls perl ssl unicode zlib bittorrent bzip2 -debug finger ftp gopher guile idn javascript lua nntp ruby
+app-crypt/gnupg ldap nls bzip2 doc openct -pcsc-lite
+dev-java/xmlgraphics-commons jpeg
+dev-java/fop hyphenation% jai jimi
+dev-java/fop hyphenation jai jimi
+dev-java/fop hyphenation jai jimi
+x11-base/xorg-server dri ipv6 nptl xorg -3dfx -debug -dmx hal kdrive -minimal sdl xprint
+x11-libs/libXaw xprint
+x11-drivers/nvidia-drivers acpi
+dev-java/sun-jdk alsa -doc -examples -jce nsplugin
+x11-base/xorg-server dri hal ipv6 -kdrive sdl xorg xprint -3dfx -debug -dmx -minimal -nptl
+media-libs/mesa -debug -doc -motif -nptl -pic -xcb
+app-office/mozilla-sunbird ipv6 xinerama bindist -debug -gnome -moznopango xprint
+sys-block/gparted fat hfs jfs ntfs reiser4 reiserfs xfs
+sys-apps/qtparted kde gnome jfs ntfs reiserfs xfs
+sys-apps/parted nls readline -debug device-mapper 
+app-misc/mc X gpm ncurses nls pam samba unicode 7zip slang
+net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnutls -groupwise -gstreamer -meanwhile -networkmanager prediction qq silc -spell -tcl -tk zephyr
+net-libs/libgadu -ssl
+dev-db/libpq	  kerberos nls pam pg-intdatetime readline ssl -threads zlib
+dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml zlib -doc 
+dev-db/postgis geos proj
+net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
+media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp -sse svg tiff wmf
+app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
+app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
+media-sound/moodbar flac mp3 ogg vorbis
+x11-wm/compiz gtk svg dbus fuse -gnome kde -xcb
+x11-libs/qt-core ssl -debug glib qt3support
+media-libs/libafterimage nls -examples gif jpeg -mmx png tiff
+x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite
+x11-libs/qt-gui  cups xinerama -accessibility dbus -debug mng nas nis tiff
+x11-libs/vte python -debug -doc opengl
+kde-base/kmix xinerama alsa
+dev-libs/nss utils
+dev-libs/xmlrpc-c curl libwww
+net-analyzer/nmap -gtk ssl
+net-libs/xulrunner ipv6 xinerama   java xprint
+net-libs/xulrunner ipv6 xinerama   -java xprint
+dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi -doc -emacs mozsha1
+dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax
+app-text/ghostscript-gpl -X cups -gtk jpeg2k
+x11-libs/qt cups doc examples gif glib mng mysql opengl postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib  dbus -debug firebird jpeg -nas nis -odbc -pch png
