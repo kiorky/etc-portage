@@ -1625,6 +1625,7 @@ xfce-base/xfce-mcs-plugins
 xfce-extra/xfce4-dev-tools
 net-im/pidgin
 net-im/pidgin
+dev-libs/yaz
 dev-db/postgis
 dev-db/postgis
 dev-db/postgis
