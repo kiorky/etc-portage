@@ -386,3 +386,6 @@ kde-base/libkcddb  htmlhandbook musicbrainz
 kde-base/libtaskmanager xcomposite
 kde-base/kdelibs acl alsa bzip2 fam jpeg2k kerberos nls openexr pcre semantic-desktop spell ssl -3dnow -altivec bindist -debug -doc htmlhandbook -mmx opengl -sse -sse2 -test -zeroconf
 app-misc/strigi clucene dbus exiv2 qt4 -debug hyperestraier inotify java 
+kde-base/ark  archive -debug -htmlhandbook zip
+kde-base/kdeartwork-kscreensaver  opengl xscreensaver
+kde-base/konqueror java xinerama -arts branding -debug -kdeenablefinal -kdehiddenvisibility
