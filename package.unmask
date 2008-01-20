@@ -1686,3 +1686,4 @@ kde-base/krunner
 kde-base/libkcompactdisc
 media-libs/openexr
 dev-libs/libzip
+app-arch/libarchive
