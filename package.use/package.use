@@ -373,7 +373,7 @@ net-libs/xulrunner ipv6 xinerama   -java xprint
 dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi -doc -emacs mozsha1
 dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
-x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility
+x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
 dev-lang/swig guile php pike python tcl tk -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
 kde-base/systemsettings ssl usb xinerama -debug htmlhandbook -ieee1394 opengl
 kde-base/kdesktop xinerama -arts -debug -kdeenablefinal -kdehiddenvisibility xscreensaver 
@@ -390,3 +390,4 @@ kde-base/ark  archive -debug -htmlhandbook zip
 kde-base/kdeartwork-kscreensaver  opengl xscreensaver
 kde-base/konqueror java xinerama -arts branding -debug -kdeenablefinal -kdehiddenvisibility
 net-dns/avahi bookmarks dbus gdbm gtk howl-compat ipv6 mono python qt3 qt4 mdnsresponder-compat
+kde-base/kscreensaver pam opengl

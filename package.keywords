@@ -2094,3 +2094,4 @@ kde-base/libkcompactdisc ~x86
 media-libs/openexr ~x86
 dev-libs/libzip ~x86
 app-arch/libarchive ~x86
+kde-base/dolphin ~x86
