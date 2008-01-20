@@ -2092,3 +2092,4 @@ kde-base/kde-wallpapers
 kde-base/krunner
 kde-base/libkcompactdisc ~x86
 media-libs/openexr ~x86
+dev-libs/libzip ~x86
