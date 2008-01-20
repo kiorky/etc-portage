@@ -375,3 +375,14 @@ dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby 
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility
 dev-lang/swig guile php pike python tcl tk -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
+kde-base/systemsettings ssl usb xinerama -debug htmlhandbook -ieee1394 opengl
+kde-base/kdesktop xinerama -arts -debug -kdeenablefinal -kdehiddenvisibility xscreensaver 
+kde-base/krunner debug opengl xcomposite xscreensaver
+kde-base/kdebase-kioslaves openexr samba bzip2 -debug -htmlhandbook
+kde-base/libplasma xinerama opengl 
+kde-base/plasma xinerama -debug htmlhandbook xcomposite
+kde-base/libkcddb  htmlhandbook -musicbrainz
+kde-base/libkcddb  htmlhandbook musicbrainz
+kde-base/libtaskmanager xcomposite
+kde-base/kdelibs acl alsa bzip2 fam jpeg2k kerberos nls openexr pcre semantic-desktop spell ssl -3dnow -altivec bindist -debug -doc htmlhandbook -mmx opengl -sse -sse2 -test -zeroconf
+app-misc/strigi clucene dbus exiv2 qt4 -debug hyperestraier inotify java 
