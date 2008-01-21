@@ -42,7 +42,7 @@ app-admin/eselect-wxwidgets ~x86
 app-admin/eselect ~x86
 app-admin/gnome-system-tools ~x86
 app-admin/pessulus ~x86
-app-admin/php-toolkit ~x86  ~overlay maint
+app-admin/php-toolkit ~x86 ~overlay maint
 app-admin/prelude-lml ~x86
 app-admin/prelude-manager ~x86
 app-admin/sabayon ~x86
@@ -75,7 +75,7 @@ app-emulation/virtualbox-additions ~x86
 app-emulation/virtualbox-bin ~x86
 app-emulation/virtualbox-modules ~x86
 app-emulation/virtualbox ~x86
-app-emulation/wine  ~x86
+app-emulation/wine ~x86
 app-emulation/xen-tools ~x86
 app-emulation/xen ~x86
 app-forensics/rkhunter ~x86
@@ -476,7 +476,7 @@ dev-java/xsom ~x86
 dev-java/xstream ~x86
 dev-lang/cm3 ~x86
 dev-lang/mono ~x86
-dev-lang/php ~overlay  ~x86
+dev-lang/php ~overlay ~x86
 dev-lang/python ~x86
 dev-lang/ruby ~x86
 dev-lang/swig ~x86
@@ -1554,11 +1554,11 @@ media-libs/fontconfig ~x86
 media-libs/freetype ~x86
 media-libs/glew ~x86
 media-libs/glitz ~x86
-media-libs/gst-plugins-bad  ~x86
+media-libs/gst-plugins-bad ~x86
 media-libs/gst-plugins-base ~x86
-media-libs/gst-plugins-good  ~x86
-media-libs/gst-plugins-ugly  ~x86
-media-libs/gst-plugins  ~x86
+media-libs/gst-plugins-good ~x86
+media-libs/gst-plugins-ugly ~x86
+media-libs/gst-plugins ~x86
 media-libs/gstreamer ~x86
 media-libs/imlib2 -*
 media-libs/lcms ~x86
@@ -1580,45 +1580,45 @@ media-libs/x264-svn ~x86
 media-libs/xine-lib -*
 media-libs/xvid ~x86
 media-player/mplayer ~x86
-media-plugins/gst-plugins-a52dec  ~x86
-media-plugins/gst-plugins-alsa  ~x86
-media-plugins/gst-plugins-cdio  ~x86
-media-plugins/gst-plugins-cdparanoia  ~x86
-media-plugins/gst-plugins-dts  ~x86
-media-plugins/gst-plugins-dvdnav  ~x86
-media-plugins/gst-plugins-dvdread  ~x86
-media-plugins/gst-plugins-dv  ~x86
-media-plugins/gst-plugins-esd  ~x86
-media-plugins/gst-plugins-faac  ~x86
-media-plugins/gst-plugins-faad  ~x86
-media-plugins/gst-plugins-ffmpeg  ~x86
+media-plugins/gst-plugins-a52dec ~x86
+media-plugins/gst-plugins-alsa ~x86
+media-plugins/gst-plugins-cdio ~x86
+media-plugins/gst-plugins-cdparanoia ~x86
+media-plugins/gst-plugins-dts ~x86
+media-plugins/gst-plugins-dvdnav ~x86
+media-plugins/gst-plugins-dvdread ~x86
+media-plugins/gst-plugins-dv ~x86
+media-plugins/gst-plugins-esd ~x86
+media-plugins/gst-plugins-faac ~x86
+media-plugins/gst-plugins-faad ~x86
+media-plugins/gst-plugins-ffmpeg ~x86
 media-plugins/gst-plugins-ffmpeg- ~x86
-media-plugins/gst-plugins-flac  ~x86
-media-plugins/gst-plugins-gconf  ~x86
-media-plugins/gst-plugins-gnomevfs  ~x86
-media-plugins/gst-plugins-jpeg  ~x86
-media-plugins/gst-plugins-lame  ~x86
-media-plugins/gst-plugins-libpng  ~x86
-media-plugins/gst-plugins-libvisual  ~x86
-media-plugins/gst-plugins-mad  ~x86
-media-plugins/gst-plugins-mikmod  ~x86
-media-plugins/gst-plugins-mpeg2dec  ~x86
-media-plugins/gst-plugins-musepack  ~x86
+media-plugins/gst-plugins-flac ~x86
+media-plugins/gst-plugins-gconf ~x86
+media-plugins/gst-plugins-gnomevfs ~x86
+media-plugins/gst-plugins-jpeg ~x86
+media-plugins/gst-plugins-lame ~x86
+media-plugins/gst-plugins-libpng ~x86
+media-plugins/gst-plugins-libvisual ~x86
+media-plugins/gst-plugins-mad ~x86
+media-plugins/gst-plugins-mikmod ~x86
+media-plugins/gst-plugins-mpeg2dec ~x86
+media-plugins/gst-plugins-musepack ~x86
 media-plugins/gst-plugins-ogg ~x86
-media-plugins/gst-plugins-oss  ~x86
-media-plugins/gst-plugins-pango  ~x86
-media-plugins/gst-plugins-pitfdll  ~x86
-media-plugins/gst-plugins-raw1394  ~x86
-media-plugins/gst-plugins-shout2  ~x86
-media-plugins/gst-plugins-sidplay  ~x86
-media-plugins/gst-plugins-speex  ~x86
-media-plugins/gst-plugins-swfdec  ~x86
-media-plugins/gst-plugins-theora  ~x86
-media-plugins/gst-plugins-v4l2  ~x86
-media-plugins/gst-plugins-v4l  ~x86
-media-plugins/gst-plugins-vorbis  ~x86
+media-plugins/gst-plugins-oss ~x86
+media-plugins/gst-plugins-pango ~x86
+media-plugins/gst-plugins-pitfdll ~x86
+media-plugins/gst-plugins-raw1394 ~x86
+media-plugins/gst-plugins-shout2 ~x86
+media-plugins/gst-plugins-sidplay ~x86
+media-plugins/gst-plugins-speex ~x86
+media-plugins/gst-plugins-swfdec ~x86
+media-plugins/gst-plugins-theora ~x86
+media-plugins/gst-plugins-v4l2 ~x86
+media-plugins/gst-plugins-v4l ~x86
+media-plugins/gst-plugins-vorbis ~x86
 media-plugins/gst-plugins ~x86
-media-plugins/gst-plugins-xvideo  ~x86
+media-plugins/gst-plugins-xvideo ~x86
 media-plugins/gst-plugins-x ~x86
 media-plugins/streamtuner-python ~x86
 media-sound/alsa-driver ~x86
@@ -1655,7 +1655,7 @@ media-video/ogle ~x86
 media-video/subtitleripper ~x86
 media-video/totem ~x86
 media-video/transcode ~x86
-media-video/vlc  ~x86 
+media-video/vlc ~x86
 media-video/x264-svn-encoder ~x86
 media-video/xine-ui ~x86
 media-video/xvid4conf ~x86
@@ -1913,8 +1913,8 @@ x11-drivers/xf86-input-void ~x86
 x11-drivers/xf86-video-apm ~x86
 x11-drivers/xf86-video-ati ~x86
 x11-drivers/xf86-video-i810 ~x86
-=x11-drivers/xf86-video-nv-1.0.1.5  ~x86
-=x11-drivers/xf86-video-nv-1.0.2.0  ~x86
+=x11-drivers/xf86-video-nv-1.0.1.5 ~x86
+=x11-drivers/xf86-video-nv-1.0.2.0 ~x86
 x11-drivers/xf86-video-nv ~x86
 x11-drivers/xf86-video-vesa ~x86
 x11-drm/x11-drm ~x86
@@ -2016,8 +2016,7 @@ x11-wm/twm ~x86
 #xfce-extra/exo ~x86
 #xfce-extra/xfce4-dev-tools ~x86
 net-im/pidgin ~x86
-dev-db/postgis ~x86
-dev-db/postgis ~x86
+dev-libs/yaz ~x86
 dev-db/postgis ~x86
 media-sound/alsa-headers ~x86
 dev-db/postgis ~x86
@@ -2035,7 +2034,7 @@ sys-cluster/util-vserver ~x86
 media-sound/moodbar ~x86
 media-sound/moodbar ~x86
 kde-base/kickoff ~x86
-kde-base/kickoff *  ~x86 -* -**
+kde-base/kickoff * ~x86 -* -**
 x11-apps/fusion-icon ~x86 -*
 kde-misc/taskbar-compiz ~x86
 x11-libs/qt-xmlpatterns ~x86
@@ -2066,3 +2065,30 @@ sys-apps/baselayout ~x86
 java-virtuals/servlet-api ~x86
 dev-java/hamcrest-core ~x86
 dev-libs/xmlrpc-c ~x86
+media-video/nvidia-settings ~x86
+kde-base/qimageblitz ~x86 -*
+kde-base/kdepimlibs ~x86
+dev-libs/soprano ~x86
+dev-libs/rasqal ~x86
+dev-libs/rasqal ~x86
+dev-cpp/clucene ~x86
+
+dev-libs/redland	
+app-misc/strigi		
+media-libs/ilmbase	
+kde-base/systemsettings	
+kde-base/ksplash	
+kde-base/plasma		
+kde-base/libtaskmanager	
+kde-base/libkworkspace	
+kde-base/libplasma	
+kde-base/kde-menu-icons	
+kde-base/solid		
+kde-base/kstyles	
+kde-base/kstartupconfig	
+kde-base/knotify	
+kde-base/phonon		
+kde-base/kde-wallpapers	
+kde-base/krunner
+kde-base/libkcompactdisc ~x86
+media-libs/openexr ~x86

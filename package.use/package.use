@@ -95,7 +95,7 @@ dev-lang/cm3 tcltk
 dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers exif ftp gd iconv imap iodbc ipv6 ldap ming mysql ncurses nls odbc pcntl pcre posix postgres readline reflection sasl session simplexml soap sockets spell sqlite ssl tidy tokenizer truetype unicode xmlrpc xpm xsl zip zlib berkdb  -sysvipc -threads xml xmlreader xmlwriter yaz hash
 dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
 dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2  tcltk
-dev-lang/swig java mono perl php python ruby -doc guile lua ocaml pike tcl tk
+dev-lang/swig -java -mono -perl php python -ruby -doc guile -lua -ocaml pike -tcl -tk
 dev-libs/apr-util berkdb gdbm  ldap postgres
 dev-libs/boehm threads
 dev-libs/boehm-gc -threads
@@ -124,14 +124,14 @@ dev-scheme/drscheme perl cairo jpeg opengl png
 dev-scheme/guile threads    discouraged deprecated etworking  regex
 dev-scheme/mzscheme cairo jpeg opengl perl
 dev-util/anjuta doc glade inherit-graph subversion debug
-dev-util/cscope emacs
+dev-util/cscope -emacs
 dev-util/cvsgraph nls zlib gif jpeg png truetype
 dev-util/devhelp -firefox
 dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
 dev-util/glade -gnome -gnomedb
 dev-util/kdevelop arts fortran java perl php python ruby sql subversion  ada  haskell  pascal  perforce
 dev-util/source-highlight bash-completion
-dev-util/subversion apache2 berkdb nls perl python zlib bash-completion emacs java -minimal -nowebdav ruby
+dev-util/subversion apache2 berkdb nls perl python zlib bash-completion -emacs java -minimal -nowebdav ruby
 games-emulation/advancemame alsa oss sdl truetype zlib expat -fbcon slang -static -svga
 games-emulation/advancemenu alsa ncurses oss sdl truetype zlib -debug expat -fbcon slang -static -svga
 games-engines/stratagus flac mikmod mp3  ogg opengl vorbis
@@ -274,7 +274,7 @@ sys-auth/pam_ldap -sasl ssl
 sys-auth/pam_mysql openssl
 sys-boot/grub netboot
 sys-devel/distcc -gnome ipv6 -gnome -gtk
-sys-devel/gcc fortran gcj nls  objc objc++  objc-gc
+sys-devel/gcc fortran gcj nls  objc objc++  objc-gc -gtk
 sys-kernel/genkernel bash-completion
 sys-kernel/gentoo-sources symlink
 sys-libs/glibc nls nptl nptlonly profile -glibc-compat20
@@ -314,7 +314,7 @@ sys-apps/pciutils -zlib
 x11-themes/gtk-engines-qtcurve mozilla
 x11-themes/gtk-engines-qtcurve mozilla
 dev-db/phppgadmin vhosts
-dev-util/mercurial bash-completion zsh-completion emacs
+dev-util/mercurial bash-completion zsh-completion -emacs
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
 dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
@@ -326,10 +326,7 @@ games-fps/enemy-territory dedicated opengl
 games-fps/enemy-territory-truecombat  dedicated opengl
 games-fps/enemy-territory-etpro  dedicated opengl
 games-emulation/xmame alsa xinerama -arts dga -esd expat ggi -joystick -lirc -mmx net opengl sdl -svga xv
-
 media-video/avidemux alsa nls xvid a52 aac -arts encode -esd mad -oss sdl truetype vorbis x264 xv
-
-
 dev-lang/spidermonkey threadsafe
 games-fps/quake3-urbanterror dedicated opengl
 net-wireless/iwlwifi ipw3945 ipw4965
@@ -371,5 +368,10 @@ x11-libs/vte python -debug -doc opengl
 kde-base/kmix xinerama alsa
 dev-libs/nss utils
 dev-libs/xmlrpc-c curl libwww
-
+net-analyzer/nmap -gtk ssl
 net-libs/xulrunner ipv6 xinerama   java xprint
+net-libs/xulrunner ipv6 xinerama   -java xprint
+net-libs/xulrunner ipv6 xinerama   -java xprint
+dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi -doc -emacs mozsha1
+dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax
+app-text/ghostscript-gpl -X cups -gtk jpeg2k
