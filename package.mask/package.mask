@@ -13,7 +13,6 @@
 >=gnome-extra/yelp-2.12.1
 >gnome-extra/yelp-2.12.1
 <kde-base/arts-3.5.1
->kde-base/kdelibs-3.5
 <kde-base/kdelibs-3.5.1
 <=mail-client/sylpheed-claws-1.9.9
 <=media-video/ffmpeg-0.4.9_p2005
@@ -33,8 +32,6 @@
 <www-client/mozilla-firefox-1.4
 <www-servers/apache-2.1
 <www-servers/apache-2.2
-<x11-base/xorg-server-1.0.2
->x11-base/xorg-server-1.0.2-r3
 =x11-base/xorg-x11-6.9.0-r1
 <x11-base/xorg-x11-7.0
 <=x11-themes/gtk-engines-2.6.2
