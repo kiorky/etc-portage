@@ -2098,3 +2098,4 @@ kde-base/dolphin ~x86
 =kde-base/nepomuk-4.0.0
 app-crypt/gpgme ~x86
 virtual/postgresql-libs ~x86
+media-libs/libggiwmh ~x86
