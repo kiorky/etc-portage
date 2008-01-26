@@ -1689,3 +1689,4 @@ dev-libs/libzip
 app-arch/libarchive
 kde-base/dolphin
 =kde-base/nepomuk-4.0.0
+app-crypt/gpgme
