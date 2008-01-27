@@ -2099,3 +2099,4 @@ kde-base/dolphin ~x86
 app-crypt/gpgme ~x86
 virtual/postgresql-libs ~x86
 media-libs/libggiwmh ~x86
+net-irc/irssi-svn ~x86

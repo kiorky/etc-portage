@@ -1692,3 +1692,4 @@ kde-base/dolphin
 app-crypt/gpgme
 virtual/postgresql-libs
 media-libs/libggiwmh
+net-irc/irssi-svn
