@@ -2101,3 +2101,4 @@ virtual/postgresql-libs ~x86
 media-libs/libggiwmh ~x86
 net-irc/irssi-svn ~x86
 app-portage/g-pypi ~x86
+dev-python/yolk ~x86

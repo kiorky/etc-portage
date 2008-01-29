@@ -1694,3 +1694,4 @@ virtual/postgresql-libs
 media-libs/libggiwmh
 net-irc/irssi-svn
 app-portage/g-pypi
+dev-python/yolk
