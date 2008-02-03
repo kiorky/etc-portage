@@ -1695,3 +1695,4 @@ media-libs/libggiwmh
 net-irc/irssi-svn
 app-portage/g-pypi
 dev-python/yolk
+x11-drivers/ati-drivers
