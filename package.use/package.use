@@ -394,3 +394,4 @@ kde-base/konqueror java xinerama -arts branding -debug -kdeenablefinal -kdehidde
 net-dns/avahi bookmarks dbus gdbm gtk howl-compat ipv6 mono python qt3 qt4 mdnsresponder-compat
 kde-base/kscreensaver pam opengl
 dev-lang/swig guile php pike python -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby tcl tk
+mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl

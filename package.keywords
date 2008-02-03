@@ -1488,7 +1488,6 @@ mail-client/squirrelmail ~x86
 mail-client/sylpheed-claws ~x86
 mail-client/sylpheed ~x86
 mail-filter/spamassassin ~x86
-mail-mta/postfix ~x86
 media-fonts/encodings ~x86
 media-fonts/farsi-fonts ~x86
 media-fonts/farsi-font ~x86
