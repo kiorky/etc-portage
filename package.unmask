@@ -1695,4 +1695,7 @@ media-libs/libggiwmh
 net-irc/irssi-svn
 app-portage/g-pypi
 dev-python/yolk
+dev-python/yolk-portage
+dev-python/yolk-portage
 x11-drivers/ati-drivers
+dev-db/pgadmin3

@@ -397,3 +397,4 @@ x11-drivers/ati-drivers acpi  opengl
 dev-lang/swig guile php pike python -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby tcl tk
 dev-lang/swig guile php pike python -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby tcl tk
 mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl
+kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace connectionstatus contactnotes -debug gadu -groupwise highlight -history -irc jingle -kdeenablefinal -kdehiddenvisibility -latex netmeeting nowlistening sametime sms statistics texteffect translator webpresence -winpopup xscreensaver yahoo
