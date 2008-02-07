@@ -2103,3 +2103,4 @@ net-irc/irssi-svn ~x86
 app-portage/g-pypi ~x86
 dev-python/yolk ~x86
 dev-python/yolk-portage ~x86
+dev-db/pgadmin3 ~x86

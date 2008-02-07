@@ -1696,3 +1696,4 @@ net-irc/irssi-svn
 app-portage/g-pypi
 dev-python/yolk
 dev-python/yolk-portage
+dev-db/pgadmin3
