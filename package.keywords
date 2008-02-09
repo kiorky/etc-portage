@@ -1704,7 +1704,6 @@ net-mail/mailman ~x86
 net-misc/d4x ~x86
 net-misc/icecast ~x86
 net-misc/mDNSResponder ~x86
-net-misc/neon ~x86
 net-misc/proxytunnel ~x86
 net-misc/streamtuner ~x86
 net-misc/upnp ~x86
