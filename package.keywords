@@ -2104,5 +2104,4 @@ dev-python/yolk-portage ~x86
 x11-drivers/ati-drivers ~x86
 dev-db/pgadmin3 ~x86
 kde-base/nepomuk ~x86
-media-libs/xine-lib ~x86
-media-libs/xine-lib ~x86
+media-video/kaffeine ~x86
