@@ -1705,3 +1705,4 @@ media-libs/xine-lib
 app-misc/strigi
 app-misc/strigi
 kde-base/qimageblitz
+sys-devel/automake
