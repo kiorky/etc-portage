@@ -2109,3 +2109,4 @@ media-video/kaffeine ~x86
 media-libs/xine-lib ~x86
 app-misc/strigi ~x86 -*
 app-misc/strigi ~x86
+kde-base/qimageblitz ~x86
