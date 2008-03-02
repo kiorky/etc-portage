@@ -11,7 +11,7 @@ app-doc/doxygen qt unicode doc tetex
 app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
 app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal -vim-with-x
 app-editors/vim-core acl bash-completion nls -livecd
-app-emulation/qemu-softmmu alsa sdl -kqemu
+app-emulation/qemu-softmmu alsa sdl gnutls kqemu
 app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
 app-emulation/wine  alsa cups lcms nas ncurses  jpeg  xml scanner X alsa cups jpeg lcms ldap nas ncurses scanner xml dbus -esd hal -jack opengl oss
 app-emulation/xen-tools sdl -custom-cflags -debug -doc -hardened screen vnc
@@ -400,3 +400,4 @@ mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl
 kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace connectionstatus contactnotes -debug gadu -groupwise highlight -history -irc jingle -kdeenablefinal -kdehiddenvisibility -latex netmeeting nowlistening sametime sms statistics texteffect translator webpresence -winpopup xscreensaver yahoo
 media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
+app-emulation/kvm kvm sdl qemu gcc4 gnutls qemu  sdl 
