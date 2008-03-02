@@ -2111,5 +2111,5 @@ app-misc/strigi ~x86 -*
 app-misc/strigi ~x86
 kde-base/qimageblitz ~x86
 sys-devel/automake ~x86
-teewars/teewars ~x86
 game-action/teewars ~x86
+games-action/teewars ~x86
