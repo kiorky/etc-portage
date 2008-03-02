@@ -400,4 +400,4 @@ mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl
 kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace connectionstatus contactnotes -debug gadu -groupwise highlight -history -irc jingle -kdeenablefinal -kdehiddenvisibility -latex netmeeting nowlistening sametime sms statistics texteffect translator webpresence -winpopup xscreensaver yahoo
 media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
-app-emulation/kvm -kvm sdl qemu gcc4 gnutls -qemu  sdl 
+app-emulation/kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
