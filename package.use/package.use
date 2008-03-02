@@ -401,3 +401,4 @@ kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace conn
 media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
 app-emulation/kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
+games-action/teewars -dedicated racemod server
