@@ -238,7 +238,7 @@ net-irc/irssi ipv6 perl ssl socks5
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 net-libs/gecko-sdk crypt -debug -gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint
 net-libs/libetpan berkdb ipv6 ssl -debug gnutls sasl
-net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d postgres sieve ssl -vpopmail suid
+net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d postgres sieve ssl -vpopmail suid managesieve
 net-mail/mailman apache2 postfix
 net-misc/d4x -esd -gnome -kde -nls -oss
 net-misc/icecast yp  theora
