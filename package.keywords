@@ -2120,3 +2120,4 @@ www-apache/mod_gnutls ~x86
 dev-java/msv ~x86
 dev-java/msv ~x86
 sys-auth/pambase ~x86
+dev-perl/Net-SMTP-SSL ~x86
