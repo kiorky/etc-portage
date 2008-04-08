@@ -1798,3 +1798,4 @@ kde-misc/youtube-servicemenu ~x86
 media-sound/alsa-tools ~x86
 media-sound/oss ~x86
 media-sound/oss ~x86
+media-sound/oss-devel ~x86
