@@ -1310,3 +1310,4 @@ xfce-base/xfce-mcs-manager
 xfce-base/xfce-mcs-plugins
 >=xfce-extra/exo-0.3.1
 xfce-extra/xfce4-dev-tools
+media-sound/alsa-tools
