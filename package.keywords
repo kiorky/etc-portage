@@ -1088,7 +1088,6 @@ sys-fs/dmraid ~x86
 sys-fs/mdadm ~x86
 sys-fs/quotatool ~x86
 sys-fs/udev ~x86
-sys-kernel/genkernel ~x86
 sys-kernel/gentoo-sources ~x86
 sys-kernel/vanilla-sources ~x86
 sys-kernel/vserver-sources ~x86
