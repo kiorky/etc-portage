@@ -209,7 +209,7 @@ media-video/avidemux xvid
 app-editors/emacs -alsa -xpm -X -Xaw3d -gif -gtk -gzip-el -hesiod -jpeg -motif -png -sound -source -spell -tiff -toolkit-scroll-bars
 media-video/avifile    a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid
-media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l
+media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l mmx mmxext sse sse2
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
 media-video/kmplayer mplayer
