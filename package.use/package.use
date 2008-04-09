@@ -402,3 +402,4 @@ media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
 app-emulation/kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
 games-action/teewars -dedicated racemod server
+www-apps/mantisbt vhosts
