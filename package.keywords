@@ -1801,3 +1801,8 @@ media-sound/oss-devel ~x86
 dev-python/pypgsql ~x86
 dev-python/pypgsql ~x86
 dev-python/pypgsql ~x86
+dev-python/pypgsql ~x86
+dev-util/git ~x86
+dev-util/git ~x86
+dev-util/git ~x86
+dev-util/git ~x86
