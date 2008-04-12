@@ -1806,3 +1806,4 @@ dev-util/git ~x86
 dev-util/git ~x86
 dev-util/git ~x86
 dev-util/git ~x86
+dev-perl/TermReadKey ~x86

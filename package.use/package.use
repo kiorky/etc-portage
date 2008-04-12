@@ -372,7 +372,7 @@ net-analyzer/nmap -gtk ssl
 net-libs/xulrunner ipv6 xinerama   java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
-dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi -doc -emacs mozsha1
+dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi doc -emacs mozsha1 subversion cvs
 dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
