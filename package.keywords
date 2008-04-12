@@ -1799,3 +1799,4 @@ media-sound/oss ~x86
 media-sound/oss ~x86
 media-sound/oss-devel ~x86
 dev-python/pypgsql ~x86
+dev-python/pypgsql ~x86
