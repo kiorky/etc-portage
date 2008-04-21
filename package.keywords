@@ -1808,3 +1808,4 @@ dev-util/git ~x86
 dev-util/git ~x86
 dev-perl/TermReadKey ~x86
 www-apache/mod_fastcgi ~x86
+dev-python/pylibacl ~x86
