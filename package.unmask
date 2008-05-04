@@ -476,7 +476,6 @@ dev-lang/yasm
 dev-libs/apr
 dev-libs/apr-util
 dev-libs/atk
-dev-libs/boost
 dev-libs/clearsilver
 dev-libs/dbus-glib
 dev-libs/expat
