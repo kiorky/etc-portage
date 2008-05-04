@@ -1328,3 +1328,4 @@ dev-perl/TermReadKey
 www-apache/mod_fastcgi
 dev-python/pylibacl
 dev-python/pygments
+dev-util/gtk-doc-am
