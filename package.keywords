@@ -1811,3 +1811,4 @@ www-apache/mod_fastcgi ~x86
 dev-python/pylibacl ~x86
 dev-python/pygments ~x86
 dev-util/gtk-doc-am ~x86
+net-misc/neon ~x86
