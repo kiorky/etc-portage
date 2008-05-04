@@ -1812,3 +1812,4 @@ dev-python/pylibacl ~x86
 dev-python/pygments ~x86
 dev-util/gtk-doc-am ~x86
 net-misc/neon ~x86
+java-virtuals/jaf ~x86
