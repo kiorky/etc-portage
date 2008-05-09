@@ -1331,3 +1331,4 @@ dev-util/gtk-doc-am
 net-misc/neon
 java-virtuals/jaf
 x11-proto/xf86driproto
+app-text/a2ps
