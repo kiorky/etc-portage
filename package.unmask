@@ -1332,5 +1332,5 @@ net-misc/neon
 java-virtuals/jaf
 x11-proto/xf86driproto
 app-text/a2ps
-net-p2p/ktorrent
 app-crypt/qca
+<=net-p2p/ktorrent-3
