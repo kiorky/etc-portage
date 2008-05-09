@@ -1334,3 +1334,4 @@ x11-proto/xf86driproto
 app-text/a2ps
 app-crypt/qca
 <=net-p2p/ktorrent-3
+dev-python/pylint
