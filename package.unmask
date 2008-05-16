@@ -1337,3 +1337,4 @@ app-crypt/qca
 dev-python/pylint
 kde-misc/knetworkmanager
 dev-libs/libnl
+net-misc/networkmanager

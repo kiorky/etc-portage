@@ -1819,3 +1819,4 @@ app-crypt/qca ~x86
 dev-python/pylint ~x86
 kde-misc/knetworkmanager ~x86
 dev-libs/libnl ~x86
+net-misc/networkmanager ~x86
