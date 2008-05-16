@@ -1817,3 +1817,4 @@ app-text/a2ps ~x86
 net-p2p/ktorrent ~x86
 app-crypt/qca ~x86
 dev-python/pylint ~x86
+kde-misc/knetworkmanager ~x86
