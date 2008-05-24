@@ -408,3 +408,4 @@ net-analyzer/wireshark caps gtk ipv6 kerberos pcap pcre zlib  adns gcrypt gnutl 
 net-analyzer/wireshark caps gtk ipv6 kerberos pcap pcre zlib  adns gcrypt gnutls smi threads
 dev-libs/boost pyste -icu tools
 net-wireless/aircrack-ng wifi
+app-arch/dpkg nls zlib bzip2 
