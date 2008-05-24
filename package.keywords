@@ -1821,3 +1821,4 @@ kde-misc/knetworkmanager ~x86
 dev-libs/libnl ~x86
 net-misc/networkmanager ~x86
 dev-util/debootstrap ~x86
+dev-util/debootstrap ~x86

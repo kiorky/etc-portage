@@ -1339,3 +1339,4 @@ kde-misc/knetworkmanager
 dev-libs/libnl
 net-misc/networkmanager
 dev-util/debootstrap
+dev-util/debootstrap
