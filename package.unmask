@@ -1342,3 +1342,4 @@ dev-util/debootstrap
 dev-util/debootstrap
 dev-db/tora
 x11-libs/qscintilla
+dev-db/oracle-instantclient-basic
