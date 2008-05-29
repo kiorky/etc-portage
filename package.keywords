@@ -1823,3 +1823,4 @@ net-misc/networkmanager ~x86
 dev-util/debootstrap ~x86
 dev-util/debootstrap ~x86
 dev-db/tora ~x86
+x11-libs/qscintilla ~x86
