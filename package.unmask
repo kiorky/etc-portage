@@ -1343,3 +1343,4 @@ dev-util/debootstrap
 dev-db/tora
 x11-libs/qscintilla
 dev-db/oracle-instantclient-basic
+app-emulation/kvm
