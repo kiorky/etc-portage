@@ -276,7 +276,7 @@ sys-boot/grub netboot
 sys-devel/distcc -gnome ipv6 -gnome -gtk
 sys-devel/gcc fortran gcj nls  objc objc++  objc-gc -gtk
 sys-kernel/genkernel bash-completion
-sys-kernel/gentoo-sources symlink
+sys-kernel/gentoo-sources -symlink
 sys-libs/glibc nls nptl nptlonly profile -glibc-compat20
 sys-libs/pam berjdb pam_console pam_timestamp pwdb pam_chroot nis
 www-apache/mod_jk apache2 java

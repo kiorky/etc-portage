@@ -1345,3 +1345,4 @@ x11-libs/qscintilla
 dev-db/oracle-instantclient-basic
 app-emulation/kvm
 app-emulation/kvm
+sys-apps/v86d

@@ -1827,3 +1827,4 @@ x11-libs/qscintilla ~x86
 dev-db/oracle-instantclient-basic ~x86
 app-emulation/kvm ~x86
 app-emulation/kvm ~x86
+sys-apps/v86d ~x86
