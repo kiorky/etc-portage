@@ -1349,3 +1349,4 @@ sys-apps/v86d
 net-misc/rdesktop
 virtual/postgresql-server
 virtual/postgresql-server
+kde-base/libksieve
