@@ -1829,3 +1829,4 @@ app-emulation/kvm ~x86
 app-emulation/kvm ~x86
 sys-apps/v86d ~x86
 net-misc/rdesktop ~x86
+virtual/postgresql-server ~x86

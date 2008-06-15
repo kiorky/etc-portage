@@ -1347,3 +1347,4 @@ app-emulation/kvm
 app-emulation/kvm
 sys-apps/v86d
 net-misc/rdesktop
+virtual/postgresql-server
