@@ -1835,3 +1835,4 @@ kde-base/libksieve ~x86
 kde-base/libksieve ~x86
 app-crypt/dirmngr ~x86
 kde-base/kleopatra ~x86
+dev-db/mysql ~x86
