@@ -1352,3 +1352,4 @@ virtual/postgresql-server
 kde-base/libksieve
 kde-base/libksieve
 app-crypt/dirmngr
+kde-base/kleopatra
