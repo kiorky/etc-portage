@@ -1837,3 +1837,4 @@ app-crypt/dirmngr ~x86
 kde-base/kleopatra ~x86
 dev-db/mysql ~x86
 dev-db/mysql ~x86
+kde-base/kbabel ~x86

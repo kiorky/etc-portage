@@ -412,3 +412,4 @@ app-arch/dpkg nls zlib bzip2
 x11-libs/qscintilla  python qt4
 dev-python/qscintilla-python qt4
 dev-db/tora kde xinerama oci8-instant-client oracle
+mail-client/mozilla-thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
