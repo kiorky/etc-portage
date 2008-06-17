@@ -1358,3 +1358,4 @@ dev-db/mysql
 kde-base/kbabel
 kde-base/kbabel
 kde-base/kbabel
+sys-apps/moreutils

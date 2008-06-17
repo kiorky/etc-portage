@@ -1840,3 +1840,4 @@ dev-db/mysql ~x86
 kde-base/kbabel ~x86
 kde-base/kbabel ~x86
 kde-base/kbabel ~x86
+sys-apps/moreutils ~x86
