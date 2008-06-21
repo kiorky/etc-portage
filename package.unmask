@@ -1364,3 +1364,4 @@ kde-base/kbabel
 dev-python/pyxf86config
 media-sound/alsa-headers
 media-fonts/sharefonts
+app-portage/eclass-manpages
