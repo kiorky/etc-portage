@@ -1850,3 +1850,4 @@ app-portage/eclass-manpages ~x86
 x11-libs/qt-core ~x86
 x11-libs/qt ~x86
 x11-libs/qt-assistant ~x86
+x11-libs/qt-assistant ~x86
