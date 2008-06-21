@@ -1367,3 +1367,4 @@ media-fonts/sharefonts
 app-portage/eclass-manpages
 x11-libs/qt-core
 x11-libs/qt
+x11-libs/qt-assistant
