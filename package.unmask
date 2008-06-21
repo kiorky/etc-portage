@@ -1369,3 +1369,4 @@ x11-libs/qt-core
 x11-libs/qt
 x11-libs/qt-assistant
 x11-libs/qt-assistant
+virtual/postgresql-base
