@@ -1366,3 +1366,4 @@ media-sound/alsa-headers
 media-fonts/sharefonts
 app-portage/eclass-manpages
 x11-libs/qt-core
+x11-libs/qt

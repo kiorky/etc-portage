@@ -1848,3 +1848,4 @@ media-sound/alsa-headers ~x86
 media-fonts/sharefonts ~x86
 app-portage/eclass-manpages ~x86
 x11-libs/qt-core ~x86
+x11-libs/qt ~x86
