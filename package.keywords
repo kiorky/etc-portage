@@ -1844,3 +1844,4 @@ sys-apps/moreutils ~x86
 app-text/docbook2X ~x86
 kde-base/kbabel ~x86
 dev-python/pyxf86config ~x86
+media-sound/alsa-headers ~x86

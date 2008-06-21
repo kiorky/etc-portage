@@ -1362,3 +1362,4 @@ sys-apps/moreutils
 app-text/docbook2X
 kde-base/kbabel
 dev-python/pyxf86config
+media-sound/alsa-headers
