@@ -1372,3 +1372,4 @@ x11-libs/qt-assistant
 virtual/postgresql-base
 virtual/postgresql-server
 x11-libs/qscintilla
+dev-python/qscintilla-python
