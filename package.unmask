@@ -1374,3 +1374,4 @@ virtual/postgresql-server
 x11-libs/qscintilla
 dev-python/qscintilla-python
 www-client/mozilla-firefox
+net-libs/xulrunner
