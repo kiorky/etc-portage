@@ -1855,3 +1855,4 @@ virtual/postgresql-base ~x86
 virtual/postgresql-server ~x86
 x11-libs/qscintilla ~x86
 dev-python/qscintilla-python ~x86
+www-client/mozilla-firefox ~x86
