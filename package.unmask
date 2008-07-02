@@ -1358,3 +1358,4 @@ dev-db/mysql
 dev-db/mysql
 dev-python/pyxf86config
 net-www/autobench
+app-benchmarks/autobench
