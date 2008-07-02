@@ -1359,3 +1359,4 @@ dev-db/mysql
 dev-python/pyxf86config
 net-www/autobench
 app-benchmarks/autobench
+app-benchmarks/jmeter
