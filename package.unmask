@@ -1365,3 +1365,4 @@ app-benchmarks/jmeter
 media-libs/swfdec
 net-www/swfdec-mozilla
 www-client/mozilla-firefox
+net-libs/xulrunner
