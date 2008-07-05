@@ -414,3 +414,4 @@ dev-python/qscintilla-python qt4
 dev-db/tora kde xinerama oci8-instant-client oracle
 mail-client/mozilla-thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
 x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -debug glib pch
+net-libs/xulrunner ipv6 dbus java startup-notification

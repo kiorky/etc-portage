@@ -1844,3 +1844,5 @@ app-benchmarks/autobench ~x86
 app-benchmarks/jmeter ~x86
 app-benchmarks/jmeter ~x86
 app-benchmarks/jmeter ~x86
+media-libs/swfdec ~x86
+net-www/swfdec-mozilla ~x86
