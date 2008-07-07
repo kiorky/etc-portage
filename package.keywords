@@ -1850,3 +1850,4 @@ www-client/mozilla-firefox ~x86
 net-libs/xulrunner ~x86
 x11-drivers/xf86-video-r128 ~x86
 x11-proto/dri2proto ~x86
+x11-proto/dri2proto ~x86
