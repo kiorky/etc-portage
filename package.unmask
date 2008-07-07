@@ -1366,3 +1366,4 @@ media-libs/swfdec
 net-www/swfdec-mozilla
 www-client/mozilla-firefox
 net-libs/xulrunner
+x11-drivers/xf86-video-r128
