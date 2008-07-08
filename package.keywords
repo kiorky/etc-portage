@@ -130,7 +130,6 @@ dev-db/phpmyadmin ~x86
 dev-db/phppgadmin ~x86
 dev-db/postgis ~x86
 dev-db/postgis ~x86
-dev-db/postgresql ~x86
 dev-db/qt-unixODBC ~x86
 dev-db/sqlite ~x86
 dev-db/unixODBC ~x86
@@ -1112,6 +1111,7 @@ virtual/c++-tr1-type-traits ~x86
 virtual/jdk
 virtual/jre
 virtual/postgresql-libs ~x86
+x11-apps/xrandr ~x86
 virtual/xft ~x86
 # with generation-2
 www-apache/mod_gnutls ~x86
@@ -1164,7 +1164,6 @@ x11-apps/xlsfonts ~x86
 x11-apps/xmessage ~x86
 x11-apps/xmodmap ~x86
 x11-apps/xprop ~x86
-x11-apps/xrandr ~x86
 x11-apps/xrdb ~x86
 x11-apps/xsetroot ~x86
 x11-apps/xset ~x86
@@ -1172,8 +1171,6 @@ x11-apps/xvinfo ~x86
 x11-apps/xwininfo ~x86
 x11-base/x11-drm ~x86
 x11-base/xgl
-x11-base/xorg-server3 ~x86
-x11-base/xorg-server ~x86
 x11-base/xorg-x11 ~x86
 x11-drivers/ati-drivers ~x86
 x11-drivers/ati-drivers ~x86
@@ -1245,7 +1242,6 @@ x11-libs/libXfont ~x86
 x11-libs/libXi ~x86
 x11-libs/libXpm ~x86
 x11-libs/libXrandr ~x86
-x11-libs/libXrender ~x86
 x11-libs/libXrende ~x86
 x11-libs/libXtst ~x86
 x11-libs/libXxf86dga ~x86
@@ -1304,7 +1300,6 @@ x11-plugins/gai-pager ~x86
 x11-proto/inputproot ~x86
 x11-proto/inputproto ~x86
 x11-proto/libXfont ~x86
-x11-proto/renderproto ~x86
 x11-proto/xf86dgaproto ~x86
 x11-terms/gnome-terminal ~x86
 x11-terms/mrxvt ~x86
@@ -1829,8 +1824,6 @@ app-emulation/kvm ~x86
 app-emulation/kvm ~x86
 sys-apps/v86d ~x86
 net-misc/rdesktop ~x86
-virtual/postgresql-server ~x86
-virtual/postgresql-server ~x86
 kde-base/libksieve ~x86
 kde-base/libksieve ~x86
 app-crypt/dirmngr ~x86
@@ -1851,3 +1844,7 @@ net-libs/xulrunner ~x86
 x11-drivers/xf86-video-r128 ~x86
 x11-proto/dri2proto ~x86
 x11-proto/dri2proto ~x86
+x11-proto/renderproto ~x86
+x11-base/xorg-server ~x86
+x11-libs/libXrender ~x86
+media-libs/libmtp ~x86

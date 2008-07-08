@@ -815,7 +815,6 @@ media-libs/libmpd
 media-libs/libopendaap
 media-libs/libsdl
 media-libs/libwmf
-media-libs/mesa
 media-libs/openexr
 media-libs/taglib
 media-libs/win32codecs
@@ -1116,8 +1115,6 @@ x11-apps/xsetroot
 x11-apps/xvinfo
 x11-apps/xwininfo
 x11-base/x11-drm
-x11-base/xorg-server
-x11-base/xorg-server3
 x11-base/xorg-x11
 x11-drivers/ati-drivers
 x11-drivers/ati-drivers
@@ -1369,3 +1366,4 @@ net-libs/xulrunner
 x11-drivers/xf86-video-r128
 x11-proto/dri2proto
 x11-proto/dri2proto
+media-libs/libmtp
