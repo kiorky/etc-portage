@@ -417,3 +417,4 @@ x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -d
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
+www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  iceweasel  startup-notification
