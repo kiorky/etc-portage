@@ -1368,3 +1368,5 @@ x11-proto/dri2proto
 x11-proto/dri2proto
 media-libs/libmtp
 x11-libs/qt
+x11-libs/qscintilla
+dev-python/qscintilla-python
