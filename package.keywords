@@ -1851,3 +1851,4 @@ media-libs/libmtp ~x86
 x11-libs/qt ~x86
 x11-libs/qscintilla ~x86
 dev-python/qscintilla-python ~x86
+x11-libs/qt-assistant ~x86

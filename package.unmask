@@ -1370,3 +1370,4 @@ media-libs/libmtp
 x11-libs/qt
 x11-libs/qscintilla
 dev-python/qscintilla-python
+x11-libs/qt-assistant
