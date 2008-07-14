@@ -1373,3 +1373,4 @@ dev-python/qscintilla-python
 x11-libs/qt-assistant
 media-video/ffmpeg
 media-video/gpac
+media-libs/openjpeg
