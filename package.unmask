@@ -1377,3 +1377,4 @@ virtual/postgresql-server
 kde-base/konq-plugins
 dev-db/postgresql
 app-editors/emacs-cvs
+virtual/emacs
