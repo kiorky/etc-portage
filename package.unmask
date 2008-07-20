@@ -1374,3 +1374,4 @@ media-video/ffmpeg
 media-video/gpac
 media-libs/openjpeg
 virtual/postgresql-server
+kde-base/konq-plugins
