@@ -1860,3 +1860,4 @@ kde-base/konq-plugins ~x86
 dev-db/postgresql ~x86
 app-editors/emacs-cvs ~x86
 virtual/emacs ~x86
+virtual/postgresql-base ~x86
