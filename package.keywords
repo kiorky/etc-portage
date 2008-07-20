@@ -1855,3 +1855,4 @@ x11-libs/qt-assistant ~x86
 media-video/ffmpeg ~x86
 media-video/gpac ~x86
 media-libs/openjpeg ~x86
+virtual/postgresql-server ~x86
