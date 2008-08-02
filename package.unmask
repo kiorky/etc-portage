@@ -1380,3 +1380,4 @@ app-editors/emacs-cvs
 virtual/emacs
 virtual/postgresql-base
 net-mail/fetchmail
+dev-util/bzr

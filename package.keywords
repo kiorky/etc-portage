@@ -1862,3 +1862,4 @@ app-editors/emacs-cvs ~x86
 virtual/emacs ~x86
 virtual/postgresql-base ~x86
 net-mail/fetchmail ~x86
+dev-util/bzr ~x86
