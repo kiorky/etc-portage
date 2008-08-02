@@ -1382,3 +1382,4 @@ virtual/postgresql-base
 net-mail/fetchmail
 dev-util/bzr
 dev-util/bzr
+dev-python/simpletal
