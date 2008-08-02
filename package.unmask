@@ -1381,3 +1381,4 @@ virtual/emacs
 virtual/postgresql-base
 net-mail/fetchmail
 dev-util/bzr
+dev-util/bzr
