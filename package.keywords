@@ -1865,3 +1865,4 @@ net-mail/fetchmail ~x86
 dev-util/bzr ~x86
 dev-util/bzr ~x86
 dev-python/simpletal ~x86
+dev-python/paste ~x86
