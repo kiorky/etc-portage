@@ -1384,3 +1384,4 @@ dev-util/bzr
 dev-util/bzr
 dev-python/simpletal
 dev-python/paste
+dev-python/python-openid
