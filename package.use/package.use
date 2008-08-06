@@ -419,5 +419,9 @@ net-libs/xulrunner ipv6 dbus java startup-notification
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
 www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  iceweasel  startup-notification
 media-video/gpac aac alsa amr ffmpeg ipv6 jpeg mad ogg opengl oss png sdl ssl theora truetype unicode vorbis wxwindows xvid -debug javascript jpeg2k xml
+<<<<<<< local
+mail-filter/procmail mbox
+=======
 dev-util/bzr  bash-completion curl -emacs sftp -test
 dev-python/paste  flup openid
+>>>>>>> other
