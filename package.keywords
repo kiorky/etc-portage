@@ -1869,3 +1869,4 @@ dev-python/paste ~x86
 dev-python/python-openid ~x86
 dev-python/flup ~x86
 media-sound/lastfmplayer ~x86
+media-plugins/live ~x86
