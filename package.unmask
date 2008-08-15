@@ -1390,3 +1390,4 @@ media-sound/lastfmplayer
 media-plugins/live
 sys-fs/lvm2
 sys-fs/lvm-user
+net-misc/corkscrew

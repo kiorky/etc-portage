@@ -1872,3 +1872,4 @@ media-sound/lastfmplayer ~x86
 media-plugins/live ~x86
 sys-fs/lvm2 ~x86
 sys-fs/lvm-user ~x86
+net-misc/corkscrew ~x86
