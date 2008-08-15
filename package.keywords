@@ -1870,3 +1870,5 @@ dev-python/python-openid ~x86
 dev-python/flup ~x86
 media-sound/lastfmplayer ~x86
 media-plugins/live ~x86
+sys-fs/lvm2 ~x86
+sys-fs/lvm-user ~x86

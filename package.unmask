@@ -1388,3 +1388,5 @@ dev-python/python-openid
 dev-python/flup
 media-sound/lastfmplayer
 media-plugins/live
+sys-fs/lvm2
+sys-fs/lvm-user
