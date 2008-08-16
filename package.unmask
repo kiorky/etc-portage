@@ -1393,3 +1393,4 @@ sys-fs/lvm-user
 net-misc/corkscrew
 www-client/elinks
 www-client/elinks
+media-libs/x264
