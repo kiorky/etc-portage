@@ -1881,3 +1881,4 @@ media-video/smplayer ~x86
 net-nntp/klibido ~x86
 www-client/arora ~x86
 media-video/x264-encoder ~x86
+media-video/gpac ~x86
