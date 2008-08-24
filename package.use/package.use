@@ -425,3 +425,5 @@ dev-python/paste  flup openid
 sys-fs/lvm2  lvm1 readline static clvm cman gulm 
 media-libs/libcaca   X ncurses -doc imlib -mono -nocxx opengl ruby slang
 media-video/vlc X qt4 a52 aac aalib alsa avahi bidi cdda cddb debug dvb dvd ffmpeg flac ggi gnutls hal httpd libcaca libgcrypt libnotify live matroska mp3 mpeg musepack ncurses ogg opengl png rtsp samba sdl sdl-image seamonkey shout speex stream svg svga theora truetype upnp v4l vcd vlm vorbis win32codecs x264 xinerama xml xosd xv  -arts atmo cdio dbus -dc1394 -directfb -dts -esd -fbcon -fluidsynth gnome id3tag -jack -lirc -lua -mmx -modplug -musicbrainz -nsplugin -optimisememory -oss -pulseaudio -pvr qt4 -remoteosd skins -sse taglib twolame -v4l2 vcdx xulrunner"
+media-libs/libtheora encode
+media-video/x264-encoder gtk mp4 threads
