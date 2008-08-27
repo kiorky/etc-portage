@@ -1885,3 +1885,4 @@ media-video/gpac ~x86
 app-arch/dpkg ~x86
 sys-libs/e2fsprogs-libs ~x86
 sys-libs/com_err ~x86
+sys-libs/ss ~x86
