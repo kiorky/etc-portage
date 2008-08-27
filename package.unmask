@@ -1404,3 +1404,4 @@ app-arch/dpkg
 sys-libs/e2fsprogs-libs
 sys-libs/com_err
 sys-libs/ss
+sys-fs/e2fsprogs
