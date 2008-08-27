@@ -1887,3 +1887,4 @@ sys-libs/e2fsprogs-libs ~x86
 sys-libs/com_err ~x86
 sys-libs/ss ~x86
 sys-fs/e2fsprogs ~x86
+dev-python/imaging ~x86
