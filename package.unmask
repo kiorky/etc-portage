@@ -1402,3 +1402,4 @@ media-video/x264-encoder
 media-video/gpac
 app-arch/dpkg
 sys-libs/e2fsprogs-libs
+sys-libs/com_err
