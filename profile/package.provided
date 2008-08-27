@@ -1,2 +1,5 @@
 media-plugins/alsa-jack-1.0.8
 
+sys-libs/com_err-1.40.11
+sys-libs/ss-1.40.11
+sys-libs/ss-1.40.11

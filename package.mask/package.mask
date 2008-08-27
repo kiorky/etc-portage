@@ -40,3 +40,5 @@
 <=xfce-extra/exo-0.3.1
 #>=x11-libs/qt-4.4
 >net-p2p/ktorrent-3
+sys-libs/com_err
+sys-libs/ss
