@@ -1883,3 +1883,4 @@ www-client/arora ~x86
 media-video/x264-encoder ~x86
 media-video/gpac ~x86
 app-arch/dpkg ~x86
+sys-libs/e2fsprogs-libs ~x86
