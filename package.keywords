@@ -825,7 +825,6 @@ media-libs/gst-plugins-ugly ~x86
 media-libs/gst-plugins ~x86
 media-libs/gstreamer ~x86
 media-libs/ilmbase	
-media-libs/imlib2 -*
 media-libs/lcms ~x86
 media-libs/libafterimage ~x86
 media-libs/libcaca ~x86
@@ -1470,7 +1469,6 @@ kde-base/kdepasswd ~x86
 kde-base/kdepim ~x86
 kde-base/kdepim-kioslaves ~x86
 kde-base/kdepim-kresources ~x86
-kde-base/kdepimlibs ~x86
 kde-base/kdepim-meta ~x86
 kde-base/kdepim-wizards ~x86
 kde-base/kdeprint ~x86
@@ -1891,4 +1889,3 @@ dev-python/imaging ~x86
 virtual/postgresql-base ~x86
 virtual/postgresql-base ~x86
 app-cdr/k3b ~x86
-media-libs/imlib2 ~x86
