@@ -1407,3 +1407,4 @@ sys-libs/ss
 sys-fs/e2fsprogs
 dev-python/imaging
 virtual/postgresql-base
+virtual/postgresql-base
