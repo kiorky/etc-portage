@@ -1891,3 +1891,4 @@ dev-python/imaging ~x86
 virtual/postgresql-base ~x86
 virtual/postgresql-base ~x86
 app-cdr/k3b ~x86
+media-libs/imlib2 ~x86
