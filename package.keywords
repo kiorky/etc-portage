@@ -1890,3 +1890,4 @@ sys-fs/e2fsprogs ~x86
 dev-python/imaging ~x86
 virtual/postgresql-base ~x86
 virtual/postgresql-base ~x86
+app-cdr/k3b ~x86

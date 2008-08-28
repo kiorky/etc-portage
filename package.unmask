@@ -1408,3 +1408,4 @@ sys-fs/e2fsprogs
 dev-python/imaging
 virtual/postgresql-base
 virtual/postgresql-base
+app-cdr/k3b
