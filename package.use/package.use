@@ -429,3 +429,4 @@ media-libs/libtheora encode
 media-video/x264-encoder gtk -mp4 threads
 app-emulation/virtualbox alsa additions headless
 app-emulation/virtualbox alsa additions -headless
+dev-python/imaging scanner X 

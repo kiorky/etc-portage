@@ -42,3 +42,4 @@
 >net-p2p/ktorrent-3
 sys-libs/com_err
 sys-libs/ss
+=media-video/vlc-0.9.0

@@ -1409,3 +1409,4 @@ dev-python/imaging
 virtual/postgresql-base
 virtual/postgresql-base
 app-cdr/k3b
+media-gfx/xsane
