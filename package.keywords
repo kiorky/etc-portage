@@ -1890,3 +1890,4 @@ virtual/postgresql-base ~x86
 virtual/postgresql-base ~x86
 app-cdr/k3b ~x86
 media-gfx/xsane ~x86
+media-gfx/sane-backends ~x86
