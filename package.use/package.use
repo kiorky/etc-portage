@@ -431,3 +431,4 @@ app-emulation/virtualbox alsa additions headless
 app-emulation/virtualbox alsa additions -headless
 dev-python/imaging scanner X 
 media-gfx/xsane nls gimp jpeg lcms png tiff
+media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp -sse
