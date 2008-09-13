@@ -429,13 +429,10 @@ media-libs/libtheora encode
 media-video/x264-encoder gtk -mp4 threads
 app-emulation/virtualbox alsa additions headless
 app-emulation/virtualbox alsa additions -headless
-<<<<<<< local
 app-emulation/kvm alsa gnutls ncurses sdl  modules
 app-emulation/kvm alsa gnutls ncurses sdl gcc4    kvm   modules
-=======
 dev-python/imaging scanner X 
 media-gfx/xsane nls gimp jpeg lcms png tiff
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp -sse
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp -sse
 media-gfx/sane-backends ipv6 -doc gphoto2 usb v4l
->>>>>>> other
