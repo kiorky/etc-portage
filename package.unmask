@@ -1415,3 +1415,4 @@ x11-libs/libdrm
 x11-proto/xextproto
 app-emulation/virtualbox-ose
 dev-util/kbuild
+~app-emulation/virtualbox-ose-additions
