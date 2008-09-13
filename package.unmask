@@ -1412,3 +1412,4 @@ app-cdr/k3b
 media-gfx/xsane
 media-gfx/sane-backends
 x11-libs/libdrm
+x11-proto/xextproto
