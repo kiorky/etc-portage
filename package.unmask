@@ -1411,3 +1411,4 @@ virtual/postgresql-base
 app-cdr/k3b
 media-gfx/xsane
 media-gfx/sane-backends
+x11-libs/libdrm

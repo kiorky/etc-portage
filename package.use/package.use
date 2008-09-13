@@ -433,3 +433,4 @@ dev-python/imaging scanner X
 media-gfx/xsane nls gimp jpeg lcms png tiff
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp -sse
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp -sse
+media-gfx/sane-backends ipv6 -doc gphoto2 usb v4l
