@@ -1923,3 +1923,4 @@ dev-util/kbuild ~x86
 app-emulation/virtualbox-ose-additions ~x86
 app-admin/testdisk ~x86
 app-admin/testdisk ~x86
+x11-drivers/xf86-video-nouveau ~x86

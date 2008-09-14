@@ -437,3 +437,4 @@ media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp -sse
 media-gfx/sane-backends ipv6 -doc gphoto2 usb v4l
 app-admin/testdisk jpeg ntfs reiserfs 
+x11-drivers/xf86-input-evdev hal

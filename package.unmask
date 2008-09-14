@@ -1418,3 +1418,4 @@ dev-util/kbuild
 app-emulation/virtualbox-ose-additions
 app-admin/testdisk
 app-admin/testdisk
+x11-drivers/xf86-video-nouveau
