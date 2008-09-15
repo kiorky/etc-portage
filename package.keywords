@@ -1924,4 +1924,4 @@ app-emulation/virtualbox-ose-additions ~x86
 app-admin/testdisk ~x86
 app-admin/testdisk ~x86
 x11-drivers/xf86-video-nouveau ~x86
-xf86-input-synaptics ~x86
+x11-drivers/xf86-input-synaptics ~x86
