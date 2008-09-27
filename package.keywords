@@ -1925,3 +1925,4 @@ app-admin/testdisk ~x86
 app-admin/testdisk ~x86
 x11-drivers/xf86-video-nouveau ~x86
 x11-drivers/xf86-input-synaptics ~x86
+dev-python/libgnome-python ~x86
