@@ -1422,3 +1422,4 @@ x11-drivers/xf86-video-nouveau
 x11-drivers/xf86-input-synaptics
 dev-python/libgnome-python
 net-libs/gnutls
+media-libs/libdvdnav
