@@ -1931,3 +1931,4 @@ dev-python/libgnome-python ~x86
 =dev-python/libgnomecanvas-python-2.22.3 ~x86
 =dev-python/gnome-python-base-2.22.3 ~x86
 =dev-python/gnome-vfs-python-2.22.3 ~x86
+net-libs/gnutls ~x86
