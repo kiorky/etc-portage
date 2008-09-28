@@ -31,7 +31,7 @@ app-text/enscript nls ruby
 app-text/evince nautilus dbus -debug djvu -doc -dvi t1lib tiff
 app-text/ggv debug
 app-text/ghostscript-esp cups -cjk djvu -emacs -gtk threads xml
-app-text/poppler-bindings cairo -gtk qt3 qt4
+app-text/poppler-bindings cairo gtk qt3 qt4
 dev-cpp/commoncpp2- ipv6 gnutls
 dev-db/hsqldb -doc jikes -source
 dev-db/mysql big-tables perl ssl innodb srvdir -berkdb
