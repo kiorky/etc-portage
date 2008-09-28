@@ -1933,3 +1933,4 @@ dev-python/libgnome-python ~x86
 =dev-python/gnome-vfs-python-2.22.3 ~x86
 net-libs/gnutls ~x86
 media-libs/libdvdnav ~x86
+x11-drivers/xf86-video-i128 ~x86
