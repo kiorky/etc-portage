@@ -1424,3 +1424,4 @@ dev-python/libgnome-python
 net-libs/gnutls
 media-libs/libdvdnav
 x11-drivers/xf86-video-i128
+media-libs/libdvdnav
