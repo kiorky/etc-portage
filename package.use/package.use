@@ -444,3 +444,5 @@ dev-libs/redland  berkdb mysql postgres ssl sqlite threads xml
 media-libs/raptor unicode curl xml
 media-libs/capseo -debug theora
 kde-base/solid bluetooth networkmanager
+dev-libs/soprano clucene sesame2 -debug -doc redland
+kde-base/plasma-workspace kdeprefix xinerama -debug -htmlhandbook xcomposite
