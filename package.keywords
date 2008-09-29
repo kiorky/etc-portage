@@ -1935,3 +1935,9 @@ net-libs/gnutls ~x86
 media-libs/libdvdnav ~x86
 x11-drivers/xf86-video-i128 ~x86
 media-libs/libdvdnav ~x86
+=kde-base/kdepimlibs-4.0.5 ~x86
+=app-misc/strigi-0.5.10 ** ~* *
+=media-libs/raptor-1.4.18 ~x86
+=sys-apps/moreutils-0.30-r1 ~x86
+=media-libs/libcaptury-0.3.0_pre200712251-r1 ~x86
+=media-libs/capseo-0.3.0_pre200712251-r2 ~x86

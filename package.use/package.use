@@ -439,3 +439,8 @@ media-gfx/sane-backends ipv6 -doc gphoto2 usb v4l
 app-admin/testdisk jpeg -ntfs reiserfs 
 x11-drivers/xf86-input-evdev hal
 app-text/poppler -gtk
+kde-base/kwin xinerama captury -debug opengl xcomposite
+dev-libs/redland  berkdb mysql postgres ssl sqlite threads xml
+media-libs/raptor unicode curl xml
+media-libs/capseo -debug theora
+kde-base/solid bluetooth networkmanager
