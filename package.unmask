@@ -1460,3 +1460,4 @@ app-office/openoffice-bin
 =media-sound/phonon-4.2.0
 =app-office/akonadi-server-1.0.0
 kde-base/kdebase-startkde
+kde-base/konqueror
