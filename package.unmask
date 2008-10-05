@@ -1453,3 +1453,10 @@ media-libs/libdvdnav
 =kde-base/ksysguard-4.0.5
 =kde-base/phonon-4.0.5
 app-office/openoffice-bin
+=kde-base/kode-4.1.2
+=kde-base/kdelibs-4.1.2
+=kde-base/kdepimlibs-4.1.2
+=x11-libs/qt-phonon-4.4.0
+=media-sound/phonon-4.2.0
+=app-office/akonadi-server-1.0.0
+kde-base/kdebase-startkde
