@@ -1964,3 +1964,4 @@ kde-base/kdebase-startkde ~x86
 kde-base/konqueror ~x86
 =kde-base/plasma-workspace-4.1.2 ~x86
 =kde-base/plasma-apps-4.1.2 ~x86
+dev-python/pyflakes ~x86

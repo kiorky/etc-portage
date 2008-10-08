@@ -1490,3 +1490,4 @@ kde-base/konqueror
 =kde-base/nepomuk-4.1.2
 =kde-base/solid-4.1.2
 =kde-base/ksysguard-4.1.2
+dev-python/pyflakes
