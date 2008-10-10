@@ -102,7 +102,6 @@ app-text/iso-codes
 app-text/poppler
 app-text/poppler-bindings
 dev-cpp/bakery
-dev-cpp/cairomm
 dev-cpp/clucene
 dev-cpp/commoncpp2
 dev-cpp/glibmm
@@ -197,8 +196,6 @@ dev-java/bcprov
 dev-java/bsf
 dev-java/buildmagic-tasks
 dev-java/burlap
-dev-java/cairo-java
-dev-java/cairo-java-
 dev-java/castor
 dev-java/cglib
 dev-java/classworlds
@@ -1152,7 +1149,6 @@ x11-drivers/xf86-video-i810
 x11-drivers/xf86-video-nv
 x11-drivers/xf86-video-vesa
 x11-drm/x11-drm
-x11-libs/cairo
 x11-libs/gksu
 x11-libs/goffice
 x11-libs/gtk+
@@ -1205,7 +1201,6 @@ x11-libs/libXvMC
 x11-libs/libXxf86dga
 x11-libs/libXxf86misc
 x11-libs/libXxf86vm
-x11-libs/pango
 x11-libs/pixman
 x11-libs/qt-core
 x11-libs/qt-dbus
@@ -1411,12 +1406,9 @@ virtual/postgresql-base
 app-cdr/k3b
 media-gfx/xsane
 media-gfx/sane-backends
-x11-libs/libdrm
-x11-proto/xextproto
 app-emulation/virtualbox-ose
 dev-util/kbuild
 app-emulation/virtualbox-ose-additions
-app-admin/testdisk
 app-admin/testdisk
 x11-drivers/xf86-video-nouveau
 x11-drivers/xf86-input-synaptics
@@ -1491,3 +1483,5 @@ kde-base/konqueror
 =kde-base/solid-4.1.2
 =kde-base/ksysguard-4.1.2
 dev-python/pyflakes
+kde-base/automoc
+x11-proto/renderproto
