@@ -1111,7 +1111,6 @@ x11-apps/xsetroot
 x11-apps/xvinfo
 x11-apps/xwininfo
 x11-base/x11-drm
-x11-base/xorg-x11
 x11-drivers/ati-drivers
 x11-drivers/ati-drivers
 x11-drivers/nvidia-drivers
@@ -1143,11 +1142,6 @@ x11-drivers/xf86-input-tek4957
 x11-drivers/xf86-input-ur98
 x11-drivers/xf86-input-vmmouse
 x11-drivers/xf86-input-void
-x11-drivers/xf86-video-apm
-x11-drivers/xf86-video-ati
-x11-drivers/xf86-video-i810
-x11-drivers/xf86-video-nv
-x11-drivers/xf86-video-vesa
 x11-drm/x11-drm
 x11-libs/gksu
 x11-libs/goffice
@@ -1357,7 +1351,6 @@ media-libs/swfdec
 net-www/swfdec-mozilla
 www-client/mozilla-firefox
 net-libs/xulrunner
-x11-drivers/xf86-video-r128
 x11-proto/dri2proto
 x11-proto/dri2proto
 media-libs/libmtp
@@ -1410,12 +1403,10 @@ app-emulation/virtualbox-ose
 dev-util/kbuild
 app-emulation/virtualbox-ose-additions
 app-admin/testdisk
-x11-drivers/xf86-video-nouveau
 x11-drivers/xf86-input-synaptics
 dev-python/libgnome-python
 net-libs/gnutls
 media-libs/libdvdnav
-x11-drivers/xf86-video-i128
 media-libs/libdvdnav
 =kde-base/kdebase-startkde-4.0.5
 =kde-base/kdelibs-4.0.5
@@ -1485,3 +1476,4 @@ kde-base/konqueror
 dev-python/pyflakes
 kde-base/automoc
 x11-proto/renderproto
+x11-base/xorg-x11
