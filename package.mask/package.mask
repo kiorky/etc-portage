@@ -43,5 +43,3 @@
 sys-libs/com_err
 sys-libs/ss
 =media-video/vlc-0.9.0
-#>x11-base/xorg-server-1.4.2
->x11-base/xorg-x11-7.4
