@@ -919,8 +919,6 @@ media-gfx/graphviz
 media-gfx/sane-backends
 media-gfx/xsane
 media-libs/akode
-media-libs/alsa-lib
-media-libs/alsa-oss
 media-libs/cal3d
 media-libs/faad2
 media-libs/fontconfig
@@ -957,9 +955,7 @@ media-libs/win32codecs
 media-libs/xine-lib
 media-libs/xvid
 media-player/mplayer
-media-plugins/alsa-jack
 media-plugins/gst-plugins
-media-plugins/gst-plugins-alsa
 media-plugins/gst-plugins-dvdnav
 media-plugins/gst-plugins-dvdread
 media-plugins/gst-plugins-esd
@@ -973,11 +969,7 @@ media-plugins/gst-plugins-vorbis
 media-plugins/gst-plugins-x
 media-plugins/live
 media-plugins/streamtuner-python
-media-sound/alsa-driver
-media-sound/alsa-headers
 media-sound/alsaplayer
-media-sound/alsa-tools
-media-sound/alsa-utils
 media-sound/amarok
 media-sound/esound
 media-sound/gmpc
