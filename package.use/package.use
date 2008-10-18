@@ -450,3 +450,4 @@ media-sound/phonon gstreamer
 kde-base/kdeplasma-addons kdeprefix xinerama opengl
 media-libs/libsdl X aalib alsa libcaca opengl xinerama xv -arts -custom-cflags dga -directfb -esd -fbcon -ggi -nas -noaudio -nojoystick -novideo oss pulseaudio svga
 media-sound/pulseaudio  X alsa glib nls tcpd asyncns avahi -bluetooth caps dbus -gnome hal jack libsamplerate -lirc oss 
+media-video/x264-encoder threads -debug mp4 gtk
