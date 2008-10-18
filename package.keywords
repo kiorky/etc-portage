@@ -1860,3 +1860,4 @@ x11-wm/fluxbox ~x86
 x11-wm/metacity ~x86
 x11-wm/twm ~x86
 kde-base/kdeplasma-addons ~x86
+media-video/x264-encoder ~x86
