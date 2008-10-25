@@ -1865,3 +1865,4 @@ kde-base/okular ~x86
 =dev-python/astng ~x86
 media-sound/amarok * ** ~x86 
 >>>>>>> other
+dev-python/astng ~x86

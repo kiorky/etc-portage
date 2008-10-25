@@ -1446,3 +1446,4 @@ media-video/x264-encoder
 kde-base/okular
 =dev-python/astng
 media-sound/amarok -* -**
+dev-python/astng
