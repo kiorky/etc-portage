@@ -1863,3 +1863,5 @@ kde-base/kdeplasma-addons ~x86
 media-video/x264-encoder ~x86
 kde-base/okular ~x86
 =dev-python/astng ~x86
+media-sound/amarok * ** ~x86 
+>>>>>>> other

@@ -452,3 +452,4 @@ media-libs/libsdl X aalib alsa libcaca opengl xinerama xv -arts -custom-cflags d
 media-sound/pulseaudio  X alsa glib nls tcpd asyncns avahi -bluetooth caps dbus -gnome hal jack libsamplerate -lirc oss 
 media-video/x264-encoder threads -debug mp4 gtk
 kde-base/okular kdeprefix chm -debug djvu -htmlhandbook jpeg pdf tiff
+dev-db/mysql big-tables perl ss embedded 
