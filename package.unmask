@@ -1447,3 +1447,4 @@ kde-base/okular
 dev-python/astng
 media-sound/amarok -* -**
 dev-python/astng
+x11-drivers/xf86-video-intel
