@@ -1865,3 +1865,4 @@ kde-base/okular ~x86
 media-sound/amarok * ** ~x86 
 dev-python/astng ~x86
 x11-drivers/xf86-video-intel ~x86
+media-sound/ncmpcpc ~x86
