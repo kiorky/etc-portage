@@ -1450,3 +1450,4 @@ dev-python/astng
 x11-drivers/xf86-video-intel
 media-sound/ncmpcpc
 media-sound/ncmpcpp
+sys-libs/libsmbios
