@@ -1452,3 +1452,4 @@ media-sound/ncmpcpc
 media-sound/ncmpcpp
 sys-libs/libsmbios
 dev-cpp/pangomm
+sys-fs/cryptsetup

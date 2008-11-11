@@ -1869,3 +1869,5 @@ media-sound/ncmpcpc ~x86
 media-sound/ncmpcpp ~x86
 sys-libs/libsmbios ~x86
 dev-cpp/pangomm ~x86
+=net-libs/libnfsidmap-0.21-r1 ~x86
+sys-fs/cryptsetup ~x86
