@@ -1183,7 +1183,6 @@ sys-libs/gwenhywfar
 sys-libs/libchipcard
 sys-libs/libkudzu
 sys-libs/libstdc++-v3
-sys-libs/ncurses
 sys-libs/pam
 sys-libs/readline
 sys-libs/ss
