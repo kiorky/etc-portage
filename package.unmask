@@ -1212,8 +1212,6 @@ www-client/epiphany-extensions
 www-client/httrack
 www-client/mozilla
 www-client/mozilla-bin
-www-client/mozilla-firefox
-www-client/mozilla-firefox-bin
 www-servers/apache
 www-servers/axis
 www-servers/jboss
