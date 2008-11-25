@@ -417,7 +417,7 @@ x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -d
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
-www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  iceweasel  startup-notification
+www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  -iceweasel  startup-notification gnome 
 media-video/gpac aac alsa amr ffmpeg ipv6 jpeg mad ogg opengl oss png sdl ssl theora truetype unicode vorbis wxwindows xvid -debug javascript jpeg2k xml
 mail-filter/procmail mbox
 dev-util/bzr  bash-completion curl -emacs sftp -test
