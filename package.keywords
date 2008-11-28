@@ -155,7 +155,6 @@ dev-dotnet/gecko-sharp ~x86
 dev-dotnet/glade-sharp ~x86
 dev-dotnet/gnome-sharp ~x86
 dev-dotnet/gnomevfs-sharp ~x86
-dev-dotnet/gtkhtml-sharp ~x86
 dev-dotnet/gtk-sharp ~x86
 dev-dotnet/gtksourceview-sharp ~x86
 dev-dotnet/ikvm-bin ~x86
@@ -1871,3 +1870,7 @@ sys-libs/libsmbios ~x86
 dev-cpp/pangomm ~x86
 =net-libs/libnfsidmap-0.21-r1 ~x86
 sys-fs/cryptsetup ~x86
+media-video/realplayer ~x86
+media-libs/realcodecs ~x86
+dev-libs/libgweather ~x86
+kde-base/kedit ~x86

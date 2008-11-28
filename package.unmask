@@ -150,8 +150,6 @@ dev-dotnet/glade-shar
 dev-dotnet/glade-sharp
 dev-dotnet/gnome-sharp
 dev-dotnet/gnomevfs-sharp
-dev-dotnet/gtkhtml-sharp
-dev-dotnet/gtk-sharp
 dev-dotnet/gtksourceview-sharp
 dev-dotnet/ikvm-bin
 dev-dotnet/libgdiplus
@@ -1450,3 +1448,8 @@ media-sound/ncmpcpp
 sys-libs/libsmbios
 dev-cpp/pangomm
 sys-fs/cryptsetup
+media-video/realplayer
+media-libs/realcodecs
+media-libs/realcodecs
+dev-libs/libgweather
+kde-base/kedit
