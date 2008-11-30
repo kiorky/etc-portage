@@ -1874,3 +1874,4 @@ media-video/realplayer ~x86
 media-libs/realcodecs ~x86
 dev-libs/libgweather ~x86
 kde-base/kedit ~x86
+net-wireless/iw ~x86

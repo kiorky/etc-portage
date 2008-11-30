@@ -1453,3 +1453,4 @@ media-libs/realcodecs
 media-libs/realcodecs
 dev-libs/libgweather
 kde-base/kedit
+net-wireless/iw
