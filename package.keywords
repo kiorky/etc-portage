@@ -1876,3 +1876,4 @@ dev-libs/libgweather ~x86
 kde-base/kedit ~x86
 net-wireless/iw ~x86
 net-wireless/iw ~x86
+net-wireless/wireless-tools ~x86

@@ -1455,3 +1455,4 @@ dev-libs/libgweather
 kde-base/kedit
 net-wireless/iw
 net-wireless/iw
+net-wireless/wireless-tools
