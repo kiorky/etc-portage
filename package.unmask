@@ -1456,5 +1456,4 @@ kde-base/kedit
 net-wireless/iw
 net-wireless/iw
 net-wireless/wireless-tools
-=net-wireless/wpa_supplicant
-=net-wireless/wpa_supplicant
+net-wireless/wpa_supplicant
