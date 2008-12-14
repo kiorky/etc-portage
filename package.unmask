@@ -1448,7 +1448,6 @@ media-sound/ncmpcpp
 sys-libs/libsmbios
 dev-cpp/pangomm
 sys-fs/cryptsetup
-=net-wireless/wpa_supplicant
 media-video/realplayer
 media-libs/realcodecs
 media-libs/realcodecs
@@ -1457,4 +1456,3 @@ kde-base/kedit
 net-wireless/iw
 net-wireless/iw
 net-wireless/wireless-tools
-net-wireless/wpa_supplicant
