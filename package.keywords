@@ -1878,3 +1878,4 @@ net-wireless/iw ~x86
 net-wireless/iw ~x86
 net-wireless/wireless-tools ~x86
 net-wireless/wpa_supplicant ~x86
+x11-drivers/xf86-input-evdev ~x86
