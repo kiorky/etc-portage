@@ -1461,3 +1461,4 @@ x11-drivers/xf86-input-evdev
 net-p2p/rtorrent
 net-misc/curl
 net-misc/curl
+net-misc/curl

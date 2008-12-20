@@ -1882,3 +1882,4 @@ x11-drivers/xf86-input-evdev ~x86
 net-p2p/rtorrent ~x86
 net-misc/curl ~x86
 net-misc/curl ~x86
+net-misc/curl ~x86
