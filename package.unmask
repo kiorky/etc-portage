@@ -1458,3 +1458,4 @@ net-wireless/iw
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 x11-drivers/xf86-input-evdev
+net-p2p/rtorrent
