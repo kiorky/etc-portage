@@ -1464,3 +1464,4 @@ net-misc/curl
 net-misc/curl
 net-libs/libtorrent
 net-p2p/ktorrent
+sys-apps/sysvinit

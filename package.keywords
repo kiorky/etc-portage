@@ -1885,3 +1885,4 @@ net-misc/curl ~x86
 net-misc/curl ~x86
 net-libs/libtorrent ~x86
 net-p2p/ktorrent ~x86
+sys-apps/sysvinit ~x86
