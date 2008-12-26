@@ -1466,3 +1466,4 @@ net-libs/libtorrent
 net-p2p/ktorrent
 sys-apps/sysvinit
 media-plugins/gst-plugins-ogg
+media-plugins/gst-plugins-vorbis
