@@ -1889,3 +1889,4 @@ sys-apps/sysvinit ~x86
 media-plugins/gst-plugins-ogg ~x86
 media-plugins/gst-plugins-vorbis ~x86
 net-im/skype ~x86
+net-im/skype ~x86
