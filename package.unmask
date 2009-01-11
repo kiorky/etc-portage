@@ -1474,3 +1474,4 @@ dev-dotnet/gtk-sharp-gapi
 dev-dotnet/glib-sharp
 dev-dotnet/atk-sharp
 dev-dotnet/gdk-sharp
+dev-dotnet/pango-sharp
