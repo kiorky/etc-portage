@@ -1894,3 +1894,4 @@ dev-dotnet/gtk-sharp-gapi ~x86
 dev-dotnet/gtk-sharp-gapi ~x86
 dev-dotnet/glib-sharp ~x86
 dev-dotnet/atk-sharp ~x86
+dev-dotnet/gdk-sharp ~x86
