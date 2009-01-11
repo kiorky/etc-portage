@@ -1891,3 +1891,4 @@ media-plugins/gst-plugins-vorbis ~x86
 net-im/skype ~x86
 net-im/skype ~x86
 dev-dotnet/gtk-sharp-gapi ~x86
+dev-dotnet/gtk-sharp-gapi ~x86
