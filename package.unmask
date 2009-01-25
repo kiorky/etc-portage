@@ -1044,7 +1044,6 @@ net-irc/irssi-python
 net-irc/irssi-svn
 net-libs/aqbanking
 net-libs/ccrtp
-net-libs/gnutls
 net-libs/libetpan
 net-libs/libnetdude
 net-libs/libnetfilter_conntrack
@@ -1475,3 +1474,4 @@ dev-dotnet/glib-sharp
 dev-dotnet/atk-sharp
 dev-dotnet/gdk-sharp
 dev-dotnet/pango-sharp
+dev-dotnet/gluezilla
