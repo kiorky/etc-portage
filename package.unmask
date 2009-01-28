@@ -1475,3 +1475,5 @@ dev-dotnet/atk-sharp
 dev-dotnet/gdk-sharp
 dev-dotnet/pango-sharp
 dev-dotnet/gluezilla
+kde-base/kdelibs
+kde-base/kdepimlibs

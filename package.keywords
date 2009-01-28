@@ -1897,3 +1897,7 @@ dev-dotnet/atk-sharp ~x86
 dev-dotnet/gdk-sharp ~x86
 dev-dotnet/pango-sharp ~x86
 dev-dotnet/gluezilla ~x86
+sys-devel/libtool ~x86
+media-sound/phonon  * ~*
+app-misc/strigi * ~*
+kde-base/kdepimlibs ~x86
