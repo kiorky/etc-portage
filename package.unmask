@@ -1511,4 +1511,9 @@ kde-base/kdepimlibs
 kde-base/kdepimlibs
 dev-python/PyQt4
 kde-base/solid
+<<<<<<< local
+=kde-base/kcontrol-4.2.0
+=kde-base/kdnssd-4.2.0
+=======
 kde-base/kcachegrind
+>>>>>>> other
