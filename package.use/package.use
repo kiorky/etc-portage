@@ -104,7 +104,7 @@ dev-libs/cyrus-sasl berkdb crypt gdbm mysql pam ssl  authdaemond
 dev-libs/gmime ipv6 -debug -doc mono
 dev-libs/pwlib alsa ipv6 oss sdl ssl xml -debug -ieee1394 ldap sasl
 dev-perl/glib-perl xml
-dev-python/PyQt doc examples
+dev-python/PyQt doc examples webkit
 dev-python/celementtree  doc  examples
 dev-python/cherrypy  doc  examples
 dev-python/genshi examples
@@ -456,3 +456,4 @@ dev-db/mysql big-tables perl ss embedded
 media-sound/ncmpcpp unicode curl taglib
 net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3 -qt3 qt4
 net-p2p/rtorrent ipv6 -debug xmlrpc
+dev-python/PyQt4 X dbus  opengl qt3support svg webkit
