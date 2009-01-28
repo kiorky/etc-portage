@@ -75,6 +75,7 @@ app-misc/hal-info ~x86
 app-misc/i810switch ~x86
 app-misc/ktoblzcheck ~x86
 app-misc/livecd-tools ~x86
+app-misc/strigi * ~*
 app-misc/strigi		
 =app-misc/strigi-0.5.10 ** ~* *
 =app-misc/strigi-0.5.11 ** ~* *
@@ -130,6 +131,7 @@ dev-cpp/libgnomemm ~x86
 dev-cpp/libgnomeuimm ~x86
 dev-cpp/libxmlpp ~x86
 dev-cpp/orbitcpp ~x86
+dev-cpp/pangomm ~x86
 dev-db/db-je ~x86
 dev-db/edb -*
 dev-db/glom ~x86
@@ -150,15 +152,21 @@ dev-db/sqlite ~x86
 dev-db/tora ~x86
 dev-db/unixODBC ~x86
 dev-dotnet/art-sharp ~x86
+dev-dotnet/atk-sharp ~x86
 dev-dotnet/gconf-sharp ~x86
+dev-dotnet/gdk-sharp ~x86
 dev-dotnet/gecko-sharp ~x86
 dev-dotnet/glade-sharp ~x86
+dev-dotnet/glib-sharp ~x86
+dev-dotnet/gluezilla ~x86
 dev-dotnet/gnome-sharp ~x86
 dev-dotnet/gnomevfs-sharp ~x86
+dev-dotnet/gtk-sharp-gapi ~x86
 dev-dotnet/gtk-sharp ~x86
 dev-dotnet/gtksourceview-sharp ~x86
 dev-dotnet/ikvm-bin ~x86
 dev-dotnet/libgdiplus ~x86
+dev-dotnet/pango-sharp ~x86
 dev-dotnet/pe-format ~x86
 dev-dotnet/vte-sharp ~x86
 dev-games/cel ~x86
@@ -507,6 +515,7 @@ dev-libs/libcroco ~x86
 dev-libs/libdaemon ~x86
 dev-libs/libdnet ~x86
 dev-libs/libebml ~x86
+dev-libs/libgweather ~x86
 dev-libs/libIDL ~x86
 dev-libs/libnl ~x86
 dev-libs/libnotify ~x86
@@ -563,6 +572,7 @@ dev-php/PEAR-XML_RPC ~x86
 dev-php/smarty-docs ~x86
 dev-php/smarty ~x86
 dev-php/xdebug-client ~x86
+dev-python/astng ~x86
 dev-python/bonobo-python ~x86
 dev-python/celementtree ~x86
 dev-python/cheetah ~x86
@@ -797,6 +807,7 @@ kde-base/atlantikdesigner ~x86
 kde-base/atlantik ~x86
 kde-base/automoc ~x86
 kde-base/blinken ~x86
+kde-base/bomber ~x86
 kde-base/bovo ~x86
 kde-base/certmanager ~x86
 kde-base/cervisia ~x86
@@ -822,6 +833,7 @@ kde-base/kalzium ~x86
 kde-base/kamera ~x86
 kde-base/kanagram ~x86
 kde-base/kandy ~x86
+kde-base/kapman ~x86
 kde-base/kappfinder ~x86
 kde-base/kapptemplate ~x86
 kde-base/karm ~x86
@@ -834,7 +846,9 @@ kde-base/kbabel ~x86
 kde-base/kbackgammon ~x86
 kde-base/kbattleship ~x86
 kde-base/kblackbox ~x86
+kde-base/kblocks ~x86
 kde-base/kbounce ~x86
+kde-base/kbreakout ~x86
 kde-base/kbruch ~x86
 kde-base/kbstateapplet ~x86
 kde-base/kbugbuster ~x86
@@ -863,6 +877,7 @@ kde-base/kdeadmin-kfile-plugins ~x86
 kde-base/kdeadmin-meta ~x86
 kde-base/kdeadmin ~x86
 kde-base/kdeartwork-colorschemes ~x86
+kde-base/kdeartwork-desktopthemes ~x86
 kde-base/kdeartwork-emoticons ~x86
 kde-base/kdeartwork-icewm-themes ~x86
 kde-base/kdeartwork-iconthemes ~x86
@@ -874,7 +889,9 @@ kde-base/kdeartwork-sounds ~x86
 kde-base/kdeartwork-styles ~x86
 kde-base/kdeartwork-wallpapers ~x86
 kde-base/kdeartwork ~x86
+kde-base/kdebase-cursors ~x86
 kde-base/kdebase-data ~x86
+kde-base/kdebase-desktoptheme ~x86
 kde-base/kdebase-kioslaves ~x86
 kde-base/kdebase-meta ~x86
 kde-base/kdebase-pam ~x86
@@ -882,6 +899,7 @@ kde-base/kdebase-startkde ~x86
 kde-base/kdebase ~x86
 kde-base/kdebindings-meta ~x86
 kde-base/kdebugdialog ~x86
+kde-base/kdedglobalaccel ~x86
 kde-base/kdeedu-applnk ~x86
 kde-base/kdeedu-meta ~x86
 kde-base/kdeedu ~x86
@@ -889,6 +907,7 @@ kde-base/kdegames-meta ~x86
 kde-base/kdegames ~x86
 kde-base/kdegraphics-kfile-plugins ~x86
 kde-base/kdegraphics-meta ~x86
+kde-base/kdegraphics-strigi-analyzer ~x86
 kde-base/kdegraphics ~x86
 kde-base/kde-i18n ~x86
 kde-base/kdejava ~x86
@@ -914,18 +933,18 @@ kde-base/kdepim-icons ~x86
 kde-base/kdepim-kioslaves ~x86
 kde-base/kdepim-kresources ~x86
 kde-base/kdepimlibs ~x86
-kde-base/kdepimlibs ~x86
-kde-base/kdepimlibs ~x86
 kde-base/kdepim-meta ~x86
 kde-base/kdepim-strigi-analyzer ~x86
 kde-base/kdepim-wizards ~x86
 kde-base/kdepim ~x86
+kde-base/kdeplasma-addons ~x86
 kde-base/kdeprint ~x86
 kde-base/kdesdk-kfile-plugins ~x86
 kde-base/kdesdk-kioslaves ~x86
 kde-base/kdesdk-meta ~x86
 kde-base/kdesdk-misc ~x86
 kde-base/kdesdk-scripts ~x86
+kde-base/kdesdk-strigi-analyzer ~x86
 kde-base/kdesdk ~x86
 kde-base/kdesktop ~x86
 kde-base/kdessh ~x86
@@ -940,6 +959,7 @@ kde-base/kdewebdev ~x86
 kde-base/kde ~x86
 kde-base/kdf ~x86
 kde-base/kdialog ~x86
+kde-base/kdiamond ~x86
 kde-base/kdict ~x86
 kde-base/kdm ~x86
 kde-base/kdnssd ~x86
@@ -948,6 +968,7 @@ kde-base/keditbookmarks ~x86
 kde-base/kedit ~x86
 kde-base/keduca ~x86
 kde-base/kenolaba ~x86
+kde-base/kephal ~x86
 kde-base/kfax ~x86
 kde-base/kfilereplace ~x86
 kde-base/kfile ~x86
@@ -968,7 +989,9 @@ kde-base/khotkeys ~x86
 kde-base/kicker-applets ~x86
 kde-base/kicker ~x86
 kde-base/kiconedit ~x86
+kde-base/kiconfinder ~x86
 kde-base/kig ~x86
+kde-base/killbots ~x86
 kde-base/kimagemapeditor ~x86
 kde-base/kinfocenter ~x86
 kde-base/kioclient ~x86
@@ -1014,6 +1037,7 @@ kde-base/knotify ~x86
 kde-base/kode ~x86
 kde-base/kodo ~x86
 kde-base/kolf ~x86
+kde-base/kollision ~x86
 kde-base/kolourpaint ~x86
 kde-base/kommander ~x86
 kde-base/kompare ~x86
@@ -1023,7 +1047,6 @@ kde-base/konqueror ~x86
 kde-base/konquest ~x86
 kde-base/konsolekalendar ~x86
 kde-base/konsole ~x86
-kde-base/kontactinterfaces ~x86
 kde-base/kontactinterfaces ~x86
 kde-base/kontact-specialdates ~x86
 kde-base/kontact ~x86
@@ -1051,9 +1074,12 @@ kde-base/krec ~x86
 kde-base/kregexpeditor ~x86
 kde-base/kreversi ~x86
 kde-base/krfb ~x86
+kde-base/krosspython ~x86
+kde-base/krossruby ~x86
 kde-base/kruler ~x86
 kde-base/krunner ~x86
 kde-base/ksame ~x86
+kde-base/ksaneplugin ~x86
 kde-base/ksayit ~x86
 kde-base/kscd ~x86
 kde-base/kscreensaver ~x86
@@ -1061,6 +1087,7 @@ kde-base/kshisen ~x86
 kde-base/ksig ~x86
 kde-base/ksim ~x86
 kde-base/ksirc ~x86
+kde-base/ksirk ~x86
 kde-base/ksirtet ~x86
 kde-base/ksmiletris ~x86
 kde-base/ksmserver ~x86
@@ -1073,6 +1100,7 @@ kde-base/ksplash ~x86
 kde-base/kspy ~x86
 kde-base/ksquares ~x86
 kde-base/kstars ~x86
+kde-base/kstartperf ~x86
 kde-base/kstartupconfig ~x86
 kde-base/kstart ~x86
 kde-base/kstyles ~x86
@@ -1080,6 +1108,7 @@ kde-base/ksudoku ~x86
 kde-base/ksvg ~x86
 kde-base/ksync ~x86
 kde-base/ksysguard ~x86
+kde-base/ksystemlog ~x86
 kde-base/ksystraycmd ~x86
 kde-base/ksysv ~x86
 kde-base/ktalkd ~x86
@@ -1096,6 +1125,7 @@ kde-base/kttsd ~x86
 kde-base/ktuberling ~x86
 kde-base/kturtle ~x86
 kde-base/ktux ~x86
+kde-base/kubrick ~x86
 kde-base/kuickshow ~x86
 kde-base/kuiserver ~x86
 kde-base/kuiviewer ~x86
@@ -1105,6 +1135,7 @@ kde-base/kverbos ~x86
 kde-base/kviewshell ~x86
 kde-base/kview ~x86
 kde-base/kvoctrain ~x86
+kde-base/kwalletd ~x86
 kde-base/kwalletmanager ~x86
 kde-base/kwallet ~x86
 kde-base/kweather ~x86
@@ -1113,17 +1144,21 @@ kde-base/kwin4 ~x86
 kde-base/kwin ~x86
 kde-base/kwordquiz ~x86
 kde-base/kworldclock ~x86
+kde-base/kwrited ~x86
 kde-base/kwrite ~x86
 kde-base/kxkb ~x86
 kde-base/kxsldbg ~x86
 kde-base/libkcal ~x86
 kde-base/libkcddb ~x86
 kde-base/libkcompactdisc ~x86
+kde-base/libkdcraw ~x86
 kde-base/libkdeedu ~x86
 kde-base/libkdegames ~x86
 kde-base/libkdenetwork ~x86
 kde-base/libkdepim ~x86
+kde-base/libkexiv2 ~x86
 kde-base/libkholidays ~x86
+kde-base/libkipi ~x86
 kde-base/libkleo ~x86
 kde-base/libkmahjongg ~x86
 kde-base/libkmime ~x86
@@ -1131,14 +1166,17 @@ kde-base/libkonq ~x86
 kde-base/libkpgp ~x86
 kde-base/libkpimexchange ~x86
 kde-base/libkpimidentities ~x86
+kde-base/libksane ~x86
 kde-base/libkscan ~x86
 kde-base/libksieve ~x86
 kde-base/libkworkspace ~x86
+kde-base/libplasmaclock ~x86
 kde-base/libplasma ~x86
 kde-base/librss ~x86
 kde-base/libtaskmanager ~x86
 kde-base/lilo-config ~x86
 kde-base/lisa ~x86
+kde-base/lokalize ~x86
 kde-base/lskat ~x86
 kde-base/marble ~x86
 kde-base/metadata.xml ~x86
@@ -1149,15 +1187,17 @@ kde-base/networkstatus ~x86
 kde-base/noatun-plugins ~x86
 kde-base/noatun ~x86
 kde-base/nsplugins ~x86
+kde-base/okteta ~x86
 kde-base/okular ~x86
 kde-base/parley ~x86
+kde-base/phonon-kde ~x86
 kde-base/phonon ~x86
 kde-base/phonon-xine ~x86
 kde-base/plasma-apps ~x86
-kde-base/plasma-apps ~x86
-kde-base/plasma-workspace ~x86
 kde-base/plasma-workspace ~x86
 kde-base/plasma ~x86
+kde-base/powerdevil ~x86
+kde-base/pykde4 ~x86
 kde-base/pykde ~x86
 kde-base/qimageblitz ~x86
 kde-base/qtjava ~x86
@@ -1166,10 +1206,13 @@ kde-base/qtsharp ~x86
 kde-base/quanta ~x86
 kde-base/renamedlg-audio ~x86
 kde-base/renamedlg-images ~x86
+kde-base/renamedlg-plugins ~x86
 kde-base/secpolicy ~x86
 kde-base/smoke ~x86
+kde-base/solid-hardware ~x86
 kde-base/soliduiserver ~x86
 kde-base/solid ~x86
+kde-base/step ~x86
 kde-base/strigi-analyzer ~x86
 kde-base/superkaramba ~x86
 kde-base/svgpart ~x86
@@ -1233,10 +1276,13 @@ kde-misc/ksplash-engine-moodin ~x86
 kde-misc/ksynaptics ~x86
 kde-misc/ksystemlog ~x86
 kde-misc/kvdrmon ~x86
+kde-misc/kvkbd ~x86
+kde-misc/lancelot-menu ~x86
 kde-misc/libksane ~x86
 kde-misc/metadata.xml ~x86
 kde-misc/metamonitor ~x86
 kde-misc/mtaskbar ~x86
+kde-misc/powerdevil ~x86
 kde-misc/pwmanager ~x86
 kde-misc/quadkonsole ~x86
 kde-misc/rsibreak ~x86
@@ -1351,6 +1397,7 @@ media-libs/libwmf ~x86
 media-libs/openexr ~x86
 media-libs/openjpeg ~x86
 =media-libs/raptor-1.4.18 ~x86
+media-libs/realcodecs ~x86
 media-libs/swfdec ~x86
 media-libs/taglib ~x86
 media-libs/win32codecs ~x86
@@ -1408,6 +1455,7 @@ media-sound/alsaplayer ~x86
 media-sound/alsa-tools ~x86
 =media-sound/amarok-1.4.9999-r2 ~x86
 media-sound/amarok ~x86
+media-sound/amarok * ** ~x86 
 media-sound/esound ~x86
 media-sound/gmpc ~x86
 media-sound/gpodder ~x86
@@ -1419,8 +1467,11 @@ media-sound/mpdscribble ~x86
 media-sound/mpd-svn ~x86 e
 media-sound/mpd ~x86
 media-sound/music-applet ~x86
+media-sound/ncmpcpc ~x86
+media-sound/ncmpcpp ~x86
 media-sound/oss-devel ~x86
 media-sound/oss ~x86
+media-sound/phonon  * ~*
 =media-sound/phonon-4.2.0 ~x86
 media-sound/pulseaudio ~x86
 media-sound/rhythmbox ~x86
@@ -1444,6 +1495,7 @@ media-video/nvidia-glx x86 ~x86
 media-video/nvidia-kernel ~x86
 media-video/nvidia-settings ~x86
 media-video/ogle ~x86
+media-video/realplayer ~x86
 media-video/smplayer ~x86
 media-video/subtitleripper ~x86
 media-video/totem ~x86
@@ -1486,6 +1538,7 @@ net-im/ekiga
 net-im/ekiga ~x86
 net-im/pidgin ~x86
 net-im/psi ~x86
+net-im/skype ~x86
 net-im/twinkle ~x86
 net-irc/irssi-python ~x86
 net-irc/irssi-svn ~x86
@@ -1494,7 +1547,9 @@ net-libs/aqbanking ~x86
 net-libs/ccrtp ~x86
 net-libs/gnutls ~x86
 net-libs/libetpan ~x86
+=net-libs/libnfsidmap-0.21-r1 ~x86
 net-libs/libsoup ~x86
+net-libs/libtorrent ~x86
 net-libs/libupnp ~x86
 net-libs/libzrtpcpp ~x86
 net-libs/opal ~x86
@@ -1503,6 +1558,7 @@ net-mail/dovecot ~x86
 net-mail/fetchmail ~x86
 net-mail/mailman ~x86
 net-misc/corkscrew ~x86
+net-misc/curl ~x86
 net-misc/d4x ~x86
 net-misc/icecast ~x86
 net-misc/mDNSResponder ~x86
@@ -1523,6 +1579,7 @@ net-p2p/amule ~x86
 net-p2p/azureus ~x86
 net-p2p/bittornado ~x86
 net-p2p/ktorrent ~x86
+net-p2p/rtorrent ~x86
 net-print/foomatic-filters-ppds ~x86
 net-print/foomatic-filters ~x86
 net-print/gnome-cups-manager ~x86
@@ -1535,6 +1592,7 @@ net-wireless/ipw3945 ~x86
 net-wireless/iwl3945-ucode ~x86
 net-wireless/iwl4965-ucode ~x86
 net-wireless/iwlwifi ~x86
+net-wireless/iw ~x86
 net-wireless/kismet ~x86
 net-wireless/madwifi-old-tools ~x86
 net-wireless/madwifi-old ~x86
@@ -1542,6 +1600,8 @@ net-wireless/ndiswrapper ~x86
 net-wireless/rt2400 ~x86
 net-wireless/rt2400* ~x86
 net-wireless/rt2x00 ~x86
+net-wireless/wireless-tools ~x86
+net-wireless/wpa_supplicant ~x86
 net-www/apache ~x86
 net-www/autobench ~x86
 net-www/gentoo-webroot-default ~x86
@@ -1597,6 +1657,7 @@ sys-apps/portage ~x86
 sys-apps/qtparted ~x86
 sys-apps/shadow ~x86
 sys-apps/suspend2-userui ~x86
+sys-apps/sysvinit ~x86
 sys-apps/util-linux ~x86
 sys-apps/v86d ~x86
 sys-auth/consolekit ~x86
@@ -1610,9 +1671,11 @@ sys-devel/autoconf-wrapper ~x86
 sys-devel/autoconf ~x86
 sys-devel/autogen ~x86 # Needed by anjuta-2.0.1_alpha
 sys-devel/automake ~x86
+sys-devel/libtool ~x86
 sys-devel/m4 ~x86
 sys-devel/qconf-cvs ~x86
 sys-fs/cryptsetup-luks ~x86
+sys-fs/cryptsetup ~x86
 sys-fs/device-mapper ~x86
 sys-fs/dmraid ~x86
 sys-fs/e2fsprogs ~x86
@@ -1631,6 +1694,7 @@ sys-libs/e2fsprogs-libs ~x86
 sys-libs/gwenhywfar ~x86
 sys-libs/libchipcard ~x86
 sys-libs/libkudzu ~x86
+sys-libs/libsmbios ~x86
 sys-libs/libstdc++-v3 ~x86
 sys-libs/ncurses ~x86
 sys-libs/pam ~x86
@@ -1721,6 +1785,7 @@ x11-drivers/xf86-input-mouse ~x86
 x11-drivers/xf86-input-synaptics ~x86
 x11-drivers/xf86-video-ati ~x86
 x11-drivers/xf86-video-i810 ~x86
+x11-drivers/xf86-video-intel ~x86
 x11-drivers/xf86-video-nv ~x86
 x11-drivers/xf86-video-r128 ~x86
 x11-drivers/xf86-video-savage ~x86
@@ -1858,46 +1923,7 @@ x11-wm/emerald
 x11-wm/fluxbox ~x86
 x11-wm/metacity ~x86
 x11-wm/twm ~x86
-kde-base/kdeplasma-addons ~x86
-media-video/x264-encoder ~x86
-kde-base/okular ~x86
-media-sound/amarok * ** ~x86 
-dev-python/astng ~x86
-x11-drivers/xf86-video-intel ~x86
-media-sound/ncmpcpc ~x86
-media-sound/ncmpcpp ~x86
-sys-libs/libsmbios ~x86
-dev-cpp/pangomm ~x86
-=net-libs/libnfsidmap-0.21-r1 ~x86
-sys-fs/cryptsetup ~x86
-media-video/realplayer ~x86
-media-libs/realcodecs ~x86
-dev-libs/libgweather ~x86
-kde-base/kedit ~x86
-net-wireless/iw ~x86
-net-wireless/iw ~x86
-net-wireless/wireless-tools ~x86
-net-wireless/wpa_supplicant ~x86
-x11-drivers/xf86-input-evdev ~x86
-net-p2p/rtorrent ~x86
-net-misc/curl ~x86
-net-misc/curl ~x86
-net-misc/curl ~x86
-net-libs/libtorrent ~x86
-net-p2p/ktorrent ~x86
-sys-apps/sysvinit ~x86
-media-plugins/gst-plugins-ogg ~x86
-media-plugins/gst-plugins-vorbis ~x86
-net-im/skype ~x86
-net-im/skype ~x86
-dev-dotnet/gtk-sharp-gapi ~x86
-dev-dotnet/gtk-sharp-gapi ~x86
-dev-dotnet/glib-sharp ~x86
-dev-dotnet/atk-sharp ~x86
-dev-dotnet/gdk-sharp ~x86
-dev-dotnet/pango-sharp ~x86
-dev-dotnet/gluezilla ~x86
-sys-devel/libtool ~x86
-media-sound/phonon  * ~*
-app-misc/strigi * ~*
+=app-misc/strigi-0.6.3 ** ~* *
+=app-office/akonadi-server-1.1.0 ~x86
+=dev-libs/libical-0.33-r1 ~x86
 kde-base/kdepimlibs ~x86
