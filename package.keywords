@@ -1928,3 +1928,4 @@ x11-wm/twm ~x86
 =dev-libs/libical-0.33-r1 ~x86
 kde-base/kdepimlibs ~x86
 kde-base/kdepimlibs ~x86
+dev-python/PyQt4 ~x86
