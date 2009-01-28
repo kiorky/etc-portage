@@ -1511,3 +1511,4 @@ kde-base/kdepimlibs
 kde-base/kdepimlibs
 dev-python/PyQt4
 kde-base/solid
+kde-base/kcachegrind
