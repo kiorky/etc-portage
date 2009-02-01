@@ -457,3 +457,4 @@ media-sound/ncmpcpp unicode curl taglib
 net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3 -qt3 qt4
 net-p2p/rtorrent ipv6 -debug xmlrpc
 dev-python/PyQt4 X dbus  opengl qt3support svg webkit
+gnome-base/libgnome esd
