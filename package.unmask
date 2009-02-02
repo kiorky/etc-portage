@@ -1620,3 +1620,4 @@ kde-base/akregator
 app-office/akonadi-server
 media-sound/phonon/
 media-sound/phonon
+x11-libs/qt-phonon
