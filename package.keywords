@@ -1936,7 +1936,6 @@ kde-base/akregator ~x86
 kde-base/akregator ~x86
 
 app-office/akonadi-server ~x86
-media-sound/phonon/ ~x86
 media-sound/phonon ~x86
 x11-libs/qt-phonon ~x86
 media-sound/mumble ~x86
