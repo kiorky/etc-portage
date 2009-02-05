@@ -1621,3 +1621,4 @@ app-office/akonadi-server
 media-sound/phonon/
 media-sound/phonon
 x11-libs/qt-phonon
+media-sound/mumble
