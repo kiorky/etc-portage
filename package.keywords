@@ -1678,7 +1678,6 @@ sys-fs/cryptsetup-luks ~x86
 sys-fs/cryptsetup ~x86
 sys-fs/device-mapper ~x86
 sys-fs/dmraid ~x86
-sys-fs/e2fsprogs ~x86
 sys-fs/lvm2 ~x86
 sys-fs/lvm-user ~x86
 sys-fs/mdadm ~x86

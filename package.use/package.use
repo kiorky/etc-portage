@@ -454,8 +454,21 @@ media-video/x264-encoder threads -debug mp4 gtk
 kde-base/okular kdeprefix chm -debug djvu -htmlhandbook jpeg pdf tiff
 dev-db/mysql big-tables perl ss embedded 
 media-sound/ncmpcpp unicode curl taglib
+<<<<<<< local
+net-wireless/wireless-tools nls multicall
+=======
 net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3 -qt3 qt4
 net-p2p/rtorrent ipv6 -debug xmlrpc
+<<<<<<< local
+>>>>>>> other
+=======
 dev-python/PyQt4 X dbus  opengl qt3support svg webkit
+<<<<<<< local
+>>>>>>> other
+=======
 gnome-base/libgnome esd
+<<<<<<< local
+>>>>>>> other
+=======
 media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio pulseaudio speech
+>>>>>>> other
