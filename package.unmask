@@ -1618,7 +1618,6 @@ kde-base/akregator
 =kde-base/systemsettings-4.2*
 =kde-base/umbrello-4.2*
 app-office/akonadi-server
-media-sound/phonon/
 media-sound/phonon
 x11-libs/qt-phonon
 media-sound/mumble
