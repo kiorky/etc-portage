@@ -458,3 +458,4 @@ net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3
 net-p2p/rtorrent ipv6 -debug xmlrpc
 dev-python/PyQt4 X dbus  opengl qt3support svg webkit
 gnome-base/libgnome esd
+media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio pulseaudio speech
