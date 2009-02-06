@@ -459,5 +459,9 @@ net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3
 net-p2p/rtorrent ipv6 -debug xmlrpc
 dev-python/PyQt4 X dbus  opengl qt3support svg webkit
 gnome-base/libgnome esd
+<<<<<<< local
+media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio -pulseaudio speech
+=======
 media-sound/amarok daap debug ifp ipod kdeprefix mp3tunes mp4 mtp njb opengl semantic-desktop  cdaudio  mysql visualizatio
 media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio pulseaudio speech
+>>>>>>> other
