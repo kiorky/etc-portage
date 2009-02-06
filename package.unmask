@@ -1622,3 +1622,4 @@ media-sound/phonon
 x11-libs/qt-phonon
 media-sound/mumble
 media-sound/murmur
+sys-fs/e2fsprogs

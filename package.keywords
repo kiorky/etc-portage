@@ -1939,3 +1939,4 @@ media-sound/phonon ~x86
 x11-libs/qt-phonon ~x86
 media-sound/mumble ~x86
 media-sound/murmur ~x86
+sys-fs/e2fsprogs ~x86
