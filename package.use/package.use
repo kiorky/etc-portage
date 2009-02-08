@@ -339,7 +339,7 @@ dev-java/fop hyphenation% jai jimi
 dev-java/fop hyphenation jai jimi
 dev-java/fop hyphenation jai jimi
 x11-base/xorg-server dri ipv6 nptl xorg -3dfx -debug -dmx hal kdrive -minimal sdl xprint
-x11-libs/libXaw xprint
+x11-libs/libXaw -xprint
 x11-drivers/nvidia-drivers acpi
 dev-java/sun-jdk alsa -doc -examples -jce nsplugin
 x11-base/xorg-server dri hal ipv6 -kdrive sdl xorg xprint -3dfx -debug -dmx -minimal -nptl
