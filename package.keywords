@@ -1744,7 +1744,6 @@ x11-apps/ccsm
 x11-apps/ccsm **
 x11-apps/fusion-icon ~x86 -*
 x11-apps/iceauth ~x86
-x11-apps/libXp ~x86
 x11-apps/luit ~x86
 x11-apps/mesa-progs ~x86
 x11-apps/mkfontdir ~x86
@@ -1812,7 +1811,6 @@ x11-libs/libSM ~x86
 x11-libs/libsvg-cairo ~x86
 x11-libs/libX11 ~x86
 x11-libs/libXau ~x86
-x11-libs/libXaw ~x86
 x11-libs/libXcursor ~x86
 x11-libs/libXext ~x86
 x11-libs/libXfont ~x86
@@ -1940,3 +1938,4 @@ x11-libs/qt-phonon ~x86
 media-sound/mumble ~x86
 media-sound/murmur ~x86
 sys-fs/e2fsprogs ~x86
+www-apps/gitweb ~x86
