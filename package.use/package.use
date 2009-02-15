@@ -463,3 +463,4 @@ media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio -pulseaudio speech
 media-sound/amarok daap debug ifp ipod kdeprefix mp3tunes mp4 mtp njb opengl semantic-desktop  cdaudio  mysql visualizatio
 media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio pulseaudio speech
 x11-apps/xsm xprint
+www-apps/gitweb vhosts
