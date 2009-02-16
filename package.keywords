@@ -1939,3 +1939,4 @@ media-sound/mumble ~x86
 media-sound/murmur ~x86
 sys-fs/e2fsprogs ~x86
 www-apps/gitweb ~x86
+kde-base/konq-plugins ~x86
