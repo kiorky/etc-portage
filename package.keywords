@@ -1941,3 +1941,4 @@ sys-fs/e2fsprogs ~x86
 www-apps/gitweb ~x86
 kde-base/konq-plugins ~x86
 kde-base/konq-plugins ~x86
+app-text/ebook-tools ~x86

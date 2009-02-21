@@ -1626,3 +1626,4 @@ sys-fs/e2fsprogs
 www-apps/gitweb
 kde-base/konq-plugins
 kde-base/konq-plugins
+app-text/ebook-tools
