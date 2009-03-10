@@ -1943,11 +1943,5 @@ kde-base/konq-plugins ~x86
 kde-base/konq-plugins ~x86
 app-text/ebook-tools ~x86
 app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
-app-admin/eselect-ruby ~x86
+=sys-apps/sandbox ~x86
+=dev-cpp/eigen ~x86
