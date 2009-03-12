@@ -41,7 +41,6 @@ app-crypt/libgssapi ~x86
 app-crypt/mit-krb5 ~x86
 app-crypt/qca ~x86
 app-dicts/aspell-en ~x86
-app-dicts/aspell-* ~x86
 app-doc/chmlib ~x86
 app-editors/bluefish ~x86
 app-editors/emacs-cvs ~x86
@@ -102,7 +101,6 @@ app-text/a2ps ~x86
 app-text/acroread ~x86
 app-text/aspell-en ~x86
 app-text/aspell ~x86
-app-text/aspell-* ~x86
 app-text/evince ~x86
 app-text/evince- ~x86
 app-text/ggv ~x86
@@ -1597,16 +1595,12 @@ net-wireless/kismet ~x86
 net-wireless/madwifi-old-tools ~x86
 net-wireless/madwifi-old ~x86
 net-wireless/ndiswrapper ~x86
-net-wireless/rt2400 ~x86
-net-wireless/rt2400* ~x86
 net-wireless/rt2x00 ~x86
 net-wireless/wireless-tools ~x86
 net-wireless/wpa_supplicant ~x86
 net-www/apache ~x86
 net-www/autobench ~x86
 net-www/gentoo-webroot-default ~x86
-net-www/mod_security ~x86
-net-www/mod_security* ~x86
 net-www/mod_ssl ~x86
 net-www/mozplugger ~x86
 net-www/mplayerplug-in ~x86

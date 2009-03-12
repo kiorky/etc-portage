@@ -39,7 +39,6 @@ app-crypt/heimdal
 app-crypt/libgssapi
 app-crypt/mit-krb5
 app-crypt/qca
-app-dicts/aspell-*
 app-dicts/aspell-en
 app-dicts/aspell-fr
 app-doc/xorg-docs
@@ -96,7 +95,6 @@ app-shells/bash
 app-shells/rssh
 app-text/a2ps
 app-text/aspell
-app-text/aspell-*
 app-text/aspell-en
 app-text/evince
 app-text/ggv
@@ -444,7 +442,6 @@ dev-java/xml-commons-resolver
 dev-java/xml-im-exporter
 dev-java/xmlpull
 dev-java/xmlpull-api
-dev-java/xml-security
 dev-java/xmlstreambuffer
 dev-java/xmlunit
 dev-java/xml-xmlbeans
@@ -1093,13 +1090,9 @@ net-wireless/kismet
 net-wireless/madwifi-old
 net-wireless/madwifi-old-tools
 net-wireless/ndiswrapper
-net-wireless/rt2400
-net-wireless/rt2400*
 net-wireless/rt2x00
 net-www/apache
 net-www/autobench
-net-www/mod_security
-net-www/mod_security*
 net-www/mplayerplug-in
 net-www/swfdec-mozilla
 net-zope/i18ndude
@@ -1439,7 +1432,6 @@ kde-base/kdeplasma-addons
 media-video/x264-encoder
 kde-base/okular
 dev-python/astng
-media-sound/amarok -* -**
 dev-python/astng
 x11-drivers/xf86-video-intel
 media-sound/ncmpcpc

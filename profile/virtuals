@@ -1,3 +1,1 @@
 #virtual/x11 >=xorg-x11-6.9
-virtual/x11	x11-base/xorg-x11-6.9.*
-
