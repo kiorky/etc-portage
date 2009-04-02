@@ -1940,3 +1940,4 @@ app-admin/eselect-ruby ~x86
 sys-apps/sandbox ~x86
 dev-cpp/eigen ~x86
 x11-libs/libnotify ~x86
+www-apache/mod_wsgi ~x86
