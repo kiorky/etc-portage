@@ -1944,3 +1944,4 @@ www-apache/mod_wsgi ~x86
 app-text/silvercity ~x86
 app-text/silvercity ~x86
 dev-python/virtualenv ~x86
+dev-python/virtualenv ~x86
