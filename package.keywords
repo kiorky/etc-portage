@@ -1938,5 +1938,13 @@ app-admin/eselect-ruby ~x86
 sys-apps/sandbox ~x86
 dev-cpp/eigen ~x86
 x11-libs/libnotify ~x86
+<<<<<<< local
 x11-libs/libgksu ~x86
 media-sound/alsa-utils ~x86
+=======
+www-apache/mod_wsgi ~x86
+app-text/silvercity ~x86
+app-text/silvercity ~x86
+dev-python/virtualenv ~x86
+dev-python/virtualenv ~x86
+>>>>>>> other
