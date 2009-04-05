@@ -1629,13 +1629,10 @@ app-admin/eselect-ruby
 app-admin/eselect-ruby
 app-admin/eselect-ruby
 x11-libs/libnotify
-<<<<<<< local
 x11-libs/libgksu
 media-sound/alsa-utils
-=======
 www-apache/mod_wsgi
 app-text/silvercity
 app-text/silvercity
 dev-python/virtualenv
 dev-python/virtualenv
->>>>>>> other
