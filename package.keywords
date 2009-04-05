@@ -112,8 +112,6 @@ app-text/highlight ~x86
 app-text/htmltidy ~x86
 app-text/hunspell ~x86
 app-text/iso-codes ~x86
-app-text/poppler-bindings ~x86
-app-text/poppler ~x86
 dev-cpp/bakery ~x86
 dev-cpp/cairomm ~x86
 dev-cpp/clucene ~x86
@@ -1941,3 +1939,4 @@ sys-apps/sandbox ~x86
 dev-cpp/eigen ~x86
 x11-libs/libnotify ~x86
 x11-libs/libgksu ~x86
+media-sound/alsa-utils ~x86
