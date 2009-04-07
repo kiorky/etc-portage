@@ -1380,7 +1380,6 @@ x11-proto/libXfont
 x11-proto/printproto
 x11-proto/randrproto
 x11-proto/recordproto
-x11-proto/renderproto
 x11-proto/resourceproto
 x11-proto/scrnsaverproto
 x11-proto/trapproto

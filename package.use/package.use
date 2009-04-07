@@ -217,7 +217,7 @@ media-video/mplayer aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  na
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid
-media-video/vlc dvb dvbpsi v4l mpc a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musepac -oss qt -qt4 -qt_embedded quicktime real -svga -tarkin tremor -twolame v4l -vcd vlm x264 skins2 shout httpd musepack avahi cddb libcaca libnotify live       seamonkey sdl-image    upnp rtsp svga vcd truetype win32codecs xml
+media-video/vlc dvb dvbpsi v4l mpc a52 aac aalib alsa bidi cdda -corba daap ffmpeg flac freetype ggi gnutls gtk2 hal httpd matroska mod mp3 mpeg ncurses nls ogg opengl png python samba screen sdl speex stream svg theora unicode vorbis wxwindows xml2 xosd xv -3dfx -altivec -arts -audioscrobbler debug -dirac -dts dvb dvbpsi  dvd -esd -fbcon fribidi -java -joystick -libcaca libcddb libcdio -lirc -live live555 mad musepac -oss qt -qt4 -qt_embedded quicktime real -svga -tarkin tremor -twolame v4l -vcd vlm x264 skins2 shout httpd musepack avahi cddb libcaca libnotify live       seamonkey sdl-image    upnp rtsp svga vcd truetype win32codecs xml
 media-video/xine-ui aalib curl libcaca -lirc ncurses nls readline
 net-analyzer/cacti apache2  snmp  vhosts
 net-analyzer/nagios-core mysql perl apache2
@@ -373,7 +373,7 @@ net-libs/xulrunner ipv6 xinerama   java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
 dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi doc -emacs mozsha1 subversion cvs threads
-dev-util/subversion apache2 bash-completion berkdb -java nls -perl python -ruby vim-syntax -dso
+dev-util/subversion apache2 bash-completion berkdb -java nls perl python ruby vim-syntax -dso
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
 dev-lang/swig guile php pike python tcl tk -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
@@ -464,3 +464,8 @@ media-sound/amarok daap debug ifp ipod kdeprefix mp3tunes mp4 mtp njb opengl sem
 media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio pulseaudio speech
 x11-apps/xsm xprint
 www-apps/gitweb vhosts
+app-text/lcdf-typetools kpathsea
+app-text/texlive-2008X cjk -context cyrillic detex -doc dvi2tty extra games graphics humanities jadetex music omega png pstricks publishers science tex4ht truetype xetex xindy xml
+app-text/texlive X cjk -context cyrillic detex -doc dvi2tty extra games graphics humanities jadetex music omega png pstricks publishers science tex4ht truetype xetex xindy xml
+media-libs/freetype   X -bindist -debug -doc -fontforge utils
+media-libs/freetype   X -bindist -debug -doc -fontforge utils kpathsea
