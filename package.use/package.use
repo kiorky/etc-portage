@@ -96,7 +96,7 @@ dev-lang/php apache2 bcmath bzip2 calendar cgi cli crypt ctype curl curlwrappers
 dev-lang/pike  gdbm mysql pcre ssl zlib bzip2 fftw gtk jpeg kerberos mime opengl pdf scanner sdl svg tiff truetype
 dev-lang/python berkdb gdbm ipv6 ncurses readline ssl  tk ucs2  tcltk sqlite
 dev-lang/swig -java -mono -perl php python -ruby -doc guile -lua -ocaml pike -tcl -tk
-dev-libs/apr-util berkdb gdbm  ldap postgres
+dev-libs/apr-util berkdb gdbm  ldap postgres doc
 dev-libs/boehm threads
 dev-libs/boehm-gc -threads
 dev-libs/boost bcp bjam pyste  threads - threadsonly
