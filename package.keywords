@@ -1945,3 +1945,4 @@ app-text/silvercity ~x86
 app-text/silvercity ~x86
 dev-python/virtualenv ~x86
 dev-python/virtualenv ~x86
+x11-misc/xdg-utils ~x86

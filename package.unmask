@@ -1635,3 +1635,4 @@ app-text/silvercity
 app-text/silvercity
 dev-python/virtualenv
 dev-python/virtualenv
+x11-misc/xdg-utils
