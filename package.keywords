@@ -1948,3 +1948,4 @@ dev-python/virtualenv ~x86
 x11-misc/xdg-utils ~x86
 app-admin/eselect-python-20080925 ~x86
 app-admin/eselect-python-20080925 ~x86
+app-admin/eselect-python ~x86
