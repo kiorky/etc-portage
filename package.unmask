@@ -1636,7 +1636,4 @@ app-text/silvercity
 dev-python/virtualenv
 dev-python/virtualenv
 x11-misc/xdg-utils
-app-admin/eselect-python-20080925
-app-admin/eselect-python-20080925
-app-admin/eselect-python
 app-admin/eselect-python
