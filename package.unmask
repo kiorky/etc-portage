@@ -1637,3 +1637,4 @@ dev-python/virtualenv
 dev-python/virtualenv
 x11-misc/xdg-utils
 app-admin/eselect-python
+media-libs/xine-lib
