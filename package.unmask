@@ -997,8 +997,6 @@ media-video/ogle
 media-video/smplayer
 media-video/totem
 media-video/transcode
-media-video/vlc
-media-video/vlc-svn
 media-video/xine-ui
 media-video/xvid4conf
 napp-forensics/rkhunter
