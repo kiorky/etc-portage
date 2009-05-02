@@ -1950,3 +1950,4 @@ app-admin/eselect-python ~x86
 media-libs/xine-lib ~x86
 media-libs/xine-lib ~x86
 app-misc/strigi ~x86
+games-fps/quake3-urbanterror ~x86
