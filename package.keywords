@@ -1951,3 +1951,4 @@ media-libs/xine-lib ~x86
 app-misc/strigi ~x86
 games-fps/quake3-urbanterror ~x86
 games-fps/quake3 ~x86
+media-sound/lame ~x86
