@@ -6,7 +6,7 @@ app-arch/tar  nls bzip2
 app-cdr/k3b alsa -arts css -debug -dvdr encode ffmpeg flac -hal kde mp3 musepack musicbrainz sndfile -vcd vorbis xinerama
 app-crypt/heimdal  berkdb ipv6 ssl ldap
 app-crypt/pinentr ncurses  qt3
-app-crypt/pinentry ncurses  qt3
+app-crypt/pinentry ncurses  -qt3
 app-doc/doxygen qt unicode doc tetex
 app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
 app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal -vim-with-x
@@ -26,7 +26,6 @@ app-ofice/koffice javascript
 app-ofice/openoffice-bin -kde
 app-portage/herdstat bash-completion
 app-text/acroread nsplugin
-app-text/djvu jpeg nls nsplugin qt3 threads tiff -debug -kde xml
 app-text/enscript nls ruby
 app-text/evince nautilus dbus -debug djvu -doc -dvi t1lib tiff
 app-text/ggv debug
@@ -391,7 +390,7 @@ app-misc/strigi clucene dbus exiv2 qt4 -debug hyperestraier inotify java
 kde-base/ark  archive -debug -htmlhandbook zip
 kde-base/kdeartwork-kscreensaver  opengl xscreensaver
 kde-base/konqueror java xinerama -arts branding -debug -kdeenablefinal -kdehiddenvisibility
-net-dns/avahi bookmarks dbus gdbm gtk howl-compat ipv6 -mono python qt3 qt4 mdnsresponder-compat
+net-dns/avahi bookmarks dbus gdbm gtk howl-compat ipv6 -mono python -qt3 qt4 mdnsresponder-compat
 kde-base/kscreensaver pam opengl
 x11-drivers/ati-drivers acpi  opengl
 dev-lang/swig guile php pike python -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby tcl tk
@@ -469,3 +468,11 @@ app-text/texlive-2008X cjk -context cyrillic detex -doc dvi2tty extra games grap
 app-text/texlive X cjk -context cyrillic detex -doc dvi2tty extra games graphics humanities jadetex music omega png pstricks publishers science tex4ht truetype xetex xindy xml
 media-libs/freetype   X -bindist -debug -doc -fontforge utils
 media-libs/freetype   X -bindist -debug -doc -fontforge utils kpathsea
+app-text/poppler [0.10.4] USE="-doc" 1,482 kB
+dev-db/unixODBC -gnome -qt3
+app-text/djvu   jpeg nls nsplugin -qt3 tiff xml -debug -doc kde
+app-doc/doxygen doc -debug -latex -nodot -qt3
+app-text/poppler-bindings cairo gtk -qt3 qt4 -test
+
+app-text/djvu jpeg nls -nsplugin -qt3 threads tiff -debug -kde xml
+net-dns/avahi  bookmarks dbus gdbm gtk howl-compat ipv6 mdnsresponder-compat python -qt3 qt4 -autoipd -doc -mono -test
