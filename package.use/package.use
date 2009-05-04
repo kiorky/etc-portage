@@ -469,3 +469,4 @@ app-text/texlive-2008X cjk -context cyrillic detex -doc dvi2tty extra games grap
 app-text/texlive X cjk -context cyrillic detex -doc dvi2tty extra games graphics humanities jadetex music omega png pstricks publishers science tex4ht truetype xetex xindy xml
 media-libs/freetype   X -bindist -debug -doc -fontforge utils
 media-libs/freetype   X -bindist -debug -doc -fontforge utils kpathsea
+sys-auth/pambase cracklib sha512 consolekit -debug gnome-keyring mktemp passwdqc ssh

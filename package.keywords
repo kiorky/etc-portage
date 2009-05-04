@@ -1769,7 +1769,6 @@ x11-base/xgl
 x11-base/xorg-server ~x86
 x11-base/xorg-x11 ~x86
 x11-drivers/nvidia-drivers ~x86
-x11-drivers/xf86-input-evdev ~x86
 x11-drivers/xf86-input-keyboard ~x86
 x11-drivers/xf86-input-mouse ~x86
 x11-drivers/xf86-input-synaptics ~x86
