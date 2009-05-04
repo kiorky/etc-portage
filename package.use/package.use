@@ -468,6 +468,9 @@ app-text/texlive-2008X cjk -context cyrillic detex -doc dvi2tty extra games grap
 app-text/texlive X cjk -context cyrillic detex -doc dvi2tty extra games graphics humanities jadetex music omega png pstricks publishers science tex4ht truetype xetex xindy xml
 media-libs/freetype   X -bindist -debug -doc -fontforge utils
 media-libs/freetype   X -bindist -debug -doc -fontforge utils kpathsea
+<<<<<<< local
+sys-auth/pambase cracklib sha512 consolekit -debug gnome-keyring mktemp passwdqc ssh
+=======
 app-text/poppler [0.10.4] USE="-doc" 1,482 kB
 dev-db/unixODBC -gnome -qt3
 app-text/djvu   jpeg nls nsplugin -qt3 tiff xml -debug -doc kde
@@ -476,3 +479,4 @@ app-text/poppler-bindings cairo gtk -qt3 qt4 -test
 
 app-text/djvu jpeg nls -nsplugin -qt3 threads tiff -debug -kde xml
 net-dns/avahi  bookmarks dbus gdbm gtk howl-compat ipv6 mdnsresponder-compat python -qt3 qt4 -autoipd -doc -mono -test
+>>>>>>> other
