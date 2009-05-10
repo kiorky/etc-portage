@@ -1642,3 +1642,4 @@ games-fps/quake3-urbanterror
 games-fps/quake3
 media-sound/lame
 app-arch/dpkg
+kde-base/kde-env

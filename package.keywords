@@ -1953,3 +1953,4 @@ games-fps/quake3-urbanterror ~x86
 games-fps/quake3 ~x86
 media-sound/lame ~x86
 app-arch/dpkg ~x86
+kde-base/kde-env ~x86
