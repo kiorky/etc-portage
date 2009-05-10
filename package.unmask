@@ -150,7 +150,6 @@ dev-dotnet/gnome-sharp
 dev-dotnet/gnomevfs-sharp
 dev-dotnet/gtksourceview-sharp
 dev-dotnet/ikvm-bin
-dev-dotnet/libgdiplus
 dev-dotnet/pe-format
 dev-dotnet/vte-sharp
 dev-games/cel
@@ -452,7 +451,6 @@ dev-java/xstream
 dev-lang/cm3
 dev-lang/cm3-bin
 dev-lang/cm3-ibn
-dev-lang/mono
 dev-lang/php
 dev-lang/ruby
 dev-lang/swig
