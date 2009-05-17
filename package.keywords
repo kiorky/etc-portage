@@ -1963,3 +1963,4 @@ kde-misc/konq-plugins ~x86
 kde-misc/konq-plugins ~x86
 kde-misc/konq-plugins ~x86
 >>>>>>> other
+dev-python/libgnomecanvas-python ~x86
