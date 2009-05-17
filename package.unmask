@@ -1643,3 +1643,4 @@ app-arch/dpkg
 kde-base/kde-env
 dev-python/libbonobo-python
 dev-python/gconf-python
+dev-python/gnome-vfs-python
