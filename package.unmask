@@ -1648,3 +1648,4 @@ kde-misc/konq-plugins
 kde-misc/konq-plugins
 kde-misc/konq-plugins
 dev-python/libgnomecanvas-python
+dev-python/gnome-python-base
