@@ -1650,3 +1650,4 @@ kde-misc/konq-plugins
 dev-python/libgnomecanvas-python
 dev-python/gnome-python-base
 net-libs/libproxy$
+net-libs/libproxy
