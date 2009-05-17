@@ -1956,6 +1956,10 @@ app-arch/dpkg ~x86
 kde-base/kde-env ~x86
 dev-python/libbonobo-python ~x86
 dev-python/gconf-python ~x86
+<<<<<<< local
+dev-python/gnome-vfs-python ~x86
+=======
 kde-misc/konq-plugins ~x86
 kde-misc/konq-plugins ~x86
 kde-misc/konq-plugins ~x86
+>>>>>>> other
