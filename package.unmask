@@ -1643,11 +1643,8 @@ app-arch/dpkg
 kde-base/kde-env
 dev-python/libbonobo-python
 dev-python/gconf-python
-<<<<<<< local
 dev-python/gnome-vfs-python
-=======
 kde-misc/konq-plugins
 kde-misc/konq-plugins
 kde-misc/konq-plugins
->>>>>>> other
 dev-python/libgnomecanvas-python
