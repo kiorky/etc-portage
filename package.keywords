@@ -1955,3 +1955,4 @@ media-sound/lame ~x86
 app-arch/dpkg ~x86
 kde-base/kde-env ~x86
 dev-python/libbonobo-python ~x86
+dev-python/gconf-python ~x86
