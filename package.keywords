@@ -1954,3 +1954,4 @@ games-fps/quake3 ~x86
 media-sound/lame ~x86
 app-arch/dpkg ~x86
 kde-base/kde-env ~x86
+dev-python/libbonobo-python ~x86

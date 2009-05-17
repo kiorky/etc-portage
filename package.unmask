@@ -1641,3 +1641,4 @@ games-fps/quake3
 media-sound/lame
 app-arch/dpkg
 kde-base/kde-env
+dev-python/libbonobo-python
