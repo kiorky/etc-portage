@@ -1965,3 +1965,4 @@ dev-python/gnome-python-base ~x86
 net-libs/libproxy$ ~x86
 net-libs/libproxy ~x86
 media-sound/shell-fm ~x86
+app-misc/sdricoh_cs ~x86

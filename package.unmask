@@ -1652,3 +1652,4 @@ dev-python/gnome-python-base
 net-libs/libproxy$
 net-libs/libproxy
 media-sound/shell-fm
+app-misc/sdricoh_cs
