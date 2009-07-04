@@ -1968,3 +1968,4 @@ media-sound/shell-fm ~x86
 app-misc/sdricoh_cs ~x86
 dev-db/pgadmin3 ~x86
 x11-libs/libxcb ~x86
+x11-proto/xcb-proto ~x86
