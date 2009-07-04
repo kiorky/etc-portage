@@ -1657,3 +1657,4 @@ dev-db/pgadmin3
 x11-libs/libxcb
 x11-proto/xcb-proto
 dev-libs/eggdbus
+sys-devel/automake-wrapper
