@@ -1654,3 +1654,4 @@ net-libs/libproxy
 media-sound/shell-fm
 app-misc/sdricoh_cs
 dev-db/pgadmin3
+x11-libs/libxcb
