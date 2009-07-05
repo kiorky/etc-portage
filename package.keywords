@@ -1971,3 +1971,4 @@ x11-libs/libxcb ~x86
 x11-proto/xcb-proto ~x86
 dev-libs/eggdbus ~x86
 sys-devel/automake-wrapper ~x86
+net-nds/rpcbind ~x86

@@ -294,7 +294,7 @@ x11-libs/cairo glitz png pdf svg
 x11-libs/ecore nls opengl ssl curl dbus threads
 x11-libs/evas jpeg nls opengl png  cairo
 x11-libs/gtk+ jpeg -debug -doc tiff xinerama
-x11-libs/qt glib  -qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples
+x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples
 x11-libs/wxGTK -gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
 x11-terms/mrxvt menubar
 x11-wm/compiz -kde svg -gnome
@@ -359,10 +359,11 @@ app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
 app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
 media-sound/moodbar flac mp3 ogg vorbis
 x11-wm/compiz gtk svg dbus fuse -gnome kde -xcb
-x11-libs/qt-core ssl -debug glib -qt3support
+x11-libs/qt-core ssl -debug glib qt3support
 media-libs/libafterimage nls -examples gif jpeg -mmx png tiff
-x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite
+x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite qt3support
 x11-libs/qt-gui  cups xinerama -accessibility dbus -debug mng nas nis tiff
+x11-libs/qt-opengl qt3support
 x11-libs/vte python -debug -doc opengl
 kde-base/kmix xinerama alsa
 dev-libs/nss utils
@@ -374,7 +375,7 @@ net-libs/xulrunner ipv6 xinerama   -java xprint
 dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi doc -emacs mozsha1 subversion cvs threads
 dev-util/subversion apache2 bash-completion berkdb -java nls perl python ruby vim-syntax -dso
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
-x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres -qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
+x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
 dev-lang/swig guile php pike python tcl tk -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
 kde-base/systemsettings ssl usb xinerama -debug htmlhandbook -ieee1394 opengl
 kde-base/kdesktop xinerama -arts -debug -kdeenablefinal -kdehiddenvisibility xscreensaver 
@@ -412,7 +413,7 @@ x11-libs/qscintilla  python qt4
 dev-python/qscintilla-python qt4
 dev-db/tora kde xinerama oci8-instant-client oracle
 mail-client/mozilla-thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
-x11-libs/qt-gui  cups dbus mng nas nis -qt3support tiff xinerama accessibility -debug glib pch
+x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -debug glib pch
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
@@ -456,7 +457,7 @@ media-sound/ncmpcpp unicode curl taglib
 net-wireless/wireless-tools nls multicall
 net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3 -qt3 qt4
 net-p2p/rtorrent ipv6 -debug xmlrpc
-dev-python/PyQt4 X dbus  opengl -qt3support svg webkit
+dev-python/PyQt4 X dbus  opengl qt3support svg webkit
 gnome-base/libgnome esd
 media-sound/mumble alsa dbus -debug g15 -oss -pch portaudio -pulseaudio speech
 media-sound/amarok daap debug ifp ipod kdeprefix mp3tunes mp4 mtp njb opengl semantic-desktop  cdaudio  mysql visualizatio
