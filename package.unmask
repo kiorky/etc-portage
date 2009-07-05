@@ -1660,3 +1660,4 @@ sys-devel/automake-wrapper
 net-nds/rpcbind
 net-wireless/bluez
 dev-python/logilab-common
+sys-apps/util-linux
