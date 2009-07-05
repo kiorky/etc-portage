@@ -1661,3 +1661,4 @@ net-nds/rpcbind
 net-wireless/bluez
 dev-python/logilab-common
 sys-apps/util-linux
+sys-apps/util-linux
