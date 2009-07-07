@@ -1140,7 +1140,6 @@ sys-auth/consolekit
 sys-auth/nss_ldap
 sys-auth/pambase
 sys-auth/pam_ldap
-sys-auth/policykit
 sys-block/gparted
 sys-cluster/util-vserver
 sys-devel/autoconf
@@ -1157,7 +1156,6 @@ sys-fs/lvm2
 sys-fs/lvm-user
 sys-fs/mdadm
 sys-fs/quotatool
-sys-fs/udev
 sys-kernel/genkernel
 sys-kernel/gentoo-sources
 sys-kernel/vanilla-sources
@@ -1662,3 +1660,4 @@ net-wireless/bluez
 dev-python/logilab-common
 sys-apps/util-linux
 sys-apps/util-linux
+www-client/mozilla-firefox

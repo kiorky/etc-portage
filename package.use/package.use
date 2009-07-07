@@ -264,7 +264,7 @@ net-www/mplayerplug-in gtk divx gmedia  quicktime realmedia wmp
 nome-extra/evolution-data-server -gnome ipv6 ssl -debug -doc kerberos krb4 ldap nntp
 sys-apps/acl nls nfs
 sys-apps/coreutils nls acl  xattr
-sys-apps/hal crypt -acpi -debug dmi -doc -pcmcia
+sys-apps/hal crypt dell laptop -debug dmi -doc -pcmcia policykit acpi
 sys-apps/lm_sensors sensord
 sys-apps/paludis ash-completion qa  cran glsa qa ruby  contrarius pink
 sys-apps/pmount hal
@@ -435,7 +435,7 @@ dev-python/imaging scanner X
 media-gfx/xsane nls gimp jpeg lcms png tiff
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp -sse
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp -sse
-media-gfx/sane-backends ipv6 -doc gphoto2 usb v4l
+media-gfx/sane-backends ipv6 -doc -gphoto2 usb v4l
 app-admin/testdisk jpeg -ntfs reiserfs 
 x11-drivers/xf86-input-evdev hal
 app-text/poppler -gtk

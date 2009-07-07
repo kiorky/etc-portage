@@ -1976,3 +1976,4 @@ net-wireless/bluez ~x86
 dev-python/logilab-common ~x86
 sys-apps/util-linux ~x86
 sys-apps/util-linux ~x86
+www-client/mozilla-firefox ~x86
