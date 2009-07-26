@@ -51,7 +51,6 @@ app-editors/vim-core ~x86
 app-editors/vim ~x86
 app-emulation/cedega ~x86
 app-emulation/kqemu ~x86
-app-emulation/kqem ~x86
 app-emulation/kvm ~x86
 app-emulation/qemu-softmmu ~x86
 app-emulation/qemu-user ~x86

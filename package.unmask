@@ -37,7 +37,6 @@ app-crypt/gnupg
 app-crypt/gpgme
 app-crypt/heimdal
 app-crypt/libgssapi
-app-crypt/mit-krb5
 app-crypt/qca
 app-dicts/aspell-en
 app-dicts/aspell-fr
