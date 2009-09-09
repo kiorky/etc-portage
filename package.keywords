@@ -1985,3 +1985,4 @@ x11-libs/libICE ~x86
 x11-base/xorg-drivers ~x86
 dev-lang/pike ~x86
 net-mail/courier-imap ~x86
+virtual/postgresql-server ~x86

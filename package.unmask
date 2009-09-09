@@ -1669,3 +1669,4 @@ x11-libs/libICE
 x11-base/xorg-drivers
 dev-lang/pike
 net-mail/courier-imap
+virtual/postgresql-server
