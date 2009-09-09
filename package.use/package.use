@@ -479,3 +479,5 @@ app-text/poppler-bindings cairo gtk -qt3 qt4 -test
 app-text/djvu jpeg nls -nsplugin -qt3 threads tiff -debug -kde xml
 net-dns/avahi  bookmarks dbus gdbm gtk howl-compat ipv6 mdnsresponder-compat python -qt3 qt4 -autoipd -doc -mono -test
 net-libs/libsoup gnome
+sys-auth/consolekit pam -debug -doc policykit
+sys-fs/udev extras

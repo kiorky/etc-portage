@@ -1661,3 +1661,11 @@ sys-apps/util-linux
 sys-apps/util-linux
 www-client/mozilla-firefox
 games-puzzle/tetrinet
+x11-libs/libICE
+kde-base/libknotificationitem
+kde-base/oxygen-icons
+sys-apps/usbutils
+x11-libs/libICE
+x11-base/xorg-drivers
+dev-lang/pike
+net-mail/courier-imap

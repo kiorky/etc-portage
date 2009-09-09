@@ -1977,3 +1977,11 @@ sys-apps/util-linux ~x86
 sys-apps/util-linux ~x86
 www-client/mozilla-firefox ~x86
 games-puzzle/tetrinet ~x86
+x11-libs/libICE ~x86
+kde-base/libknotificationitem ~x86
+kde-base/oxygen-icons ~x86
+sys-apps/usbutils ~x86
+x11-libs/libICE ~x86
+x11-base/xorg-drivers ~x86
+dev-lang/pike ~x86
+net-mail/courier-imap ~x86
