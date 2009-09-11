@@ -1998,3 +1998,4 @@ gnome-base/gvfs ~x86
 app-arch/xz-utils ~x86
 kde-base/keditfiletype ~x86
 media-libs/celt ~x86
+dev-libs/protobuf ~x86

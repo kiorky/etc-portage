@@ -1683,3 +1683,4 @@ gnome-base/gvfs
 app-arch/xz-utils
 kde-base/keditfiletype
 media-libs/celt
+dev-libs/protobuf
