@@ -1655,7 +1655,6 @@ x11-proto/xcb-proto
 dev-libs/eggdbus
 sys-devel/automake-wrapper
 net-nds/rpcbind
-net-wireless/bluez
 dev-python/logilab-common
 sys-apps/util-linux
 sys-apps/util-linux
@@ -1670,3 +1669,16 @@ x11-base/xorg-drivers
 dev-lang/pike
 net-mail/courier-imap
 virtual/postgresql-server
+virtual/postgresql-server
+dev-db/postgresql-base
+dev-db/postgresql-server
+dev-db/postgresql-base
+dev-db/postgresql-server
+dev-db/postgresql-base
+dev-db/postgresql-docs
+dev-libs/ossp-uuid
+app-backup/bacula
+gnome-base/gvfs/gvfs
+gnome-base/gvfs
+app-arch/xz-utils
+kde-base/keditfiletype

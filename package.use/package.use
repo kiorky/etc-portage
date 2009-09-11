@@ -481,3 +481,7 @@ net-dns/avahi  bookmarks dbus gdbm gtk howl-compat ipv6 mdnsresponder-compat pyt
 net-libs/libsoup gnome
 sys-auth/consolekit pam -debug -doc policykit
 sys-fs/udev extras
+dev-db/postgresql-base kerberos ldap nls pam readline ssl zlib -doc pg-intdatetime threads
+dev-db/postgresql-server  nls perl python xml   tcl uuid
+app-backup/bacula X ipv6 mysql postgres python qt4 readline sqlite3 ssl tcpd -bacula-clientonly bacula-console -bacula-nodir -bacula-nosd -gnome logwatch sqlite static wxwindows gnome
+gnome-base/gvfs bluetooth hal samba archive avahi bash-completion cdda -debug -doc fuse -gnome gnome-keyring gphoto2

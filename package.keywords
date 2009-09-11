@@ -1986,3 +1986,14 @@ x11-base/xorg-drivers ~x86
 dev-lang/pike ~x86
 net-mail/courier-imap ~x86
 virtual/postgresql-server ~x86
+virtual/postgresql-server ~x86
+dev-db/postgresql-base ~x86
+dev-db/postgresql-server ~x86
+dev-db/postgresql-base ~x86
+dev-db/postgresql-docs ~x86
+dev-libs/ossp-uuid ~x86
+app-backup/bacula ~x86
+gnome-base/gvfs/gvfs ~x86
+gnome-base/gvfs ~x86
+app-arch/xz-utils ~x86
+kde-base/keditfiletype ~x86
