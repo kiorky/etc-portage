@@ -1997,3 +1997,4 @@ gnome-base/gvfs/gvfs ~x86
 gnome-base/gvfs ~x86
 app-arch/xz-utils ~x86
 kde-base/keditfiletype ~x86
+media-libs/celt ~x86
