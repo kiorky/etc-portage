@@ -1687,3 +1687,4 @@ dev-libs/protobuf
 media-libs/speex
 =media-sound/teamspeak2-client-bin-2.0.32.60-r3
 =www-plugins/mplayerplug-in-3.50
+app-arch/libarchive
