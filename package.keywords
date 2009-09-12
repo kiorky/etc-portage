@@ -1969,4 +1969,4 @@ app-arch/libarchive ~x86
 app-portage/eix ~x86
 media-libs/schroedinger ~x86
 media-libs/schroedinger ~x86
-app-strigi ~x86
+app-misc/strigi ~x86

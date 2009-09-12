@@ -1691,4 +1691,4 @@ app-arch/libarchive
 app-portage/eix
 media-libs/schroedinger
 media-libs/schroedinger
-app-strigi
+app-misc/strigi
