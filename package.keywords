@@ -1967,3 +1967,4 @@ kde-misc/yakuake ~x86
 kde-misc/youtube-servicemenu ~x86
 app-arch/libarchive ~x86
 app-portage/eix ~x86
+media-libs/schroedinger ~x86
