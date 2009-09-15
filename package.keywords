@@ -2002,3 +2002,4 @@ games-puzzle/tetrinet ~x86
 net-irc/irssi ~x86
 app-misc/strigi ~x86
 app-misc/strigi ~x86
+net-misc/ntpclient ~x86
