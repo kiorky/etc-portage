@@ -1603,8 +1603,6 @@ kde-base/akregator
 app-office/akonadi-server
 media-sound/phonon
 x11-libs/qt-phonon
-media-sound/mumble
-media-sound/murmur
 sys-fs/e2fsprogs
 www-apps/gitweb
 kde-base/konq-plugins
