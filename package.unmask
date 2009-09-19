@@ -1696,3 +1696,4 @@ app-misc/strigi
 net-misc/ntpclient
 net-im/psimedia
 kde-base/kontact
+kde-base/kontactinterfaces
