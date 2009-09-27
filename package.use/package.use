@@ -486,3 +486,4 @@ dev-db/postgresql-server  nls perl python xml   tcl uuid
 app-backup/bacula X ipv6 -mysql postgres python qt4 readline -sqlite3 ssl tcpd -bacula-clientonly bacula-console -bacula-nodir -bacula-nosd gnome logwatch -sqlite -static -wxwindows gnome
 gnome-base/gvfs bluetooth hal samba archive avahi bash-completion cdda -debug -doc fuse -gnome gnome-keyring gphoto2
 app-crypt/mit-krb5 krb4
+net-nntp/sabnzbd  rar ssl yenc -ss unzip
