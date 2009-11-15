@@ -2017,3 +2017,4 @@ x11-proto/fixesproto ~x86
 x11-proto/xf86vidmodeproto ~x86
 x11-proto/recordproto ~x86
 x11-proto/xineramaproto ~x86
+x11-proto/bigreqsproto ~x86
