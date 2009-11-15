@@ -1702,3 +1702,4 @@ kde-base/krfb
 net-nntp/sabnzbd
 dev-python/yenc
 media-gfx/digikam
+net-libs/libsoup-gnome
