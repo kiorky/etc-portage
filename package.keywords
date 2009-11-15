@@ -2015,3 +2015,4 @@ net-libs/libsoup-gnome ~x86
 net-libs/libsoup-gnome ~x86
 x11-proto/fixesproto ~x86
 x11-proto/xf86vidmodeproto ~x86
+x11-proto/recordproto ~x86
