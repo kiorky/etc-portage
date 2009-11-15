@@ -2012,3 +2012,4 @@ net-nntp/sabnzbd ~x86
 dev-python/yenc ~x86
 media-gfx/digikam ~x86
 net-libs/libsoup-gnome ~x86
+net-libs/libsoup-gnome ~x86
