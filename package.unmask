@@ -1030,7 +1030,7 @@ net-im/ekiga
 net-im/gaim
 net-im/pidgin
 net-im/psi
-net-im/twinkle
+net-voip/twinkle
 net-irc/irssi
 net-irc/irssi-python
 net-irc/irssi-svn
@@ -1415,7 +1415,7 @@ xfce-base/libxfce4util
 xfce-base/libxfcegui4
 xfce-base/xfce-mcs-manager
 xfce-base/xfce-mcs-plugins
->=xfce-extra/exo-0.3.1
+>=xfce-base/exo-0.3.1
 xfce-extra/xfce4-dev-tools
 kde-base/kdeplasma-addons
 =media-libs/x264-0.0.20081006

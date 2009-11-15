@@ -35,7 +35,7 @@
 <www-servers/apache-2.2
 <=x11-themes/gtk-engines-2.6.2
 <x11-wm/enlightenment-0.16.9999
-<=xfce-extra/exo-0.3.1
+<=xfce-base/exo-0.3.1
 >net-p2p/ktorrent-3
 sys-libs/com_err
 sys-libs/ss

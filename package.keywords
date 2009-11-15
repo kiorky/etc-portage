@@ -1054,7 +1054,7 @@ net-im/ekiga ~x86
 net-im/pidgin ~x86
 net-im/psi ~x86
 net-im/skype ~x86
-net-im/twinkle ~x86
+net-voip/twinkle ~x86
 net-irc/irssi ~x86
 net-irc/irssi-python ~x86
 net-irc/irssi-svn ~x86

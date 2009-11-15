@@ -232,7 +232,7 @@ net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples
 net-ftp/pure-ftpd mysql pam ssl vchroot  caps
 net-ftp/vsftpd  pam ssl tcpd caps logrotate
 net-im/bitlbee gnutls ipv6 jabber msn  -nss oscar ssl yahoo -debug -xinetd
-net-im/twinkle ilbc speex zrtp
+net-voip/twinkle ilbc speex zrtp
 net-irc/irssi ipv6 perl ssl socks5
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 net-libs/gecko-sdk crypt -debug -gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint
