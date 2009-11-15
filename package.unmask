@@ -1705,3 +1705,4 @@ media-gfx/digikam
 net-libs/libsoup-gnome
 net-libs/libsoup-gnome
 x11-proto/fixesproto
+x11-proto/xf86vidmodeproto
