@@ -1704,3 +1704,4 @@ dev-python/yenc
 media-gfx/digikam
 net-libs/libsoup-gnome
 net-libs/libsoup-gnome
+x11-proto/fixesproto
