@@ -2030,3 +2030,4 @@ net-fs/samba-client ~x86
 sys-libs/tdb ~x86
 dev-libs/iniparser ~x86
 sys-libs/talloc ~x86
+gnome-base/gnome-vfs ~x86
