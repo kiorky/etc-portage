@@ -1712,3 +1712,4 @@ x11-proto/bigreqsproto
 x11-proto/xcmiscproto
 x11-proto/scrnsaverproto
 sys-auth/polkit
+x11-libs/qt-multimedia
