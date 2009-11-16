@@ -2035,3 +2035,4 @@ media-libs/x264 ~x86
 net-fs/samba ~x86
 net-fs/samba-server ~x86
 sys-apps/keyutils ~x86
+dev-db/ctdb ~x86
