@@ -1721,3 +1721,4 @@ net-fs/samba-server
 sys-apps/keyutils
 dev-db/ctdb
 app-emulation/virtualbox-ose-additions
+dev-java/icedtea6-bin
