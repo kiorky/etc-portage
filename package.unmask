@@ -1720,3 +1720,4 @@ net-fs/samba
 net-fs/samba-server
 sys-apps/keyutils
 dev-db/ctdb
+app-emulation/virtualbox-ose-additions

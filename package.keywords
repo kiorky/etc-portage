@@ -2026,3 +2026,4 @@ net-fs/samba-server ~x86
 sys-apps/keyutils ~x86
 dev-db/ctdb ~x86
 =media-sound/mumble-1.1.6 ~x86
+app-emulation/virtualbox-ose-additions ~x86
