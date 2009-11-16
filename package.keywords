@@ -2033,3 +2033,4 @@ sys-libs/talloc ~x86
 gnome-base/gnome-vfs ~x86
 media-libs/x264 ~x86
 net-fs/samba ~x86
+net-fs/samba-server ~x86
