@@ -511,7 +511,6 @@ dev-libs/eggdbus ~x86
 dev-libs/embryo -*
 dev-libs/engrave -*
 dev-libs/g-wrap ~x86
-dev-libs/gdl ~x86 # Needed by anjuta-2.0.1_alpha
 dev-libs/glib ~x86
 dev-libs/gmime ~x86
 dev-libs/ilbc-rfc3951 ~x86
@@ -656,7 +655,6 @@ dev-scheme/guile ~x86
 dev-scheme/slib ~x86
 dev-util/anjuta x86
 dev-util/anjuta-cvs -*
-dev-util/anjuta~x86
 dev-util/argouml ~x86
 dev-util/bzr ~x86
 dev-util/catalyst ~x86
@@ -689,7 +687,6 @@ dev-util/netbeans ~x86
 dev-util/pkgconfig ~x86
 dev-util/pkgconfig- ~x86
 dev-util/source-highlight ~x86
-dev-util/strace. ~x86
 dev-util/subversion
 dev-util/subversion ~x86
 dev-util/wxglade ~x86
@@ -743,7 +740,6 @@ gnome-base/gnome-vfs ~x86
 gnome-base/gnome-vfs-monikers ~x86
 gnome-base/gnome-volume-manager ~x86
 gnome-base/gvfs ~x86
-gnome-base/gvfs/gvfs ~x86
 gnome-base/libbonobo
 gnome-base/libbonobo ~x86
 gnome-base/libbonoboui ~x86
@@ -977,7 +973,6 @@ media-sound/moodbar ~x86
 media-sound/mpd ~x86
 media-sound/mpd-svn ~x86 e
 media-sound/mpdscribble ~x86
-media-sound/mumble ~x86
 media-sound/murmur ~x86
 media-sound/music-applet ~x86
 media-sound/ncmpcpc ~x86
@@ -1068,7 +1063,6 @@ net-libs/libetpan ~x86
 net-libs/libnfsidmap ~x86
 net-libs/libnice ~x86
 net-libs/libproxy ~x86
-net-libs/libproxy$ ~x86
 net-libs/libsoup ~x86
 net-libs/libtorrent ~x86
 net-libs/libupnp ~x86
@@ -1140,7 +1134,6 @@ nnet-ftp/vsftpd ~x86
 nnet-p2p/azureus ~x86
 nwww-client/seamonkey ~x86
 nwww-servers/geronimo ~x86
-profiles/arch.list
 profiles/categories
 sci-libs/jmol-acme ~x86
 sys-apps/915resolution ~x86
@@ -1192,7 +1185,6 @@ sys-block/gparted ~x86
 sys-cluster/util-vserver ~x86
 sys-devel/autoconf ~x86
 sys-devel/autoconf-wrapper ~x86
-sys-devel/autogen ~x86 # Needed by anjuta-2.0.1_alpha
 sys-devel/automake ~x86
 sys-devel/automake-wrapper ~x86
 sys-devel/libtool ~x86
@@ -1849,7 +1841,6 @@ kde-base/lisa ~x86
 kde-base/lokalize ~x86
 kde-base/lskat ~x86
 kde-base/marble ~x86
-kde-base/metadata.xml ~x86
 kde-base/mimelib ~x86
 kde-base/mpeglib ~x86
 kde-base/mplayerthumbs ~x86
@@ -1951,7 +1942,6 @@ kde-misc/ksynaptics ~x86
 kde-misc/ksystemlog ~x86
 kde-misc/kvdrmon ~x86
 kde-misc/kvkbd ~x86
-kde-misc/metadata.xml ~x86
 kde-misc/metamonitor ~x86
 kde-misc/mtaskbar ~x86
 kde-misc/pwmanager ~x86
@@ -1982,7 +1972,6 @@ kde-misc/konq-plugins ~x86
 kde-misc/konq-plugins ~x86
 dev-python/libgnomecanvas-python ~x86
 dev-python/gnome-python-base ~x86
-net-libs/libproxy$ ~x86
 net-libs/libproxy ~x86
 media-sound/shell-fm ~x86
 app-misc/sdricoh_cs ~x86
@@ -2036,3 +2025,4 @@ net-fs/samba ~x86
 net-fs/samba-server ~x86
 sys-apps/keyutils ~x86
 dev-db/ctdb ~x86
+=media-sound/mumble-1.1.6 ~x86

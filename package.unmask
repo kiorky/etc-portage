@@ -620,10 +620,7 @@ dev-util/netbeans
 dev-util/pkgconfig
 dev-util/pkgconfig-
 dev-util/source-highlight
-dev-util/strace.
-dev-util/subversion
 dev-util/wxglade
-eclass/gnome2.eclass
 ev-java/jsfapi
 game-action/teewars
 games-action/bomberclone
@@ -982,7 +979,6 @@ media-video/avidemux
 media-video/avifile
 media-video/dirac
 media-video/ffmpeg
-media-video/ffmpeg3.
 media-video/freeplayer-linux
 media-video/gpac
 media-video/kaffeine
@@ -1097,7 +1093,6 @@ nnet-ftp/vsftpd
 nnet-p2p/azureus
 nwww-client/seamonkey
 nwww-servers/geronimo
-profiles/arch.list
 profiles/categories
 sci-libs/jmol-acme
 sys-apps/915resolution
@@ -1642,7 +1637,6 @@ kde-misc/konq-plugins
 kde-misc/konq-plugins
 dev-python/libgnomecanvas-python
 dev-python/gnome-python-base
-net-libs/libproxy$
 net-libs/libproxy
 media-sound/shell-fm
 app-misc/sdricoh_cs
@@ -1676,7 +1670,6 @@ dev-db/postgresql-base
 dev-db/postgresql-docs
 dev-libs/ossp-uuid
 app-backup/bacula
-gnome-base/gvfs/gvfs
 gnome-base/gvfs
 app-arch/xz-utils
 kde-base/keditfiletype

@@ -193,7 +193,7 @@ media-libs/smpeg  -debug -gtk -mmx opengl
 media-libs/win32codecs real
 media-libs/x264 mp4 threads
 media-libs/x264-svn mp4 threads
-media-libs/xine-lib   a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug musepack -oss -pulseaudio real truetype -v4l -vcd wavpack xcb xinerama
+media-libs/xine-lib   a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug -musepack -oss -pulseaudio real truetype -v4l -vcd wavpack xcb xinerama
 media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap debug ipod mp4 mtp noamazon opengl postgres visualization xinerama aac cdaudio mp3tunes 
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/grip nls vorbis
@@ -490,7 +490,7 @@ net-nntp/sabnzbd  rar ssl yenc -ss unzip
 net-nntp/sabnzbd  rar ssl yenc rss unzip
 media-gfx/digikam gphoto2 addressbook geolocation
 kde-base/marble handbook python designer-plugin gps  plasma tes
-net-fs/samba-server acl cups fam ldap ads aio avahi caps cluster -debug doc examples quota samba4 swat syslog winbind zeroconf
-net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -debug examples ldb samba4 smbsharemodes syslog tools winbind
-net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal -samba4 -syslog -winbind -zeroconf
-net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal samba4 syslog winbind zeroconf
+net-fs/samba-server acl cups fam ldap ads aio avahi caps cluster -debug doc examples quota  swat syslog winbind zeroconf
+net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -debug examples ldb  smbsharemodes syslog tools winbind
+net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal - -syslog -winbind -zeroconf
+net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
