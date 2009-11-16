@@ -1713,3 +1713,4 @@ x11-proto/xcmiscproto
 x11-proto/scrnsaverproto
 sys-auth/polkit
 x11-libs/qt-multimedia
+x11-libs/qt-qt3support

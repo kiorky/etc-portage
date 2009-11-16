@@ -2022,3 +2022,4 @@ x11-proto/xcmiscproto ~x86
 x11-proto/scrnsaverproto ~x86
 sys-auth/polkit ~x86
 x11-libs/qt-multimedia ~x86
+x11-libs/qt-qt3support ~x86
