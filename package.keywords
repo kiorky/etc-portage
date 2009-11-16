@@ -658,7 +658,6 @@ dev-util/anjuta x86
 dev-util/anjuta-cvs -*
 dev-util/anjuta~x86
 dev-util/argouml ~x86
-dev-util/boost-build ~x86
 dev-util/bzr ~x86
 dev-util/catalyst ~x86
 dev-util/cmake ~x86
@@ -2024,3 +2023,4 @@ sys-auth/polkit ~x86
 x11-libs/qt-multimedia ~x86
 x11-libs/qt-qt3support ~x86
 sys-apps/devicekit-power ~x86
+dev-libs/boost ~x86
