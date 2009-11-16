@@ -490,3 +490,7 @@ net-nntp/sabnzbd  rar ssl yenc -ss unzip
 net-nntp/sabnzbd  rar ssl yenc rss unzip
 media-gfx/digikam gphoto2 addressbook geolocation
 kde-base/marble handbook python designer-plugin gps  plasma tes
+net-fs/samba-server acl cups fam ldap ads aio avahi caps cluster -debug doc examples quota samba4 swat syslog winbind zeroconf
+net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -debug examples ldb samba4 smbsharemodes syslog tools winbind
+net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal -samba4 -syslog -winbind -zeroconf
+net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal samba4 syslog winbind zeroconf
