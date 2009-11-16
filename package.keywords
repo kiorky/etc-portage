@@ -2020,3 +2020,4 @@ x11-proto/xineramaproto ~x86
 x11-proto/bigreqsproto ~x86
 x11-proto/xcmiscproto ~x86
 x11-proto/scrnsaverproto ~x86
+sys-auth/polkit ~x86
