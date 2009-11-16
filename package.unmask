@@ -1710,3 +1710,4 @@ x11-proto/recordproto
 x11-proto/xineramaproto
 x11-proto/bigreqsproto
 x11-proto/xcmiscproto
+x11-proto/scrnsaverproto
