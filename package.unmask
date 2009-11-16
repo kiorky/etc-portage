@@ -1715,3 +1715,4 @@ x11-libs/qt-multimedia
 x11-libs/qt-qt3support
 sys-apps/devicekit-power
 dev-libs/boost
+dev-util/boost-build
