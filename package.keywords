@@ -2029,3 +2029,4 @@ net-fs/samba-libs ~x86
 net-fs/samba-client ~x86
 sys-libs/tdb ~x86
 dev-libs/iniparser ~x86
+sys-libs/talloc ~x86
