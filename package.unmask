@@ -1717,3 +1717,4 @@ sys-apps/devicekit-power
 dev-libs/boost
 dev-util/boost-build
 net-fs/samba-libs
+net-fs/samba-client

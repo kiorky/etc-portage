@@ -2026,3 +2026,4 @@ sys-apps/devicekit-power ~x86
 dev-libs/boost ~x86
 dev-util/boost-build ~x86
 net-fs/samba-libs ~x86
+net-fs/samba-client ~x86
