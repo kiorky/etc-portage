@@ -1718,3 +1718,4 @@ dev-libs/boost
 dev-util/boost-build
 net-fs/samba-libs
 net-fs/samba-client
+sys-libs/tdb
