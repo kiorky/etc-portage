@@ -2030,3 +2030,4 @@ app-emulation/virtualbox-ose-additions ~x86
 dev-java/icedtea6-bin ~x86
 net-misc/rdesktop ~x86
 x11-drivers/xf86-input-evdev ~x86
+lafilefixer ~x86
