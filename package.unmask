@@ -1723,4 +1723,4 @@ app-emulation/virtualbox-ose-additions
 dev-java/icedtea6-bin
 net-misc/rdesktop
 x11-drivers/xf86-input-evdev
-lafilefixer
+dev-util/lafilefixer
