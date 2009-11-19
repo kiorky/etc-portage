@@ -593,7 +593,6 @@ dev-scheme/guile
 dev-scheme/slib
 dev-util/anjuta
 dev-util/argouml
-dev-util/bzr
 dev-util/catalyst
 dev-util/cmake
 dev-util/debootstrap
@@ -1723,3 +1722,4 @@ dev-db/ctdb
 app-emulation/virtualbox-ose-additions
 dev-java/icedtea6-bin
 net-misc/rdesktop
+x11-drivers/xf86-input-evdev
