@@ -1724,3 +1724,5 @@ dev-java/icedtea6-bin
 net-misc/rdesktop
 x11-drivers/xf86-input-evdev
 dev-util/lafilefixer
+=media-sound/mumble-1.1.8
+sys-kernel/linux-headers
