@@ -2035,3 +2035,4 @@ dev-util/lafilefixer ~x86
 sys-kernel/linux-headers ~x86
 media-libs/liblqr ~x86
 media-libs/liblqr ~x86
+media-libs/liblqr ~x86
