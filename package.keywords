@@ -2033,3 +2033,4 @@ x11-drivers/xf86-input-evdev ~x86
 dev-util/lafilefixer ~x86
 =media-sound/mumble-1.1.8 ~x86
 sys-kernel/linux-headers ~x86
+media-libs/liblqr ~x86
