@@ -2,4 +2,7 @@ app-emulation/virtualbox-ose-additions PUEL
 dev-java/sun-jdk dlj-1.1
 games-fps/quake3-bin Q3AEULA
 games-fps/quake3-teamarena Q3AEULA
+games-fps/quake3-data Q3AEULA
+dev-java/sun-jdk sun-bcla-java-vm  sun-prerelease-jdk6
+
 
