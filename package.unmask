@@ -1733,4 +1733,4 @@ media-libs/liblqr
 media-libs/liblqr
 net-firewall/shorewall
 kde-base/kdebase-runtime-meta
-=x11-libs/libvdpau
+x11-libs/libvdpau

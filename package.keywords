@@ -2040,4 +2040,4 @@ media-libs/liblqr ~x86
 media-libs/liblqr ~x86
 net-firewall/shorewall ~x86
 kde-base/kdebase-runtime-meta ~x86
-=x11-libs/libvdpau ~x86
+x11-libs/libvdpau ~x86
