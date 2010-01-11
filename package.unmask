@@ -23,6 +23,7 @@ app-admin/testdisk
 app-admin/webapp-config
 app-arch/dpkg
 app-arch/file-roller
+app-arch/libarchive
 app-arch/mt-st
 app-arch/par2cmdline
 app-arch/unace
@@ -42,7 +43,7 @@ app-dicts/aspell-fr
 app-doc/xorg-docs
 app-doc/xorg-sgml-doctools
 app-editors/bluefish
-app-editors/emacs-cvs
+app-editors/emacs-vcs
 app-editors/gedit
 app-editors/gedit-plugins
 app-editors/gvim
@@ -51,7 +52,7 @@ app-editors/vim-core
 app-emulation/cedega
 app-emulation/kqem
 app-emulation/kqemu
-app-emulation/kvm
+app-emulation/qemu-kvm
 app-emulation/qemu
 app-emulation/qemu-softmmu
 app-emulation/qemu-user
@@ -1731,7 +1732,3 @@ media-libs/liblqr
 media-libs/liblqr
 media-libs/liblqr
 net-firewall/shorewall
-kde-base/kdebase-runtime-meta
-x11-libs/libvdpau
-app-arch/libarchive
-app-arch/libarchive

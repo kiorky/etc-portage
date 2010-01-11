@@ -355,8 +355,8 @@ dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml z
 dev-db/postgis geos proj
 net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
 media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp -sse svg tiff wmf
-app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
-app-emulation/kvm bios gcc4  gnutls kvm  qemu sdl
+app-emulation/qemu-kvm bios gcc4  gnutls kvm  qemu sdl
+app-emulation/qemu-kvm bios gcc4  gnutls kvm  qemu sdl
 media-sound/moodbar flac mp3 ogg vorbis
 x11-wm/compiz gtk svg dbus fuse -gnome kde -xcb
 x11-libs/qt-core ssl -debug glib qt3support
@@ -400,7 +400,7 @@ mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl
 kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace connectionstatus contactnotes -debug gadu -groupwise highlight -history -irc jingle -kdeenablefinal -kdehiddenvisibility -latex netmeeting nowlistening sametime sms statistics texteffect translator webpresence -winpopup xscreensaver yahoo
 media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
-app-emulation/kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
+app-emulation/qemu-kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
 games-action/teewars -dedicated racemod server
 media-sound/alsa-driver midi oss
 www-apps/mantisbt vhosts
@@ -429,8 +429,8 @@ media-libs/libtheora encode
 media-video/x264-encoder gtk -mp4 threads
 app-emulation/virtualbox alsa additions headless
 app-emulation/virtualbox alsa additions -headless
-app-emulation/kvm alsa gnutls ncurses sdl  modules
-app-emulation/kvm alsa gnutls ncurses sdl gcc4    kvm   modules
+app-emulation/qemu-kvm alsa gnutls ncurses sdl  modules
+app-emulation/qemu-kvm alsa gnutls ncurses sdl gcc4    kvm   modules
 dev-python/imaging scanner X 
 media-gfx/xsane nls gimp jpeg lcms png tiff
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp -sse
@@ -494,5 +494,3 @@ net-fs/samba-server acl cups fam ldap ads aio avahi caps cluster -debug doc exam
 net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -debug examples ldb  smbsharemodes syslog tools winbind
 net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal - -syslog -winbind -zeroconf
 net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
-net-misc/curl ipv6 kerberos ldap ares gnutls idn libssh2 nss openssl -test
-app-arch/libarchive  acl bzip2 lzma zlib xattr

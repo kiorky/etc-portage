@@ -39,6 +39,7 @@ app-admin/testdisk ~x86
 app-admin/webapp-config ~x86
 app-arch/dpkg ~x86
 app-arch/file-roller ~x86
+app-arch/libarchive ~x86
 app-arch/mt-st ~x86
 app-arch/par2cmdline ~x86
 app-arch/unace ~x86
@@ -1249,7 +1250,7 @@ www-client/httrack ~x86
 www-client/mozilla ~x86
 www-client/mozilla-bin ~x86
 www-client/mozilla-firefox ~x86
-www-client/mozilla-firefox-bin ~x86
+www-client/firefox-bin ~x86
 www-client/opera ~x86
 www-servers/apache ~x86
 www-servers/axis ~x86
@@ -1882,7 +1883,7 @@ kde-base/systemsettings ~x86
 kde-base/thumbnailers ~x86
 kde-base/umbrello ~x86
 kde-misc/basket ~x86
-kde-misc/bilbo ~x86
+kde-misc/blogilo ~x86
 kde-misc/dolphin ~x86
 kde-misc/filelight ~x86
 kde-misc/filelight-i18n ~x86
@@ -2040,5 +2041,3 @@ media-libs/liblqr ~x86
 net-firewall/shorewall ~x86
 kde-base/kdebase-runtime-meta ~x86
 x11-libs/libvdpau ~x86
-app-arch/libarchive ~x86
-app-arch/libarchive ~x86
