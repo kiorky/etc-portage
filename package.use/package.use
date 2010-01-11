@@ -495,3 +495,4 @@ net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -deb
 net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal - -syslog -winbind -zeroconf
 net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
 net-misc/curl ipv6 kerberos ldap ares gnutls idn libssh2 nss openssl -test
+app-arch/libarchive  acl bzip2 lzma zlib xattr
