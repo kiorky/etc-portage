@@ -494,3 +494,4 @@ net-fs/samba-server acl cups fam ldap ads aio avahi caps cluster -debug doc exam
 net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -debug examples ldb  smbsharemodes syslog tools winbind
 net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal - -syslog -winbind -zeroconf
 net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
+net-misc/curl ipv6 kerberos ldap ares gnutls idn libssh2 nss openssl
