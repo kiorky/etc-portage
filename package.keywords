@@ -39,7 +39,6 @@ app-admin/testdisk ~x86
 app-admin/webapp-config ~x86
 app-arch/dpkg ~x86
 app-arch/file-roller ~x86
-app-arch/libarchive ~x86
 app-arch/mt-st ~x86
 app-arch/par2cmdline ~x86
 app-arch/unace ~x86
@@ -2041,3 +2040,4 @@ media-libs/liblqr ~x86
 net-firewall/shorewall ~x86
 kde-base/kdebase-runtime-meta ~x86
 x11-libs/libvdpau ~x86
+app-arch/libarchive ~x86
