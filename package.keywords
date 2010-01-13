@@ -2042,3 +2042,4 @@ net-firewall/shorewall ~x86
 kde-base/kdebase-runtime-meta ~x86
 x11-libs/libvdpau ~x86
 =sys-libs/glibc-2.11-r1
+dev-lang/ruby ~x86
