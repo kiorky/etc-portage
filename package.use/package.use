@@ -8,9 +8,9 @@ app-crypt/heimdal  berkdb ipv6 ssl ldap
 app-crypt/pinentr ncurses  qt3
 app-crypt/pinentry ncurses  -qt3
 app-doc/doxygen qt unicode doc tetex
-app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw ruby
-app-editors/vim acl bash-completion cscope gpm nls perl python ruby vim-pager -minimal -vim-with-x
-app-editors/vim-core acl bash-completion nls -livecd
+app-editors/gvim acl gpm gtk nls perl python aqua bash-completion cscope gnome -motif -netbeans nextaw -ruby
+app-editors/vim acl bash-completion cscope gpm nls perl python -ruby vim-pager -minimal -vim-with-x
+app-editors/vim-core acl bash-completion nls -livecd -ruby
 app-emulation/qemu-softmmu alsa sdl gnutls kqemu
 app-emulation/virtualbox hal nowrapper -sdk vboxbfe vditool
 app-emulation/wine  alsa cups lcms nas ncurses  jpeg  xml scanner X alsa cups jpeg lcms ldap nas ncurses scanner xml dbus -esd hal -jack opengl oss
