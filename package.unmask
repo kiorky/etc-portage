@@ -1736,3 +1736,4 @@ dev-lang/ruby
 www-servers/nginx
 media-libs/libpgf
 net-misc/modemmanager
+media-libs/libtheora
