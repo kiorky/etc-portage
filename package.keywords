@@ -2044,3 +2044,4 @@ x11-libs/libvdpau ~x86
 =sys-libs/glibc-2.11-r1
 dev-lang/ruby ~x86
 www-servers/nginx ~x86
+media-libs/libpgf ~x86

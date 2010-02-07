@@ -1734,3 +1734,4 @@ media-libs/liblqr
 net-firewall/shorewall
 dev-lang/ruby
 www-servers/nginx
+media-libs/libpgf
