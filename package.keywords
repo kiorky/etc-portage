@@ -2045,3 +2045,4 @@ x11-libs/libvdpau ~x86
 dev-lang/ruby ~x86
 www-servers/nginx ~x86
 media-libs/libpgf ~x86
+net-misc/modemmanager ~x86
