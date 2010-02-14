@@ -1737,3 +1737,4 @@ net-misc/modemmanager
 media-libs/libtheora
 dev-libs/libattica
 dev-libs/libattica
+=x11-apps/ttmkfdir-3.0.9-r3

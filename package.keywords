@@ -2054,3 +2054,7 @@ dev-libs/shared-desktop-ontologies ~x86
 dev-db/virtuoso-server ~x86
 dev-db/virtuoso-odbc ~x86
 net-libs/libssh ~x86
+kde-base/kdepim-runtime ~x86
+kde-base/attica ~x86
+kde-base/solid-runtime x86
+kde-base/libplasmagenericshell ~x86
