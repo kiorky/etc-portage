@@ -1706,15 +1706,11 @@ x11-libs/qt-qt3support
 sys-apps/devicekit-power
 dev-libs/boost
 dev-util/boost-build
-net-fs/samba-libs
-net-fs/samba-client
 sys-libs/tdb
 dev-libs/iniparser
 sys-libs/talloc
 gnome-base/gnome-vfs
 media-libs/x264
-net-fs/samba
-net-fs/samba-server
 sys-apps/keyutils
 dev-db/ctdb
 app-emulation/virtualbox-ose-additions
