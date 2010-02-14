@@ -126,8 +126,6 @@ dev-db/glom
 dev-db/hsqldb
 dev-db/libiodbc
 dev-db/libpq
-dev-db/mysql
->=dev-db/mysql-4.1
 dev-db/mysql-gui-tools
 dev-db/mysql-super-smack
 dev-db/oracle-instantclient-basic
@@ -1737,3 +1735,4 @@ www-servers/nginx
 media-libs/libpgf
 net-misc/modemmanager
 media-libs/libtheora
+dev-libs/libattica
