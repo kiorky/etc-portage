@@ -1226,7 +1226,6 @@ x11-base/x11-drm
 x11-base/xorg-server
 x11-base/xorg-x11
 x11-drivers/ati-drivers
-x11-drivers/nvidia-drivers
 x11-drivers/xf86-input-acecad
 x11-drivers/xf86-input-aiptek
 x11-drivers/xf86-input-calcomp
