@@ -1734,3 +1734,5 @@ dev-libs/libattica
 dev-libs/libattica
 =x11-apps/ttmkfdir-3.0.9-r3
 kde-base/solid-runtime
+=dev-java/ant-core-1.8.0
+media-libs/libmpdclient
