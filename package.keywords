@@ -2061,3 +2061,4 @@ kde-base/libplasmagenericshell ~x86
 kde-base/solid-runtime ~x86
 =app-mobilephone/obex-data-server-0.4.5 ~x86
 media-libs/libmpdclient ~x86
+dev-db/virtuoso-server ~x86

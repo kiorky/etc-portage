@@ -1736,3 +1736,4 @@ dev-libs/libattica
 kde-base/solid-runtime
 =dev-java/ant-core-1.8.0
 media-libs/libmpdclient
+dev-db/virtuoso-server
