@@ -2065,3 +2065,5 @@ dev-db/virtuoso-server ~x86
 media-sound/teamspeak-client-bin ~x86
 media-sound/teamspeak-client-bin ~x86
 media-sound/teamspeak-client-bin ~x86
+media-video/nvidia-settings ~x86
+x11-drivers/nvidia-drivers ~x86

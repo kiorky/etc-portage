@@ -981,7 +981,6 @@ media-video/gpac
 media-video/kaffeine
 media-video/kmplayer
 media-video/mplayer
-media-video/nvidia-settings
 media-video/ogle
 media-video/smplayer
 media-video/totem
@@ -1740,3 +1739,5 @@ dev-db/virtuoso-server
 media-sound/teamspeak-client-bin
 media-sound/teamspeak-client-bin
 media-sound/teamspeak-client-bin
+media-video/nvidia-settings
+x11-drivers/nvidia-drivers
