@@ -2072,3 +2072,4 @@ mail-client/evolution ~x86
 dev-python/evolution-python ~x86
 mail-client/evolution ~x86
 dev-python/evolution-python ~x86
+mail-client/sylpheed ~x86
