@@ -1744,3 +1744,5 @@ x11-drivers/nvidia-drivers
 kde-base/kmail
 mail-client/evolution
 dev-python/evolution-python
+mail-client/evolution
+dev-python/evolution-python
