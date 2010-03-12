@@ -2074,3 +2074,5 @@ mail-client/evolution ~x86
 dev-python/evolution-python ~x86
 mail-client/sylpheed ~x86
 dev-python/gnome-python-desktop-base ~x86
+media-sound/ario ~x86
+media-sound/sonata ~x86
