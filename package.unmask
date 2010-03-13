@@ -1750,3 +1750,4 @@ mail-client/sylpheed
 dev-python/gnome-python-desktop-base
 media-sound/ario
 media-sound/sonata
+app-admin/python-updater

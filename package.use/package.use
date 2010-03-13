@@ -498,3 +498,5 @@ www-servers/nginx ipv6 pcre perl ssl zlib addition -aio -debug fastcgi flv imap 
 app-text/poppler abiword lcms qt4 utils xpdf-headers cairo -cjk -debug -doc exceptions jpeg jpeg2k png 
 dev-db/sqlite fts3 readline threadsafe -debug -doc extensions -icu secure-delete soundex tcl -test
 
+media-sound/sonata trayicon dbus lyrics taglib
+media-sound/ario  nls python -audioscrobbler dbus -debug idle -ibnotify taglib -zeroconf
