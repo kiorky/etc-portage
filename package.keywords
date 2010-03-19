@@ -656,7 +656,7 @@ dev-scheme/slib ~x86
 dev-util/anjuta x86
 dev-util/anjuta-cvs -*
 dev-util/argouml ~x86
-dev-util/bzr ~x86
+dev-vcs/bzr ~x86
 dev-util/catalyst ~x86
 dev-util/cmake ~x86
 dev-util/cogito ~x86
@@ -675,14 +675,14 @@ dev-util/gtk-doc-am ~x86
 dev-util/hgsvn ~x86
 dev-util/intltool ~x86
 dev-util/kbuild ~x86
-dev-util/kdesvn ~x86
+dev-vcs/kdesvn ~x86
 dev-util/kdevelop ~x86
 dev-util/meld ~x86
-dev-util/mercurial ~x86
+dev-vcs/mercurial ~x86
 dev-util/mono-tools ~x86
 dev-util/monodevelop ~x86
 dev-util/monodoc ~x86
-dev-util/monotone ~x86
+dev-vcs/monotone ~x86
 dev-util/netbeans ~x86
 dev-util/pkgconfig ~x86
 dev-util/pkgconfig- ~x86
@@ -2076,6 +2076,9 @@ mail-client/sylpheed ~x86
 dev-python/gnome-python-desktop-base ~x86
 media-sound/ario ~x86
 media-sound/sonata ~x86
+<<<<<<< local
+=======
 app-admin/python-updater ~x86
 media-libs/jpeg ~x86
 dev-util/qgit ~x86
+>>>>>>> other

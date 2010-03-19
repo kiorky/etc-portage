@@ -313,7 +313,7 @@ sys-apps/pciutils -zlib
 x11-themes/gtk-engines-qtcurve mozilla
 x11-themes/gtk-engines-qtcurve mozilla
 dev-db/phppgadmin vhosts
-dev-util/mercurial bash-completion zsh-completion -emacs
+dev-vcs/mercurial bash-completion zsh-completion -emacs
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
 dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
 dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
@@ -420,7 +420,7 @@ media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
 www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  -iceweasel  startup-notification gnome 
 media-video/gpac aac alsa amr ffmpeg ipv6 jpeg mad ogg opengl oss png sdl ssl theora truetype unicode vorbis wxwindows xvid -debug javascript jpeg2k xml
 mail-filter/procmail mbox
-dev-util/bzr  bash-completion curl -emacs sftp -test
+dev-vcs/bzr  bash-completion curl -emacs sftp -test
 dev-python/paste  flup openid
 sys-fs/lvm2  lvm1 readline static clvm cman gulm 
 media-libs/libcaca   X ncurses -doc imlib -mono -nocxx opengl ruby slang
