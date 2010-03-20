@@ -1750,9 +1750,6 @@ mail-client/sylpheed
 dev-python/gnome-python-desktop-base
 media-sound/ario
 media-sound/sonata
-<<<<<<< local
-=======
 app-admin/python-updater
 media-libs/jpeg
 dev-util/qgit
->>>>>>> other

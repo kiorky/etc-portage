@@ -2076,9 +2076,6 @@ mail-client/sylpheed ~x86
 dev-python/gnome-python-desktop-base ~x86
 media-sound/ario ~x86
 media-sound/sonata ~x86
-<<<<<<< local
-=======
 app-admin/python-updater ~x86
 media-libs/jpeg ~x86
 dev-util/qgit ~x86
->>>>>>> other
