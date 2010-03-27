@@ -1753,3 +1753,4 @@ media-sound/sonata
 app-admin/python-updater
 media-libs/jpeg
 dev-util/qgit
+www-client/chromium

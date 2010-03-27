@@ -2079,3 +2079,4 @@ media-sound/sonata ~x86
 app-admin/python-updater ~x86
 media-libs/jpeg ~x86
 dev-util/qgit ~x86
+www-client/chromium ~x86
