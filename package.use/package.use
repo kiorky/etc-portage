@@ -500,3 +500,4 @@ dev-db/sqlite fts3 readline threadsafe -debug -doc extensions -icu secure-delete
 
 media-sound/sonata trayicon dbus lyrics taglib
 media-sound/ario  nls python -audioscrobbler dbus -debug idle -ibnotify taglib -zeroconf
+www-client/chromium ffmpeg plugins-symlink bindist
