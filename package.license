@@ -7,3 +7,6 @@ dev-java/sun-jdk sun-bcla-java-vm  sun-prerelease-jdk6
 
 
 net-im/skype skype-eula
+dev-java/sun-jce-bin sun-bcla-java-vm
+
+
