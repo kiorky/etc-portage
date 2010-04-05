@@ -1754,7 +1754,4 @@ app-admin/python-updater
 media-libs/jpeg
 dev-util/qgit
 www-client/chromium
-<<<<<<< local
-=======
 dev-ruby/rake-compiler
->>>>>>> other
