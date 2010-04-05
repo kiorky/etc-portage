@@ -314,8 +314,8 @@ x11-themes/gtk-engines-qtcurve mozilla
 x11-themes/gtk-engines-qtcurve mozilla
 dev-db/phppgadmin vhosts
 dev-vcs/mercurial bash-completion zsh-completion -emacs
-dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
-dev-util/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
+dev-vcs/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webdav
+dev-vcs/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
 dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
 dev-php5/pecl-pdo mysql postgres sqlite
 www-client/mozilla-firefox ipv6 xinerama bindist -debug -filepicker -gnome java mozdevelop -moznopango -restrict-javascript xforms xprint
@@ -372,7 +372,7 @@ net-analyzer/nmap -gtk ssl
 net-libs/xulrunner ipv6 xinerama   java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
-dev-util/git bash-completion curl -gtk iconv perl tk webdav cgi doc -emacs mozsha1 subversion cvs threads
+dev-vcs/git bash-completion curl -gtk iconv perl tk webdav cgi doc -emacs mozsha1 subversion cvs threads
 dev-util/subversion apache2 bash-completion berkdb -java nls perl python ruby vim-syntax -dso
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
@@ -500,4 +500,3 @@ dev-db/sqlite fts3 readline threadsafe -debug -doc extensions -icu secure-delete
 
 media-sound/sonata trayicon dbus lyrics taglib
 media-sound/ario  nls python -audioscrobbler dbus -debug idle -ibnotify taglib -zeroconf
-www-client/chromium ffmpeg plugins-symlink bindist
