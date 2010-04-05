@@ -664,7 +664,7 @@ dev-util/debootstrap ~x86
 dev-util/devhelp ~x86
 dev-util/e_utils -*
 dev-util/eclipse-sdk ~x86
-dev-util/git ~x86
+dev-vcs/git ~x86
 dev-util/glade -* ~x86
 dev-util/glademm ~x86
 dev-util/gnome-build -* ~x86
@@ -2080,5 +2080,4 @@ app-admin/python-updater ~x86
 media-libs/jpeg ~x86
 dev-util/qgit ~x86
 www-client/chromium ~x86
-=virtual/mysql-5.1 ~x86
-dev-java/maven-bin ~x86
+dev-ruby/rake-compiler ~x86
