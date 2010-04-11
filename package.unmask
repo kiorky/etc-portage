@@ -1756,4 +1756,3 @@ dev-util/qgit
 www-client/chromium
 dev-ruby/rake-compiler
 app-admin/eselect-maven
-virtual/mysql
