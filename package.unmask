@@ -596,7 +596,7 @@ dev-util/cmake
 dev-util/debootstrap
 dev-util/devhelp
 dev-util/eclipse-sdk
-dev-util/git
+dev-vcs/git
 dev-util/glade
 dev-util/glademm
 dev-util/gperf
@@ -1754,4 +1754,4 @@ app-admin/python-updater
 media-libs/jpeg
 dev-util/qgit
 www-client/chromium
-=virtual/mysql-5.1
+net-im/minbif
