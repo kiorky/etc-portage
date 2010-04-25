@@ -2080,7 +2080,7 @@ app-admin/python-updater ~x86
 media-libs/jpeg ~x86
 dev-util/qgit ~x86
 www-client/chromium ~x86
-net-im/minbif -*
+net-im/minbif ~x86
 dev-ruby/rake-compiler ~x86
 app-admin/eselect-maven ~x86
 virtual/mysql ~x86
