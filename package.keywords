@@ -2084,3 +2084,5 @@ net-im/minbif ~x86
 dev-ruby/rake-compiler ~x86
 app-admin/eselect-maven ~x86
 virtual/mysql ~x86
+dev-python/pyalsa ~x86
+sys-power/pm-quirks ~x86
