@@ -1754,4 +1754,9 @@ app-admin/python-updater
 media-libs/jpeg
 dev-util/qgit
 www-client/chromium
+<<<<<<< local
 net-im/minbif
+=======
+dev-ruby/rake-compiler
+app-admin/eselect-maven
+>>>>>>> other
