@@ -1760,3 +1760,4 @@ app-admin/eselect-maven
 dev-lang/orc
 dev-perl/Mail-DKIM
 dev-perl/NetAddr-IP
+dev-perl/Mail-SPF

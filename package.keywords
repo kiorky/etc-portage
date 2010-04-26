@@ -2089,3 +2089,4 @@ sys-power/pm-quirks ~x86
 dev-lang/orc ~x86
 dev-perl/Mail-DKIM ~x86
 dev-perl/NetAddr-IP ~x86
+dev-perl/Mail-SPF ~x86
