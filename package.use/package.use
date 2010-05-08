@@ -502,3 +502,5 @@ media-sound/sonata trayicon dbus lyrics taglib
 media-sound/ario  nls python -audioscrobbler dbus -debug idle -ibnotify taglib -zeroconf
 net-im/pidgin gadu gnutls gtk ncurses nls perl prediction qq sasl silc startup-notification xscreensaver dbus -debug -doc eds groupwise gstreamer idn meanwhile -networkmanager spell tcl tk zephyr -zeroconf
 net-im/minbif gstreamer tls 
+www-client/chromium mp3  x264
+
