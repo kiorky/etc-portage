@@ -133,7 +133,6 @@ dev-db/pgadmin3
 dev-db/phpmyadmin
 dev-db/phppgadmin
 dev-db/postgis
-dev-db/postgresql
 dev-db/qt-unixODBC
 dev-db/sqlite
 dev-db/tora
@@ -1167,9 +1166,6 @@ virtual/c++-tr1-functional
 virtual/c++-tr1-memory
 virtual/c++-tr1-type-traits
 virtual/emacs
-virtual/postgresql-base
-virtual/postgresql-libs
-virtual/postgresql-server
 virtual/xft
 www-apache/mod_fastcgi
 www-apache/mod_gnutls
@@ -1655,14 +1651,6 @@ x11-libs/libICE
 x11-base/xorg-drivers
 dev-lang/pike
 net-mail/courier-imap
-virtual/postgresql-server
-virtual/postgresql-server
-dev-db/postgresql-base
-dev-db/postgresql-server
-dev-db/postgresql-base
-dev-db/postgresql-server
-dev-db/postgresql-base
-dev-db/postgresql-docs
 dev-libs/ossp-uuid
 app-backup/bacula
 gnome-base/gvfs
