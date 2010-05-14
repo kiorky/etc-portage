@@ -2092,3 +2092,5 @@ dev-perl/NetAddr-IP ~x86 ~amd64
 dev-perl/Mail-SPF ~x86 ~amd64
 app-text/texlive ~x86 ~amd64
 app-text/texlive ~x86 ~amd64
+app-arch/lzma ~x86
+dev-db/libpq ~x86

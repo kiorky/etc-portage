@@ -1763,3 +1763,5 @@ dev-perl/NetAddr-IP
 dev-perl/Mail-SPF
 app-text/texlive
 app-text/texlive
+app-arch/lzma
+dev-db/libpq
