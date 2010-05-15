@@ -2094,3 +2094,4 @@ app-text/texlive ~x86 ~amd64
 app-text/texlive ~x86 ~amd64
 app-arch/lzma ~x86
 dev-db/libpq ~x86
+app-text/texlive-core ~x86
