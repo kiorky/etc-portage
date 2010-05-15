@@ -2184,3 +2184,4 @@ dev-texlive/texlive-science ~x86 ~amd64
 dev-texlive/texlive-texinfo ~x86 ~amd64
 dev-texlive/texlive-xetex ~x86 ~amd64
 =app-text/xdvik ~x86
+=app-text/xdvik ~x86
