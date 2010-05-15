@@ -2097,3 +2097,5 @@ dev-db/libpq ~x86
 app-text/texlive-core ~x86
 dev-texlive/texlive-music ~x86
 media-libs/silgraphite ~x86
+dev-texlive/texlive-latex ~x86
+app-text/teckit ~x86
