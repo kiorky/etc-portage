@@ -2212,4 +2212,4 @@ dev-java/ant-nodeps ~x86 ~amd64
 dev-java/ant-owanttask ~x86 ~amd64
 dev-java/ant-swing ~x86 ~amd64
 dev-java/ant-testutil ~x86 ~amd64
-dev-java/ant-trax² ~x86 ~amd64
+dev-java/ant-trax ~x86 ~amd64
