@@ -2214,5 +2214,3 @@ dev-java/ant-swing ~x86 ~amd64
 dev-java/ant-testutil ~x86 ~amd64
 dev-java/ant-trax ~x86 ~amd64
 sys-devel/binutils ~x86 ~amd64
-media-libs/libpng ~x86 ~amd64
-media-libs/libpng ~x86 ~amd64
