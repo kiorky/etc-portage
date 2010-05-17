@@ -504,4 +504,5 @@ net-im/pidgin gadu gnutls gtk ncurses nls perl prediction qq sasl silc startup-n
 net-im/minbif gstreamer tls 
 www-client/chromium mp3  x264
 
+net-im/gajim  X crypt dbus libnotify nls spell -avahi -gnome idle srv trayicon xhtml
 sys-devel/binutils multitarget
