@@ -2215,7 +2215,6 @@ dev-java/ant-testutil ~x86 ~amd64
 dev-java/ant-trax ~x86 ~amd64
 sys-devel/binutils ~x86 ~amd64
 net-fs/samba ~x86 ~amd64
-sys-devel/gcc ~x86 ~amd64
 media-libs/mediastreamer ~x86 ~amd64
 media-libs/mediastreamer ~x86 ~amd64
 net-libs/libmsn ~x86 ~amd64
