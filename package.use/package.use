@@ -212,7 +212,7 @@ media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode fa
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
 media-video/kmplayer mplayer
-media-video/mplayer aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  -opengl oss png real samba  sdl -svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb -dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt -sse -sse2 tivo -v4l -v4l2 vidix xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif -svga
+media-video/mplayer aac alib  alsa  bidi   dts  dvd  dvdread gtk encode  esd  nas nls  nvidia  -opengl oss png real samba  sdl -svga  tga  theora   truetype vorbis xanim  -xmms  xv  xvid  win32codecs  lzo matroska -matrox -mmx -mmxext musepack openal x264  speex  -3dnow -3dnowext a52 aalib -altivec amr -arts -bindist bl cddb cdparanoia cpudetection -custom-cflags -debug dga -directfb -doc -dv dvb -dvdnav enca -fbcon ftp ggi iconv -ivtv -jack -joystick libcaca -lirc livecd md5sum -mmx -mmxext mp2 mp3 pnm quicktime radio rar -rtc srt sse sse2 tivo -v4l -v4l2 vidix xinerama xvmc zoran cdparanoia  dv dvb enca  iconv libcaca aalib  live mad jpeg  gif -svga
 media-video/nvidia-glx x86 ~x86 dlloader
 media-video/totem -gnome a52 dbus -debug dvd -firefox flac hal -lirc mad mpeg -nsplugin -nvtv ogg theora vorbis xine xv
 media-video/transcode a52 dvdread fame ffmpeg  gtk imagemagick  jpeg lzo  mjpeg mp3  mpeg network ogg  quicktime sdl  theora  truetype  vorbis  xml2  xvid
@@ -354,7 +354,7 @@ dev-db/libpq	  kerberos nls pam pg-intdatetime readline ssl -threads zlib
 dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml zlib -doc 
 dev-db/postgis geos proj
 net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
-media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp -sse svg tiff wmf
+media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp sse svg tiff wmf
 app-emulation/qemu-kvm bios gcc4  gnutls kvm  qemu sdl
 app-emulation/qemu-kvm bios gcc4  gnutls kvm  qemu sdl
 media-sound/moodbar flac mp3 ogg vorbis
@@ -386,7 +386,7 @@ kde-base/plasma xinerama -debug htmlhandbook xcomposite
 kde-base/libkcddb  htmlhandbook -musicbrainz
 kde-base/libkcddb  htmlhandbook musicbrainz
 kde-base/libtaskmanager xcomposite
-kde-base/kdelibs acl alsa bzip2 fam jpeg2k kerberos nls openexr pcre semantic-desktop spell ssl -3dnow -altivec bindist -debug -doc htmlhandbook -mmx opengl -sse -sse2 -test -zeroconf
+kde-base/kdelibs acl alsa bzip2 fam jpeg2k kerberos nls openexr pcre semantic-desktop spell ssl -3dnow -altivec bindist -debug -doc htmlhandbook -mmx opengl sse sse2 -test -zeroconf
 app-misc/strigi clucene dbus exiv2 qt4 -debug hyperestraier inotify java 
 kde-base/ark  archive -debug -htmlhandbook zip
 kde-base/kdeartwork-kscreensaver  opengl xscreensaver
@@ -424,7 +424,7 @@ dev-vcs/bzr  bash-completion curl -emacs sftp -test
 dev-python/paste  flup openid
 sys-fs/lvm2  lvm1 readline static clvm cman gulm 
 media-libs/libcaca   X ncurses -doc imlib -mono -nocxx opengl ruby slang
-media-video/vlc X qt4 a52 aac aalib alsa avahi bidi cdda cddb debug dvb dvd ffmpeg flac ggi gnutls hal httpd libcaca libgcrypt libnotify live matroska mp3 mpeg musepack ncurses ogg opengl png rtsp samba sdl sdl-image seamonkey shout speex stream svg svga theora truetype upnp v4l vcd vlm vorbis win32codecs x264 xinerama xml xosd xv  -arts atmo cdio dbus -dc1394 -directfb -dts -esd -fbcon -fluidsynth gnome id3tag -jack -lirc -lua -mmx -modplug -musicbrainz -nsplugin -optimisememory -oss -pulseaudio -pvr qt4 -remoteosd skins -sse taglib twolame -v4l2 vcdx xulrunner
+media-video/vlc X qt4 a52 aac aalib alsa avahi bidi cdda cddb debug dvb dvd ffmpeg flac ggi gnutls hal httpd libcaca libgcrypt libnotify live matroska mp3 mpeg musepack ncurses ogg opengl png rtsp samba sdl sdl-image seamonkey shout speex stream svg svga theora truetype upnp v4l vcd vlm vorbis win32codecs x264 xinerama xml xosd xv  -arts atmo cdio dbus -dc1394 -directfb -dts -esd -fbcon -fluidsynth gnome id3tag -jack -lirc -lua -mmx -modplug -musicbrainz -nsplugin -optimisememory -oss -pulseaudio -pvr qt4 -remoteosd skins sse taglib twolame -v4l2 vcdx xulrunner
 media-libs/libtheora encode
 media-video/x264-encoder gtk -mp4 threads
 app-emulation/virtualbox alsa additions headless
@@ -433,8 +433,8 @@ app-emulation/qemu-kvm alsa gnutls ncurses sdl  modules
 app-emulation/qemu-kvm alsa gnutls ncurses sdl gcc4    kvm   modules
 dev-python/imaging scanner X 
 media-gfx/xsane nls gimp jpeg lcms png tiff
-media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp -sse
-media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp -sse
+media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp sse
+media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp sse
 media-gfx/sane-backends ipv6 -doc -gphoto2 usb v4l
 app-admin/testdisk jpeg -ntfs reiserfs 
 x11-drivers/xf86-input-evdev hal
