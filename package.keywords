@@ -2218,3 +2218,5 @@ net-fs/samba ~x86 ~amd64
 media-libs/mediastreamer ~x86 ~amd64
 media-libs/mediastreamer ~x86 ~amd64
 net-libs/libmsn ~x86 ~amd64
+dev-java/ant* ~x86 ~amd64
+dev-java/ant ~x86 ~amd64

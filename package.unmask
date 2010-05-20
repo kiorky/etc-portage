@@ -1791,3 +1791,5 @@ dev-java/ant-trax
 media-libs/mediastreamer
 media-libs/mediastreamer
 net-libs/libmsn
+dev-java/ant*
+dev-java/ant
