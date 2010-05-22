@@ -417,7 +417,7 @@ x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -d
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
-www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  -iceweasel  startup-notification gnome 
+www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  -iceweasel  startup-notification gnome  custom-optimization
 media-video/gpac aac alsa amr ffmpeg ipv6 jpeg mad ogg opengl oss png sdl ssl theora truetype unicode vorbis wxwindows xvid -debug javascript jpeg2k xml
 mail-filter/procmail mbox
 dev-vcs/bzr  bash-completion curl -emacs sftp -test
@@ -509,3 +509,5 @@ sys-devel/binutils multitarget
 net-libs/libgadu ssl threads
 media-libs/mediastreamer X alsa ipv6 speex x264  -examples gsm -ilbc -jack -oss portaudio theora video
 kde-base/kopete addbookmarks autoreplace contactnotes gadu handbook highlight jabber jingle nowlistening pipes privacy sms ssl statistics texteffect translator urlpicpreview webpresence yahoo  -bonjour -debug groupwise history  -latex meanwhile msn oscar -otr qq skype -testbed -v4l2 winpopup
+dev-java/gnu-classpath alsa gtk qt4 xml -debug -doc -dssi -examples gconf -gjdoc gmp gstreamer
+dev-java/ant X antlr bcel bsf commonslogging commonsnet javamail jdepend jsch log4j oro regexp resolver jai jmf testutil
