@@ -124,13 +124,13 @@ dev-scheme/guile threads    discouraged deprecated etworking  regex
 dev-scheme/mzscheme cairo jpeg opengl perl
 dev-util/anjuta doc glade inherit-graph subversion debug
 dev-util/cscope -emacs
-dev-util/cvsgraph nls zlib gif jpeg png truetype
+dev-vcs/cvsgraph nls zlib gif jpeg png truetype
 dev-util/devhelp -firefox
 dev-util/eclipse-sdk branding cairo opengl seamonkey  gnome  tomcat
 dev-util/glade -gnome -gnomedb
 dev-util/kdevelop arts fortran java perl php python ruby sql subversion  ada  haskell  pascal  perforce
 dev-util/source-highlight bash-completion
-dev-util/subversion apache2 berkdb nls perl python zlib bash-completion -emacs java -minimal -nowebdav ruby
+dev-vcs/subversion apache2 berkdb nls perl python zlib bash-completion -emacs java -minimal -nowebdav ruby -dso
 games-emulation/advancemame alsa oss sdl truetype zlib expat -fbcon slang -static -svga
 games-emulation/advancemenu alsa ncurses oss sdl truetype zlib -debug expat -fbcon slang -static -svga
 games-engines/stratagus flac mikmod mp3  ogg opengl vorbis
@@ -169,7 +169,7 @@ kde-base/konqueror java
 kde-base/konsole -debug
 kde-misc/ksensors   hddtemp
 mail-client/claws-mail crypt gnome ipv6 ssl bogofilter clamav dillo -doc imap kde ldap -pda spamassassin spell startup-notification xface
-mail-client/mozilla-thunderbird mozcalendar
+mail-client/thunderbird mozcalendar
 mail-client/mutt berkdb crypt gdbm nls ssl buffysize cjk -debug gnutls -gpgme -idn imap -mbox nntp pop sasl smime -vanilla
 mail-client/squirrelmail -crypt mysql nls ssl - filter  ldap  vhosts spell postgres
 mail-filter/maildrop berkdb gdbm mysql authlib
@@ -241,7 +241,7 @@ net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d postgres
 net-mail/mailman apache2 postfix
 net-misc/d4x -esd -gnome -kde -nls -oss
 net-misc/icecast yp  theora
-net-misc/neon nls ssl zlib expat socks5
+net-libs/neon nls ssl zlib expat socks5
 net-misc/openvpn pam ssl examples iproute2 -minimal -passwordsave  -static threads
 net-misc/rsync ipv6 acl
 net-misc/tightvnc tcpd -java server
@@ -373,7 +373,7 @@ net-libs/xulrunner ipv6 xinerama   java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
 net-libs/xulrunner ipv6 xinerama   -java xprint
 dev-vcs/git bash-completion curl -gtk iconv perl tk webdav cgi doc -emacs mozsha1 subversion cvs threads
-dev-util/subversion apache2 bash-completion berkdb -java nls perl python ruby vim-syntax -dso
+dev-vcs/subversion apache2 bash-completion berkdb -java nls perl python ruby vim-syntax -dso
 app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
 dev-lang/swig guile php pike python tcl tk -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
@@ -412,7 +412,7 @@ app-arch/dpkg nls zlib bzip2
 x11-libs/qscintilla  python qt4
 dev-python/qscintilla-python qt4
 dev-db/tora kde xinerama oci8-instant-client oracle
-mail-client/mozilla-thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
+mail-client/thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
 x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -debug glib pch
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
@@ -511,3 +511,5 @@ media-libs/mediastreamer X alsa ipv6 speex x264  -examples gsm -ilbc -jack -oss 
 kde-base/kopete addbookmarks autoreplace contactnotes gadu handbook highlight jabber jingle nowlistening pipes privacy sms ssl statistics texteffect translator urlpicpreview webpresence yahoo  -bonjour -debug groupwise history  -latex meanwhile msn oscar -otr qq skype -testbed -v4l2 winpopup
 dev-java/gnu-classpath alsa gtk qt4 xml -debug -doc -dssi -examples gconf -gjdoc gmp gstreamer
 dev-java/ant X antlr bcel bsf commonslogging commonsnet javamail jdepend jsch log4j oro regexp resolver jai jmf testutil
+dev-util/subversion berkdb -dso kde nls perl python sasl webdav-neon apache2 bash-completion -ctypes-python -debug -doc -emacs -extras -gnome-keyring -java -ruby -test -vim-syntax -webdav-serf
+

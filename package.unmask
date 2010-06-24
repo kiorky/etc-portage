@@ -601,7 +601,7 @@ dev-util/glademm
 dev-util/gperf
 dev-util/gtk-doc
 dev-util/gtk-doc-am
-dev-util/hgsvn
+dev-vcs/hgsvn
 dev-util/intltool
 dev-util/kbuild
 dev-vcs/kdesvn
@@ -846,7 +846,7 @@ kde-misc/knetworkmanager
 mail-client/claws-mail
 mail-client/evolution
 mail-client/mailody
-mail-client/mozilla-thunderbird
+mail-client/thunderbird
 mail-client/mutt
 mail-client/squirrelmail
 mail-client/sylpheed-claws
@@ -1045,7 +1045,7 @@ net-misc/corkscrew
 net-misc/d4x
 net-misc/icecast
 net-misc/mDNSResponder
-net-misc/neon
+net-libs/neon
 net-misc/networkmanager
 net-misc/proxytunnel
 net-misc/rdesktop

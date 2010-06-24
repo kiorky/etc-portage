@@ -672,7 +672,7 @@ dev-util/gperf ~x86 ~amd64
 dev-util/gtk-doc
 dev-util/gtk-doc ~x86 ~amd64
 dev-util/gtk-doc-am ~x86 ~amd64
-dev-util/hgsvn ~x86 ~amd64
+dev-vcs/hgsvn ~x86 ~amd64
 dev-util/intltool ~x86 ~amd64
 dev-util/kbuild ~x86 ~amd64
 dev-vcs/kdesvn ~x86 ~amd64
@@ -687,8 +687,8 @@ dev-util/netbeans ~x86 ~amd64
 dev-util/pkgconfig ~x86 ~amd64
 dev-util/pkgconfig- ~x86 ~amd64
 dev-util/source-highlight ~x86 ~amd64
-dev-util/subversion
-dev-util/subversion ~x86 ~amd64
+dev-vcs/subversion
+dev-vcs/subversion ~x86 ~amd64
 dev-util/wxglade ~x86 ~amd64
 ev-java/jsfapi ~x86 ~amd64
 game-action/teewars ~x86 ~amd64
@@ -799,7 +799,7 @@ jgoodies-forms/jgoodies-forms ~x86 ~amd64
 mail-client/claws-mail ~x86 ~amd64
 mail-client/evolution ~x86 ~amd64
 mail-client/mailody ~x86 ~amd64
-mail-client/mozilla-thunderbird ~x86 ~amd64
+mail-client/thunderbird ~x86 ~amd64
 mail-client/mutt ~x86 ~amd64
 mail-client/squirrelmail ~x86 ~amd64
 mail-client/sylpheed ~x86 ~amd64
@@ -1078,7 +1078,7 @@ net-misc/curl ~x86 ~amd64
 net-misc/d4x ~x86 ~amd64
 net-misc/icecast ~x86 ~amd64
 net-misc/mDNSResponder ~x86 ~amd64
-net-misc/neon ~x86 ~amd64
+net-libs/neon ~x86 ~amd64
 net-misc/networkmanager ~x86 ~amd64
 net-misc/proxytunnel ~x86 ~amd64
 net-misc/rdesktop ~x86 ~amd64
