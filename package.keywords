@@ -2222,3 +2222,4 @@ dev-java/ant ~x86 ~amd64
 =sys-auth/polkit-kde-0.95.1 ~x86
 sys-auth/polkit-kde ~x86 ~amd64
 sys-auth/polkit-kde ~x86 ~amd64
+virtual/postgresql-base ~x86 ~amd64
