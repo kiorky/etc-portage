@@ -1457,7 +1457,7 @@ kde-base/artsplugin-mpg123 ~x86 ~amd64
 kde-base/artsplugin-xine ~x86 ~amd64
 kde-base/atlantik ~x86 ~amd64
 kde-base/atlantikdesigner ~x86 ~amd64
-kde-base/automoc ~x86 ~amd64
+dev-util/automoc ~x86 ~amd64
 kde-base/blinken ~x86 ~amd64
 kde-base/bomber ~x86 ~amd64
 kde-base/bovo ~x86 ~amd64
@@ -1861,7 +1861,7 @@ kde-base/policykit-kde ~x86 ~amd64
 kde-base/powerdevil ~x86 ~amd64
 kde-base/printer-applet ~x86 ~amd64
 kde-base/pykde4 ~x86 ~amd64
-kde-base/qimageblitz ~x86 ~amd64
+media-libs/qimageblitz ~x86 ~amd64
 kde-base/qtjava ~x86 ~amd64
 kde-base/qtruby ~x86 ~amd64
 kde-base/quanta ~x86 ~amd64

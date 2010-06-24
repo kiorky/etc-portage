@@ -717,7 +717,7 @@ java-virtuals/javamail
 java-virtuals/servlet-api
 =kde-base/akregator-4.1.2
 =kde-base/ark-4.1.2
-kde-base/automoc
+dev-util/automoc
 =kde-base/dolphin-4.1.2
 =kde-base/drkonqi-4.1.2
 =kde-base/kaddressbook-4.1.2
