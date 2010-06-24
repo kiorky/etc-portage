@@ -1796,3 +1796,4 @@ sys-auth/polkit-kde
 sys-auth/polkit-kde
 virtual/postgresql-base
 virtual/postgresql-base
+virtual/postgresql-base
