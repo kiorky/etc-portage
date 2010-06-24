@@ -2219,3 +2219,5 @@ media-libs/mediastreamer ~x86 ~amd64
 media-libs/mediastreamer ~x86 ~amd64
 net-libs/libmsn ~x86 ~amd64
 dev-java/ant ~x86 ~amd64
+=sys-auth/polkit-kde-0.95.1 ~x86
+sys-auth/polkit-kde ~x86 ~amd64

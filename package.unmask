@@ -1792,3 +1792,5 @@ media-libs/mediastreamer
 media-libs/mediastreamer
 net-libs/libmsn
 dev-java/ant
+=sys-auth/polkit-kde-0.95.1
+sys-auth/polkit-kde
