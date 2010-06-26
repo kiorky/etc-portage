@@ -511,5 +511,6 @@ media-libs/mediastreamer X alsa ipv6 speex x264  -examples gsm -ilbc -jack -oss 
 kde-base/kopete addbookmarks autoreplace contactnotes gadu handbook highlight jabber jingle nowlistening pipes privacy sms ssl statistics texteffect translator urlpicpreview webpresence yahoo  -bonjour -debug groupwise history  -latex meanwhile msn oscar -otr qq skype -testbed -v4l2 winpopup
 dev-java/gnu-classpath alsa gtk qt4 xml -debug -doc -dssi -examples gconf -gjdoc gmp gstreamer
 dev-java/ant X antlr bcel bsf commonslogging commonsnet javamail jdepend jsch log4j oro regexp resolver jai jmf testutil
-dev-util/subversion berkdb -dso kde nls perl python sasl webdav-neon apache2 bash-completion -ctypes-python -debug -doc -emacs -extras -gnome-keyring -java -ruby -test -vim-syntax -webdav-serf
+dev-vcs/subversion berkdb -dso kde nls perl python sasl webdav-neon apache2 bash-completion -ctypes-python -debug -doc -emacs -extras -gnome-keyring -java -ruby -test -vim-syntax -webdav-serf
 
+app-portage/eix bzip2 nls -debug -doc -hardened optimization sqlite strong-optimization tools

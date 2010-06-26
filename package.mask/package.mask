@@ -44,3 +44,7 @@ sys-libs/ss
 # for pike
 >=dev-libs/nettle-2.0
 
+=dev-db/postgresql-base-9.0_beta2
+=dev-db/postgresql-server-9.0_beta2
+=virtual/postgresql-base-9.0
+=dev-db/postgresql-base-9.0_beta2-r1
