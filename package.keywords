@@ -2224,3 +2224,4 @@ sys-auth/polkit-kde ~x86 ~amd64
 virtual/postgresql-base ~x86 ~amd64
 virtual/postgresql-base ~x86 ~amd64
 virtual/postgresql-base ~x86 ~amd64
+app-admin/eselect-postgresql ~x86 ~amd64
