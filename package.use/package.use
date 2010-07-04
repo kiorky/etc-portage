@@ -514,3 +514,7 @@ dev-java/ant X antlr bcel bsf commonslogging commonsnet javamail jdepend jsch lo
 dev-vcs/subversion berkdb -dso kde nls perl python sasl webdav-neon apache2 bash-completion -ctypes-python -debug -doc -emacs -extras -gnome-keyring -java -ruby -test -vim-syntax -webdav-serf
 
 app-portage/eix bzip2 nls -debug -doc -hardened optimization sqlite strong-optimization tools
+net-dns/bind  berkdb ipv6 ldap mysql postgres ssl xml dlz doc geoip idn -odbc resolvconf -sdb-ldap  threads urandom
+dev-libs/geoip perl-geoipupdate
+net-dns/bind-tools ipv6 idn
+net-firewall/shorewall-common doc

@@ -1798,3 +1798,10 @@ virtual/postgresql-base
 virtual/postgresql-base
 virtual/postgresql-base
 app-admin/eselect-postgresql
+net-firewall/shorewall-common
+net-firewall/shorewall
+net-firewall/shorewall-lite
+net-firewall/shorewall-perl
+net-firewall/shorewall6
+net-firewall/shorewall-shell
+net-firewall/shorewall6-lite

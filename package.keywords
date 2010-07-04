@@ -2225,3 +2225,10 @@ virtual/postgresql-base ~x86 ~amd64
 virtual/postgresql-base ~x86 ~amd64
 virtual/postgresql-base ~x86 ~amd64
 app-admin/eselect-postgresql ~x86 ~amd64
+net-firewall/shorewall-common ~x86 ~amd64
+net-firewall/shorewall ~x86 ~amd64
+net-firewall/shorewall-lite ~x86 ~amd64
+net-firewall/shorewall-perl ~x86 ~amd64
+net-firewall/shorewall6 ~x86 ~amd64
+net-firewall/shorewall-shell ~x86 ~amd64
+net-firewall/shorewall6-lite ~x86 ~amd64
