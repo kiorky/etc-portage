@@ -2232,3 +2232,4 @@ net-firewall/shorewall-perl ~x86 ~amd64
 net-firewall/shorewall6 ~x86 ~amd64
 net-firewall/shorewall-shell ~x86 ~amd64
 net-firewall/shorewall6-lite ~x86 ~amd64
+app-crypt/truecrypt ~x86 ~amd64
