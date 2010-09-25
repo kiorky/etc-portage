@@ -518,3 +518,4 @@ net-dns/bind  berkdb ipv6 ldap mysql postgres ssl xml dlz doc geoip idn -odbc re
 dev-libs/geoip perl-geoipupdate
 net-dns/bind-tools ipv6 idn
 net-firewall/shorewall-common doc
+net-print/hplip X hpcups parport policykit -doc fax hpijs libnotify -minimal qt4 scanner snmp -static-ppds udev-acl
