@@ -1805,3 +1805,4 @@ net-firewall/shorewall-perl
 net-firewall/shorewall6
 net-firewall/shorewall-shell
 net-firewall/shorewall6-lite
+net-print/hplip
