@@ -1159,7 +1159,7 @@ sys-apps/man ~x86 ~amd64
 sys-apps/moreutils ~x86 ~amd64
 sys-apps/openrc ~x86 ~amd64
 sys-apps/paludis ~x86 ~amd64
-sys-apps/parted ~x86 ~amd64
+sys-block/parted ~x86 ~amd64
 sys-apps/pciutils ~x86 ~amd64
 sys-apps/pcmcia-cs ~x86 ~amd64
 sys-apps/pcmcia-cs-cis ~x86 ~amd64
@@ -1249,7 +1249,7 @@ www-client/epiphany-extensions ~x86 ~amd64
 www-client/httrack ~x86 ~amd64
 www-client/mozilla ~x86 ~amd64
 www-client/mozilla-bin ~x86 ~amd64
-www-client/mozilla-firefox ~x86 ~amd64
+www-client/firefox ~x86 ~amd64
 www-client/firefox-bin ~x86 ~amd64
 www-client/opera ~x86 ~amd64
 www-servers/apache ~x86 ~amd64
@@ -1985,7 +1985,7 @@ net-wireless/bluez ~x86 ~amd64
 dev-python/logilab-common ~x86 ~amd64
 sys-apps/util-linux ~x86 ~amd64
 sys-apps/util-linux ~x86 ~amd64
-www-client/mozilla-firefox ~x86 ~amd64
+www-client/firefox ~x86 ~amd64
 games-puzzle/tetrinet ~x86 ~amd64
 net-irc/irssi ~x86 ~amd64
 app-misc/strigi ~x86 ~amd64
@@ -2232,4 +2232,3 @@ net-firewall/shorewall-perl ~x86 ~amd64
 net-firewall/shorewall6 ~x86 ~amd64
 net-firewall/shorewall-shell ~x86 ~amd64
 net-firewall/shorewall6-lite ~x86 ~amd64
-net-print/hplip ~x86 ~amd64

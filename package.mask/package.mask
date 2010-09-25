@@ -30,7 +30,7 @@
 >net-www/mplayerplug-in-3.0
 =sys-apps/shadow-4.0.15-r2
 <sys-devel/gcc-3.4.1
-<www-client/mozilla-firefox-1.4
+<www-client/firefox-1.4
 <www-servers/apache-2.1
 <www-servers/apache-2.2
 <=x11-themes/gtk-engines-2.6.2

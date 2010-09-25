@@ -1111,7 +1111,7 @@ sys-apps/makedev
 sys-apps/man
 sys-apps/openrc
 sys-apps/paludis
-sys-apps/parted
+sys-block/parted
 sys-apps/pciutils
 sys-apps/pcmcia-cs
 sys-apps/pcmcia-cs-cis
@@ -1640,7 +1640,7 @@ net-nds/rpcbind
 dev-python/logilab-common
 sys-apps/util-linux
 sys-apps/util-linux
-www-client/mozilla-firefox
+www-client/firefox
 games-puzzle/tetrinet
 net-irc/irssi
 x11-libs/libICE
@@ -1805,4 +1805,3 @@ net-firewall/shorewall-perl
 net-firewall/shorewall6
 net-firewall/shorewall-shell
 net-firewall/shorewall6-lite
-net-print/hplip

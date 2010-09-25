@@ -318,7 +318,7 @@ dev-vcs/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 -tk webda
 dev-vcs/git tk perl bash-completion curl -doc -emacs -mozsha1 -ppcsha1 tk webdav
 dev-java/swt cairo opengl -seamonkey firefox -gnome xulrunner
 dev-php5/pecl-pdo mysql postgres sqlite
-www-client/mozilla-firefox ipv6 xinerama bindist -debug -filepicker -gnome java mozdevelop -moznopango -restrict-javascript xforms xprint
+www-client/firefox ipv6 xinerama bindist -debug -filepicker -gnome java mozdevelop -moznopango -restrict-javascript xforms xprint
 games-fps/quake3 dedicated opengl teamarena
 games-fps/quake3-bin dedicated opengl teamarena
 games-fps/enemy-territory dedicated opengl
@@ -346,7 +346,7 @@ media-libs/mesa -debug -doc -motif -nptl -pic -xcb
 app-office/mozilla-sunbird ipv6 xinerama bindist -debug -gnome -moznopango xprint
 sys-block/gparted fat hfs jfs ntfs reiser4 reiserfs xfs
 sys-apps/qtparted kde gnome jfs ntfs reiserfs xfs
-sys-apps/parted nls readline -debug device-mapper 
+sys-block/parted nls readline -debug device-mapper 
 app-misc/mc X gpm ncurses nls pam samba unicode 7zip slang
 net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnutls -groupwise -gstreamer -meanwhile -networkmanager prediction qq silc -spell -tcl -tk -zephyr
 net-libs/libgadu -ssl
@@ -417,7 +417,7 @@ x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -d
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
-www-client/mozilla-firefox bindist ipv6 java mozdevelop xulrunner dbus  -iceweasel  startup-notification gnome  custom-optimization
+www-client/firefox bindist ipv6 java mozdevelop xulrunner dbus  -iceweasel  startup-notification gnome  custom-optimization
 media-video/gpac aac alsa amr ffmpeg ipv6 jpeg mad ogg opengl oss png sdl ssl theora truetype unicode vorbis wxwindows xvid -debug javascript jpeg2k xml
 mail-filter/procmail mbox
 dev-vcs/bzr  bash-completion curl -emacs sftp -test
@@ -518,4 +518,3 @@ net-dns/bind  berkdb ipv6 ldap mysql postgres ssl xml dlz doc geoip idn -odbc re
 dev-libs/geoip perl-geoipupdate
 net-dns/bind-tools ipv6 idn
 net-firewall/shorewall-common doc
-net-print/hplip X hpcups parport policykit -doc fax hpijs libnotify -minimal qt4 scanner snmp -static-ppds udev-acl
