@@ -518,3 +518,6 @@ net-dns/bind  berkdb ipv6 ldap mysql postgres ssl xml dlz doc geoip idn -odbc re
 dev-libs/geoip perl-geoipupdate
 net-dns/bind-tools ipv6 idn
 net-firewall/shorewall-common doc
+dev-libs/pkcs11-helper gnutls nss
+dev-db/tora mysql -oci8-instant-client oracle postgres
+
