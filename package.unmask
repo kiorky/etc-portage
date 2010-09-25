@@ -1805,8 +1805,5 @@ net-firewall/shorewall-perl
 net-firewall/shorewall6
 net-firewall/shorewall-shell
 net-firewall/shorewall6-lite
-<<<<<<< local
 app-crypt/truecrypt
-=======
 net-print/hplip
->>>>>>> other
