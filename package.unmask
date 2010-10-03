@@ -1815,3 +1815,4 @@ dev-libs/libdbusmenu-qt
 x11-libs/gdk-pixbuf
 kde-base/liboxygenstyle
 kde-base/liboxygenstyle
+net-libs/libktorrent
