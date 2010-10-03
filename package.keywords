@@ -2250,3 +2250,4 @@ dev-libs/libf2c ~x86 ~amd64
 net-print/cups ~x86 ~amd64
 kde-base/activitymanager ~x86 ~amd64
 kde-base/kdontchangethehostname ~x86 ~amd64
+net-dialup/ppp ~x86 ~amd64

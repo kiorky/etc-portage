@@ -1823,3 +1823,4 @@ dev-libs/libf2c
 net-print/cups
 kde-base/activitymanager
 kde-base/kdontchangethehostname
+net-dialup/ppp
