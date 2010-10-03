@@ -245,10 +245,10 @@ net-libs/neon nls ssl zlib expat socks5
 net-misc/openvpn pam ssl examples iproute2 -minimal -passwordsave  -static threads
 net-misc/rsync ipv6 acl
 net-misc/tightvnc tcpd -java server
-net-nds/openldap berkdb crypt gdbm ipv6 kerberos perl readline samba -sasl slp ssl tcpd -debug -minimal -odbc -overlays -selinux -smbkrb5passwd
+net-nds/openldap berkdb crypt gdbm ipv6 kerberos perl readline samba -sasl slp ssl tcpd -debug -minimal -odbc -overlays -selinux -smbkrb5passwd gnutls
 net-news/liferea dbus firefox gtkhtml
 net-p2p/amule nls unicode amuled remote
-net-print/cups nls pam ppds ssl -dbus jpeg php png samba -slp tiff
+net-print/cups nls pam ppds ssl -dbus jpeg php png samba -slp tiff gnutls
 net-print/foomatic-db cups  ppds
 net-print/foomatic-filters cups
 net-print/foomatic-filtersdb cups
