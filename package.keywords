@@ -2238,3 +2238,4 @@ sys-block/parted ~x86 ~amd64
 media-plugins/kipi-plugins ~x86 ~amd64
 net-p2p/ktorrent ~x86 ~amd64
 net-p2p/ktorrent ~x86 ~amd64
+dev-libs/libdbusmenu-qt ~x86 ~amd64

@@ -1811,3 +1811,4 @@ sys-block/parted
 media-plugins/kipi-plugins
 net-p2p/ktorrent
 net-p2p/ktorrent
+dev-libs/libdbusmenu-qt
