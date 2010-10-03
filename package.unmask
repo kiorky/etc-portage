@@ -1819,5 +1819,5 @@ net-libs/libktorrent
 net-libs/libktorrent
 sci-libs/clapack
 sci-libs/clapack
-=dev-libs/libf2c
 dev-libs/libf2c
+net-print/cups
