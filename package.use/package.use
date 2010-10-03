@@ -521,3 +521,4 @@ net-firewall/shorewall-common doc
 dev-libs/pkcs11-helper gnutls nss
 dev-db/tora mysql -oci8-instant-client oracle postgres
 net-print/hplip X hpcups parport policykit -doc fax hpijs libnotify -minimal qt4 scanner snmp -static-ppds udev-acl
+x11-libs/gdk-pixbuf  X jpeg jpeg2k -test tiff
