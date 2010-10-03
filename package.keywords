@@ -2239,3 +2239,4 @@ media-plugins/kipi-plugins ~x86 ~amd64
 net-p2p/ktorrent ~x86 ~amd64
 net-p2p/ktorrent ~x86 ~amd64
 dev-libs/libdbusmenu-qt ~x86 ~amd64
+x11-libs/gdk-pixbuf ~x86 ~amd64
