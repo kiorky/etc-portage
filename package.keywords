@@ -2247,3 +2247,4 @@ net-libs/libktorrent ~x86 ~amd64
 sci-libs/clapack ~x86 ~amd64
 sci-libs/clapack ~x86 ~amd64
 =dev-libs/libf2c ~x86 ~amd64
+dev-libs/libf2c ~x86 ~amd64
