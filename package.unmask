@@ -1809,3 +1809,4 @@ app-crypt/truecrypt
 net-print/hplip
 sys-block/parted
 media-plugins/kipi-plugins
+net-p2p/ktorrent
