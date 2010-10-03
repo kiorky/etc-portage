@@ -1817,3 +1817,4 @@ kde-base/liboxygenstyle
 kde-base/liboxygenstyle
 net-libs/libktorrent
 net-libs/libktorrent
+sci-libs/clapack

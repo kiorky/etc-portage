@@ -2244,3 +2244,4 @@ kde-base/liboxygenstyle ~x86 ~amd64
 kde-base/liboxygenstyle ~x86 ~amd64
 net-libs/libktorrent ~x86 ~amd64
 net-libs/libktorrent ~x86 ~amd64
+sci-libs/clapack ~x86 ~amd64
