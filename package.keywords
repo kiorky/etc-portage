@@ -2235,3 +2235,4 @@ net-firewall/shorewall6-lite ~x86 ~amd64
 app-crypt/truecrypt ~x86 ~amd64
 net-print/hplip ~x86 ~amd64
 sys-block/parted ~x86 ~amd64
+media-plugins/kipi-plugins ~x86 ~amd64

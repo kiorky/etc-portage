@@ -1808,3 +1808,4 @@ net-firewall/shorewall6-lite
 app-crypt/truecrypt
 net-print/hplip
 sys-block/parted
+media-plugins/kipi-plugins
