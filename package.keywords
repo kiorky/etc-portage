@@ -387,7 +387,6 @@ dev-java/maven-project ~x86 ~amd64
 dev-java/maven-reporting ~x86 ~amd64
 dev-java/maven-reporting-api ~x86 ~amd64
 dev-java/maven-repository-builder ~x86 ~amd64
-dev-java/maven-repository-metadata ~x86 ~amd64
 dev-java/maven-resources-plugin ~x86 ~amd64
 dev-java/maven-script ~x86 ~amd64
 dev-java/maven-settings ~x86 ~amd64
@@ -2421,7 +2420,6 @@ kde-base/libplasmagenericshell ~x86 ~amd64
 kde-base/lokalize ~x86 ~amd64
 kde-base/lskat ~x86 ~amd64
 kde-base/marble ~x86 ~amd64
-kde-base/metadata.xml ~x86 ~amd64
 kde-base/mplayerthumbs ~x86 ~amd64
 kde-base/okteta ~x86 ~amd64
 kde-base/palapeli ~x86 ~amd64
@@ -2479,7 +2477,6 @@ kde-misc/ksplasher ~x86 ~amd64
 kde-misc/ktrafficanalyzer ~x86 ~amd64
 kde-misc/kvkbd ~x86 ~amd64
 kde-misc/kwebkitpart ~x86 ~amd64
-kde-misc/metadata.xml ~x86 ~amd64
 kde-misc/openofficeorg-thumbnail ~x86 ~amd64
 kde-misc/plasma-applet-daisy ~x86 ~amd64
 kde-misc/plasmaboard ~x86 ~amd64
