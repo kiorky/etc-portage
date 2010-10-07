@@ -301,7 +301,7 @@ dev-java/libglade-java
 dev-java/libgnome-java
 dev-java/libgtk-java
 dev-java/log4j
-dev-java/maven
+dev-java/maven-bin
 dev-java/maven-ant-plugin
 dev-java/maven-archiver
 dev-java/maven-artifact
@@ -482,7 +482,6 @@ dev-libs/lzo
 dev-libs/nspr
 dev-libs/nss
 dev-libs/opal
-dev-libs/openssl
 dev-libs/popt
 dev-libs/pwlib
 dev-libs/rasqal

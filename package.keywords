@@ -59,7 +59,7 @@ app-crypt/qca ~x86 ~amd64
 app-dicts/aspell-en ~x86 ~amd64
 app-doc/chmlib ~x86 ~amd64
 app-editors/bluefish ~x86 ~amd64
-app-editors/emacs-cvs ~x86 ~amd64
+app-editors/emacs-vcs ~x86 ~amd64
 app-editors/gedit ~x86 ~amd64
 app-editors/gedit-plugins ~x86 ~amd64
 app-editors/gvim ~x86 ~amd64
@@ -67,7 +67,7 @@ app-editors/vim ~x86 ~amd64
 app-editors/vim-core ~x86 ~amd64
 app-emulation/cedega ~x86 ~amd64
 app-emulation/kqemu ~x86 ~amd64
-app-emulation/kvm ~x86 ~amd64
+app-emulation/qemu-kvm ~x86 ~amd64
 app-emulation/qemu ~x86 ~amd64
 app-emulation/qemu-softmmu ~x86 ~amd64
 app-emulation/qemu-user ~x86 ~amd64
@@ -350,7 +350,7 @@ dev-java/libgnome-java ~x86 ~amd64
 dev-java/libgtk-java ~x86 ~amd64
 dev-java/log4j ~x86 ~amd64
 dev-java/lucene
-dev-java/maven ~x86 ~amd64
+dev-java/maven-bin ~x86 ~amd64
 dev-java/maven-ant-plugin ~x86 ~amd64
 dev-java/maven-archiver ~x86 ~amd64
 dev-java/maven-artifact ~x86 ~amd64
@@ -537,7 +537,6 @@ dev-libs/lzo ~x86 ~amd64
 dev-libs/nspr ~x86 ~amd64
 dev-libs/nss ~x86 ~amd64
 dev-libs/opal ~x86 ~amd64
-dev-libs/openssl ~x86 ~amd64
 dev-libs/ossp-uuid ~x86 ~amd64
 dev-libs/popt ~x86 ~amd64
 dev-libs/protobuf ~x86 ~amd64
@@ -1394,12 +1393,12 @@ x11-misc/xinput ~x86 ~amd64
 x11-misc/xkbdata ~x86 ~amd64
 x11-misc/xkeyboard-config ~x86 ~amd64
 x11-misc/xmkmf ~x86 ~amd64
-x11-plugins/compiz-fusion-plugins-extra
-x11-plugins/compiz-fusion-plugins-extra **
-x11-plugins/compiz-fusion-plugins-main
-x11-plugins/compiz-fusion-plugins-main **
-x11-plugins/compiz-fusion-plugins-unsupported
-x11-plugins/compiz-fusion-plugins-unsupported **
+x11-plugins/compiz-fusion-extra
+x11-plugins/compiz-fusion-extra **
+x11-plugins/compiz-fusion-main
+x11-plugins/compiz-fusion-main **
+x11-plugins/compiz-fusion-unsupported
+x11-plugins/compiz-fusion-unsupported **
 x11-plugins/compiz-plugin-opacity #optional in CB's overlay
 x11-plugins/desklet-starterbar ~x86 ~amd64
 x11-plugins/e_modules -*
