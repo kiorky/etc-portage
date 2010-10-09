@@ -2497,3 +2497,4 @@ dev-ruby/rdoc ~x86 ~amd64
 dev-lang/ruby ~x86 ~amd64
 virtual/rubygems ~x86 ~amd64
 dev-ruby/rubygems ~x86 ~amd64
+dev-libs/icu ~x86 ~amd64
