@@ -2067,3 +2067,5 @@ kde-misc/youtube-servicemenu
 dev-ruby/rdoc
 dev-ruby/rdoc
 dev-lang/ruby
+virtual/rubygems
+dev-ruby/rubygems
