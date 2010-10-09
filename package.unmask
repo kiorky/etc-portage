@@ -447,7 +447,6 @@ dev-lang/cm3
 dev-lang/cm3-bin
 dev-lang/cm3-ibn
 dev-lang/php
-dev-lang/ruby
 dev-lang/swig
 dev-lang/yasm
 dev-libs/apr
