@@ -2504,3 +2504,4 @@ sci-geosciences/grass ~x86 ~amd64
 sci-libs/libgeotiff ~x86 ~amd64
 sci-libs/gsl ~x86 ~amd64
 sci-libs/geos ~x86 ~amd64
+media-libs/tiff ~x86 ~amd64

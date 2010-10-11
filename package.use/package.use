@@ -524,5 +524,4 @@ net-print/hplip X hpcups parport policykit -doc fax hpijs libnotify -minimal qt4
 x11-libs/gdk-pixbuf  X jpeg jpeg2k -test tiff
 sci-libs/gdal curl  -ecwj2k fits geos gif gml hdf hdf5 jpeg jpeg2k mysql netcdf odbc ogdi pam perl png postgres python ruby sqlite threads
 sci-geosciences/qgis postgres python -examples gps grass gsl sqlite
-
-
+sci-geosciences/grass X cairo cxx ffmpeg fftw gmath jpeg largefile -motif mysql nls odbc opengl png postgres python readline sqlite tiff truetype wxwidgets
