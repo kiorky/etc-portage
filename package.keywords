@@ -2509,3 +2509,4 @@ sci-libs/gdal ~x86 ~amd64
 sci-libs/gdal ~x86 ~amd64
 sci-libs/hdf5 ~x86 ~amd64
 sci-libs/hdf5 ~x86 ~amd64
+sci-libs/hdf5 ~x86 ~amd64
