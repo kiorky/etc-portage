@@ -2079,3 +2079,4 @@ sci-libs/geos
 media-libs/tiff
 sci-libs/gdal
 sci-libs/gdal
+sci-libs/hdf5
