@@ -2070,3 +2070,4 @@ dev-lang/ruby
 virtual/rubygems
 dev-ruby/rubygems
 dev-libs/icu
+sci-geosciences/qgis
