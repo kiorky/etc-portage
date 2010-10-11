@@ -194,7 +194,7 @@ media-libs/win32codecs real
 media-libs/x264 mp4 threads
 media-libs/x264-svn mp4 threads
 media-libs/xine-lib   a52 aac aalib alsa dvd dxr3 flac gtk imagemagick ipv6 libcaca mad mng nls opengl samba sdl speex theora vidix vorbis win32codecs xv xvmc altivec -arts -debug -directfb -dts -esd -fbcon -gnome -jack -mmap -modplug -musepack -oss -pulseaudio real truetype -v4l -vcd wavpack xcb xinerama
-media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap debug ipod mp4 mtp noamazon opengl postgres visualization xinerama aac cdaudio mp3tunes 
+media-sound/amarok ifp kde musicbrainz mysql njb python real -arts daap debug ipod mp4 mtp noamazon opengl postgres visualization xinerama aac cdaudio mp3tunes
 media-sound/darkice alsa encode* -jack vorbis
 media-sound/grip nls vorbis
 media-sound/kradio encode ogg vorbis
@@ -346,12 +346,12 @@ media-libs/mesa -debug -doc -motif -nptl -pic -xcb
 app-office/mozilla-sunbird ipv6 xinerama bindist -debug -gnome -moznopango xprint
 sys-block/gparted fat hfs jfs ntfs reiser4 reiserfs xfs
 sys-apps/qtparted kde gnome jfs ntfs reiserfs xfs
-sys-block/parted nls readline -debug device-mapper 
+sys-block/parted nls readline -debug device-mapper
 app-misc/mc X gpm ncurses nls pam samba unicode 7zip slang
 net-im/pidgin gtk ncurses nls perl sasl -bonjour -dbus -debug -doc -eds gadu gnutls -groupwise -gstreamer -meanwhile -networkmanager prediction qq silc -spell -tcl -tk -zephyr
 net-libs/libgadu -ssl
 dev-db/libpq	  kerberos nls pam pg-intdatetime readline ssl -threads zlib
-dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml zlib -doc 
+dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml zlib -doc
 dev-db/postgis geos proj
 net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
 media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp sse svg tiff wmf
@@ -378,16 +378,16 @@ app-text/ghostscript-gpl -X cups -gtk jpeg2k
 x11-libs/qt cups dbus doc examples firebird gif glib jpeg mng mysql nis opengl png postgres qt3support sqlite sqlite3 ssl tiff xinerama zlib accessibility debug
 dev-lang/swig guile php pike python tcl tk -R -chicken -clisp -doc -java -lua -mono -mzscheme -ocaml -perl -ruby
 kde-base/systemsettings ssl usb xinerama -debug htmlhandbook -ieee1394 opengl
-kde-base/kdesktop xinerama -arts -debug -kdeenablefinal -kdehiddenvisibility xscreensaver 
+kde-base/kdesktop xinerama -arts -debug -kdeenablefinal -kdehiddenvisibility xscreensaver
 kde-base/krunner debug opengl xcomposite xscreensaver
 kde-base/kdebase-kioslaves openexr samba bzip2 -debug -htmlhandbook
-kde-base/libplasma xinerama opengl 
+kde-base/libplasma xinerama opengl
 kde-base/plasma xinerama -debug htmlhandbook xcomposite
 kde-base/libkcddb  htmlhandbook -musicbrainz
 kde-base/libkcddb  htmlhandbook musicbrainz
 kde-base/libtaskmanager xcomposite
 kde-base/kdelibs acl alsa bzip2 fam jpeg2k kerberos nls openexr pcre semantic-desktop spell ssl -3dnow -altivec bindist -debug -doc htmlhandbook -mmx opengl sse sse2 -test -zeroconf
-app-misc/strigi clucene dbus exiv2 qt4 -debug hyperestraier inotify java 
+app-misc/strigi clucene dbus exiv2 qt4 -debug hyperestraier inotify java
 kde-base/ark  archive -debug -htmlhandbook zip
 kde-base/kdeartwork-kscreensaver  opengl xscreensaver
 kde-base/konqueror java xinerama -arts branding -debug -kdeenablefinal -kdehiddenvisibility
@@ -400,7 +400,7 @@ mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl
 kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace connectionstatus contactnotes -debug gadu -groupwise highlight -history -irc jingle -kdeenablefinal -kdehiddenvisibility -latex netmeeting nowlistening sametime sms statistics texteffect translator webpresence -winpopup xscreensaver yahoo
 media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
-app-emulation/qemu-kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
+app-emulation/qemu-kvm kvm sdl qemu gcc4 gnutls -qemu  sdl
 games-action/teewars -dedicated racemod server
 media-sound/alsa-driver midi oss
 www-apps/mantisbt vhosts
@@ -408,11 +408,11 @@ net-analyzer/wireshark caps gtk ipv6 kerberos pcap pcre zlib  adns gcrypt gnutl 
 net-analyzer/wireshark caps gtk ipv6 kerberos pcap pcre zlib  adns gcrypt gnutls smi threads
 dev-libs/boost pyste -icu tools
 net-wireless/aircrack-ng wifi
-app-arch/dpkg nls zlib bzip2 
+app-arch/dpkg nls zlib bzip2
 x11-libs/qscintilla  python qt4
 dev-python/qscintilla-python qt4
 dev-db/tora kde xinerama oci8-instant-client oracle
-mail-client/thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
+mail-client/thunderbird crypt ipv6 ldap xinerama  bindist    replytolist
 x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -debug glib pch
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification
@@ -422,7 +422,7 @@ media-video/gpac aac alsa amr ffmpeg ipv6 jpeg mad ogg opengl oss png sdl ssl th
 mail-filter/procmail mbox
 dev-vcs/bzr  bash-completion curl -emacs sftp -test
 dev-python/paste  flup openid
-sys-fs/lvm2  lvm1 readline static clvm cman gulm 
+sys-fs/lvm2  lvm1 readline static clvm cman gulm
 media-libs/libcaca   X ncurses -doc imlib -mono -nocxx opengl ruby slang
 media-video/vlc X qt4 a52 aac aalib alsa avahi bidi cdda cddb debug dvb dvd ffmpeg flac ggi gnutls hal httpd libcaca libgcrypt libnotify live matroska mp3 mpeg musepack ncurses ogg opengl png rtsp samba sdl sdl-image seamonkey shout speex stream svg svga theora truetype upnp v4l vcd vlm vorbis win32codecs x264 xinerama xml xosd xv  -arts atmo cdio dbus -dc1394 -directfb -dts -esd -fbcon -fluidsynth gnome id3tag -jack -lirc -lua -mmx -modplug -musicbrainz -nsplugin -optimisememory -oss -pulseaudio -pvr qt4 -remoteosd skins sse taglib twolame -v4l2 vcdx xulrunner
 media-libs/libtheora encode
@@ -431,12 +431,12 @@ app-emulation/virtualbox alsa additions headless
 app-emulation/virtualbox alsa additions -headless
 app-emulation/qemu-kvm alsa gnutls ncurses sdl  modules
 app-emulation/qemu-kvm alsa gnutls ncurses sdl gcc4    kvm   modules
-dev-python/imaging scanner X 
+dev-python/imaging scanner X
 media-gfx/xsane nls gimp jpeg lcms png tiff
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp sse
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl dbus -debug -doc -gnome -mmx pdf smp sse
 media-gfx/sane-backends ipv6 -doc -gphoto2 usb v4l
-app-admin/testdisk jpeg -ntfs reiserfs 
+app-admin/testdisk jpeg -ntfs reiserfs
 x11-drivers/xf86-input-evdev hal
 app-text/poppler -gtk
 kde-base/kwin xinerama captury -debug opengl xcomposite
@@ -449,10 +449,10 @@ kde-base/plasma-workspace kdeprefix xinerama -debug -htmlhandbook xcomposite
 media-sound/phonon gstreamer
 kde-base/kdeplasma-addons kdeprefix xinerama opengl
 media-libs/libsdl X aalib alsa libcaca opengl xinerama xv -arts -custom-cflags dga -directfb -esd -fbcon -ggi -nas -noaudio -nojoystick -novideo oss pulseaudio svga
-media-sound/pulseaudio  X alsa glib nls tcpd asyncns avahi -bluetooth caps dbus -gnome hal jack libsamplerate -lirc oss 
+media-sound/pulseaudio  X alsa glib nls tcpd asyncns avahi -bluetooth caps dbus -gnome hal jack libsamplerate -lirc oss
 media-video/x264-encoder threads -debug mp4 gtk
 kde-base/okular kdeprefix chm -debug djvu -htmlhandbook jpeg pdf tiff
-dev-db/mysql big-tables perl ss embedded 
+dev-db/mysql big-tables perl ss embedded
 media-sound/ncmpcpp unicode curl taglib
 net-wireless/wireless-tools nls multicall
 net-wireless/wpa_supplicant   readline ssl dbus -debug gnutls -gsm  madwifi -ps3 -qt3 qt4
@@ -495,13 +495,13 @@ net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal -
 net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
 net-misc/curl ipv6 kerberos ldap ares gnutls idn libssh2 nss openssl
 www-servers/nginx ipv6 pcre perl ssl zlib addition -aio -debug fastcgi flv imap pop random-index realip securelink smtp -static-gzip status sub webdav
-app-text/poppler abiword lcms qt4 utils xpdf-headers cairo -cjk -debug -doc exceptions jpeg jpeg2k png 
+app-text/poppler abiword lcms qt4 utils xpdf-headers cairo -cjk -debug -doc exceptions jpeg jpeg2k png
 dev-db/sqlite fts3 readline threadsafe -debug -doc extensions -icu secure-delete soundex tcl -test
 
 media-sound/sonata trayicon dbus lyrics taglib
 media-sound/ario  nls python -audioscrobbler dbus -debug idle -ibnotify taglib -zeroconf
 net-im/pidgin gadu gnutls gtk ncurses nls perl prediction qq sasl silc startup-notification xscreensaver dbus -debug -doc eds groupwise gstreamer idn meanwhile -networkmanager spell tcl tk zephyr -zeroconf
-net-im/minbif gstreamer tls 
+net-im/minbif gstreamer tls
 www-client/chromium mp3  x264
 
 net-im/gajim  X crypt dbus libnotify nls spell -avahi -gnome idle srv trayicon xhtml
@@ -522,3 +522,7 @@ dev-libs/pkcs11-helper gnutls nss
 dev-db/tora mysql -oci8-instant-client oracle postgres
 net-print/hplip X hpcups parport policykit -doc fax hpijs libnotify -minimal qt4 scanner snmp -static-ppds udev-acl
 x11-libs/gdk-pixbuf  X jpeg jpeg2k -test tiff
+sci-libs/gdal curl  -ecwj2k fits geos gif gml hdf hdf5 jpeg jpeg2k mysql netcdf odbc ogdi pam perl png postgres python ruby sqlite threads
+sci-geosciences/qgis postgres python -examples gps grass gsl sqlite
+
+

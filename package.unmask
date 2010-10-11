@@ -2071,3 +2071,8 @@ virtual/rubygems
 dev-ruby/rubygems
 dev-libs/icu
 sci-geosciences/qgis
+sci-geosciences/gdal-grass
+sci-geosciences/grass
+sci-libs/libgeotiff
+sci-libs/gsl
+sci-libs/geos

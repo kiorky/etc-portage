@@ -2499,3 +2499,8 @@ virtual/rubygems ~x86 ~amd64
 dev-ruby/rubygems ~x86 ~amd64
 dev-libs/icu ~x86 ~amd64
 sci-geosciences/qgis ~x86 ~amd64
+sci-geosciences/gdal-grass ~x86 ~amd64
+sci-geosciences/grass ~x86 ~amd64
+sci-libs/libgeotiff ~x86 ~amd64
+sci-libs/gsl ~x86 ~amd64
+sci-libs/geos ~x86 ~amd64
