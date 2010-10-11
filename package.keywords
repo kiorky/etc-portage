@@ -2506,3 +2506,4 @@ sci-libs/gsl ~x86 ~amd64
 sci-libs/geos ~x86 ~amd64
 media-libs/tiff ~x86 ~amd64
 sci-libs/gdal ~x86 ~amd64
+sci-libs/gdal ~x86 ~amd64
