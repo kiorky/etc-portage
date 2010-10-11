@@ -2077,3 +2077,4 @@ sci-libs/libgeotiff
 sci-libs/gsl
 sci-libs/geos
 media-libs/tiff
+sci-libs/gdal
