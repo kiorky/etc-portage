@@ -522,10 +522,10 @@ dev-libs/pkcs11-helper gnutls nss
 dev-db/tora mysql -oci8-instant-client oracle postgres
 net-print/hplip X hpcups parport policykit -doc fax hpijs libnotify -minimal qt4 scanner snmp -static-ppds udev-acl
 x11-libs/gdk-pixbuf  X jpeg jpeg2k -test tiff
-sci-libs/gdal curl  -ecwj2k fits geos gif gml hdf hdf5 jpeg jpeg2k mysql netcdf odbc ogdi pam perl png postgres python ruby sqlite threads
+sci-libs/gdal curl  -ecwj2k fits geos gif gml hdf hdf5 jpeg jpeg2k mysql netcdf odbc ogdi pam perl png postgres python -ruby sqlite threads
 sci-geosciences/qgis postgres python -examples gps grass gsl sqlite
 sci-geosciences/grass X cairo cxx ffmpeg fftw gmath jpeg largefile -motif mysql nls odbc opengl png postgres python readline sqlite tiff truetype wxwidgets
-=sci-libs/hdf5-1.6.4
-
-sci-libs/hdf5 cxxexamples fortran mpi szip threads zlib
+sci-libs/hdf5 cxxexamples fortran -mpi szip threads zlib
+sys-cluster/openmpi cxx fortran ipv6 -heterogeneous -mpi-threads pbs romio -threads vt
+virtual/mpi  cxx fortran romio
 

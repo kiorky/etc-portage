@@ -2078,10 +2078,5 @@ sci-libs/gsl
 sci-libs/geos
 media-libs/tiff
 sci-libs/gdal
-sci-libs/gdal
 sci-libs/hdf5
-sci-libs/hdf5
-sci-libs/hdf5
-sci-libs/hdf5
-sci-libs/hdf5
-sci-libs/hdf5
+net-libs/ortp
