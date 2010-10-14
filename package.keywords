@@ -2508,3 +2508,4 @@ media-libs/tiff ~x86 ~amd64
 sci-libs/gdal ~x86 ~amd64
 sci-libs/hdf5 ~x86 ~amd64
 net-libs/ortp ~x86 ~amd64
+media-libs/gst-plugins-good ~x86 ~amd64
