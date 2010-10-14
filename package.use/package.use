@@ -528,4 +528,5 @@ sci-geosciences/grass X cairo cxx ffmpeg fftw gmath jpeg largefile -motif mysql 
 sci-libs/hdf5 cxxexamples fortran -mpi szip threads zlib
 sys-cluster/openmpi cxx fortran ipv6 -heterogeneous -mpi-threads pbs romio -threads vt
 virtual/mpi  cxx fortran romio
+x11-libs/qt-gui accessibility cups dbus exceptions glib -gtk mng nas nis pch qt3support raster tiff xinerama (  
 
