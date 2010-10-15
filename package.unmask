@@ -646,7 +646,7 @@ games-simulation/dangerdeep
 games-strategy/bos
 games-strategy/lune
 games-strategy/wormux
-gnome-base/control-center
+gnome-base/gnome-control-center
 gnome-base/eel
 gnome-base/gail
 gnome-base/gconf
@@ -687,7 +687,7 @@ gnome-extra/evolution-webcal
 gnome-extra/fast-user-switch-applet
 gnome-extra/gcalctool
 gnome-extra/gconf-editor
-gnome-extra/gnome2-user-docs
+gnome-extra/gnome-user-docs
 gnome-extra/gnome-build
 gnome-extra/gnome-games
 gnome-extra/gnome-keyring-manager
@@ -894,7 +894,7 @@ media-gfx/bootsplash
 media-gfx/eog
 media-gfx/fontforge
 media-gfx/f-spot
-media-gfx/gimp-print
+net-print/gutenprint
 media-gfx/gphoto2
 media-gfx/graphviz
 media-gfx/sane-backends
@@ -1133,7 +1133,7 @@ sys-devel/automake
 sys-devel/dev86
 sys-devel/m4
 sys-devel/qconf-cvs
-sys-fs/cryptsetup-luks
+sys-fs/cryptsetup
 sys-fs/device-mapper
 sys-fs/dmraid
 sys-fs/e2fsprogs
@@ -2080,4 +2080,4 @@ media-libs/tiff
 sci-libs/gdal
 sci-libs/hdf5
 net-libs/ortp
-media-libs/gst-plugins-good
+net-misc/cadaver

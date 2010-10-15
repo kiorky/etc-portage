@@ -57,7 +57,7 @@ app-crypt/libgssapi ~x86 ~amd64
 app-crypt/mit-krb5 ~x86 ~amd64
 app-crypt/qca ~x86 ~amd64
 app-dicts/aspell-en ~x86 ~amd64
-app-doc/chmlib ~x86 ~amd64
+dev-libs/chmlib ~x86 ~amd64
 app-editors/bluefish ~x86 ~amd64
 app-editors/emacs-vcs ~x86 ~amd64
 app-editors/gedit ~x86 ~amd64
@@ -720,7 +720,7 @@ games-strategy/bos ~x86 ~amd64
 games-strategy/lune ~x86 ~amd64
 games-strategy/warzone2100 ~x86 ~amd64
 games-strategy/wormux ~x86 ~amd64
-gnome-base/control-center ~x86 ~amd64
+gnome-base/gnome-control-center ~x86 ~amd64
 gnome-base/eel ~x86 ~amd64
 gnome-base/gail ~x86 ~amd64
 gnome-base/gconf ~x86 ~amd64
@@ -773,7 +773,7 @@ gnome-extra/gnome-power-manager ~x86 ~amd64
 gnome-extra/gnome-screensaver ~x86 ~amd64
 gnome-extra/gnome-system-monitor ~x86 ~amd64
 gnome-extra/gnome-utils ~x86 ~amd64
-gnome-extra/gnome2-user-docs ~x86 ~amd64
+gnome-extra/gnome-user-docs ~x86 ~amd64
 gnome-extra/gsynaptics ~x86 ~amd64
 gnome-extra/gtkhtml ~x86 ~amd64
 gnome-extra/gucharmap ~x86 ~amd64
@@ -850,7 +850,7 @@ media-gfx/eog ~x86 ~amd64
 media-gfx/exhibit -*
 media-gfx/f-spot ~x86 ~amd64
 media-gfx/fontforge ~x86 ~amd64
-media-gfx/gimp-print ~x86 ~amd64
+net-print/gutenprint ~x86 ~amd64
 media-gfx/gphoto2 ~x86 ~amd64
 media-gfx/graphviz ~x86 ~amd64
 media-gfx/sane-backends ~x86 ~amd64
@@ -906,7 +906,7 @@ media-libs/swfdec ~x86 ~amd64
 media-libs/taglib ~x86 ~amd64
 media-libs/win32codecs ~x86 ~amd64
 media-libs/x264 ~x86 ~amd64
-media-libs/x264-svn ~x86 ~amd64
+media-libs/x264 ~x86 ~amd64
 media-libs/xine-lib -*
 media-libs/xine-lib ~x86 ~amd64
 media-libs/xvid ~x86 ~amd64
@@ -1009,7 +1009,7 @@ media-video/totem ~x86 ~amd64
 media-video/transcode ~x86 ~amd64
 media-video/vlc ~x86 ~amd64
 media-video/x264-encoder ~x86 ~amd64
-media-video/x264-svn-encoder ~x86 ~amd64
+media-video/x264-encoder ~x86 ~amd64
 media-video/xine-ui ~x86 ~amd64
 media-video/xvid4conf ~x86 ~amd64
 napp-forensics/rkhunter ~x86 ~amd64
@@ -1189,7 +1189,7 @@ sys-devel/libtool ~x86 ~amd64
 sys-devel/m4 ~x86 ~amd64
 sys-devel/qconf-cvs ~x86 ~amd64
 sys-fs/cryptsetup ~x86 ~amd64
-sys-fs/cryptsetup-luks ~x86 ~amd64
+sys-fs/cryptsetup ~x86 ~amd64
 sys-fs/device-mapper ~x86 ~amd64
 sys-fs/dmraid ~x86 ~amd64
 sys-fs/e2fsprogs ~x86 ~amd64
@@ -1387,7 +1387,7 @@ x11-misc/transset #optional in CB's overlay
 x11-misc/util-macros ~x86 ~amd64
 x11-misc/x2vnc ~x86 ~amd64
 x11-misc/xbitmaps ~x86 ~amd64
-x11-misc/xchm ~x86 ~amd64
+app-text/xchm ~x86 ~amd64
 x11-misc/xdg-utils ~x86 ~amd64
 x11-misc/xinput ~x86 ~amd64
 x11-misc/xkbdata ~x86 ~amd64
@@ -2508,4 +2508,4 @@ media-libs/tiff ~x86 ~amd64
 sci-libs/gdal ~x86 ~amd64
 sci-libs/hdf5 ~x86 ~amd64
 net-libs/ortp ~x86 ~amd64
-media-libs/gst-plugins-good ~x86 ~amd64
+net-misc/cadaver ~x86 ~amd64
