@@ -530,3 +530,5 @@ sys-cluster/openmpi cxx fortran ipv6 -heterogeneous -mpi-threads pbs romio -thre
 virtual/mpi  cxx fortran romio
 x11-libs/qt-gui accessibility cups dbus exceptions glib -gtk mng nas nis pch qt3support raster tiff xinerama (  
 
+kde-base/kdepimlibs semantic-desktop
+

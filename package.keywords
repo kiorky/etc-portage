@@ -541,8 +541,6 @@ dev-libs/ossp-uuid ~x86 ~amd64
 dev-libs/popt ~x86 ~amd64
 dev-libs/protobuf ~x86 ~amd64
 dev-libs/pwlib ~x86 ~amd64
-dev-libs/rasqal ~x86 ~amd64
-dev-libs/redland	
 dev-libs/soprano ~x86 ~amd64
 dev-libs/xmlrpc-c ~x86 ~amd64
 dev-libs/yaz ~x86 ~amd64
