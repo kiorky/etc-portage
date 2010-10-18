@@ -2507,3 +2507,4 @@ sci-libs/gdal ~x86 ~amd64
 sci-libs/hdf5 ~x86 ~amd64
 net-libs/ortp ~x86 ~amd64
 net-misc/cadaver ~x86 ~amd64
+www-plugins/adobe-flash ~x86 ~amd64
