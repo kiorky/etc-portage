@@ -528,6 +528,13 @@ sci-geosciences/grass X cairo cxx ffmpeg fftw gmath jpeg largefile -motif mysql 
 sci-libs/hdf5 cxxexamples fortran -mpi szip threads zlib
 sys-cluster/openmpi cxx fortran ipv6 -heterogeneous -mpi-threads pbs romio -threads vt
 virtual/mpi  cxx fortran romio
-x11-libs/qt-gui accessibility cups dbus exceptions glib -gtk mng nas nis pch qt3support raster tiff xinerama (  
+x11-libs/qt-gui accessibility cups dbus exceptions glib -gtk mng nas nis pch qt3support raster tiff xinerama (
 kde-base/kdepimlibs semantic-desktop
-www-client/elinks X bittorrent bzip2 finger ftp gopher gpm guile idn ipv6 javascript lua mouse nls nntp perl -ruby samba ssl unicode zlib 
+www-client/elinks X bittorrent bzip2 finger ftp gopher gpm guile idn ipv6 javascript lua mouse nls nntp perl -ruby samba ssl unicode zlib
+media-video/ffmpeg 3dnow 3dnowext X alsa bzip2 encode faac hardcoded-tables mmx mmxext mp3 network sdl ssse3 theora threads vorbis x264 xvid zlib  cpudetection  dirac frei0r gsm jpeg2k qt-faststart rtmp schroedinger speex v4l v4l2 vaapi vdpau vpx
+media-video/mplayer X a52 aalib alsa amr ass bidi bl cddb cdio cdparanoia cpudetection dga dirac dts dv dvb dvd enca encode esd faac faad ftp ggi gif iconv ipv6 jpeg libcaca live lzo mad md5sum mng mp3 nas network openal osdmenu oss png pnm quicktime radio rar real samba schroedinger sdl shm speex sse sse2 tga theora toolame tremor truetype twolame unicode vorbis x264 xanim xinerama xscreensaver xv xvid xvmc zoran 3dnow 3dnowext bs2b  dvdnav dxr3 -gmplayer jpeg2k ladspa lirc mmx mmxext nut opengl pulseaudio pvr rtc ssse3  v4l v4l2 vdpau vpx win32codecs
+media-libs/libvpx mmx sse sse2 threads postproc sse3 ssse3
+media-plugins/frei0r-plugins  facedetect scale0tilt
+media-video/rtmpdump ssl gnutls polarssl
+media-libs/opencv deprecated gtk jpeg mmx openmp png python sse sse2 tiff  ffmpeg gstreamer jpeg2k octave sse3 v4l
+media-gfx/graphicsmagick X bzip2 cxx jpeg lcms modules openmp perl png svg tiff truetype zlib fpx -imagemagick jbig jpeg2k q16 q32 threads wmf
