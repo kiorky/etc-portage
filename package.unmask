@@ -2087,3 +2087,5 @@ media-gfx/xloadimage
 media-gfx/xloadimage
 x11-plugins/enigmail
 x11-plugins/enigmail
+media-video/em8300-libraries
+media-video/em8300-modules
