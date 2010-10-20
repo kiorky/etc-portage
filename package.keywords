@@ -2516,3 +2516,5 @@ x11-plugins/enigmail ~x86 ~amd64
 x11-plugins/enigmail ~x86 ~amd64
 media-video/em8300-libraries ~x86 ~amd64
 media-video/em8300-modules ~x86 ~amd64
+media-video/em8300-libraries ~x86 ~amd64
+media-video/em8300-modules ~x86 ~amd64
