@@ -538,3 +538,5 @@ media-plugins/frei0r-plugins  facedetect scale0tilt
 media-video/rtmpdump ssl gnutls polarssl
 media-libs/opencv deprecated gtk jpeg mmx openmp png python sse sse2 tiff  ffmpeg gstreamer jpeg2k octave sse3 v4l
 media-gfx/graphicsmagick X bzip2 cxx jpeg lcms modules openmp perl png svg tiff truetype zlib fpx -imagemagick jbig jpeg2k q16 q32 threads wmf
+www-plugins/adobe-flash 32bit 64bit  nspluginwrapper
+media-plugins/alsa-plugins pulseaudio  ffmpeg jack libsamplerate speex
