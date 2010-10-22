@@ -2097,3 +2097,4 @@ x11-drivers/ati-drivers
 x11-drivers/radeon-ucode
 x11-drivers/xf86-input-virtualbox
 x11-drivers/xf86-video-virtualbox
+net-wireless/broadcom-sta
