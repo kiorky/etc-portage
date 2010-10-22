@@ -2518,3 +2518,4 @@ media-video/em8300-libraries ~x86 ~amd64
 media-video/em8300-modules ~x86 ~amd64
 net-wireless/iwl5000-ucode ~x86 ~amd64
 x11-drivers/ati-drivers ~x86 ~amd64
+x11-drivers/ati-drivers ~x86 ~amd64
