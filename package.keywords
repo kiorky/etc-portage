@@ -2519,3 +2519,6 @@ media-video/em8300-modules ~x86 ~amd64
 net-wireless/iwl5000-ucode ~x86 ~amd64
 x11-drivers/ati-drivers ~x86 ~amd64
 x11-drivers/ati-drivers ~x86 ~amd64
+x11-drivers/radeon-ucode ~x86 ~amd64
+x11-drivers/xf86-input-virtualbox ~x86 ~amd64
+x11-drivers/xf86-video-virtualbox ~x86 ~amd64
