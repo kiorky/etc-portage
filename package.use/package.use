@@ -474,7 +474,7 @@ dev-db/unixODBC -gnome -qt3
 app-text/djvu   jpeg nls nsplugin -qt3 tiff xml -debug -doc kde
 app-doc/doxygen doc -debug -latex -nodot -qt3
 app-text/poppler-bindings cairo gtk -qt3 qt4 -test
-app-text/poppler qt4
+app-text/poppler qt4 -exceptions
 app-text/djvu jpeg nls -nsplugin -qt3 threads tiff -debug -kde xml
 net-dns/avahi  bookmarks dbus gdbm gtk howl-compat ipv6 mdnsresponder-compat python -qt3 qt4 -autoipd -doc -mono -test
 net-libs/libsoup gnome
@@ -495,7 +495,7 @@ net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal -
 net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
 net-misc/curl ipv6 kerberos ldap ares gnutls idn libssh2 nss openssl
 www-servers/nginx ipv6 pcre perl ssl zlib addition -aio -debug fastcgi flv imap pop random-index realip securelink smtp -static-gzip status sub webdav
-app-text/poppler abiword lcms qt4 utils xpdf-headers cairo -cjk -debug -doc exceptions jpeg jpeg2k png
+app-text/poppler abiword lcms qt4 utils xpdf-headers cairo -cjk -debug -doc -exceptions jpeg jpeg2k png
 dev-db/sqlite fts3 readline threadsafe -debug -doc extensions -icu secure-delete soundex tcl -test
 
 media-sound/sonata trayicon dbus lyrics taglib
