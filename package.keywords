@@ -2529,3 +2529,4 @@ sys-auth/pambase ~x86 ~amd64
 sys-auth/pambase ~x86 ~amd64
 dev-libs/kpathsea ~x86 ~amd64
 app-text/ps2pkm ~x86 ~amd64
+app-text/ps2pkm ~x86 ~amd64
