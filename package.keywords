@@ -2532,3 +2532,4 @@ app-text/ps2pkm ~x86 ~amd64
 app-text/ps2pkm ~x86 ~amd64
 app-text/dvipsk ~x86 ~amd64
 app-text/dvipsk ~x86 ~amd64
+dev-tex/bibtexu ~x86 ~amd64
