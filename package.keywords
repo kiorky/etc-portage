@@ -2526,3 +2526,4 @@ net-wireless/broadcom-sta ~x86 ~amd64
 sys-kernel/linux-firmware ~x86 ~amd64
 sys-apps/shadow ~x86 ~amd64
 sys-auth/pambase ~x86 ~amd64
+sys-auth/pambase ~x86 ~amd64
