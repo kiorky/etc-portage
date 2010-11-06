@@ -2108,3 +2108,4 @@ app-text/ps2pkm
 app-text/dvipsk
 app-text/dvipsk
 dev-tex/bibtexu
+dev-texlive/texlive-basic
