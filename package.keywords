@@ -2527,3 +2527,4 @@ sys-kernel/linux-firmware ~x86 ~amd64
 sys-apps/shadow ~x86 ~amd64
 sys-auth/pambase ~x86 ~amd64
 sys-auth/pambase ~x86 ~amd64
+dev-libs/kpathsea ~x86 ~amd64
