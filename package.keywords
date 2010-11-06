@@ -2534,7 +2534,6 @@ app-text/dvipsk ~x86 ~amd64
 app-text/dvipsk ~x86 ~amd64
 dev-tex/bibtexu ~x86 ~amd64
 dev-texlive/texlive-basic ~x86 ~amd64
-dev-texlive/metadata.xml ~x86 ~amd64
 dev-texlive/texlive-bibtexextra ~x86 ~amd64
 dev-texlive/texlive-context ~x86 ~amd64
 dev-texlive/texlive-documentation-arabic ~x86 ~amd64

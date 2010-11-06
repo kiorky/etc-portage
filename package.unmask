@@ -2109,7 +2109,6 @@ app-text/dvipsk
 app-text/dvipsk
 dev-tex/bibtexu
 dev-texlive/texlive-basic
-dev-texlive/metadata.xml
 dev-texlive/texlive-bibtexextra
 dev-texlive/texlive-context
 dev-texlive/texlive-documentation-arabic
