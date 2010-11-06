@@ -2103,3 +2103,4 @@ sys-apps/shadow
 sys-auth/pambase
 sys-auth/pambase
 dev-libs/kpathsea
+app-text/ps2pkm
