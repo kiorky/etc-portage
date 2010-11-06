@@ -2620,3 +2620,4 @@ dev-texlive/texlive-texinfo ~x86 ~amd64
 dev-texlive/texlive-xetex ~x86 ~amd64
 dev-python/mygpoclient ~x86 ~amd64
 sci-geosciences/gpsd ~x86 ~amd64
+dev-ruby/rdoc-2.5.11 ~x86 ~amd64
