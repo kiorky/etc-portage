@@ -2524,3 +2524,4 @@ x11-drivers/xf86-input-virtualbox ~x86 ~amd64
 x11-drivers/xf86-video-virtualbox ~x86 ~amd64
 net-wireless/broadcom-sta ~x86 ~amd64
 sys-kernel/linux-firmware ~x86 ~amd64
+sys-apps/shadow ~x86 ~amd64

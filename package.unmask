@@ -2099,3 +2099,4 @@ x11-drivers/xf86-input-virtualbox
 x11-drivers/xf86-video-virtualbox
 net-wireless/broadcom-sta
 sys-kernel/linux-firmware
+sys-apps/shadow
