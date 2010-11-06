@@ -2194,3 +2194,4 @@ dev-texlive/texlive-science
 dev-texlive/texlive-texinfo
 dev-texlive/texlive-xetex
 dev-python/mygpoclient
+sci-geosciences/gpsd
