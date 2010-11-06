@@ -540,3 +540,5 @@ media-libs/opencv deprecated gtk jpeg mmx openmp png python sse sse2 tiff  ffmpe
 media-gfx/graphicsmagick X bzip2 cxx jpeg lcms modules openmp perl png svg tiff truetype zlib fpx -imagemagick jbig jpeg2k q16 q32 threads wmf
 www-plugins/adobe-flash 32bit 64bit  nspluginwrapper
 media-plugins/alsa-plugins pulseaudio  ffmpeg jack libsamplerate speex
+
+sys-apps/portage ~*        

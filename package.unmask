@@ -2195,4 +2195,6 @@ dev-texlive/texlive-texinfo
 dev-texlive/texlive-xetex
 dev-python/mygpoclient
 sci-geosciences/gpsd
-dev-ruby/rdoc-2.5.11
+dev-ruby/rdoc
+sys-apps/portage
+dev-cpp/atkmmx
