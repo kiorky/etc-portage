@@ -2200,3 +2200,4 @@ sys-apps/portage
 dev-cpp/atkmmx
 x11-apps/scripts
 virtual/rubygems
+dev-ruby/daemons
