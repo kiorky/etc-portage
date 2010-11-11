@@ -542,4 +542,4 @@ www-plugins/adobe-flash 32bit 64bit  nspluginwrapper
 media-plugins/alsa-plugins pulseaudio  ffmpeg jack libsamplerate speex
 
 sys-apps/portage ~*        
-media-libs/svgalibkernel-helper build
+media-libs/svgalib kernel-helper build

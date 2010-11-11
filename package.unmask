@@ -2198,3 +2198,4 @@ sci-geosciences/gpsd
 dev-ruby/rdoc
 sys-apps/portage
 dev-cpp/atkmmx
+x11-apps/scripts
