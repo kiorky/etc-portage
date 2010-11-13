@@ -2630,3 +2630,4 @@ dev-ruby/fastthread ~x86 ~amd64
 dev-cpp/atkmm ~x86 ~amd64
 dev-cpp/atkmm ~x86 ~amd64
 media-libs/gd ~x86 ~amd64
+x11-libs/cairo ~x86 ~amd64

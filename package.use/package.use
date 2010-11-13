@@ -181,7 +181,7 @@ media-gfx/imagemagick  jpeg mpeg perl png truetype xml2 zlib bzip2 -doc -fpx gra
 media-gfx/xv jpeg png tiff
 media-libs/akode alsa flac -jack mp3 oss speex vorbis
 media-libs/flac ogg
-media-libs/gd jpeg png  truetype xpm
+media-libs/gd jpeg png  truetype xpm fontconfig
 media-libs/imlib2 bzip2  gif  jpeg  mp3   nls  png  iff  zlib
 media-libs/lcms  python zlib  jpeg tiff
 media-libs/libsdl  alsa libcaca aalib opengl xv
