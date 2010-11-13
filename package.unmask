@@ -2201,3 +2201,4 @@ dev-cpp/atkmmx
 x11-apps/scripts
 virtual/rubygems
 dev-ruby/daemons
+dev-ruby/fastthread
