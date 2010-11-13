@@ -2206,4 +2206,4 @@ dev-ruby/fastthread
 dev-cpp/atkmm
 dev-cpp/atkmm
 media-libs/gd
-x11-libs/cairo
+x11-libs/cairo/cairo
