@@ -2203,3 +2203,4 @@ virtual/rubygems
 dev-ruby/daemons
 dev-ruby/fastthread
 dev-ruby/fastthread
+dev-cpp/atkmm

@@ -2627,3 +2627,4 @@ virtual/rubygems ~x86 ~amd64
 dev-ruby/daemons ~x86 ~amd64
 dev-ruby/fastthread ~x86 ~amd64
 dev-ruby/fastthread ~x86 ~amd64
+dev-cpp/atkmm ~x86 ~amd64
