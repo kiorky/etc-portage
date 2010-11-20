@@ -507,7 +507,7 @@ www-client/chromium mp3  x264
 
 net-im/gajim  X crypt dbus libnotify nls spell -avahi -gnome idle srv trayicon xhtml
 sys-devel/binutils multitarget
-net-libs/libgadu ssl threads
+net-libs/libgadu -ssl threads 
 media-libs/mediastreamer X alsa ipv6 speex x264  -examples gsm -ilbc -jack -oss portaudio theora video
 kde-base/kopete addbookmarks autoreplace contactnotes gadu handbook highlight jabber jingle nowlistening pipes privacy sms ssl statistics texteffect translator urlpicpreview webpresence yahoo  -bonjour -debug groupwise history  -latex meanwhile msn oscar -otr qq skype -testbed -v4l2 winpopup
 dev-java/gnu-classpath alsa gtk qt4 xml -debug -doc -dssi -examples gconf -gjdoc gmp gstreamer
