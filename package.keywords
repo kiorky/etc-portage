@@ -2635,3 +2635,4 @@ x11-libs/cairo ~x86 ~amd64
 dev-cpp/atkmm ~x86 ~amd64
 dev-cpp/atkmm ~x86 ~amd64
 dev-lang/vala ~x86 ~amd64
+media-libs/libass ~x86 ~amd64
