@@ -291,8 +291,8 @@ www-servers/jboss-bin ejb3 doc srvdir
 www-servers/tomcat -java5
 x11-base/xorg-x11 -3dfx -input_devices_acecad -input_devices_aiptek -input_devices_calcomp -input_devices_citron -input_devices_digitaledge -input_devices_dmc -input_devices_dynapro -input_devices_elo2300 -input_devices_elographics input_devices_evdev -input_devices_fpit -input_devices_hyperpen -input_devices_jamstudio -input_devices_joystick-input    input_devices_keyboard -input_devices_magellan -input_devices_magictouch -input_devices_microtouch  input_devices_mouse -input_devices_mutouch -input_devices_palmax -input_devices_penmount -input_devices_spaceorb -input_devices_summa -input_devices_synaptics -input_devices_tek4957 -input_devices_ur98 -input_devices_vmmouse -input_devices_void -input_devices_wacom video_cards_apm -video_cards_ark -video_cards_ati -video_cards_chips -video_cards_cirrus -video_cards_cyrix -video_cards_dummy -video_cards_fbdev -video_cards_fglrx -video_cards_glint -video_cards_i128 -video_cards_i740 -video_cards_i810 -video_cards_imstt -video_cards_mga -video_cards_neomagic -video_cards_newport -video_cards_nsc -video_cards_nv video_cards_nvidia -video_cards_rendition -video_cards_s3 -video_cards_s3virge -video_cards_savage -video_cards_siliconmotion -video_cards_sis -video_cards_sisusb video_cards_vesa -video_cards_vga -video_cards_via -video_cards_vmware -video_cards_voodoo
 x11-libs/cairo glitz png pdf svg -qt4
-x11-libs/ecore nls opengl ssl curl dbus threads
-x11-libs/evas jpeg nls opengl png  cairo
+dev-libs/ecore nls opengl ssl curl dbus threads
+media-libs/evas jpeg nls opengl png  cairo
 x11-libs/gtk+ jpeg -debug -doc tiff xinerama
 x11-libs/qt glib  qt3support  mng  tiff  sqlite3 cups gif ipv6 mysql opengl sqlite doc examples
 x11-libs/wxGTK -gnome unicode -debug -doc -joystick -odbc opengl sdl gtk2 gtk
@@ -523,4 +523,4 @@ x11-misc/notification-daemon gstreamer
 net-libs/libproxy kde perl python xulrunner -gnome mono -networkmanager vala webkit
 x11-misc/notification-daemon gstreamer
 net-im/bitlbee gnutls ipv6 jabber msn oscar plugins ssl yahoo -debug libevent nss -otr -purple -test twitter -xinetd
-app-text/ghostscript-gpl cups jpeg2k -X -bindist cairo djvu
+app-text/ghostscript-gpl cups jpeg2k -X bindist cairo djvu -gtk 
