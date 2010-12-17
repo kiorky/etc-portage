@@ -2210,3 +2210,4 @@ dev-cpp/atkmm
 dev-cpp/atkmm
 dev-lang/vala
 media-libs/libass
+dev-libs/gobject-introspection
