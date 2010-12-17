@@ -2637,3 +2637,4 @@ dev-cpp/atkmm ~x86 ~amd64
 dev-lang/vala ~x86 ~amd64
 media-libs/libass ~x86 ~amd64
 dev-libs/gobject-introspection ~x86 ~amd64
+dev-python/pygobject ~x86 ~amd64

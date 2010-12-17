@@ -2211,3 +2211,4 @@ dev-cpp/atkmm
 dev-lang/vala
 media-libs/libass
 dev-libs/gobject-introspection
+dev-python/pygobject
