@@ -2213,3 +2213,4 @@ media-libs/libass
 dev-libs/gobject-introspection
 dev-python/pygobject
 app-arch/p7zip
+kde-base/konqueror

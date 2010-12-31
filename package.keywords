@@ -2639,3 +2639,4 @@ media-libs/libass ~x86 ~amd64
 dev-libs/gobject-introspection ~x86 ~amd64
 dev-python/pygobject ~x86 ~amd64
 app-arch/p7zip ~x86 ~amd64
+kde-base/konqueror ~x86 ~amd64
