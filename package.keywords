@@ -2641,3 +2641,4 @@ dev-python/pygobject ~x86 ~amd64
 app-arch/p7zip ~x86 ~amd64
 kde-base/konqueror ~x86 ~amd64
 app-admin/syslog-ng ~x86 ~amd64
+net-dns/c-ares ~x86 ~amd64

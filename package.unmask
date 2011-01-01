@@ -2215,3 +2215,4 @@ dev-python/pygobject
 app-arch/p7zip
 kde-base/konqueror
 app-admin/syslog-ng
+net-dns/c-ares
