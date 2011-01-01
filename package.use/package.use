@@ -525,4 +525,5 @@ x11-misc/notification-daemon gstreamer
 net-im/bitlbee gnutls ipv6 jabber msn oscar plugins ssl yahoo -debug libevent nss -otr -purple -test twitter -xinetd
 app-text/ghostscript-gpl cups jpeg2k -X bindist cairo djvu -gtk 
 net-print/hplip  X hpcups kde parport policykit -doc fax hpijs libnotify -minimal qt4 scanner snmp -static-ppds udev-acl
-11-libs/gdk-pixbuf jpeg tiff
+x11-libs/gdk-pixbuf  jpeg jpeg2k -test tiff
+app-arch/p7zip kde pch -doc rar -static -wxwidget
