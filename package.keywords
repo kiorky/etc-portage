@@ -2643,7 +2643,9 @@ kde-base/konqueror ~x86 ~amd64
 app-admin/syslog-ng ~x86 ~amd64
 net-dns/c-ares ~x86 ~amd64
 sys-auth/polkit-qt ~x86 ~amd64
-x11-libs/qt-declarative ~x86
-sys-auth/polkit-kde-agent ~x86
-kde-misc/polkit-kde-kcmodules ~x86
+x11-libs/qt-declarative ~x86 ~amd64
+sys-auth/polkit-kde-agent ~x86 ~amd64
+kde-misc/polkit-kde-kcmodules ~x86 ~amd64 
 dev-libs/libgpg-error ~x86 ~amd64
+media-sound/phonon-gstreamer ** ~* * ~x86 ~amd64
+media-sound/phonon-vlc ** ~* * ~x86 ~amd64

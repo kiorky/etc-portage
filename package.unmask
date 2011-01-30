@@ -2222,3 +2222,4 @@ sys-auth/polkit-kde-agent
 kde-base/nepomuk
 kde-misc/polkit-kde-kcmodules
 dev-libs/libgpg-error
+kde-base/kcheckpass
