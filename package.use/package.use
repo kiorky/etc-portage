@@ -528,3 +528,4 @@ net-print/hplip  X hpcups kde parport policykit -doc fax hpijs libnotify -minima
 x11-libs/gdk-pixbuf  jpeg jpeg2k -test tiff
 media-plugins/gst-plugins-meta X alsa -a52 -dvb dvd -esd ffmpeg flac lame mad mpeg -mythtv ogg -oss pulseaudio taglib theora -v4l -v4l2 vorbis xv
 app-arch/p7zip kde pch -doc rar -static -wxwidget
+x11-libs/qt-declarative  exceptions pch private-headers qt3support
