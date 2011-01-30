@@ -2223,3 +2223,4 @@ kde-base/nepomuk
 kde-misc/polkit-kde-kcmodules
 dev-libs/libgpg-error
 kde-base/kcheckpass
+sys-power/upower
