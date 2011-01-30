@@ -6,6 +6,7 @@ games-fps/quake3-data Q3AEULA
 dev-java/sun-jdk sun-bcla-java-vm  sun-prerelease-jdk6
 
 www-plugins/adobe-flash AdobeFlash-10.1
+app-emulation/virtualbox-additions  PUEL
 
 net-im/skype skype-eula
 dev-java/sun-jce-bin sun-bcla-java-vm
