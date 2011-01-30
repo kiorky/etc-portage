@@ -2217,8 +2217,8 @@ kde-base/konqueror
 app-admin/syslog-ng
 net-dns/c-ares
 sys-auth/polkit-qt
-=kde-base/khelpcenter-4.6.0
-=sys-auth/polkit-kde-agent-0.99.0
-=kde-base/nepomuk-4.6.0
-=kde-misc/polkit-kde-kcmodules-0.98_pre20101127
+kde-base/khelpcenter
+sys-auth/polkit-kde-agent
+kde-base/nepomuk
+kde-misc/polkit-kde-kcmodules
 dev-libs/libgpg-error
