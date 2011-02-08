@@ -828,8 +828,6 @@ kde-base/libksieve
 =kde-base/mimelib-4.1.2
 =kde-base/nepomuk-4.1.2
 =kde-base/nsplugins-4.1.2
-=kde-base/phonon-4.0.5
-=kde-base/plasma-4.0.5
 =kde-base/plasma-apps-4.1.2
 =kde-base/plasma-workspace-4.1.2
 =kde-base/solid-4.0.5
@@ -963,7 +961,6 @@ media-sound/mpdscribble
 media-sound/music-applet
 media-sound/oss
 media-sound/oss-devel
-media-sound/phonon
 media-sound/pulseaudio
 media-sound/rhythmbox
 media-sound/sound-juicer
@@ -1307,7 +1304,6 @@ x11-libs/qt-core
 x11-libs/qt-dbus
 x11-libs/qt-gui
 x11-libs/qt-opengl
-=x11-libs/qt-phonon-4.4.0
 x11-libs/qt-script
 x11-libs/qt-sql
 x11-libs/qt-svg
@@ -1583,8 +1579,6 @@ kde-base/akregator
 =kde-base/systemsettings-4.2*
 =kde-base/umbrello-4.2*
 app-office/akonadi-server
-media-sound/phonon
-x11-libs/qt-phonon
 sys-fs/e2fsprogs
 www-apps/gitweb
 kde-base/konq-plugins
@@ -1995,7 +1989,6 @@ kde-base/mplayerthumbs
 kde-base/okteta
 kde-base/palapeli
 kde-base/parley
-kde-base/phonon-kde
 kde-base/plasma-runtime
 kde-base/policykit-kde
 kde-base/powerdevil
@@ -2226,3 +2219,4 @@ kde-base/kcheckpass
 sys-power/upower
 sys-power/upower
 media-libs/libpng
+media-sound/phonon
