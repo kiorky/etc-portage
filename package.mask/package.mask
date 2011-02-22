@@ -48,12 +48,3 @@ sys-libs/ss
 =dev-db/postgresql-server-9.0_beta2
 =virtual/postgresql-base-9.0
 =dev-db/postgresql-base-9.0_beta2-r1
-=sys-auth/polkit-0.96-r2
-=sys-apps/dbus-1.4.1
-=dev-util/gtk-doc-am-1.11
->sys-apps/dbus-1.4.1
->media-libs/tiff-4.0.0_beta6
->sys-auth/polkit-0.99
->dev-util/gtk-doc-am-1.11
->media-libs/libpng-1.4.3
->dev-util/gtk-doc-am-1.15

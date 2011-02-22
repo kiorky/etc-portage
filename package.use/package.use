@@ -532,4 +532,5 @@ virtual/mysql embedded -static
 dev-db/mysql big-tables community embedded perl ssl -cluster -extraengine -latin1 -max-idx-128 -minimal -pbxt -profiling  -static -test -xtradb
 x11-libs/qt-declarative  exceptions pch private-headers qt3support
 sys-block/parted  debug nls readline device-mapper 
-dev-libs/libgcrypt -static-libs
+dev-libs/libgcrypt static-libs
+dev-libs/libgpg-error static-libs

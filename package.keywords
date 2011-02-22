@@ -1114,7 +1114,8 @@ net-wireless/ndiswrapper ~x86 ~amd64
 net-wireless/rt2x00 ~x86 ~amd64
 net-wireless/wireless-tools ~x86 ~amd64
 net-wireless/wpa_supplicant ~x86 ~amd64
-net-www/apache ~x86 ~amd64
+# move net-www/apache www-servers/apache
+www-servers/apache ~x86 ~amd64
 net-www/autobench ~x86 ~amd64
 net-www/gentoo-webroot-default ~x86 ~amd64
 net-www/mod_ssl ~x86 ~amd64
@@ -1138,7 +1139,8 @@ sys-apps/baselayout ~x86 ~amd64
 sys-apps/busybox ~x86 ~amd64
 sys-apps/coldplug ~x86 ~amd64
 sys-apps/dbus ~x86 ~amd64
-sys-apps/dbus-core ~x86 ~amd64
+# move sys-apps/dbus-core sys-apps/dbus
+sys-apps/dbus ~x86 ~amd64
 sys-apps/dmidecode ~x86 ~amd64
 sys-apps/eject ~x86 ~amd64
 sys-apps/ethtool ~x86 ~amd64
@@ -2651,5 +2653,3 @@ media-sound/phonon-gstreamer ** ~* * ~x86 ~amd64
 media-sound/phonon-vlc ** ~* * ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
-media-libs/libpng ~x86 ~amd64
-media-sound/phonon ~x86 ~amd64
