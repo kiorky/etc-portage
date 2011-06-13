@@ -1117,7 +1117,6 @@ sys-apps/pcmcia-cs-cis
 sys-apps/pcmcia-cs-modules
 sys-apps/pcmciautils
 sys-apps/pmount
-sys-apps/portage
 sys-apps/qtparted
 sys-apps/shadow
 sys-apps/suspend2-userui
@@ -2198,7 +2197,6 @@ dev-texlive/texlive-xetex
 dev-python/mygpoclient
 sci-geosciences/gpsd
 dev-ruby/rdoc
-sys-apps/portage
 dev-cpp/atkmmx
 x11-apps/scripts
 virtual/rubygems

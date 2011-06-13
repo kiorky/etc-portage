@@ -48,3 +48,4 @@ sys-libs/ss
 =dev-db/postgresql-server-9.0_beta2
 =virtual/postgresql-base-9.0
 =dev-db/postgresql-base-9.0_beta2-r1
+=sys-apps/portage-9999
