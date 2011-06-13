@@ -2228,3 +2228,5 @@ kde-base/kcheckpass
 sys-power/upower
 sys-power/upower
 x11-libs/libdrm
+sys-apps/portage
+sys-apps/portage
