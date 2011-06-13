@@ -2653,3 +2653,4 @@ media-sound/phonon-gstreamer ** ~* * ~x86 ~amd64
 media-sound/phonon-vlc ** ~* * ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
+x11-libs/libdrm ~x86 ~amd64
