@@ -2658,3 +2658,4 @@ sys-apps/portage ~x86 ~amd64 ** ~*
 sys-fs/diskdev_cmds  ~x86 ~amd64
 
 media-libs/vo-aacenc ~x86 ~amd64
+media-libs/xine-lib ~x86 ~amd64

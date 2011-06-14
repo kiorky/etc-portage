@@ -2227,3 +2227,4 @@ sys-power/upower
 x11-libs/libdrm
 dev-libs/libnl
 media-libs/vo-aacenc
+media-libs/xine-lib
