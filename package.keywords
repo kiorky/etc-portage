@@ -975,8 +975,10 @@ media-sound/ncmpcpc ~x86 ~amd64
 media-sound/ncmpcpp ~x86 ~amd64
 media-sound/oss ~x86 ~amd64
 media-sound/oss-devel ~x86 ~amd64
-media-sound/phonon  * ~*
-media-sound/phonon ~x86 ~amd64
+# move media-sound/phonon media-libs/phonon
+media-libs/phonon  * ~*
+# move media-sound/phonon media-libs/phonon
+media-libs/phonon ~x86 ~amd64
 media-sound/pulseaudio ~x86 ~amd64
 media-sound/rhythmbox ~x86 ~amd64
 media-sound/shell-fm ~x86 ~amd64
@@ -1142,7 +1144,8 @@ sys-apps/dbus ~x86 ~amd64
 # move sys-apps/dbus-core sys-apps/dbus
 sys-apps/dbus ~x86 ~amd64
 sys-apps/dmidecode ~x86 ~amd64
-sys-apps/eject ~x86 ~amd64
+# move sys-apps/eject sys-block/eject
+sys-block/eject ~x86 ~amd64
 sys-apps/ethtool ~x86 ~amd64
 sys-apps/hal ~x86 ~amd64
 sys-apps/hwdata-gentoo ~x86 ~amd64
@@ -1298,7 +1301,8 @@ x11-drivers/xf86-input-keyboard ~x86 ~amd64
 x11-drivers/xf86-input-mouse ~x86 ~amd64
 x11-drivers/xf86-input-synaptics ~x86 ~amd64
 x11-drivers/xf86-video-ati ~x86 ~amd64
-x11-drivers/xf86-video-i810 ~x86 ~amd64
+# move x11-drivers/xf86-video-i810 x11-drivers/xf86-video-intel
+x11-drivers/xf86-video-intel ~x86 ~amd64
 x11-drivers/xf86-video-intel ~x86 ~amd64
 x11-drivers/xf86-video-nv ~x86 ~amd64
 x11-drivers/xf86-video-r128 ~x86 ~amd64
@@ -2649,7 +2653,8 @@ x11-libs/qt-declarative ~x86 ~amd64
 sys-auth/polkit-kde-agent ~x86 ~amd64
 kde-misc/polkit-kde-kcmodules ~x86 ~amd64 
 dev-libs/libgpg-error ~x86 ~amd64
-media-sound/phonon-gstreamer ** ~* * ~x86 ~amd64
+# move media-sound/phonon-gstreamer media-libs/phonon-gstreamer
+media-libs/phonon-gstreamer ** ~* * ~x86 ~amd64
 media-sound/phonon-vlc ** ~* * ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
@@ -2659,3 +2664,4 @@ sys-fs/diskdev_cmds  ~x86 ~amd64
 
 media-libs/vo-aacenc ~x86 ~amd64
 media-libs/xine-lib ~x86 ~amd64
+sys-apps/openrc ~x86 ~amd64

@@ -962,7 +962,8 @@ media-sound/mpdscribble
 media-sound/music-applet
 media-sound/oss
 media-sound/oss-devel
-media-sound/phonon
+# move media-sound/phonon media-libs/phonon
+media-libs/phonon
 media-sound/pulseaudio
 media-sound/rhythmbox
 media-sound/sound-juicer
@@ -1097,7 +1098,8 @@ sys-apps/dbus
 # move sys-apps/dbus-core sys-apps/dbus
 sys-apps/dbus
 sys-apps/dmidecode
-sys-apps/eject
+# move sys-apps/eject sys-block/eject
+sys-block/eject
 sys-apps/ethtool
 sys-apps/hwdata-gentoo
 sys-apps/hwdata-redhat
@@ -1583,7 +1585,8 @@ kde-base/akregator
 =kde-base/systemsettings-4.2*
 =kde-base/umbrello-4.2*
 app-office/akonadi-server
-media-sound/phonon
+# move media-sound/phonon media-libs/phonon
+media-libs/phonon
 x11-libs/qt-phonon
 sys-fs/e2fsprogs
 www-apps/gitweb
@@ -2228,3 +2231,4 @@ x11-libs/libdrm
 dev-libs/libnl
 media-libs/vo-aacenc
 media-libs/xine-lib
+sys-apps/openrc
