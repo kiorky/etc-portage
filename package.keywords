@@ -2691,3 +2691,9 @@ sys-apps/openrc ~x86 ~amd64 ** ~*
 >=dev-java/plexus-ant-factory-1.0_alpha2 ~amd64
 #required by dev-java/maven-script-2.2.1, required by dev-java/maven-2.2.1, required by maven (argument)
 >=dev-java/plexus-bsh-factory-1.0_alpha9 ~amd64
+
+#required by dev-java/doxia-sink-api-1.1, required by dev-java/maven-2.2.1, required by maven (argument)
+>=dev-java/doxia-logging-api-1.1 ~amd64
+#required by dev-java/maven-2.2.1, required by maven (argument)
+>=dev-java/doxia-sink-api-1.1 ~amd64
+
