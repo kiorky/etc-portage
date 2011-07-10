@@ -415,16 +415,6 @@ dev-java/toolbar
 dev-java/txw2-runtim
 dev-java/txw2-runtime
 dev-java/velocity-tools
-dev-java/wagon-file
-dev-java/wagon-ftp
-dev-java/wagon-http
-dev-java/wagon-http-lightweight
-dev-java/wagon-http-shared
-dev-java/wagon-provider-api
-dev-java/wagon-ssh
-dev-java/wagon-ssh-common
-dev-java/wagon-ssh-common-test
-dev-java/wagon-ssh-external
 dev-java/werkz
 dev-java/wsdl4j
 dev-java/ws-policy
@@ -466,6 +456,7 @@ dev-libs/libdaemon
 dev-libs/libdnet
 dev-libs/libebml
 dev-libs/libIDL
+dev-libs/libnl
 dev-libs/libnotify
 dev-libs/libofx
 dev-libs/liboil
@@ -1118,6 +1109,7 @@ sys-apps/pcmcia-cs-cis
 sys-apps/pcmcia-cs-modules
 sys-apps/pcmciautils
 sys-apps/pmount
+sys-apps/portage
 sys-apps/qtparted
 sys-apps/shadow
 sys-apps/suspend2-userui
@@ -2199,6 +2191,7 @@ dev-texlive/texlive-xetex
 dev-python/mygpoclient
 sci-geosciences/gpsd
 dev-ruby/rdoc
+sys-apps/portage
 dev-cpp/atkmmx
 x11-apps/scripts
 virtual/rubygems
@@ -2227,8 +2220,3 @@ dev-libs/libgpg-error
 kde-base/kcheckpass
 sys-power/upower
 sys-power/upower
-x11-libs/libdrm
-dev-libs/libnl
-media-libs/vo-aacenc
-media-libs/xine-lib
-sys-apps/openrc
