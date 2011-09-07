@@ -2665,6 +2665,8 @@ sys-fs/diskdev_cmds  ~x86 ~amd64
 media-libs/vo-aacenc ~x86 ~amd64
 media-libs/xine-lib ~x86 ~amd64
 sys-apps/openrc ~x86 ~amd64 ** ~*
+<<<<<<< local
+=======
 #required by dev-java/wagon-ftp-1.0, required by dev-java/maven-2.2.1, required by maven (argument)
 >=dev-java/plexus-ftp-1.0_alpha1 ~amd64
 #required by dev-java/maven-2.2.1, required by maven (argument)
@@ -2697,3 +2699,4 @@ sys-apps/openrc ~x86 ~amd64 ** ~*
 #required by dev-java/maven-2.2.1, required by maven (argument)
 >=dev-java/doxia-sink-api-1.1 ~amd64
 
+>>>>>>> other
