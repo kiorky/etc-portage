@@ -2220,3 +2220,4 @@ dev-libs/libgpg-error
 kde-base/kcheckpass
 sys-power/upower
 sys-power/upower
+sys-boot/unetbootin

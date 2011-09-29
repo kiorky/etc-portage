@@ -2697,3 +2697,8 @@ sys-apps/openrc ~x86 ~amd64 ** ~*
 #required by dev-java/maven-2.2.1, required by maven (argument)
 >=dev-java/doxia-sink-api-1.1 ~amd64
 
+net-analyzer/pchar ~amd64
+
+>=net-analyzer/tcptrack-1.4.2 ~amd64
+
+sys-boot/unetbootin ~x86 ~amd64
