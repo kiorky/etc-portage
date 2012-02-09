@@ -2702,3 +2702,4 @@ net-analyzer/pchar ~amd64
 >=net-analyzer/tcptrack-1.4.2 ~amd64
 
 sys-boot/unetbootin ~x86 ~amd64
+sys-apps/sysvinit ~x86 ~amd64
