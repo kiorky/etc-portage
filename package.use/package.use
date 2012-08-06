@@ -208,7 +208,8 @@ media-video/avidemux xvid
 app-editors/emacs -alsa -xpm -X -Xaw3d -gif -gtk -gzip-el -hesiod -jpeg -motif -png -sound -source -spell -tiff -toolkit-scroll-bars
 media-video/avifile    a52  alsa  encode  dvd  esd mad   oss qt sblive sdl truetype   vidix vorbis win32codecs xv xvid zlib
 media-video/dvdrip cdr  fping  -gnome  mplayer  ogg  rar subtitles xvid
-media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler -threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l mmx mmxext sse sse2
+media-video/ffmpeg network zlib a52 aac altivec -amr -avisynth -doc dtsencode faac faad gpl -ieee1394 -mmx mp3 ogg opts -oss pp swscaler threads -v4l vorbis x264 xvid dts encode theora -altivec -amr -debug -doc -ieee1394 imlib -mmx -oss sdl -test threads truetype -v4l mmx mmxext sse sse2 jpeg2k theora threads vaapi vdpau 
+virtual/ffmpeg X encode mp3 sdl truetype x264 jpeg2k theora threads vaapi vdpau
 media-video/gpac jpeg mad ogg opengl oss png sdl ssl truetype vorbis aac amr    ffmpeg mozilla  theora   wxwindows  xml2 xvid
 media-video/gxine nsplugin lirc
 media-video/kmplayer mplayer
@@ -237,7 +238,7 @@ net-irc/irssi ipv6 perl ssl socks5
 net-libs/aqbanking chipcard dtaus geldkarte hbci -kde ofx python -debug -qt3 -yellowne
 net-libs/gecko-sdk crypt -debug -gnome ipv6 java ldap mozcalendar mozdevelop moznocompose moznoirc moznomail moznoxft mozsvg mozxmlterm postgres ssl truetype xinerama -xprint
 net-libs/libetpan berkdb ipv6 ssl -debug gnutls sasl
-net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d postgres sieve ssl -vpopmail suid managesieve
+net-mail/dovecot -debug -doc ipv6 -kerberos ldap -mbox mysql pam -pop3d -postgres sieve ssl -vpopmail suid managesieve
 net-mail/mailman apache2 postfix
 net-misc/d4x -esd -gnome -kde -nls -oss
 net-misc/icecast yp  theora
@@ -481,7 +482,7 @@ app-text/djvu jpeg nls -nsplugin -qt3 threads tiff -debug -kde xml
 net-dns/avahi  bookmarks dbus gdbm gtk howl-compat ipv6 mdnsresponder-compat python -qt3 qt4 -autoipd -doc -mono -test
 net-libs/libsoup gnome
 sys-auth/consolekit pam -debug -doc policykit
-sys-fs/udev extras
+sys-fs/udev extras static-libs
 dev-db/postgresql-base kerberos ldap nls pam readline ssl zlib -doc pg-intdatetime threads
 dev-db/postgresql-server  nls perl python xml   tcl uuid
 app-backup/bacula X ipv6 -mysql postgres python qt4 readline -sqlite3 ssl tcpd -bacula-clientonly bacula-console -bacula-nodir -bacula-nosd gnome logwatch -sqlite -static -wxwindows gnome
@@ -540,9 +541,10 @@ dev-libs/libgpg-error static-libs
 dev-python/pycairo -test
 dev-python/pygtk -test
 dev-python/py -test
-=dev-python/py-1.4.3 -test
 dev-java/excalibur-thread -doc
-=dev-python/jinja-2.5.5 -doc
-=dev-python/sphinx-1.0.7 -test
-=dev-python/nose-1.0.0 -doc
+dev-python/jinja -doc
+dev-python/sphinx -test
+dev-python/nose -doc
 
+sys-libs/zlib minizip
+dev-libs/beecrypt  cxx  -doc -java -python -static-libs threads

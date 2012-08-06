@@ -541,7 +541,6 @@ dev-libs/ossp-uuid ~x86 ~amd64
 dev-libs/popt ~x86 ~amd64
 dev-libs/protobuf ~x86 ~amd64
 dev-libs/pwlib ~x86 ~amd64
-dev-libs/soprano ~x86 ~amd64
 dev-libs/xmlrpc-c ~x86 ~amd64
 dev-libs/yaz ~x86 ~amd64
 dev-perl/Cairo ~x86 ~amd64
@@ -1199,7 +1198,6 @@ sys-fs/lvm-user ~x86 ~amd64
 sys-fs/lvm2 ~x86 ~amd64
 sys-fs/mdadm ~x86 ~amd64
 sys-fs/quotatool ~x86 ~amd64
-sys-fs/udev ~x86 ~amd64
 sys-kernel/gentoo-sources ~x86 ~amd64
 sys-kernel/vanilla-sources ~x86 ~amd64
 sys-kernel/vserver-sources ~x86 ~amd64
@@ -2028,7 +2026,8 @@ sys-apps/keyutils ~x86 ~amd64
 dev-db/ctdb ~x86 ~amd64
 =media-sound/mumble-1.1.6 ~x86 ~amd64
 app-emulation/virtualbox-ose-additions ~x86 ~amd64
-dev-java/icedtea6-bin ~x86 ~amd64
+# move dev-java/icedtea6-bin dev-java/icedtea-bin
+dev-java/icedtea-bin ~x86 ~amd64
 net-misc/rdesktop ~x86 ~amd64
 x11-drivers/xf86-input-evdev ~x86 ~amd64
 dev-util/lafilefixer ~x86 ~amd64
@@ -2053,8 +2052,6 @@ dev-libs/libattica ~x86 ~amd64
 dev-libs/libattica ~x86 ~amd64
 sys-auth/polkit-qt ~x86 ~amd64
 dev-libs/shared-desktop-ontologies ~x86 ~amd64
-dev-db/virtuoso-server ~x86 ~amd64
-dev-db/virtuoso-odbc ~x86 ~amd64
 net-libs/libssh ~x86 ~amd64
 kde-base/kdepim-runtime ~x86 ~amd64
 kde-base/attica ~x86 ~amd64
@@ -2063,7 +2060,6 @@ kde-base/libplasmagenericshell ~x86 ~amd64
 kde-base/solid-runtime ~x86 ~amd64
 =app-mobilephone/obex-data-server-0.4.5 ~x86 ~amd64
 media-libs/libmpdclient ~x86 ~amd64
-dev-db/virtuoso-server ~x86 ~amd64
 media-sound/teamspeak-client-bin ~x86 ~amd64
 media-sound/teamspeak-client-bin ~x86 ~amd64
 media-sound/teamspeak-client-bin ~x86 ~amd64
@@ -2703,3 +2699,48 @@ net-analyzer/pchar ~amd64
 
 sys-boot/unetbootin ~x86 ~amd64
 sys-apps/sysvinit ~x86 ~amd64
+#required by virtual/jdk-1.7.0, required by virtual/jre-1.7.0, required by @selected, required by @world (argument)
+=dev-java/icedtea-bin-7.2.0-r2 ~amd64
+#required by x11-libs/qt-gui-4.8.0-r2, required by kde-base/katepart-4.8.0, required by kde-base/kdelibs-4.8.0-r1, required by kde-base/khelpcenter-4.8.0
+=app-admin/eselect-qtgraphicssystem-1.1.1 ~amd64
+#required by net-fs/samba-3.6.3[client], required by @selected, required by @world (argument)
+=net-fs/cifs-utils-5.1 ~amd64
+#required by kde-base/nepomuk-4.8.0, required by kde-base/kdelibs-4.8.0-r1[semantic-desktop], required by kde-base/katepart-4.8.0
+=app-misc/strigi-0.7.7 **
+#required by kde-base/kdelibs-4.8.0-r1, required by kde-base/khelpcenter-4.8.0
+=kde-base/katepart-4.8.0 ~amd64
+#required by net-fs/nfs-utils-1.2.5[nfsv4,kerberos], required by @selected, required by @world (argument)
+=net-libs/libgssglue-0.3 ~amd64
+
+dev-libs/nettle ~x86 ~amd64 
+=dev-python/py-1.4.3 -test
+=x11-proto/glproto-1.4.16 ~amd64
+=dev-libs/libverto-0.2.4 ~amd64
+=kde-base/nepomuk-core-4.9.0 ~amd64
+=media-libs/webrtc-audio-processing-0.1 ~amd64
+=sys-block/thin-provisioning-tools-0.1.5-r1 ~amd64
+=kde-base/katepart-4.9.0 ~amd64
+=sys-apps/hwids-20120730 ~amd64
+=sys-libs/zlib-1.2.7 ~amd64
+=dev-lang/spidermonkey-1.8.5-r1 ~amd64
+=net-print/cups-filters-1.0.20 ~amd64
+=dev-libs/libev-4.11 ~amd64
+=sys-apps/kmod-9-r3 ~amd64
+=dev-libs/gobject-introspection-common-1.32.1 ~amd64
+#required by kde-base/kdelibs-4.9.0[semantic-desktop], required by dev-vcs/subversion-1.7.5[kde], required by dev-vcs/git-1.7.8.6[subversion,perl], required by media-libs/phonon-gstreamer-9999, required by media-libs/phonon-4.6.0-r1[gstreamer]
+=dev-libs/soprano-2.8.0 ~amd64
+#required by net-firewall/shorewall-4.5.4.2, required by net-firewall/shorewall6-4.5.4.2, required by @selected, required by @world (argument)
+=net-firewall/shorewall-core-4.5.4.2 ~amd64
+
+
+
+
+#required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-2.32.0, required by x11-libs/libgksu-2.0.12-r1, required by x11-libs/gksu-2.0.2-r1, required by sys-block/gparted-0.12.0[gtk], required by @selected, required by @world (argument)
+=gnome-base/libgnome-keyring-3.2.2 ~amd64
+#required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-3.2.2
+=app-crypt/gcr-3.4.1 ~amd64
+#required by app-portage/eix-0.26.1, required by @selected, required by @world (argument)
+=app-shells/push-1.5 ~amd64
+
+
+

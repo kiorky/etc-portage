@@ -1691,7 +1691,8 @@ media-libs/x264
 sys-apps/keyutils
 dev-db/ctdb
 app-emulation/virtualbox-ose-additions
-dev-java/icedtea6-bin
+# move dev-java/icedtea6-bin dev-java/icedtea-bin
+dev-java/icedtea-bin
 net-misc/rdesktop
 x11-drivers/xf86-input-evdev
 dev-util/lafilefixer
@@ -2220,3 +2221,7 @@ sys-power/upower
 sys-power/upower
 sys-boot/unetbootin
 sys-apps/sysvinit
+dev-db/virtuoso-odbc
+dev-db/virtuoso-server
+dev-libs/nettle
+app-crypt/gcr
