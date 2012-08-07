@@ -2230,3 +2230,4 @@ dev-libs/nettle
 # This is now the GNOME 3.4 mask
 # Masked for testing, clutter-1.10, and bugs in some packages:
 =app-crypt/gcr-3.4.1
+x11-drivers/xf86-video-nouveau

@@ -1342,7 +1342,6 @@ x11-libs/libXxf86dga ~x86 ~amd64
 x11-libs/libXxf86vm ~x86 ~amd64
 x11-libs/libcompizconfig
 x11-libs/libcompizconfig **
-x11-libs/libdrm ~x86 ~amd64
 x11-libs/libgksu ~x86 ~amd64
 x11-libs/libnotify ~x86 ~amd64
 x11-libs/libpciaccess ~x86 ~amd64
@@ -2654,7 +2653,6 @@ media-libs/phonon-gstreamer ** ~* * ~x86 ~amd64
 media-sound/phonon-vlc ** ~* * ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
 sys-power/upower ~x86 ~amd64
-x11-libs/libdrm ~x86 ~amd64
 sys-apps/portage ~x86 ~amd64 ** ~*
 sys-fs/diskdev_cmds  ~x86 ~amd64
 
@@ -2737,3 +2735,7 @@ dev-libs/nettle ~x86 ~amd64
 =app-crypt/gcr-3.4.1 ~amd64
 #required by app-portage/eix-0.26.1, required by @selected, required by @world (argument)
 =app-shells/push-1.5 ~amd64
+=x11-libs/libdrm-2.4.33 ~x86 ~amd64
+x11-libs/libdrm ~x86 ~amd64
+
+x11-drivers/xf86-video-nouveau ~x86 ~amd64
