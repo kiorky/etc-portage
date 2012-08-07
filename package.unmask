@@ -2224,4 +2224,9 @@ sys-apps/sysvinit
 dev-db/virtuoso-odbc
 dev-db/virtuoso-server
 dev-libs/nettle
-app-crypt/gcr
+#required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-3.2.2
+# /usr/portage/profiles/package.mask:
+# Nirbheek Chauhan <nirbheek@gentoo.org> (25 Mar 2012)
+# This is now the GNOME 3.4 mask
+# Masked for testing, clutter-1.10, and bugs in some packages:
+=app-crypt/gcr-3.4.1

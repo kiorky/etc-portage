@@ -2731,16 +2731,9 @@ dev-libs/nettle ~x86 ~amd64
 =dev-libs/soprano-2.8.0 ~amd64
 #required by net-firewall/shorewall-4.5.4.2, required by net-firewall/shorewall6-4.5.4.2, required by @selected, required by @world (argument)
 =net-firewall/shorewall-core-4.5.4.2 ~amd64
-
-
-
-
 #required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-2.32.0, required by x11-libs/libgksu-2.0.12-r1, required by x11-libs/gksu-2.0.2-r1, required by sys-block/gparted-0.12.0[gtk], required by @selected, required by @world (argument)
 =gnome-base/libgnome-keyring-3.2.2 ~amd64
 #required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-3.2.2
 =app-crypt/gcr-3.4.1 ~amd64
 #required by app-portage/eix-0.26.1, required by @selected, required by @world (argument)
 =app-shells/push-1.5 ~amd64
-
-
-
