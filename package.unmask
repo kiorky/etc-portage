@@ -930,8 +930,6 @@ media-plugins/gst-plugins
 media-plugins/gst-plugins-dvdnav
 media-plugins/gst-plugins-dvdread
 media-plugins/gst-plugins-esd
-media-plugins/gst-plugins-ffmpeg
-media-plugins/gst-plugins-ffmpeg-
 media-plugins/gst-plugins-flac
 media-plugins/gst-plugins-mad
 media-plugins/gst-plugins-ogg
@@ -962,7 +960,6 @@ media-sound/timidity++
 media-video/avidemux
 media-video/avifile
 media-video/dirac
-media-video/ffmpeg
 media-video/freeplayer-linux
 media-video/gpac
 media-video/kaffeine
@@ -1720,7 +1717,6 @@ media-sound/teamspeak-client-bin
 media-sound/teamspeak-client-bin
 media-sound/teamspeak-client-bin
 media-video/nvidia-settings
-x11-drivers/nvidia-drivers
 kde-base/kmail
 mail-client/evolution
 dev-python/evolution-python
