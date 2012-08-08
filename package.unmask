@@ -1812,7 +1812,6 @@ net-libs/libktorrent
 sci-libs/clapack
 sci-libs/clapack
 dev-libs/libf2c
-net-print/cups
 kde-base/activitymanager
 kde-base/kdontchangethehostname
 net-dialup/ppp

@@ -63,4 +63,5 @@ sys-libs/ss
 =dev-java/wagon-provider-api-1.0
 =dev-java/wagon-ftp-1.0
 
+=net-print/cups-1.6.1
 
