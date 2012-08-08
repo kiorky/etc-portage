@@ -2226,3 +2226,4 @@ dev-libs/nettle
 # Masked for testing, clutter-1.10, and bugs in some packages:
 =app-crypt/gcr-3.4.1
 x11-drivers/xf86-video-nouveau
+sys-boot/syslinux
