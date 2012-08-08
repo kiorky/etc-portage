@@ -65,3 +65,6 @@ sys-libs/ss
 
 =net-print/cups-1.6.1
 
+# ,for sambe .0.6 to compile
+=net-print/cups-1.6.1
+=net-print/cups-filters-1.0.20

@@ -2739,3 +2739,4 @@ dev-libs/nettle ~x86 ~amd64
 x11-libs/libdrm ~x86 ~amd64
 
 x11-drivers/xf86-video-nouveau ~x86 ~amd64
+net-print/cups-filters          ~x86 ~amd64
