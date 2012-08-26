@@ -2455,7 +2455,6 @@ kde-misc/kdesudo ~x86 ~amd64
 kde-misc/kdiff3 ~x86 ~amd64
 kde-misc/kdmthemegenerator ~x86 ~amd64
 kde-misc/kdocker ~x86 ~amd64
-kde-misc/kgrubeditor ~x86 ~amd64
 kde-misc/kgtk ~x86 ~amd64
 kde-misc/kim4 ~x86 ~amd64
 kde-misc/kio-ftps ~x86 ~amd64
@@ -2741,3 +2740,12 @@ x11-libs/libdrm ~x86 ~amd64
 x11-drivers/xf86-video-nouveau ~x86 ~amd64
 net-print/cups-filters          ~x86 ~amd64
 sys-boot/syslinux ~x86 ~amd64
+
+sys-kernel/spl ~amd64
+sys-fs/zfs ~amd64
+sys-boot/efibootmgr ~amd64
+sys-boot/grub:2 ~amd64
+
+
+
+net-misc/ndisc6 ~x86 ~amd64

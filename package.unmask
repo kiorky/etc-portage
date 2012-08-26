@@ -2018,7 +2018,6 @@ kde-misc/kdesudo
 kde-misc/kdiff3
 kde-misc/kdmthemegenerator
 kde-misc/kdocker
-kde-misc/kgrubeditor
 kde-misc/kgtk
 kde-misc/kim4
 kde-misc/kio-ftps
@@ -2227,3 +2226,4 @@ dev-libs/nettle
 =app-crypt/gcr-3.4.1
 x11-drivers/xf86-video-nouveau
 sys-boot/syslinux
+net-misc/ndisc6

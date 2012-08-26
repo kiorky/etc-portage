@@ -548,3 +548,7 @@ dev-python/nose -doc
 
 sys-libs/zlib minizip
 dev-libs/beecrypt  cxx  -doc -java -python -static-libs threads
+sys-boot/grub nls sdl truetype -custom-cflags -debug device-mapper -doc -efiemu -libzfs mount -static
+dev-libs/boehm-gc threads
+
+
