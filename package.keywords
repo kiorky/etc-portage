@@ -2749,3 +2749,4 @@ sys-boot/grub:2 ~amd64
 
 
 net-misc/ndisc6 ~x86 ~amd64
+net-misc/ndisc6 ~x86 ~amd64

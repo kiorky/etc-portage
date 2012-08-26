@@ -2227,3 +2227,4 @@ dev-libs/nettle
 x11-drivers/xf86-video-nouveau
 sys-boot/syslinux
 net-misc/ndisc6
+net-misc/ndisc6
