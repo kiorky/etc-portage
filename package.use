@@ -356,15 +356,21 @@ dev-db/postgresql kerberos nls pam perl pg-intdatetime python readline ssl xml z
 dev-db/postgis geos proj
 net-im/psi  sasl ssl -doc jingle plugins spell xscreensaver
 media-gfx/gimp python aalib -altivec -debug -doc -gimpprint gtkhtml -hardened jpeg lcms -mmx mng png -smp sse svg tiff wmf
-app-emulation/qemu-kvm bios gcc4  gnutls kvm  qemu sdl
-app-emulation/qemu-kvm bios gcc4  gnutls kvm  qemu sdl
+# move app-emulation/qemu-kvm app-emulation/qemu
+app-emulation/qemu bios gcc4  gnutls kvm  qemu sdl
+# move app-emulation/qemu-kvm app-emulation/qemu
+app-emulation/qemu bios gcc4  gnutls kvm  qemu sdl
 media-sound/moodbar flac mp3 ogg vorbis
 x11-wm/compiz gtk svg dbus fuse -gnome kde -xcb
-x11-libs/qt-core ssl -debug glib qt3support
+# move x11-libs/qt-core dev-qt/qtcore
+dev-qt/qtcore ssl -debug glib qt3support
 media-libs/libafterimage nls -examples gif jpeg -mmx png tiff
-x11-libs/qt-sql mysql postgres -debug firebird -odbc sqlite qt3support
-x11-libs/qt-gui  cups xinerama -accessibility dbus -debug mng nas nis tiff
-x11-libs/qt-opengl qt3support
+# move x11-libs/qt-sql dev-qt/qtsql
+dev-qt/qtsql mysql postgres -debug firebird -odbc sqlite qt3support
+# move x11-libs/qt-gui dev-qt/qtgui
+dev-qt/qtgui  cups xinerama -accessibility dbus -debug mng nas nis tiff
+# move x11-libs/qt-opengl dev-qt/qtopengl
+dev-qt/qtopengl qt3support
 x11-libs/vte python -debug -doc opengl
 kde-base/kmix xinerama alsa
 dev-libs/nss utils
@@ -401,7 +407,8 @@ mail-mta/postfix ipv6 ldap mysql pam postgres sasl ssl dovecot-sasl
 kde-base/kopete crypt slp ssl xinerama addbookmarks alias -arts autoreplace connectionstatus contactnotes -debug gadu -groupwise highlight -history -irc jingle -kdeenablefinal -kdehiddenvisibility -latex netmeeting nowlistening sametime sms statistics texteffect translator webpresence -winpopup xscreensaver yahoo
 media-video/kaffeine xinerama encode vorbis
 app-admin/prelude-lml fam
-app-emulation/qemu-kvm kvm sdl qemu gcc4 gnutls -qemu  sdl 
+# move app-emulation/qemu-kvm app-emulation/qemu
+app-emulation/qemu kvm sdl qemu gcc4 gnutls -qemu  sdl 
 games-action/teewars -dedicated racemod server
 media-sound/alsa-driver midi oss
 www-apps/mantisbt vhosts
@@ -414,7 +421,8 @@ x11-libs/qscintilla  python qt4
 dev-python/qscintilla-python qt4
 dev-db/tora kde xinerama oci8-instant-client oracle
 mail-client/thunderbird crypt ipv6 ldap xinerama  bindist    replytolist 
-x11-libs/qt-gui  cups dbus mng nas nis qt3support tiff xinerama accessibility -debug glib pch
+# move x11-libs/qt-gui dev-qt/qtgui
+dev-qt/qtgui  cups dbus mng nas nis qt3support tiff xinerama accessibility -debug glib pch
 app-benchmarks/jmeter beanshell
 net-libs/xulrunner ipv6 dbus java startup-notification wifi
 media-libs/swfdec alsa gtk -doc ffmpeg gstreamer -oss -pulseaudio
@@ -431,8 +439,10 @@ media-libs/libtheora encode
 media-video/x264-encoder gtk -mp4 threads
 app-emulation/virtualbox alsa additions headless
 app-emulation/virtualbox alsa additions -headless
-app-emulation/qemu-kvm alsa gnutls ncurses sdl  modules
-app-emulation/qemu-kvm alsa gnutls ncurses sdl gcc4    kvm   modules
+# move app-emulation/qemu-kvm app-emulation/qemu
+app-emulation/qemu alsa gnutls ncurses sdl  modules
+# move app-emulation/qemu-kvm app-emulation/qemu
+app-emulation/qemu alsa gnutls ncurses sdl gcc4    kvm   modules
 dev-python/imaging scanner X 
 media-gfx/xsane nls gimp jpeg lcms png tiff
 media-gfx/gimp aalib alsa gtkhtml jpeg lcms mng png python svg tiff wmf -altivec curl -dbus -debug -doc -gnome -mmx pdf -smp sse
@@ -532,7 +542,8 @@ media-plugins/gst-plugins-meta X alsa -a52 -dvb dvd -esd ffmpeg flac lame mad mp
 app-arch/p7zip kde pch -doc rar -static -wxwidget
 virtual/mysql embedded -static
 dev-db/mysql big-tables community embedded perl ssl -cluster -extraengine -latin1 -max-idx-128 -minimal -pbxt -profiling  -static -test -xtradb
-x11-libs/qt-declarative  exceptions pch private-headers qt3support
+# move x11-libs/qt-declarative dev-qt/qtdeclarative
+dev-qt/qtdeclarative  exceptions pch private-headers qt3support
 sys-block/parted  debug nls readline device-mapper 
 dev-libs/libgcrypt static-libs
 dev-libs/libgpg-error static-libs
@@ -550,5 +561,6 @@ sys-libs/zlib minizip
 dev-libs/beecrypt  cxx  -doc -java -python -static-libs threads
 sys-boot/grub nls sdl truetype -custom-cflags -debug device-mapper -doc -efiemu -libzfs mount -static
 dev-libs/boehm-gc threads
-
+virtual/udev static-libs
+net-fs/cifs-utils acl caps caps-ng ads creds
 
