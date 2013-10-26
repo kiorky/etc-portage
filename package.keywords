@@ -408,18 +408,7 @@ dev-python/winpdb ~x86 ~amd64
 dev-python/yenc ~x86 ~amd64
 dev-python/yolk-portage ~x86 ~amd64
 dev-python/yolk ~x86 ~amd64
-dev-qt/qt3support ~x86 ~amd64
-dev-qt/qtcore ~x86 ~amd64
-dev-qt/qtdbus ~x86 ~amd64
-dev-qt/qtdeclarative ~x86 ~amd64
-dev-qt/qtgui ~x86 ~amd64
-dev-qt/qtopengl ~x86 ~amd64
-dev-qt/qtscript ~x86 ~amd64
-dev-qt/qtsql ~x86 ~amd64
-dev-qt/qtsvg ~x86 ~amd64
-dev-qt/qttest ~x86 ~amd64
-dev-qt/qtwebkit ~x86 ~amd64
-dev-qt/qtxmlpatterns ~x86 ~amd64
+
 dev-ruby/daemons ~x86 ~amd64
 dev-ruby/fastthread ~x86 ~amd64
 dev-ruby/rake-compiler ~x86 ~amd64
@@ -2363,3 +2352,31 @@ net-misc/ndisc6 ~x86 ~amd64
 =media-libs/libogg-1.3.1 ~amd64
 
 
+# required by media-libs/libdvdread-4.2.0-r1[css]
+# required by media-libs/libdvdnav-4.2.0-r1
+# required by media-plugins/gst-plugins-resindvd-0.10.23
+# required by media-plugins/gst-plugins-meta-0.10-r8[dvd]
+# required by media-libs/phonon-gstreamer-9999
+# required by media-libs/phonon-4.6.0-r1[gstreamer]
+# required by kde-base/kdelibs-4.10.5-r1
+# required by net-libs/libproxy-0.4.11-r1[kde]
+# required by net-libs/glib-networking-2.32.3[libproxy]
+# required by net-libs/libsoup-2.38.1
+# required by media-plugins/gst-plugins-soup-0.10.31
+=media-libs/libdvdcss-1.2.13-r1 ~amd64
+
+=dev-libs/gobject-introspection-common=1.36.0 ~amd64 
+
+
+#dev-qt/qt3support ~x86 ~amd64
+#dev-qt/qtcore ~x86 ~amd64
+#dev-qt/qtdbus ~x86 ~amd64
+#dev-qt/qtdeclarative ~x86 ~amd64
+#dev-qt/qtgui ~x86 ~amd64
+#dev-qt/qtopengl ~x86 ~amd64
+#dev-qt/qtscript ~x86 ~amd64
+#dev-qt/qtsql ~x86 ~amd64
+#dev-qt/qtsvg ~x86 ~amd64
+#dev-qt/qttest ~x86 ~amd64
+#dev-qt/qtwebkit ~x86 ~amd64
+#dev-qt/qtxmlpatterns ~x86 ~amd64 
