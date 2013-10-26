@@ -89,8 +89,7 @@ app-misc/strigi
 app-misc/strigi ~x86 ~amd64
 app-misc/strigi ~x86 ~amd64 -*
 app-misc/tomboy ~x86 ~amd64
-app-mobilephone/gnokii ~x86 ~amd64
-=app-mobilephone/obex-data-server-0.4.5 ~x86 ~amd64
+
 app-office/akonadi-server ~x86 ~amd64
 app-office/criawips ~x86 ~amd64
 app-office/gnucash ~x86 ~amd64
@@ -684,7 +683,7 @@ media-libs/mediastreamer ~x86 ~amd64
 media-libs/mesa ~x86 ~amd64
 media-libs/openexr ~x86 ~amd64
 media-libs/openjpeg ~x86 ~amd64
-media-libs/phonon-gstreamer ** ~* * ~x86 ~amd64
+
 media-libs/raptor ~x86 ~amd64
 media-libs/realcodecs ~x86 ~amd64
 media-libs/schroedinger ~x86 ~amd64
@@ -726,7 +725,6 @@ media-sound/ncmpcpc ~x86 ~amd64
 media-sound/ncmpcpp ~x86 ~amd64
 media-sound/oss-devel ~x86 ~amd64
 media-sound/oss ~x86 ~amd64
-media-sound/phonon-vlc ** ~* * ~x86 ~amd64
 media-sound/rhythmbox ~x86 ~amd64
 media-sound/shell-fm ~x86 ~amd64
 media-sound/sonata ~x86 ~amd64
@@ -1141,7 +1139,6 @@ x11-libs/pixman ~x86 ~amd64
 x11-libs/qscintilla ~x86 ~amd64
 x11-libs/qt-assistant ~x86 ~amd64
 x11-libs/qt-multimedia ~x86 ~amd64
-x11-libs/qt-phonon ~x86 ~amd64
 x11-libs/qt ~x86 ~amd64
 x11-libs/vte ~x86 ~amd64
 x11-libs/wxGTK ~x86 ~amd64
@@ -1255,7 +1252,6 @@ dev-libs/nettle ~x86 ~amd64
 =dev-lang/spidermonkey-1.8.5-r1 ~amd64
 
 =dev-libs/libev-4.11 ~amd64
-=sys-apps/kmod-9-r3 ~amd64
 =dev-libs/gobject-introspection-common-1.32.1 ~amd64
 #required by kde-base/kdelibs-4.9.0[semantic-desktop], required by dev-vcs/subversion-1.7.5[kde], required by dev-vcs/git-1.7.8.6[subversion,perl], required by media-libs/phonon-gstreamer-9999, required by media-libs/phonon-4.6.0-r1[gstreamer]
 =dev-libs/soprano-2.8.0 ~amd64
@@ -2346,28 +2342,6 @@ net-misc/ndisc6 ~x86 ~amd64
 #sys-boot/syslinux ~x86 ~amd64
 #sys-boot/grub:2 ~amd64
 #sys-kernel/spl ~amd64 
-
-
-=dev-python/python-exec-2.0-r1 ~amd64
-=media-libs/libogg-1.3.1 ~amd64
-
-
-# required by media-libs/libdvdread-4.2.0-r1[css]
-# required by media-libs/libdvdnav-4.2.0-r1
-# required by media-plugins/gst-plugins-resindvd-0.10.23
-# required by media-plugins/gst-plugins-meta-0.10-r8[dvd]
-# required by media-libs/phonon-gstreamer-9999
-# required by media-libs/phonon-4.6.0-r1[gstreamer]
-# required by kde-base/kdelibs-4.10.5-r1
-# required by net-libs/libproxy-0.4.11-r1[kde]
-# required by net-libs/glib-networking-2.32.3[libproxy]
-# required by net-libs/libsoup-2.38.1
-# required by media-plugins/gst-plugins-soup-0.10.31
-=media-libs/libdvdcss-1.2.13-r1 ~amd64
-
-=dev-libs/gobject-introspection-common=1.36.0 ~amd64 
-
-
 #dev-qt/qt3support ~x86 ~amd64
 #dev-qt/qtcore ~x86 ~amd64
 #dev-qt/qtdbus ~x86 ~amd64
@@ -2379,4 +2353,16 @@ net-misc/ndisc6 ~x86 ~amd64
 #dev-qt/qtsvg ~x86 ~amd64
 #dev-qt/qttest ~x86 ~amd64
 #dev-qt/qtwebkit ~x86 ~amd64
+#media-sound/phonon-vlc ** ~* * ~x86 ~amd64
+#app-mobilephone/gnokii ~x86 ~amd64
+#=app-mobilephone/obex-data-server-0.4.5 ~x86 ~amd64
+#media-libs/phonon-gstreamer ** ~* * ~x86 ~amd64    
+#x11-libs/qt-phonon ~x86 ~amd64
 #dev-qt/qtxmlpatterns ~x86 ~amd64 
+
+#=sys-apps/kmod-9-r3 ~amd64
+
+=media-libs/libdvdcss-1.2.13-r1 ~amd64
+=dev-libs/gobject-introspection-common-1.36.0 ~amd64  
+=dev-python/python-exec-2.0-r1 ~amd64
+=media-libs/libogg-1.3.1 ~amd64 
