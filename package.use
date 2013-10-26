@@ -229,7 +229,7 @@ net-analyzer/snor mysql ssl prelude  flexresp
 net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling prelude -react sguil snortsam timestats -flexresp* -inline -odbc postgres -selinux
 net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat -mono python -autoipd -doc qt3 qt4 -test
 net-firewall/iptables  ipv6  -extensions -imq -l7filter
-net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog -winbind
+net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog winbind
 net-ftp/pure-ftpd mysql pam ssl vchroot  caps
 net-ftp/vsftpd  pam ssl tcpd caps logrotate
 net-im/bitlbee gnutls ipv6 jabber msn  -nss oscar ssl yahoo -debug -xinetd
@@ -563,4 +563,6 @@ sys-boot/grub nls sdl truetype -custom-cflags -debug device-mapper -doc -efiemu 
 dev-libs/boehm-gc threads
 virtual/udev static-libs
 net-fs/cifs-utils acl caps caps-ng ads creds
+
+>=sys-libs/talloc-2.1.0 python
 
