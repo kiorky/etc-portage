@@ -1565,7 +1565,6 @@ dev-libs/gobject-introspection
 dev-python/pygobject
 app-arch/p7zip
 kde-base/konqueror
-app-admin/syslog-ng
 net-dns/c-ares
 sys-auth/polkit-qt
 kde-base/khelpcenter
@@ -2131,3 +2130,4 @@ net-misc/ndisc6
 #app-emulation/qemu-user   
 #dev-dotnet/vte-sharp
 #x11-libs/vte
+#app-admin/syslog-ng
