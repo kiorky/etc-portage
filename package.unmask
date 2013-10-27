@@ -52,12 +52,6 @@ app-editors/vim
 app-editors/vim-core
 app-emulation/cedega
 app-emulation/kqem
-app-emulation/kqemu
-# move app-emulation/qemu-kvm app-emulation/qemu
-app-emulation/qemu
-app-emulation/qemu
-app-emulation/qemu-softmmu
-app-emulation/qemu-user
 app-emulation/virtualbox-additions
 app-emulation/virtualbox-bin
 app-emulation/virtualbox-modules
@@ -149,7 +143,6 @@ dev-dotnet/gnomevfs-sharp
 dev-dotnet/gtksourceview-sharp
 dev-dotnet/ikvm-bin
 dev-dotnet/pe-format
-dev-dotnet/vte-sharp
 dev-games/cel
 dev-games/crystalspace
 dev-java/ant-antlr
@@ -1083,7 +1076,6 @@ x11-libs/qscintilla
 x11-libs/qt
 x11-libs/qt-assistant
 
-x11-libs/vte
 x11-libs/wxGTK
 x11-libs/xtrans
 x11-misc/alacarte
@@ -1323,7 +1315,6 @@ media-libs/liblqr
 media-libs/liblqr
 media-libs/liblqr
 media-libs/liblqr
-net-firewall/shorewall
 dev-lang/ruby
 www-servers/nginx
 media-libs/libpgf
@@ -1408,13 +1399,7 @@ virtual/postgresql-base
 virtual/postgresql-base
 virtual/postgresql-base
 app-admin/eselect-postgresql
-net-firewall/shorewall-common
-net-firewall/shorewall
-net-firewall/shorewall-lite
-net-firewall/shorewall-perl
-net-firewall/shorewall6
-net-firewall/shorewall-shell
-net-firewall/shorewall6-lite
+
 app-crypt/truecrypt
 net-print/hplip
 sys-block/parted
@@ -2130,3 +2115,19 @@ net-misc/ndisc6
 #dev-qt/qtxmlpatterns 
 #dev-scheme/guile
 #media-libs/libcaca
+#net-firewall/shorewall
+#net-firewall/shorewall-common
+#net-firewall/shorewall
+#net-firewall/shorewall-lite
+#net-firewall/shorewall-perl
+#net-firewall/shorewall6
+#net-firewall/shorewall-shell
+#net-firewall/shorewall6-lite 
+# move app-emulation/qemu-kvm app-emulation/qemu
+#app-emulation/kqemu
+#app-emulation/qemu
+#app-emulation/qemu
+#app-emulation/qemu-softmmu
+#app-emulation/qemu-user   
+#dev-dotnet/vte-sharp
+#x11-libs/vte

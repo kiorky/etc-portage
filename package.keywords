@@ -13,6 +13,7 @@ app-admin/eselect-opengl ~x86 ~amd64
 app-admin/eselect-php ~x86 ~amd64
 app-admin/eselect-postgresql ~x86 ~amd64
 app-admin/eselect-python ~x86 ~amd64
+=app-admin/eselect-qtgraphicssystem-1.1.1 ~amd64
 app-admin/eselect-ruby ~x86 ~amd64
 app-admin/eselect-timidity ~x86 ~amd64
 app-admin/eselect-vi ~x86 ~amd64
@@ -44,6 +45,7 @@ app-benchmarks/jmeter ~x86 ~amd64
 app-cdr/gnomebaker ~x86 ~amd64
 app-cdr/k3b ~x86 ~amd64
 app-crypt/dirmngr ~x86 ~amd64
+=app-crypt/gcr-3.4.1 ~amd64
 app-crypt/gnupg ~x86 ~amd64
 app-crypt/gpgme ~x86 ~amd64
 app-crypt/heimdal ~x86 ~amd64
@@ -60,10 +62,6 @@ app-editors/gvim ~x86 ~amd64
 app-editors/vim-core ~x86 ~amd64
 app-editors/vim ~x86 ~amd64
 app-emulation/cedega ~x86 ~amd64
-app-emulation/kqemu ~x86 ~amd64
-app-emulation/qemu-softmmu ~x86 ~amd64
-app-emulation/qemu-user ~x86 ~amd64
-app-emulation/qemu ~x86 ~amd64
 app-emulation/virtualbox-additions ~x86 ~amd64
 app-emulation/virtualbox-bin ~x86 ~amd64
 app-emulation/virtualbox-modules ~x86 ~amd64
@@ -86,10 +84,10 @@ app-misc/sdricoh_cs ~x86 ~amd64
 app-misc/strigi * ~*
 app-misc/strigi ** ~* *
 app-misc/strigi		
+=app-misc/strigi-0.7.7 **
 app-misc/strigi ~x86 ~amd64
 app-misc/strigi ~x86 ~amd64 -*
 app-misc/tomboy ~x86 ~amd64
-
 app-office/akonadi-server ~x86 ~amd64
 app-office/criawips ~x86 ~amd64
 app-office/gnucash ~x86 ~amd64
@@ -104,6 +102,7 @@ app-portage/g-pypi ~x86 ~amd64
 app-portage/layman ~x86 ~amd64
 app-portage/overlay-utils ~x86 ~amd64
 app-portage/udept ~x86 ~amd64
+=app-shells/push-1.5 ~amd64
 app-shells/rssh ~x86 ~amd64
 app-text/a2ps ~x86 ~amd64
 app-text/acroread ~x86 ~amd64
@@ -188,7 +187,6 @@ dev-dotnet/gtksourceview-sharp ~x86 ~amd64
 dev-dotnet/ikvm-bin ~x86 ~amd64
 dev-dotnet/pango-sharp ~x86 ~amd64
 dev-dotnet/pe-format ~x86 ~amd64
-dev-dotnet/vte-sharp ~x86 ~amd64
 dev-games/cel ~x86 ~amd64
 dev-games/crystalspace ~x86 ~amd64
 dev-java/ant-antlr ~x86 ~amd64
@@ -225,6 +223,7 @@ dev-java/ant ~x86 ~amd64
 =dev-java/ibm-jdk-bin-1.4*
 =dev-java/ibm-jdk-bin-1.5*
 =dev-java/ibm-jre-bin-1.4*
+=dev-java/icedtea-bin-7.2.0-r2 ~amd64
 dev-java/icedtea-bin ~x86 ~amd64
 =dev-java/jrockit-jdk-bin-1.4*
 =dev-java/jrockit-jdk-bin-1.5*
@@ -239,6 +238,7 @@ dev-lang/php ~overlay ~x86 ~amd64
 dev-lang/pike ~x86 ~amd64
 dev-lang/python ~x86 ~amd64
 dev-lang/ruby ~x86 ~amd64
+=dev-lang/spidermonkey-1.8.5-r1 ~amd64
 dev-lang/swig ~x86 ~amd64
 dev-lang/vala ~x86 ~amd64
 dev-lang/yasm ~x86 ~amd64
@@ -256,6 +256,7 @@ dev-libs/embryo -*
 dev-libs/engrave -*
 dev-libs/glib ~x86 ~amd64
 dev-libs/gmime ~x86 ~amd64
+=dev-libs/gobject-introspection-common-1.32.1 ~amd64
 dev-libs/gobject-introspection ~x86 ~amd64
 dev-libs/g-wrap ~x86 ~amd64
 dev-libs/icu ~x86 ~amd64
@@ -270,6 +271,7 @@ dev-libs/libdaemon ~x86 ~amd64
 dev-libs/libdbusmenu-qt ~x86 ~amd64
 dev-libs/libdnet ~x86 ~amd64
 dev-libs/libebml ~x86 ~amd64
+=dev-libs/libev-4.11 ~amd64
 dev-libs/libf2c ~x86 ~amd64
 dev-libs/libgpg-error ~x86 ~amd64
 dev-libs/libgweather ~x86 ~amd64
@@ -283,10 +285,12 @@ dev-libs/liboobs ~x86 ~amd64
 dev-libs/libpreludedb ~x86 ~amd64
 dev-libs/libprelude ~x86 ~amd64
 dev-libs/libsigc++ ~x86 ~amd64
+=dev-libs/libverto-0.2.4 ~amd64
 dev-libs/libxml2 ~x86 ~amd64
 dev-libs/libxslt ~x86 ~amd64
 dev-libs/libzip ~x86 ~amd64
 dev-libs/lzo ~x86 ~amd64
+dev-libs/nettle ~x86 ~amd64 
 dev-libs/nspr ~x86 ~amd64
 dev-libs/nss ~x86 ~amd64
 dev-libs/opal ~x86 ~amd64
@@ -295,6 +299,7 @@ dev-libs/popt ~x86 ~amd64
 dev-libs/protobuf ~x86 ~amd64
 dev-libs/pwlib ~x86 ~amd64
 dev-libs/shared-desktop-ontologies ~x86 ~amd64
+=dev-libs/soprano-2.8.0 ~amd64
 dev-libs/xmlrpc-c ~x86 ~amd64
 dev-libs/yaz ~x86 ~amd64
 dev-perl/Cairo ~x86 ~amd64
@@ -366,6 +371,7 @@ dev-python/mygpoclient ~x86 ~amd64
 dev-python/pastedeploy ~x86 ~amd64
 dev-python/pastescript ~x86 ~amd64
 dev-python/paste ~x86 ~amd64
+=dev-python/py-1.4.3 -test
 dev-python/pyalsa ~x86 ~amd64
 dev-python/pycairo ~x86 ~amd64
 dev-python/pycrypto ~x86 ~amd64
@@ -407,7 +413,6 @@ dev-python/winpdb ~x86 ~amd64
 dev-python/yenc ~x86 ~amd64
 dev-python/yolk-portage ~x86 ~amd64
 dev-python/yolk ~x86 ~amd64
-
 dev-ruby/daemons ~x86 ~amd64
 dev-ruby/fastthread ~x86 ~amd64
 dev-ruby/rake-compiler ~x86 ~amd64
@@ -570,12 +575,16 @@ games-strategy/bos ~x86 ~amd64
 games-strategy/lune ~x86 ~amd64
 games-strategy/warzone2100 ~x86 ~amd64
 games-strategy/wormux ~x86 ~amd64
+=gnome-base/libgnome-keyring-3.2.2 ~amd64
 gnustep-libs/gdl2 ~x86 ~amd64
 java-virtuals/jaf ~x86 ~amd64
 java-virtuals/javamail ~x86 ~amd64
 java-virtuals/servlet-api ~x86 ~amd64
 jgoodies-forms/jgoodies-forms ~x86 ~amd64
+=kde-base/katepart-4.8.0 ~amd64
+=kde-base/katepart-4.9.0 ~amd64
 kde-base/konqueror ~x86 ~amd64
+=kde-base/nepomuk-core-4.9.0 ~amd64
 mail-client/claws-mail ~x86 ~amd64
 mail-client/evolution ~x86 ~amd64
 mail-client/mailody ~x86 ~amd64
@@ -682,7 +691,6 @@ media-libs/mediastreamer ~x86 ~amd64
 media-libs/mesa ~x86 ~amd64
 media-libs/openexr ~x86 ~amd64
 media-libs/openjpeg ~x86 ~amd64
-
 media-libs/raptor ~x86 ~amd64
 media-libs/realcodecs ~x86 ~amd64
 media-libs/schroedinger ~x86 ~amd64
@@ -692,6 +700,7 @@ media-libs/swfdec ~x86 ~amd64
 media-libs/taglib ~x86 ~amd64
 media-libs/tiff ~x86 ~amd64
 media-libs/vo-aacenc ~x86 ~amd64
+=media-libs/webrtc-audio-processing-0.1 ~amd64
 media-libs/win32codecs ~x86 ~amd64
 media-libs/x264 ~x86 ~amd64
 media-libs/xine-lib -*
@@ -772,10 +781,12 @@ net-analyzer/nessus-libraries ~x86 ~amd64
 net-analyzer/nessus-plugins ~x86 ~amd64
 net-analyzer/nessus ~x86 ~amd64
 net-analyzer/netcat6 ~x86 ~amd64
+net-analyzer/pchar ~amd64
 net-analyzer/prelude-nagios ~x86 ~amd64
 net-analyzer/prewikka ~x86 ~amd64
 net-analyzer/snort ~x86 ~amd64
 net-analyzer/tcpdump ~x86 ~amd64
+>=net-analyzer/tcptrack-1.4.2 ~amd64
 net-dialup/eagle-usb ~x86 ~amd64
 net-dialup/mingetty ~x86 ~amd64
 net-dialup/ppp ~x86 ~amd64
@@ -783,13 +794,7 @@ net-dns/avahi ~x86 ~amd64
 net-dns/bind ~x86 ~amd64
 net-dns/c-ares ~x86 ~amd64
 net-firewall/iptables ~x86 ~amd64
-net-firewall/shorewall6-lite ~x86 ~amd64
-net-firewall/shorewall6 ~x86 ~amd64
-net-firewall/shorewall-common ~x86 ~amd64
-net-firewall/shorewall-lite ~x86 ~amd64
-net-firewall/shorewall-perl ~x86 ~amd64
-net-firewall/shorewall-shell ~x86 ~amd64
-net-firewall/shorewall ~x86 ~amd64
+=net-fs/cifs-utils-5.1 ~amd64
 net-fs/nfs-utils ~x86 ~amd64
 net-fs/samba-client ~x86 ~amd64
 net-fs/samba-libs ~x86 ~amd64
@@ -816,6 +821,7 @@ net-libs/gssdp ~x86 ~amd64
 net-libs/gupnp-igd ~x86 ~amd64
 net-libs/gupnp ~x86 ~amd64
 net-libs/libetpan ~x86 ~amd64
+=net-libs/libgssglue-0.3 ~amd64
 net-libs/libktorrent ~x86 ~amd64
 net-libs/libmsn ~x86 ~amd64
 net-libs/libnfsidmap ~x86 ~amd64
@@ -839,6 +845,7 @@ net-misc/d4x ~x86 ~amd64
 net-misc/icecast ~x86 ~amd64
 net-misc/mDNSResponder ~x86 ~amd64
 net-misc/modemmanager ~x86 ~amd64
+net-misc/ndisc6 ~x86 ~amd64
 net-misc/networkmanager ~x86 ~amd64
 net-misc/ntpclient ~x86 ~amd64
 net-misc/proxytunnel ~x86 ~amd64
@@ -865,7 +872,6 @@ net-print/gutenprint ~x86 ~amd64
 net-print/hplip ~x86 ~amd64
 net-proxy/squid ~x86 ~amd64
 net-voip/twinkle ~x86 ~amd64
-net-wireless/aircrack-ng ~x86 ~amd64
 net-wireless/bluez ~x86 ~amd64
 net-wireless/broadcom-sta ~x86 ~amd64
 net-wireless/ipw3945d ~x86 ~amd64
@@ -955,6 +961,8 @@ sys-auth/policykit ~x86 ~amd64
 sys-block/eject ~x86 ~amd64
 sys-block/gparted ~x86 ~amd64
 sys-block/parted ~x86 ~amd64
+=sys-block/thin-provisioning-tools-0.1.5-r1 ~amd64
+sys-boot/unetbootin ~x86 ~amd64
 sys-cluster/util-vserver ~x86 ~amd64
 sys-devel/autoconf-wrapper ~x86 ~amd64
 sys-devel/autoconf ~x86 ~amd64
@@ -992,6 +1000,7 @@ sys-libs/readline ~x86 ~amd64
 sys-libs/ss ~x86 ~amd64
 sys-libs/talloc ~x86 ~amd64
 sys-libs/tdb ~x86 ~amd64
+=sys-libs/zlib-1.2.7 ~amd64
 sys-power/acpid ~x86 ~amd64
 sys-power/hibernate-script ~x86 ~amd64
 sys-power/nut ~x86 ~amd64
@@ -1087,6 +1096,7 @@ x11-drivers/xf86-input-synaptics ~x86 ~amd64
 x11-drivers/xf86-input-virtualbox ~x86 ~amd64
 x11-drivers/xf86-video-ati ~x86 ~amd64
 x11-drivers/xf86-video-intel ~x86 ~amd64
+x11-drivers/xf86-video-nouveau ~x86 ~amd64
 x11-drivers/xf86-video-nv ~x86 ~amd64
 x11-drivers/xf86-video-r128 ~x86 ~amd64
 x11-drivers/xf86-video-savage ~x86 ~amd64
@@ -1102,6 +1112,8 @@ x11-libs/goffice ~x86 ~amd64
 x11-libs/gtksourceview ~x86 ~amd64
 x11-libs/libcompizconfig
 x11-libs/libcompizconfig **
+=x11-libs/libdrm-2.4.33 ~x86 ~amd64
+x11-libs/libdrm ~x86 ~amd64
 x11-libs/libFS ~x86 ~amd64
 x11-libs/libgksu ~x86 ~amd64
 x11-libs/libICE ~x86 ~amd64
@@ -1138,7 +1150,6 @@ x11-libs/qscintilla ~x86 ~amd64
 x11-libs/qt-assistant ~x86 ~amd64
 x11-libs/qt-multimedia ~x86 ~amd64
 x11-libs/qt ~x86 ~amd64
-x11-libs/vte ~x86 ~amd64
 x11-libs/wxGTK ~x86 ~amd64
 x11-libs/xtrans ~x86 ~amd64
 x11-misc/alacarte ~x86 ~amd64
@@ -1178,6 +1189,7 @@ x11-plugins/gai-pager ~x86 ~amd64
 x11-proto/bigreqsproto ~x86 ~amd64
 x11-proto/dri2proto ~x86 ~amd64
 x11-proto/fixesproto ~x86 ~amd64
+=x11-proto/glproto-1.4.16 ~amd64
 x11-proto/inputproot ~x86 ~amd64
 x11-proto/inputproto ~x86 ~amd64
 x11-proto/libXfont ~x86 ~amd64
@@ -1221,52 +1233,7 @@ x11-wm/emerald
 x11-wm/fluxbox ~x86 ~amd64
 x11-wm/metacity ~x86 ~amd64
 x11-wm/twm ~x86 ~amd64
-net-analyzer/pchar ~amd64
->=net-analyzer/tcptrack-1.4.2 ~amd64
-sys-boot/unetbootin ~x86 ~amd64
-sys-apps/sysvinit ~x86 ~amd64
-#required by virtual/jdk-1.7.0, required by virtual/jre-1.7.0, required by @selected, required by @world (argument)
-=dev-java/icedtea-bin-7.2.0-r2 ~amd64
-#required by x11-libs/qt-gui-4.8.0-r2, required by kde-base/katepart-4.8.0, required by kde-base/kdelibs-4.8.0-r1, required by kde-base/khelpcenter-4.8.0
-=app-admin/eselect-qtgraphicssystem-1.1.1 ~amd64
-#required by net-fs/samba-3.6.3[client], required by @selected, required by @world (argument)
-=net-fs/cifs-utils-5.1 ~amd64
-#required by kde-base/nepomuk-4.8.0, required by kde-base/kdelibs-4.8.0-r1[semantic-desktop], required by kde-base/katepart-4.8.0
-=app-misc/strigi-0.7.7 **
-#required by kde-base/kdelibs-4.8.0-r1, required by kde-base/khelpcenter-4.8.0
-=kde-base/katepart-4.8.0 ~amd64
-#required by net-fs/nfs-utils-1.2.5[nfsv4,kerberos], required by @selected, required by @world (argument)
-=net-libs/libgssglue-0.3 ~amd64
 
-dev-libs/nettle ~x86 ~amd64 
-=dev-python/py-1.4.3 -test
-=x11-proto/glproto-1.4.16 ~amd64
-=dev-libs/libverto-0.2.4 ~amd64
-=kde-base/nepomuk-core-4.9.0 ~amd64
-=media-libs/webrtc-audio-processing-0.1 ~amd64
-=sys-block/thin-provisioning-tools-0.1.5-r1 ~amd64
-=kde-base/katepart-4.9.0 ~amd64
-=sys-libs/zlib-1.2.7 ~amd64
-=dev-lang/spidermonkey-1.8.5-r1 ~amd64
-
-=dev-libs/libev-4.11 ~amd64
-=dev-libs/gobject-introspection-common-1.32.1 ~amd64
-#required by kde-base/kdelibs-4.9.0[semantic-desktop], required by dev-vcs/subversion-1.7.5[kde], required by dev-vcs/git-1.7.8.6[subversion,perl], required by media-libs/phonon-gstreamer-9999, required by media-libs/phonon-4.6.0-r1[gstreamer]
-=dev-libs/soprano-2.8.0 ~amd64
-#required by net-firewall/shorewall-4.5.4.2, required by net-firewall/shorewall6-4.5.4.2, required by @selected, required by @world (argument)
-=net-firewall/shorewall-core-4.5.4.2 ~amd64
-#required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-2.32.0, required by x11-libs/libgksu-2.0.12-r1, required by x11-libs/gksu-2.0.2-r1, required by sys-block/gparted-0.12.0[gtk], required by @selected, required by @world (argument)
-=gnome-base/libgnome-keyring-3.2.2 ~amd64
-#required by gnome-base/gnome-keyring-3.4.1, required by gnome-base/libgnome-keyring-3.2.2
-=app-crypt/gcr-3.4.1 ~amd64
-#required by app-portage/eix-0.26.1, required by @selected, required by @world (argument)
-=app-shells/push-1.5 ~amd64
-=x11-libs/libdrm-2.4.33 ~x86 ~amd64
-x11-libs/libdrm ~x86 ~amd64
-x11-drivers/xf86-video-nouveau ~x86 ~amd64
-
-
-net-misc/ndisc6 ~x86 ~amd64
 
 #sys-power/upower ~x86 ~amd64
 #=sys-apps/hwids-20120730 ~amd64
@@ -2357,12 +2324,30 @@ net-misc/ndisc6 ~x86 ~amd64
 #media-libs/phonon-gstreamer ** ~* * ~x86 ~amd64    
 #x11-libs/qt-phonon ~x86 ~amd64
 #dev-qt/qtxmlpatterns ~x86 ~amd64 
-
 #=sys-apps/kmod-9-r3 ~amd64
+#media-libs/libcaca ~x86 ~amd64
+#media-video/vlc ~x86 ~amd64
+#net-firewall/shorewall6-lite ~x86 ~amd64
+#net-firewall/shorewall6 ~x86 ~amd64
+#net-firewall/shorewall-common ~x86 ~amd64
+#net-firewall/shorewall-lite ~x86 ~amd64
+#net-firewall/shorewall-perl ~x86 ~amd64
+#net-firewall/shorewall-shell ~x86 ~amd64
+#net-firewall/shorewall ~x86 ~amd64 
+#required by net-firewall/shorewall-4.5.4.2, required by net-firewall/shorewall6-4.5.4.2, required by @selected, required by @world (argument)
+#=net-firewall/shorewall-core-4.5.4.2 ~amd64 
+#app-emulation/kqemu ~x86 ~amd64
+#app-emulation/qemu-softmmu ~x86 ~amd64
+#app-emulation/qemu-user ~x86 ~amd64
+#app-emulation/qemu ~x86 ~amd64 
+#dev-dotnet/vte-sharp ~x86 ~amd64
+#x11-libs/vte ~x86 ~amd64 
 
 =media-libs/libdvdcss-1.2.13-r1 ~amd64
 =dev-libs/gobject-introspection-common-1.36.0 ~amd64  
+net-wireless/aircrack-ng ~x86 ~amd64
 =dev-python/python-exec-2.0-r1 ~amd64
-=media-libs/libogg-1.3.1 ~amd64 
-#media-libs/libcaca ~x86 ~amd64
-#media-video/vlc ~x86 ~amd64
+=media-libs/libogg-1.3.1 ~amd64  
+=net-wireless/lorcon-0.0_p20130212 ~amd64
+
+
