@@ -660,7 +660,6 @@ media-libs/jpeg ~x86 ~amd64
 media-libs/lcms ~x86 ~amd64
 media-libs/libafterimage ~x86 ~amd64
 media-libs/libass ~x86 ~amd64
-media-libs/libcaca ~x86 ~amd64
 media-libs/libcaptury ~x86 ~amd64
 media-libs/libdvbpsi ~x86 ~amd64
 media-libs/libdvdnav ~x86 ~amd64
@@ -754,7 +753,6 @@ media-video/realplayer ~x86 ~amd64
 media-video/smplayer ~x86 ~amd64
 media-video/subtitleripper ~x86 ~amd64
 media-video/transcode ~x86 ~amd64
-media-video/vlc ~x86 ~amd64
 media-video/x264-encoder ~x86 ~amd64
 media-video/xine-ui ~x86 ~amd64
 media-video/xvid4conf ~x86 ~amd64
@@ -2366,3 +2364,5 @@ net-misc/ndisc6 ~x86 ~amd64
 =dev-libs/gobject-introspection-common-1.36.0 ~amd64  
 =dev-python/python-exec-2.0-r1 ~amd64
 =media-libs/libogg-1.3.1 ~amd64 
+#media-libs/libcaca ~x86 ~amd64
+#media-video/vlc ~x86 ~amd64

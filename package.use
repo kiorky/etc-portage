@@ -229,7 +229,7 @@ net-analyzer/snor mysql ssl prelude  flexresp
 net-analyzer/snort dynamicplugin flexresp2 linux-smp-stats mysql perfprofiling prelude -react sguil snortsam timestats -flexresp* -inline -odbc postgres -selinux
 net-dns/avahi bookmarks dbus gdbm gtk howl-compat -mdnsresponder-compat -mono python -autoipd -doc qt3 qt4 -test
 net-firewall/iptables  ipv6  -extensions -imq -l7filter
-net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog winbind
+net-fs/samba cups pam python readline acl -async -automount -caps -doc -examples -fam -kerberos ldap -oav quotas -selinux -swat syslog winbind caps
 net-ftp/pure-ftpd mysql pam ssl vchroot  caps
 net-ftp/vsftpd  pam ssl tcpd caps logrotate
 net-im/bitlbee gnutls ipv6 jabber msn  -nss oscar ssl yahoo -debug -xinetd
@@ -504,7 +504,6 @@ media-gfx/digikam gphoto2 addressbook geolocation
 kde-base/marble handbook python designer-plugin gps  plasma tes
 net-fs/samba-server acl cups fam ldap ads aio avahi caps cluster -debug doc examples quota  swat syslog winbind zeroconf
 net-fs/samba-libs cups ldap netapi pam smbclient addns ads aio caps cluster -debug examples ldb  smbsharemodes syslog tools winbind
-net-fs/samba-client  cups ldap -ads -aio -avahi -caps -cluster -debug -minimal - -syslog -winbind -zeroconf
 net-fs/samba-client  cups ldap ads aio avahi caps cluster -debug -minimal  syslog winbind zeroconf
 net-misc/curl ipv6 kerberos ldap ares gnutls idn libssh2 nss openssl
 www-servers/nginx ipv6 pcre perl ssl zlib addition -aio -debug fastcgi flv imap pop random-index realip securelink smtp -static-gzip status sub webdav
@@ -566,3 +565,4 @@ net-fs/cifs-utils acl caps caps-ng ads creds
 
 >=sys-libs/talloc-2.1.0 python
 
+net-misc/iputils ipv6 ssl -SECURITY_HAZARD caps -doc gnutls idn 

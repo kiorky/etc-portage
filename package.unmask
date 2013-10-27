@@ -574,7 +574,6 @@ dev-python/wxpython
 dev-python/wxpython-docs
 dev-python/yolk
 dev-python/yolk-portage
-dev-scheme/guile
 dev-scheme/slib
 dev-util/anjuta
 dev-util/argouml
@@ -710,7 +709,6 @@ media-libs/glitz
 media-libs/ilmbase
 media-libs/lcms
 media-libs/libafterimage
-media-libs/libcaca
 media-libs/libdvbpsi
 media-libs/libdvdnav
 media-libs/libdvdread
@@ -2130,3 +2128,5 @@ net-misc/ndisc6
 #dev-qt/qttest
 #dev-qt/qtwebkit
 #dev-qt/qtxmlpatterns 
+#dev-scheme/guile
+#media-libs/libcaca
